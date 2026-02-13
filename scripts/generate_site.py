@@ -401,6 +401,7 @@ def generate_html(library):
 
 <div class="header">
   <h1>🎬 Seedance Prompt Library</h1>
+  <p style="margin-bottom: 6px;">Created by <a href="https://github.com/yangyuwen-bri" style="color: #e94560; text-decoration: none; font-weight: 600;">@yangyuwen-bri</a></p>
   <p>AI video prompt examples with real results, from Twitter/X</p>
   <div class="stats">
     <div class="stat">
@@ -556,6 +557,24 @@ def generate_site():
         library = json.load(f)
 
     print(f"📦 加载 {len(library['prompts'])} 条 prompt")
+
+    # 加载黑名单
+    blacklist_file = os.path.join(BASE_DIR, 'data', 'blacklist.txt')
+    blacklist = set()
+    if os.path.exists(blacklist_file):
+        with open(blacklist_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                url = line.strip()
+                if url and not url.startswith('#'):
+                    blacklist.add(url)
+
+    # 过滤黑名单
+    original_count = len(library['prompts'])
+    library['prompts'] = [p for p in library['prompts'] if p.get('tweet_url') not in blacklist]
+    filtered_count = len(library['prompts'])
+    
+    if original_count != filtered_count:
+        print(f"🚫 过滤黑名单: {original_count - filtered_count} 条 (剩余 {filtered_count} 条)")
 
     generate_readme(library)
     generate_html(library)

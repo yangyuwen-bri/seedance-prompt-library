@@ -157,10 +157,27 @@ def extract_prompts(input_file=None):
     print(f"📊 总推文数: {len(tweets)}")
 
     results = []
-    stats = {'grok': 0, 'news': 0, 'no_video': 0, 'no_prompt': 0}
+    stats = {'grok': 0, 'news': 0, 'no_video': 0, 'no_prompt': 0, 'blacklisted': 0}
+
+    # 加载黑名单
+    blacklist_file = os.path.join(BASE_DIR, 'data', 'blacklist.txt')
+    blacklist = set()
+    if os.path.exists(blacklist_file):
+        with open(blacklist_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                url = line.strip()
+                if url and not url.startswith('#'):
+                    blacklist.add(url)
+        print(f"🚫 加载黑名单: {len(blacklist)} 条")
 
     for tweet in tweets:
         text = tweet.get('text', '')
+        url = tweet.get('url', '') # Use 'url' field for consistency with blacklist
+
+        # 过滤黑名单
+        if url and url in blacklist:
+            stats['blacklisted'] += 1
+            continue
 
         if is_grok_response(tweet):
             stats['grok'] += 1

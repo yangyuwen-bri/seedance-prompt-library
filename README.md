@@ -3,7 +3,7 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-168-blue)]()
+[![Prompts](https://img.shields.io/badge/prompts-167-blue)]()
 [![Last Updated](https://img.shields.io/badge/updated-2026-02-13-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)
@@ -12,8 +12,8 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **168** |
-| Languages | en: 120, zh: 42, es: 5, ja: 1 |
+| Total Prompts | **167** |
+| Languages | en: 119, zh: 42, es: 5, ja: 1 |
 | Last Updated | 2026-02-13 |
 
 ## 🏷️ Categories
@@ -23,7 +23,7 @@
 | 🎬 电影/影视 | 52 |
 | 🎨 艺术/创意 | 36 |
 | 😂 搞笑/Meme | 35 |
-| 💡 创意/实验 | 33 |
+| 💡 创意/实验 | 32 |
 | 🎌 动漫 | 20 |
 | 📺 广告/商业 | 18 |
 | 🌍 写实/纪实 | 16 |
@@ -110,18 +110,7 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ---
 
-### #8 ❤️ 2797 | 💡 创意/实验
-> 我想创作一个衍生作品。
-
-```
-I would like to create a derivative work of the
-```
-
-[View Tweet →](https://x.com/crystalsssup/status/2021149326290956353)
-
----
-
-### #9 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
+### #8 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
 > 泰勒·德顿向咒术回战的角色解释搏击俱乐部的规则，真人风格。
 
 ```
@@ -132,7 +121,7 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 
 ---
 
-### #10 ❤️ 2436 | 🎌 动漫
+### #9 ❤️ 2436 | 🎌 动漫
 > 路飞和悟空在阳光号上进行一场史诗般的战斗。
 
 ```
@@ -140,6 +129,17 @@ Luffy and Goku having an epic fight scene on the sunny.
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2021611717751390208/img/GPvQ-J9m3e9r4dbi.jpg)](https://x.com/markgadala/status/2021611931480609139)
+
+---
+
+### #10 ❤️ 1805 | 🎬 电影/影视
+> SWAT 警官全副武装，戴着防毒面具和头盔，用突击步枪直接指向镜头。
+
+```
+[Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity:
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2021509298778701824/img/nD6yOxS7pH7CIsHH.jpg)](https://x.com/shikoba_86/status/2021509569831170072)
 
 ---
 
