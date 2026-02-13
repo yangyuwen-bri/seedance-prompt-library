@@ -152,6 +152,7 @@ def generate_html(library):
       font-weight: 700;
       background: linear-gradient(135deg, #e94560, #ff6b6b, #ffd93d);
       -webkit-background-clip: text;
+      background-clip: text;
       -webkit-text-fill-color: transparent;
       margin-bottom: 8px;
     }}
@@ -313,6 +314,7 @@ def generate_html(library):
       margin-bottom: 12px;
       display: -webkit-box;
       -webkit-line-clamp: 4;
+      line-clamp: 4;
       -webkit-box-orient: vertical;
       overflow: hidden;
       cursor: pointer;
@@ -320,6 +322,7 @@ def generate_html(library):
 
     .card-prompt.expanded {{
       -webkit-line-clamp: unset;
+      line-clamp: unset;
     }}
 
     .card-summary {{
@@ -494,11 +497,14 @@ def generate_html(library):
   </div>
 </div>
 
-<script>
-const PROMPTS = {prompts_json};
+  <script type="application/json" id="data-prompts">
+    {prompts_json}
+  </script>
+  <script>
+    const PROMPTS = JSON.parse(document.getElementById('data-prompts').textContent);
 
-// Init
-const allTags = new Set();
+    // Init
+    const allTags = new Set();
 PROMPTS.forEach(p => (p.tags || []).forEach(t => allTags.add(t)));
 
 // Top likes
