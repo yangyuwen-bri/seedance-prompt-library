@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+thumbnails/
+*.xlsx
+node_modules/
+.DS_Store
