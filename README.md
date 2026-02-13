@@ -6,7 +6,7 @@
 [![Prompts](https://img.shields.io/badge/prompts-167-blue)]()
 [![Last Updated](https://img.shields.io/badge/updated-2026-02-13-green)]()
 
-### 👉 [Browse the Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)
+### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
 ## 📊 Stats
 
@@ -51,7 +51,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 ```
 
-[View Tweet →](https://x.com/charliebcurran/status/2022017937192956372)
+[![Video](https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg)](https://x.com/charliebcurran/status/2022017937192956372)
 
 ---
 
@@ -145,7 +145,7 @@ Luffy and Goku having an epic fight scene on the sunny.
 
 ## 🌐 Browse All Prompts
 
-Visit the **[Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)** to browse, search, and filter all prompts by category.
+Visit the **[Interactive Gallery](https://promptlib.miemieweaver.com)** to browse, search, and filter all prompts by category.
 
 ## 📥 Data Files
 

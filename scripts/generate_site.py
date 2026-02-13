@@ -36,7 +36,7 @@ def generate_readme(library):
 [![Prompts](https://img.shields.io/badge/prompts-{total}-blue)]()
 [![Last Updated](https://img.shields.io/badge/updated-{now}-green)]()
 
-### 👉 [Browse the Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)
+### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
 ## 📊 Stats
 
@@ -84,7 +84,7 @@ def generate_readme(library):
 
     readme += """## 🌐 Browse All Prompts
 
-Visit the **[Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)** to browse, search, and filter all prompts by category.
+Visit the **[Interactive Gallery](https://promptlib.miemieweaver.com)** to browse, search, and filter all prompts by category.
 
 ## 📥 Data Files
 
