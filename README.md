@@ -6,6 +6,8 @@
 [![Prompts](https://img.shields.io/badge/prompts-168-blue)]()
 [![Last Updated](https://img.shields.io/badge/updated-2026-02-13-green)]()
 
+### 👉 [Browse the Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)
+
 ## 📊 Stats
 
 | Metric | Value |

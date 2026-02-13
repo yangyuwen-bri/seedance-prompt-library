@@ -36,6 +36,8 @@ def generate_readme(library):
 [![Prompts](https://img.shields.io/badge/prompts-{total}-blue)]()
 [![Last Updated](https://img.shields.io/badge/updated-{now}-green)]()
 
+### 👉 [Browse the Interactive Gallery](https://yangyuwen-bri.github.io/seedance-prompt-library/)
+
 ## 📊 Stats
 
 | Metric | Value |
