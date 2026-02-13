@@ -18,6 +18,13 @@ ACTOR_ID = 'apidojo/tweet-scraper'
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+def to_actor_api_path(actor_id):
+    """Apify API v2 expects actor path as `username~actor-name`."""
+    if '~' in actor_id:
+        return actor_id
+    return actor_id.replace('/', '~')
+
+
 def fetch_tweets(days_back=1, max_items=4000):
     """调用 Apify API 采集推文"""
     if not APIFY_TOKEN:
@@ -46,10 +53,14 @@ def fetch_tweets(days_back=1, max_items=4000):
     print(f"   最大条数: {max_items}, 仅视频: True")
 
     # 1. 启动 Actor
-    run_url = f"https://api.apify.com/v2/acts/{ACTOR_ID}/runs?token={APIFY_TOKEN}"
+    actor_path = to_actor_api_path(ACTOR_ID)
+    run_url = f"https://api.apify.com/v2/acts/{actor_path}/runs?token={APIFY_TOKEN}"
     print("🚀 启动 Apify Actor...")
     resp = requests.post(run_url, json=actor_input, timeout=30)
-    resp.raise_for_status()
+    if not resp.ok:
+        print(f"❌ 启动 Actor 失败: HTTP {resp.status_code}")
+        print(resp.text[:500])
+        raise RuntimeError(f"启动 Apify Actor 失败: HTTP {resp.status_code}")
     run_data = resp.json()['data']
     run_id = run_data['id']
     dataset_id = run_data['defaultDatasetId']
@@ -63,6 +74,8 @@ def fetch_tweets(days_back=1, max_items=4000):
     while True:
         time.sleep(10)
         status_resp = requests.get(status_url, timeout=30)
+        if not status_resp.ok:
+            raise RuntimeError(f"查询 Actor 运行状态失败: HTTP {status_resp.status_code}")
         status = status_resp.json()['data']['status']
         print(f"   状态: {status}")
         if status in ('SUCCEEDED', 'FAILED', 'ABORTED', 'TIMED-OUT'):
@@ -76,7 +89,8 @@ def fetch_tweets(days_back=1, max_items=4000):
     data_url = f"https://api.apify.com/v2/datasets/{dataset_id}/items?token={APIFY_TOKEN}&format=json"
     print("📥 下载数据...")
     data_resp = requests.get(data_url, timeout=120)
-    data_resp.raise_for_status()
+    if not data_resp.ok:
+        raise RuntimeError(f"下载 Dataset 数据失败: HTTP {data_resp.status_code}")
     raw_tweets = data_resp.json()
 
     print(f"   获取到 {len(raw_tweets)} 条推文")

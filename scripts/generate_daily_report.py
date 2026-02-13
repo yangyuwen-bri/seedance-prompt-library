@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
 为 OpenClaw 生成每日汇报内容 (Markdown)。
-由 OpenClaw Agent 调用，输出文本直接发到飞书群。
+可输出到 stdout 或文件，便于 cron 任务推送到聊天群。
 """
 
 import os
 import json
 from datetime import datetime, timedelta
 import email.utils
+import argparse
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(BASE_DIR, 'data', 'prompt_library.json')
@@ -21,10 +22,9 @@ def parse_twitter_date(date_str):
     except:
         return datetime.min.replace(tzinfo=None)
 
-def generate_report():
+def build_report_text():
     if not os.path.exists(DATA_FILE):
-        print("❌ 错误：找不到数据文件 data/prompt_library.json")
-        return
+        raise FileNotFoundError("找不到数据文件 data/prompt_library.json")
 
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -84,7 +84,21 @@ def generate_report():
     report += f"🌐 **完整库**：{GITHUB_PAGE}\n"
     report += f"💻 **GitHub**：{GITHUB_REPO}\n"
     
+    return report
+
+
+def generate_report(output_path=None):
+    report = build_report_text()
+    if output_path:
+        output_dir = os.path.dirname(output_path)
+        if output_dir:
+            os.makedirs(output_dir, exist_ok=True)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(report)
     print(report)
 
 if __name__ == '__main__':
-    generate_report()
+    parser = argparse.ArgumentParser(description='Generate Seedance daily report')
+    parser.add_argument('--output', help='Write report markdown to a file path')
+    args = parser.parse_args()
+    generate_report(output_path=args.output)
