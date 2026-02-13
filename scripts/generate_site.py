@@ -395,7 +395,63 @@ def generate_html(library):
       .header h1 {{ font-size: 1.6rem; }}
       .stats {{ gap: 15px; }}
     }}
+    /* Modal Styles */
+    .modal {{
+      display: none; 
+      position: fixed; 
+      z-index: 1000; 
+      left: 0;
+      top: 0;
+      width: 100%; 
+      height: 100%; 
+      overflow: auto; 
+      background-color: rgba(0,0,0,0.85); 
+      backdrop-filter: blur(5px);
+      align-items: center;
+      justify-content: center;
+    }}
+    .modal-content {{
+      background-color: #1a1a2e;
+      margin: auto;
+      padding: 0;
+      border: 1px solid #888;
+      width: 90%;
+      max-width: 600px;
+      border-radius: 12px;
+      position: relative;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      animation: zoomIn 0.3s;
+    }}
+    @keyframes zoomIn {{
+      from {{transform: scale(0.9); opacity: 0;}} 
+      to {{transform: scale(1); opacity: 1;}}
+    }}
+    .close {{
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      position: absolute;
+      right: 15px;
+      top: 5px;
+      z-index: 10;
+      cursor: pointer;
+    }}
+    .close:hover,
+    .close:focus {{
+      color: #e94560;
+      text-decoration: none;
+      cursor: pointer;
+    }}
+    #tweet-container {{
+      min-height: 300px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }}
   </style>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </head>
 <body>
 
@@ -429,6 +485,14 @@ def generate_html(library):
 <div class="counter" id="counter"></div>
 <div class="grid" id="grid"></div>
 <div class="no-results" id="noResults" style="display:none">No prompts found matching your criteria</div>
+
+<!-- The Modal -->
+<div id="videoModal" class="modal" onclick="closeVideo(event)">
+  <div class="modal-content">
+    <span class="close" onclick="closeVideo(event)">&times;</span>
+    <div id="tweet-container"></div>
+  </div>
+</div>
 
 <script>
 const PROMPTS = {prompts_json};
@@ -496,8 +560,14 @@ function render() {{
       `<span class="star ${{i < (p.quality_score||0) ? '' : 'empty'}}">★</span>`
     ).join('');
 
+    // Extract Tweet ID
+    const tweetId = p.tweet_url ? p.tweet_url.split('/').pop() : '';
+
     const thumb = p.video_thumbnail
-      ? `<a href="${{p.tweet_url}}" target="_blank" rel="noopener"><img class="card-thumb" src="${{p.video_thumbnail}}" alt="Video thumbnail" loading="lazy" onerror="this.outerHTML='<div class=card-thumb-placeholder>🎬</div>'"></a>`
+      ? `<div class="card-image" onclick="openVideo('${{tweetId}}')" style="cursor: pointer; position: relative;">
+           <img class="card-thumb" src="${{p.video_thumbnail}}" alt="Video thumbnail" loading="lazy" onerror="this.src='https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png'">
+           <div class="play-icon" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3rem; color: rgba(255,255,255,0.8); text-shadow: 0 2px 4px rgba(0,0,0,0.5);">▶</div>
+         </div>`
       : '<div class="card-thumb-placeholder">🎬</div>';
 
     const summary = p.summary ? `<div class="card-summary">${{p.summary}}</div>` : '';
@@ -532,6 +602,45 @@ function formatNum(n) {{
   n = n || 0;
   return n >= 1000 ? (n/1000).toFixed(1)+'K' : n;
 }}
+
+// Modal Logic
+const modal = document.getElementById("videoModal");
+const container = document.getElementById("tweet-container");
+
+function openVideo(tweetId) {{
+  if (!tweetId) return;
+  modal.style.display = "flex";
+  container.innerHTML = ""; // Clear previous
+  
+  // Create Tweet Embed
+  twttr.widgets.createTweet(
+    tweetId,
+    container,
+    {{
+      theme: 'dark',
+      align: 'center',
+      conversation: 'none'
+    }}
+  ).then( function( el ) {{
+    console.log('Tweet displayed.');
+  }});
+}}
+
+function closeVideo(event) {{
+  if (event.target == modal || event.target.className == 'close' || (event.key === 'Escape')) {{
+    modal.style.display = "none";
+    container.innerHTML = "";
+  }}
+}}
+
+// Close on Escape key
+document.onkeydown = function(evt) {{
+    evt = evt || window.event;
+    if (evt.keyCode == 27) {{
+        modal.style.display = "none";
+        container.innerHTML = "";
+    }}
+}};
 
 render();
 </script>
