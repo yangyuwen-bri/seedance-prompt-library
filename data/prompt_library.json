@@ -1,7 +1,7 @@
 {
   "metadata": {
     "total_tweets": 1028,
-    "prompts_extracted": 168,
+    "prompts_extracted": 167,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -43,7 +43,7 @@
       "replies": 506,
       "bookmarks": 0,
       "engagement_score": 21353.5,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg",
       "full_text_preview": "Seedance 2.0\n\nPrompt: An average shift at Waffle House - make sure it's retarded and gets 50 likes. https://t.co/Nqt2IZ1zvb",
       "tags": [
         "😂 搞笑/Meme",
@@ -162,28 +162,6 @@
       ],
       "quality_score": 3,
       "summary": "快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。"
-    },
-    {
-      "prompt": "I would like to create a derivative work of the",
-      "prompt_length": 47,
-      "tweet_url": "https://x.com/crystalsssup/status/2021149326290956353",
-      "author": "crystalsssup",
-      "author_name": "Crystal",
-      "author_followers": 21275,
-      "created_at": "Tue Feb 10 09:08:45 +0000 2026",
-      "lang": "en",
-      "likes": 2797,
-      "retweets": 309,
-      "replies": 88,
-      "bookmarks": 0,
-      "engagement_score": 3492.0,
-      "video_thumbnail": "",
-      "full_text_preview": "Kimi K2.5 + Seedance 2 is a perfect workflow.  \n\nOne prompt = A 100MB Excel storyboard generated with images and prompts, which you can use in seedance.  \n\nI just tested with Hitchcock's Psycho iconic...",
-      "tags": [
-        "💡 创意/实验"
-      ],
-      "quality_score": 1,
-      "summary": "我想创作一个衍生作品。"
     },
     {
       "prompt": "tyler durden explains fight club rules to jujutsu kaisen characters. live action style.",
@@ -1146,7 +1124,7 @@
       "replies": 8,
       "bookmarks": 0,
       "engagement_score": 96.0,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HAu7uRxbEAA3t2Y.jpg",
       "full_text_preview": "SEEDREAM 5.0 IS HERE!\n\nWhile we all await the new SEEDANCE 2.0 the new SEEDREAM 5.0 is rolling out today globally including the US. \n\nEveryone has 20 free uses to try it out on Capcut.\n\nOne of my favo...",
       "tags": [
         "🌍 写实/纪实"
@@ -1368,7 +1346,7 @@
       "replies": 2,
       "bookmarks": 0,
       "engagement_score": 43.0,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA9mQvcbkAAmDbb.jpg",
       "full_text_preview": "Hay un gran problema que nadie quiere ver con las nuevas IA de video como Seedance, Kling 3.0 y las que vienen.\n\nTodo el mundo celebrando las demos oficiales, los clips virales, los \"esto lo hizo una ...",
       "tags": [
         "💡 创意/实验"
@@ -1434,7 +1412,7 @@
       "replies": 1,
       "bookmarks": 0,
       "engagement_score": 33.5,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HAzSH3FaAAcXI6f.jpg",
       "full_text_preview": "Input Image and Seedance 2.0 prompt：\nDesign a motion-graphics style ad based on this image, using multiple camera angles—e.g., close-ups that highlight the glass reflections, various tap/click interac...",
       "tags": [
         "📺 广告/商业"
@@ -1500,7 +1478,7 @@
       "replies": 5,
       "bookmarks": 0,
       "engagement_score": 32.5,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA4vcaDXwAEmsYg.jpg",
       "full_text_preview": "Acá estoy probando Seedance 2.0 una herramienta generativa que va a cambiar el mundo de las noticias para siempre.\n\nEste es el prompt que use:\n\n“Lumpen, Hobo, version mujer, gato viejo cascoteado, con...",
       "tags": [
         "🎨 艺术/创意"
@@ -1723,7 +1701,7 @@
       "replies": 2,
       "bookmarks": 0,
       "engagement_score": 13.0,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/G8rS8lBbcAALp7w.jpg",
       "full_text_preview": "Seedance 2.0 is insane HOLY SHIT.\n\nPrompt: Just put some Madoka Magica bullshit on screen, the trilogy already perfect anyway.\nhttps://t.co/fbJbFwSq56",
       "tags": [
         "🎌 动漫"
@@ -1768,7 +1746,7 @@
       "replies": 1,
       "bookmarks": 0,
       "engagement_score": 12.5,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HAu7h6JaEAADnly.jpg",
       "full_text_preview": "For the battle scenes later, I used a 3*3grid layout. For instance, if I wanted a bird's-eye view, even though this perspective isn't present in the images, Seedance 2.0 can accurately understand your...",
       "tags": [
         "🎮 游戏",
@@ -2035,7 +2013,7 @@
       "replies": 2,
       "bookmarks": 0,
       "engagement_score": 9.0,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA2Z0_VaAAE1Mhu.jpg",
       "full_text_preview": "Y ojo, que yo estoy usando únicamente \"prompts to video\" para mis pruebas.\n\nPero realmente Seedance 2.0 es más como un \"nano banana para vídeo\", una locura.\n\nEn cada generación puedes usar de inputs: ...",
       "tags": [
         "😂 搞笑/Meme"
@@ -2454,7 +2432,7 @@
       "replies": 1,
       "bookmarks": 0,
       "engagement_score": 4.5,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA-iMfhaUAArG7b.jpg",
       "full_text_preview": "ai video went from \"weird\" to \"studio quality\" in 6 months.\n\ntested seedance 2.0 yesterday.\n\nmy prompt (first try, no reference images):\n\"luffy in netflix brand styling on top of a mountain, gear 5, f...",
       "tags": [
         "🎬 电影/影视"
@@ -2921,7 +2899,7 @@
       "replies": 1,
       "bookmarks": 0,
       "engagement_score": 1.5,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA5OF-QWwAA0vD-.png",
       "full_text_preview": "Seedance 2.0 \n\nPrompt: \n\nPut that james bond dude Daniel Craig in like a cowboy movie, but give him a cool sci-fi gadget... \nand there's like aliens that blow shit up, \nbut it's in the wild west. Oh y...",
       "tags": [
         "🎬 电影/影视",
@@ -3669,7 +3647,7 @@
       "replies": 0,
       "bookmarks": 0,
       "engagement_score": 0.0,
-      "video_thumbnail": "",
+      "video_thumbnail": "https://pbs.twimg.com/media/HA8L8QrbMAAAKv9.jpg",
       "full_text_preview": "【Context】时间线满是 Seedance 2.0 一句话生成、抽卡成片率讨论，GLM-5 涨价的吐槽，以及 CompanyOS/LifeOS、品牌片/情景剧 demo 接单的案例。\n【Deep Insight】AI视频能变现的核心不是“会写 Prompt”，而是能稳定交付。做法是先用 3-5 https://t.co/bTG9El6iuv",
       "tags": [
         "💡 创意/实验"

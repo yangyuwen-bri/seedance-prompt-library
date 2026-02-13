@@ -39,12 +39,20 @@ def has_video(tweet):
 def get_video_thumbnail(tweet):
     """获取视频缩略图 URL"""
     media = tweet.get('media', [])
+    # First pass: look for explicit video thumbnails
     if isinstance(media, list):
         for m in media:
             if isinstance(m, str) and ('video_thumb' in m or 'amplify_video' in m or 'ext_tw_video' in m):
                 return m
             elif isinstance(m, dict):
                 return m.get('thumbnail', m.get('url', ''))
+    
+    # Second pass: fallback to any image (Twitter often uses standard media URLs for video posters)
+    if isinstance(media, list):
+        for m in media:
+            if isinstance(m, str) and m.startswith('http'):
+                return m
+    
     return ''
 
 
