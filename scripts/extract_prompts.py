@@ -178,6 +178,20 @@ def extract_prompts(input_file=None):
                     blacklist.add(url)
         print(f"🚫 加载黑名单: {len(blacklist)} 条")
 
+    # Load existing library to preserve classifications
+    existing_map = {}
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, 'r', encoding='utf-8') as f:
+                old_lib = json.load(f)
+                for p in old_lib.get('prompts', []):
+                    norm = normalize_prompt(p.get('prompt', ''))
+                    if norm:
+                        existing_map[norm] = p
+            print(f"📥 加载已有分类数据: {len(existing_map)} 条")
+        except Exception as e:
+            print(f"⚠️ 读取旧数据失败: {e}")
+
     for tweet in tweets:
         text = tweet.get('text', '')
         url = tweet.get('url', '') # Use 'url' field for consistency with blacklist
@@ -207,6 +221,10 @@ def extract_prompts(input_file=None):
         author = tweet.get('author', {})
         engagement = get_engagement(tweet)
 
+        # 检查是否已有分类数据
+        norm_prompt = normalize_prompt(prompt)
+        existing_data = existing_map.get(norm_prompt, {})
+        
         results.append({
             'prompt': prompt,
             'prompt_length': len(prompt),
@@ -223,10 +241,10 @@ def extract_prompts(input_file=None):
             'engagement_score': engagement,
             'video_thumbnail': get_video_thumbnail(tweet),
             'full_text_preview': (text[:200] + '...') if len(text) > 200 else text,
-            # 以下字段由 classify_prompts.py 填充
-            'tags': [],
-            'quality_score': 0,
-            'summary': '',
+            # 保留已有分类，或初始化为空
+            'tags': existing_data.get('tags', []),
+            'quality_score': existing_data.get('quality_score', 0),
+            'summary': existing_data.get('summary', ''),
         })
 
     print(f"  排除 Grok 回复: {stats['grok']}")
@@ -243,8 +261,14 @@ def extract_prompts(input_file=None):
     deduplicated = []
     dup_count = 0
     for group in groups.values():
+        # 按互动量降序排序，取最高那条
         group.sort(key=lambda x: x['engagement_score'], reverse=True)
-        deduplicated.append(group[0])
+        best_entry = group[0]
+        
+        # 再次确保分类数据完整（如果同组中有其他条目有分类数据，也可以考虑合并，这里简单取 best_entry 的）
+        # 因为 best_entry 的 tags 来自 existing_map (基于 prompt文本)，所以理论上已经有了。
+        
+        deduplicated.append(best_entry)
         dup_count += len(group) - 1
 
     deduplicated.sort(key=lambda x: x['engagement_score'], reverse=True)
