@@ -5,3 +5,5 @@ thumbnails/
 *.xlsx
 node_modules/
 .DS_Store
+logs/
+reports/

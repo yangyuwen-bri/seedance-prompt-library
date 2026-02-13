@@ -12,8 +12,8 @@ import argparse
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(BASE_DIR, 'data', 'prompt_library.json')
-GITHUB_PAGE = "https://yangyuwen-bri.github.io/seedance-prompt-library/"
-GITHUB_REPO = "https://github.com/yangyuwen-bri/seedance-prompt-library"
+DATA_FILE_REL = os.path.relpath(DATA_FILE, BASE_DIR)
+LIBRARY_PAGE = "https://promptlib.miemieweaver.com"
 
 def parse_twitter_date(date_str):
     """解析 Twitter 时间格式: Tue Feb 10 22:25:40 +0000 2026"""
@@ -81,8 +81,8 @@ def build_report_text():
         report += f"   {tags} | ❤️ {likes_str} | [查看]({url})\n\n"
 
     report += "---\n"
-    report += f"🌐 **完整库**：{GITHUB_PAGE}\n"
-    report += f"💻 **GitHub**：{GITHUB_REPO}\n"
+    report += f"🌐 **完整库**：{LIBRARY_PAGE}\n"
+    report += f"💾 **本地数据库路径**：`{DATA_FILE_REL}`\n"
     
     return report
 
