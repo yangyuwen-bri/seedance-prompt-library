@@ -33,7 +33,8 @@ def fetch_tweets(days_back=1, max_items=4000):
 
     today = datetime.utcnow()
     since_date = (today - timedelta(days=days_back)).strftime('%Y-%m-%d')
-    until_date = today.strftime('%Y-%m-%d')
+    # until_date 设为明天，确保包含今天的所有推文
+    until_date = (today + timedelta(days=1)).strftime('%Y-%m-%d')
 
     actor_input = {
         "searchTerms": [
