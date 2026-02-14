@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1104,
-    "prompts_extracted": 185,
+    "total_tweets": 1190,
+    "prompts_extracted": 209,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -269,9 +269,11 @@
       "engagement_score": 1807.5,
       "video_thumbnail": "https://pbs.twimg.com/media/HBE73VRbEAAsOLh.jpg",
       "full_text_preview": "Seedance 2.0\n\nPrompt: Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes. https://t.co/09yPdo3Tjy",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用一个弱智的meme总结AI讨论，目标是获得50个赞。"
     },
     {
       "prompt": "She walks into a Pirate Tavern, puts down her Flamethrower and raises an ale mug",
@@ -761,9 +763,11 @@
       "engagement_score": 245.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022349206342840320/img/H2zOyKsJsO2oIcN6.jpg",
       "full_text_preview": "Hollywood is over.\n\nSeedance 2.0 can one-shot generate a video on this prompt: “Tom Cruise as a talent super-agent with huge hands dancing to a Ludacris song.”\n\nLooks so real. https://t.co/xVG39zyX1G",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "汤姆克鲁斯扮演一个手很大的天才经纪人，跳着Ludacris的歌。"
     },
     {
       "prompt": "use Seedance 2.0",
@@ -916,9 +920,11 @@
       "engagement_score": 175.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022422747394248705/img/JaPnuzwdGOhsXYXQ.jpg",
       "full_text_preview": "Ummm. WHAT?\n\nSeedance prompt: \"Generate whatever sh*t you want\"\n\nGeneration: https://t.co/dQbPOQ7Qga",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "生成任何垃圾内容。"
     },
     {
       "prompt": "【风格】\n印度泰卢固语动作大片(Tollywood Action Blockbuster)，极致夸张的物理特效(Anti-gravity",
@@ -965,6 +971,28 @@
       ],
       "quality_score": 2,
       "summary": "角色1和角色2在世界武术锦标赛中战斗。"
+    },
+    {
+      "prompt": "Epic moments of the Best Player in the history of Football, make sure it reaches all the Messilovers to make them cry.",
+      "prompt_length": 118,
+      "tweet_url": "https://x.com/arielipillo/status/2022490891131539764",
+      "author": "arielipillo",
+      "author_name": "Arielipillo",
+      "author_followers": 68622,
+      "created_at": "Sat Feb 14 01:59:39 +0000 2026",
+      "lang": "en",
+      "likes": 129,
+      "retweets": 12,
+      "replies": 3,
+      "bookmarks": 6,
+      "engagement_score": 160.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022490831605698560/img/9NXpRkQCimn-F899.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Epic moments of the Best Player in the history of Football, make sure it reaches all the Messilovers to make them cry. https://t.co/06gh3hQGg1",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "足球史上最佳球员的史诗时刻，让梅西的粉丝们感动哭泣。"
     },
     {
       "prompt": "【风格】现代玄幻动作片，好莱坞大片特效，高对比度冷暖光，4K超清，慢动作升格。 【时长】15秒",
@@ -1103,6 +1131,28 @@
       "summary": "电影级质感，时空折叠，盐湖神女觉醒为未来都市霓虹战士。"
     },
     {
+      "prompt": "The food start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.",
+      "prompt_length": 155,
+      "tweet_url": "https://x.com/Strength04_X/status/2022621706016453020",
+      "author": "Strength04_X",
+      "author_name": "𝐌",
+      "author_followers": 11029,
+      "created_at": "Sat Feb 14 10:39:27 +0000 2026",
+      "lang": "en",
+      "likes": 62,
+      "retweets": 3,
+      "replies": 36,
+      "bookmarks": 17,
+      "engagement_score": 103.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2022621624848257029/pu/img/0e5Gpc0H6aRnIVdA.jpg",
+      "full_text_preview": "Nano banana Pro + Seedance AI \n\nMotion Prompt: The food start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effect...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "食物开始旋转，食材轻柔而精确地分离，保持对齐和比例，运动平滑，没有额外的效果。"
+    },
+    {
       "prompt": "a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic angles",
       "prompt_length": 106,
       "tweet_url": "https://x.com/Dheepanratnam/status/2021943401198104904",
@@ -1193,6 +1243,28 @@
       "summary": "请求展示一张真实照片"
     },
     {
+      "prompt": "Cinematic multishot video of colossal 50-foot steam-powered walking war machines marching through WWI battlefield, opening with epic wide shot revealing multiple mechanical titans advancing through muddy no-man's-land, camera",
+      "prompt_length": 225,
+      "tweet_url": "https://x.com/DrSadek_/status/2022713621680181301",
+      "author": "DrSadek_",
+      "author_name": "DrSadek 🪶",
+      "author_followers": 10121,
+      "created_at": "Sat Feb 14 16:44:42 +0000 2026",
+      "lang": "en",
+      "likes": 59,
+      "retweets": 2,
+      "replies": 5,
+      "bookmarks": 20,
+      "engagement_score": 91.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022713463194476544/img/tq-qjDHURcJEENKo.jpg",
+      "full_text_preview": "My first Seedance 2.0 video on @dreamina_ai \n\nPrompt:\nCinematic multishot video of colossal 50-foot steam-powered walking war machines marching through WWI battlefield, opening with epic wide shot rev...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "一战战场上，50英尺高的蒸汽动力步行战争机器行进的电影级多镜头视频，以史诗般的广角镜头开始，展示多个机械巨人在泥泞中前进。"
+    },
+    {
       "prompt": "【风格】东方古典仙侠美学，唯美主义，电影级质感，流体布料模拟，发光粒子特效，梦幻光影。 【时长】15秒 【主角】绝美仙女，身着多层素白霓裳羽衣，超长飘带。 [00:00-00:05] 镜头1：史诗感大远景（Epic Wide Shot）。",
       "prompt_length": 119,
       "tweet_url": "https://x.com/johnAGI168/status/2020757470126162115",
@@ -1236,6 +1308,28 @@
       ],
       "quality_score": 3,
       "summary": "东方玄幻武侠电影级特效大片，史诗感慢动作与快剪结合"
+    },
+    {
+      "prompt": "Make the characters from Image 1 and Image 2 fight using the movements from the green-screen reference video. Setting: abandoned parking lot. Add visual effects during combat.",
+      "prompt_length": 175,
+      "tweet_url": "https://x.com/AngryTomtweets/status/2022782885036790091",
+      "author": "AngryTomtweets",
+      "author_name": "Angry Tom",
+      "author_followers": 150317,
+      "created_at": "Sat Feb 14 21:19:55 +0000 2026",
+      "lang": "en",
+      "likes": 31,
+      "retweets": 4,
+      "replies": 1,
+      "bookmarks": 22,
+      "engagement_score": 61.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022782835128700928/img/0Dqazl7ObNgPqZ1T.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Make the characters from Image 1 and Image 2 fight using the movements from the green-screen reference video. Setting: abandoned parking lot. Add visual effects during combat. ht...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "让图像1和图像2中的角色使用绿幕参考视频中的动作进行战斗，场景设置在废弃的停车场，并在战斗中添加视觉效果。"
     },
     {
       "prompt": "cinematic romantic epic film trailer, fast professional cuts. booming sci-fi romance love scene",
@@ -1437,6 +1531,28 @@
       "summary": "未完成的父与子木雕"
     },
     {
+      "prompt": "Alternative history WWI multishot battle sequence showing ground-level POV running through muddy trench as massive mechanical walker foot crashes down behind shaking the earth,",
+      "prompt_length": 176,
+      "tweet_url": "https://x.com/DrSadek_/status/2022719535527174369",
+      "author": "DrSadek_",
+      "author_name": "DrSadek 🪶",
+      "author_followers": 10121,
+      "created_at": "Sat Feb 14 17:08:12 +0000 2026",
+      "lang": "en",
+      "likes": 29,
+      "retweets": 0,
+      "replies": 7,
+      "bookmarks": 9,
+      "engagement_score": 41.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022719411266715649/img/i3rFWdqU7wdJOoNq.jpg",
+      "full_text_preview": "Another WW 1 Alternative history Seedance 2.0 video on @dreamina_ai\n\nReally incredible\n\nPrompt:\nAlternative history WWI multishot battle sequence showing ground-level POV running through muddy trench ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "一战的另类历史战斗序列，展示了在泥泞的战壕中奔跑的地面视角，巨大的机械步行者的脚落在后面，震动着大地。"
+    },
+    {
       "prompt": "【风格】梵高后印象派油画（Van Gogh Post-Impressionism），厚重颜料肌理（Heavy Impasto），标志性漩涡笔触，梦幻感，高饱和度蓝黄对比。 【时长】15秒动画 [视觉内容] 这是一个完全由厚重油彩构成的动态世界。",
       "prompt_length": 122,
       "tweet_url": "https://x.com/johnAGI168/status/2020778466405159207",
@@ -1474,9 +1590,11 @@
       "engagement_score": 40.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022306828416438272/img/4sULvIqttS4qhBbO.jpg",
       "full_text_preview": "Seedance 2.0\n\nPrompt: An average crypto investor doing minimal research and aping into random shitcoins. https://t.co/UzRrauJAFM",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "一个普通的加密货币投资者进行最少的研究，然后盲目地投入随机的垃圾币。"
     },
     {
       "prompt": "Design a motion-graphics style ad based on this image, using multiple camera angles—e.g., close-ups that highlight the glass reflections, various tap/click interaction animations, and a focus on this glossy “glass UI” design language. End",
@@ -1693,9 +1811,33 @@
       "engagement_score": 22.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022392285925617664/img/BwrBXDgKLYDEzoo6.jpg",
       "full_text_preview": "testing seedance 2 on @mitte_ai \n\nprompt: \"cats flying over istanbul\" \n\nresult 👇🏼\n\nhttps://t.co/iPznJWvzaQ https://t.co/ZhNswmMV7b",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 2,
+      "summary": "猫飞过伊斯坦布尔。"
+    },
+    {
+      "prompt": "Sum up the Bollywood Dance in the meme \"Distracted Boyfriend\" - make sure it's retarded and gets 50 likes.",
+      "prompt_length": 106,
+      "tweet_url": "https://x.com/13enZGN_temple/status/2022646748410425685",
+      "author": "13enZGN_temple",
+      "author_name": "𝕋𝔼𝕄ℙ𝕃𝔼",
+      "author_followers": 1047,
+      "created_at": "Sat Feb 14 12:18:58 +0000 2026",
+      "lang": "en",
+      "likes": 11,
+      "retweets": 2,
+      "replies": 0,
+      "bookmarks": 5,
+      "engagement_score": 21.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022646157726617609/img/3K6zYS8NLh9RTzLV.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Sum up the Bollywood Dance in the meme \"Distracted Boyfriend\" - make sure it's retarded and gets 50 likes. https://t.co/NBFGg2REpT",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用“分心男友”的meme来总结宝莱坞舞蹈，目标是获得50个赞。"
     },
     {
       "prompt": "anime action featuring Luffy on the Thousand Sunny buying $ BINDER on his MacBook, celebrating, and then feasting on a massive pile of meat with his signature stuffed-cheeks grin",
@@ -2100,6 +2242,28 @@
       "summary": "超快节奏的电影级FPV飞行，穿梭于被大自然重新占领的后世界末日摩纳哥，在地中海沿岸的悬崖之间飞行"
     },
     {
+      "prompt": "A funny sitcom scene from an American sitcom",
+      "prompt_length": 44,
+      "tweet_url": "https://x.com/markgadala/status/2022779027195392177",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 62006,
+      "created_at": "Sat Feb 14 21:04:36 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 3,
+      "engagement_score": 9.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022778771821268992/img/MA0x-n3oyERCACvB.jpg",
+      "full_text_preview": "Seedance continues to mimic American sitcoms perfectly.\n\nThe timing, the music, the camera angles, the laugh track, the terrible jokes.\n\nPrompt \"A funny sitcom scene from an American sitcom\" https://t...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "一个来自美式情景喜剧的有趣场景。"
+    },
+    {
       "prompt": "nano banana para vídeo",
       "prompt_length": 22,
       "tweet_url": "https://x.com/javilop/status/2021441477138645318",
@@ -2203,9 +2367,11 @@
       "engagement_score": 8.5,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022294301506719744/img/xNT755YSDkU6c7Qv.jpg",
       "full_text_preview": "Seedance 2 on @chatcutapp \n\nPrompt taken from the youmind prompt library:\n\nUse Seedance 2.0 to generate a video about \"Sailor moon jumping onto the bed and screaming \"Girls, we did it!\". Sailor Venus ...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 2,
+      "summary": "水兵月跳到床上尖叫。"
     },
     {
       "prompt": "Made in 4 minutes",
@@ -2228,6 +2394,50 @@
       ],
       "quality_score": 1,
       "summary": "4分钟内制作"
+    },
+    {
+      "prompt": "Generate a video: A medieval knight in full armor looking at a modern smartphone, confused face illuminated by screen glow, candlelit castle interior, cinematic lighting",
+      "prompt_length": 169,
+      "tweet_url": "https://x.com/tomatechie/status/2022491231130157397",
+      "author": "tomatechie",
+      "author_name": "Tomatech",
+      "author_followers": 8,
+      "created_at": "Sat Feb 14 02:01:00 +0000 2026",
+      "lang": "en",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 8.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022490462096089088/img/ybsfeGWmCsANHEun.jpg",
+      "full_text_preview": "I’m sharing my first Seedance 2.0 video with you, crazy...\n\nPrompt: Generate a video: A medieval knight in full armor looking at a modern smartphone, confused face illuminated by screen glow, candleli...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "一个穿着全套盔甲的中世纪骑士看着现代智能手机，困惑的脸被屏幕的光芒照亮，烛光城堡内部，电影照明。"
+    },
+    {
+      "prompt": "Movie trailer: Wes Anderson symmetry, centered composition, pastel color palette, whimsical characters, storybook production design. Quirky humor, visual harmony, nostalgic elegance. Multiple shots, fast cuts",
+      "prompt_length": 208,
+      "tweet_url": "https://x.com/airina_xyz/status/2022720243206877455",
+      "author": "airina_xyz",
+      "author_name": "AIrina (Virtual Media Net)",
+      "author_followers": 2325,
+      "created_at": "Sat Feb 14 17:11:00 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 2,
+      "engagement_score": 7.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022720178337824768/img/oL7iU0uU17tpZVvR.jpg",
+      "full_text_preview": "Seedance 2 (text to video) using @YouArtStudio\n\nPrompt: Movie trailer: Wes Anderson symmetry, centered composition, pastel color palette, whimsical characters, storybook production design. Quirky humo...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "电影预告片：韦斯·安德森的对称，居中构图，柔和的调色板，异想天开的角色，故事书般的制作设计，古怪的幽默，视觉和谐，怀旧的优雅，多个镜头。"
     },
     {
       "prompt": "UGC content for a new blue hair tint",
@@ -2318,6 +2528,28 @@
       "summary": "一部新的《碟中谍》电影的预告片，由布拉德·皮特主演"
     },
     {
+      "prompt": "a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sitcom featuring @Ars0nic 🐸",
+      "prompt_length": 104,
+      "tweet_url": "https://x.com/SgtPepeWorld/status/2022804542258315457",
+      "author": "SgtPepeWorld",
+      "author_name": "Sgt Pepe",
+      "author_followers": 2449,
+      "created_at": "Sat Feb 14 22:45:59 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 6.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022803665409441792/img/j1QTHtiLEyWWDLA6.jpg",
+      "full_text_preview": "Seedance 2.0 is Crazy 🤯\n\nPrompt: a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sitcom featuring @Ars0nic 🐸\n\nHollywood’s days are numbered! https://t.co/A4h6SAb1yx",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "Sgt. Pepe和Frens的视频，就像有史以来第一个6529 meme原生的动画情景喜剧，由@Ars0nic主演。"
+    },
+    {
       "prompt": "generate a video about  a running scene, behind is a giant monster big as a building with 100 floor is coming close, using Arcane style.",
       "prompt_length": 136,
       "tweet_url": "https://x.com/dipperdao/status/2021689147485040917",
@@ -2400,9 +2632,11 @@
       "engagement_score": 5.5,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022300426008444929/img/TTukiN2JEk11n6qC.jpg",
       "full_text_preview": "Seedance 2.0: Takeover the internet.\nPrompt: a 15-second video clip showing a hyper-realistic recreation of Bryan Cranston as Walter White (from Breaking Bad) delivering an intense, dramatic monologue...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "一个15秒的视频片段，展示了布莱恩·克兰斯顿饰演的沃尔特·怀特（来自《绝命毒师》）的超现实主义重现，他在看起来像超市的环境中发表了强烈而戏剧性的独白。"
     },
     {
       "prompt": "An average shift at Waffle House - make sure it's retarded and gets 50 like",
@@ -2420,9 +2654,11 @@
       "engagement_score": 5.5,
       "video_thumbnail": "https://pbs.twimg.com/media/HA-msd1WwAAK_C1.jpg",
       "full_text_preview": "Un turno promedio en el Waffle House \n\nEl prompt pedía literalmente \"hazlo estúpido\" y Seedance 2.0 se lo ha tomado muy en serio\n\nPrompt: An average shift at Waffle House - make sure it's retarded and...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "Waffle House的普通轮班 - 确保它是弱智的并获得50个赞。"
     },
     {
       "prompt": "savaşçı olsun canavar olsun. haa bir de marka tanıtımımı yap",
@@ -2440,9 +2676,11 @@
       "engagement_score": 5.5,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022268166358077440/img/QP32UymQlVCAi5Dt.jpg",
       "full_text_preview": "seedance 2.0 ile gereksiz sahneler serisi bölüm 1\n\nprompt: savaşçı olsun canavar olsun. haa bir de marka tanıtımımı yap https://t.co/GAaN0lIVy7",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "无论是战士还是怪物，都要进行品牌推广。"
     },
     {
       "prompt": "jon snow from game of thrones riding a dragon.",
@@ -2489,6 +2727,28 @@
       "summary": "人类橄榄球队与银背大猩猩进行橄榄球比赛的超现实直播画面"
     },
     {
+      "prompt": "Two martial artists fighting on a rooftop at sunset, spinning kicks and rapid punches, wind blowing clothes, smooth cinematic camera orbit, slow motion mid-air kick, epic vibe.",
+      "prompt_length": 176,
+      "tweet_url": "https://x.com/ZephyraLeigh/status/2022702079832395803",
+      "author": "ZephyraLeigh",
+      "author_name": "Zephyra Leigh",
+      "author_followers": 3797,
+      "created_at": "Sat Feb 14 15:58:50 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2022702019992260610/pu/img/MIucl08gfBDhTgD2.jpg",
+      "full_text_preview": "One prompt.\n\nThat’s all Seedance 2.0 needed to make this.\n\nPrompt: Two martial artists fighting on a rooftop at sunset, spinning kicks and rapid punches, wind blowing clothes, smooth cinematic camera ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "两位武术家在日落时分在屋顶上战斗，旋转踢腿和快速拳击，风吹动衣服，平滑的电影摄影机轨道，慢动作的空中踢腿，史诗般的氛围。"
+    },
+    {
       "prompt": "Questionable Record",
       "prompt_length": 19,
       "tweet_url": "https://x.com/flutterwhat/status/2022362681098035550",
@@ -2504,9 +2764,11 @@
       "engagement_score": 5.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022362223612694530/img/GCMhRNVxgS7NhZrP.jpg",
       "full_text_preview": "Seedance 2.0\n\"Questionable Record\"\n\nPrompt had no refrence to copyrighted characters, and only the concepts of the world and character design. \n\nI'm impressed ngl. Even tho she says \"slap\" instead of ...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "有问题的记录。"
     },
     {
       "prompt": "reference image: fashion figure standing on dramatic coastal cliff overlooking deep ocean, textured flowing garment, cinematic natural lighting, editorial",
@@ -2524,9 +2786,11 @@
       "engagement_score": 5.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022294451281178624/img/R4Q6dkt5Y5e_awRJ.jpg",
       "full_text_preview": "Four scenes were completed in 10 seconds. Can you guess whether this was generated by Seedance 2.0 or Grokimagine?\n\nPrompt：\n\nreference image: fashion figure standing on dramatic coastal cliff overlook...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "参考图像：时尚人物站在戏剧性的海岸悬崖上，俯瞰深海，纹理飘逸的服装，电影般的自然光线，社论。"
     },
     {
       "prompt": "create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence",
@@ -2749,6 +3013,28 @@
       "summary": "绅士看书，动物偷喝咖啡的趣味场景"
     },
     {
+      "prompt": "Super Bowl half time show, 2027",
+      "prompt_length": 31,
+      "tweet_url": "https://x.com/123skely/status/2022793356590669983",
+      "author": "123skely",
+      "author_name": "Skely",
+      "author_followers": 33671,
+      "created_at": "Sat Feb 14 22:01:32 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022792331880206336/img/xngA75qQuO4l0Ot-.jpg",
+      "full_text_preview": "Seedance 2.0 is amazing, this prompt was \"Super Bowl half time show, 2027\" https://t.co/yJKnEcbs68",
+      "tags": [
+        "🎵 音乐/MV"
+      ],
+      "quality_score": 2,
+      "summary": "2027年超级碗中场秀。"
+    },
+    {
       "prompt": "Prime? naaah, this is a champion's drink!",
       "prompt_length": 41,
       "tweet_url": "https://x.com/StavZilber/status/2021240012499550522",
@@ -2808,9 +3094,11 @@
       "engagement_score": 3.5,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022272264360820736/img/qNGv1vkv3E6ydcLo.jpg",
       "full_text_preview": "Seedance Pro 2.0 is WILD! PROMPT: Intense street racing duel.\n\n#Seedance2 #youart https://t.co/t5yvyjP1H1",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "激烈的街头赛车决斗。"
     },
     {
       "prompt": "Patrick Star is up against Usain Bolt in a track meet.",
@@ -2828,9 +3116,11 @@
       "engagement_score": 3.5,
       "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2022114489823576064/pu/img/C2EZJEIxzoBxUCLu.jpg",
       "full_text_preview": "Seedance 2.0 created this video with only one prompt\n\nPrompt: Patrick Star is up against Usain Bolt in a track meet.\n\nhttps://t.co/kE2hDMzRZR",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "派大星在田径比赛中对抗尤塞恩·博尔特。"
     },
     {
       "prompt": "Will Smith fighting a spaghetti monster.😅",
@@ -2853,6 +3143,29 @@
       ],
       "quality_score": 3,
       "summary": "威尔·史密斯大战意大利面怪物"
+    },
+    {
+      "prompt": "make a viral godzilla video that can get me 1M impressions",
+      "prompt_length": 58,
+      "tweet_url": "https://x.com/its_shubho/status/2022686060967530663",
+      "author": "its_shubho",
+      "author_name": "Shubh",
+      "author_followers": 327,
+      "created_at": "Sat Feb 14 14:55:11 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022685965534531590/img/3qjUlIKfuQJj8y0f.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: \"make a viral godzilla video that can get me 1M impressions\" https://t.co/gOoALwyvno",
+      "tags": [
+        "🔥 名人/IP",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "制作一个能获得百万展示的病毒式哥斯拉视频"
     },
     {
       "prompt": "two women fighting.",
@@ -2943,6 +3256,28 @@
       "summary": "一个人用手指从1数到8"
     },
     {
+      "prompt": "Call of duty game play",
+      "prompt_length": 22,
+      "tweet_url": "https://x.com/toolfolio/status/2022578236295917606",
+      "author": "toolfolio",
+      "author_name": "ToolFolio",
+      "author_followers": 9648,
+      "created_at": "Sat Feb 14 07:46:43 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022578095572799488/img/Zpe978wBbKUMh3FF.jpg",
+      "full_text_preview": "Seedance 2.0 (right) vs Veo 3.1 Fast (left)\n\nPrompt: Call of duty game play https://t.co/bdTovwbLck",
+      "tags": [
+        "🎮 游戏"
+      ],
+      "quality_score": 1,
+      "summary": "使命召唤游戏实况"
+    },
+    {
       "prompt": "Sam: “Why don’t we just take the Eagles to Mount Doom?”\nFrodo: “…That actually makes sense.”\nCut to them flying Eagles, dropping the ring.\nSauron’s tower explodes.\n THE END.\n🎥 @ailker",
       "prompt_length": 183,
       "tweet_url": "https://x.com/talkturo/status/2022300374711795990",
@@ -2958,9 +3293,12 @@
       "engagement_score": 2.5,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022300297541144577/img/EEBjvXCxj_mAcFp4.jpg",
       "full_text_preview": "Seedance 2.0 is insane 😭\n\nPrompt:\nSam: “Why don’t we just take the Eagles to Mount Doom?”\nFrodo: “…That actually makes sense.”\nCut to them flying Eagles, dropping the ring.\nSauron’s tower explodes.\n T...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 4,
+      "summary": "如果用老鹰把魔戒丢到末日火山会怎么样？"
     },
     {
       "prompt": "A man is on a seaboat during a massive rain storm as a large sea monster",
@@ -3143,6 +3481,28 @@
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
     },
     {
+      "prompt": "press run and see magic",
+      "prompt_length": 23,
+      "tweet_url": "https://x.com/aniruddhadak/status/2022612293687873712",
+      "author": "aniruddhadak",
+      "author_name": "ANIRUDDHA ADAK",
+      "author_followers": 356,
+      "created_at": "Sat Feb 14 10:02:03 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022612254018146308/img/s5ZAiD5cHUfkzeQG.jpg",
+      "full_text_preview": "Seedance 2.0 has a very “press run and see magic” feeling.\n\nYou try one small prompt and suddenly you get a full moving shot. https://t.co/ElEcoAc6HY",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 1,
+      "summary": "按下运行键，见证奇迹"
+    },
+    {
       "prompt": "Cooper chooses to stay on the farm",
       "prompt_length": 34,
       "tweet_url": "https://x.com/YouArtStudio/status/2022422585963876592",
@@ -3158,9 +3518,11 @@
       "engagement_score": 2.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022422313732608000/img/PtRPgjM5l5rFeFHQ.jpg",
       "full_text_preview": "PROMPT: Cooper chooses to stay on the farm\n\nCheck profile for Seedance Pro 2.0 early access!\n\n#Interstellar https://t.co/D7VJHY6Hxi",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "库珀选择留在农场"
     },
     {
       "prompt": "make a video that would age regress all boomers into their cradles",
@@ -3299,6 +3661,51 @@
       ],
       "quality_score": 3,
       "summary": "关于耐克品牌的宣传片"
+    },
+    {
+      "prompt": "recreate the the last of us TV show but make it good this time",
+      "prompt_length": 62,
+      "tweet_url": "https://x.com/Lars_pragmata/status/2022767204639428803",
+      "author": "Lars_pragmata",
+      "author_name": "Lars_Pragmata",
+      "author_followers": 403,
+      "created_at": "Sat Feb 14 20:17:37 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022767127980326912/img/hiaPycoHA-wvAwNL.jpg",
+      "full_text_preview": "Seedance 2 is Crazy!🔥\n\nPrompt: \"recreate the the last of us TV show but make it good this time\" https://t.co/IonOsoFDNx",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "重制《最后生还者》电视剧，让它更好看"
+    },
+    {
+      "prompt": "dark &amp; gritty live action rick and morty",
+      "prompt_length": 44,
+      "tweet_url": "https://x.com/posedscaredcity/status/2022548309643276345",
+      "author": "posedscaredcity",
+      "author_name": "OIiver",
+      "author_followers": 397,
+      "created_at": "Sat Feb 14 05:47:48 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022548259148103681/img/JMpO03mLb3be5vcr.jpg",
+      "full_text_preview": "seedance 2.0\n\nprompt: dark &amp; gritty live action rick and morty https://t.co/42M3WVJao4",
+      "tags": [
+        "🎌 动漫",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "黑暗写实真人版瑞克和莫蒂"
     },
     {
       "prompt": "An average shift at Waffle House - make sure it",
@@ -3600,6 +4007,72 @@
       "summary": "猫王大战迈克尔杰克逊，龙珠风格动漫"
     },
     {
+      "prompt": "Instant Setedment",
+      "prompt_length": 17,
+      "tweet_url": "https://x.com/XrplDegen/status/2022712821201416578",
+      "author": "XrplDegen",
+      "author_name": "ANT MONEY",
+      "author_followers": 1955,
+      "created_at": "Sat Feb 14 16:41:31 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022708694148890624/img/8rp180ncp2LnnTGB.jpg",
+      "full_text_preview": "I wanted to see if Seedance 2.0 could capture the spirit of the ledger in 10 seconds… with ONE prompt and one prompt only. \n\nNo edits. No timeline tweaking. Just pure prompt → render.\n\nAnd yes… before...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "即时解决"
+    },
+    {
+      "prompt": "Single continuous shot, motorcycle chase through narrow streets of a Mediterranean village, camera weaves through hanging laundry and market stalls, rider barely dodges obstacles, final reveal opens to massive cliff edge",
+      "prompt_length": 220,
+      "tweet_url": "https://x.com/tomatechie/status/2022627120049270924",
+      "author": "tomatechie",
+      "author_name": "Tomatech",
+      "author_followers": 8,
+      "created_at": "Sat Feb 14 11:00:58 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022626994303963139/img/isHd-XtqJSwxxfqW.jpg",
+      "full_text_preview": "Sharing my second Seedance 2.0 video with you...\n\nPrompt: Single continuous shot, motorcycle chase through narrow streets of a Mediterranean village, camera weaves through hanging laundry and market s...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "地中海小镇的摩托车追逐戏，一镜到底"
+    },
+    {
+      "prompt": "Epic fight between Giant cat vs King Kong",
+      "prompt_length": 41,
+      "tweet_url": "https://x.com/bloggerbasith/status/2022586338151940344",
+      "author": "bloggerbasith",
+      "author_name": "Abdul Basith",
+      "author_followers": 1936,
+      "created_at": "Sat Feb 14 08:18:55 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022586209630031872/img/0H6hIrKEBLhX3fC8.jpg",
+      "full_text_preview": "Hollywood is cooked. Made with seedance 2.0.\nPrompt: \"Epic fight between Giant cat vs King Kong\" https://t.co/3XwG5DGgxD",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "巨型猫咪大战金刚"
+    },
+    {
       "prompt": "The film has a retro Hong Kong-style martial arts film aesthetic, with a slight film grain and a warm amber tone.",
       "prompt_length": 113,
       "tweet_url": "https://x.com/autorambler_ru/status/2020862666290721268",
@@ -3638,9 +4111,11 @@
       "engagement_score": 1.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022442489030787072/img/JBfsLV-oDxZPdQ5Y.jpg",
       "full_text_preview": "#3 Seedance 2.0 \nPrompt: A massive cosmic arena forms in a blinding void, Tournament-of-Power scale. Crowds from countless universes roar.\nAt the center stands the narrator: Gintoki Sakata, relaxed, w...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 4,
+      "summary": "银魂主持力量大会规模的宇宙竞技场"
     },
     {
       "prompt": "How to build a WordPress website",
@@ -3658,9 +4133,11 @@
       "engagement_score": 1.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022267242923372544/img/sS29Wd5tat6xomWJ.jpg",
       "full_text_preview": "Prompt: \"How to build a WordPress website\" \nWith Seedance 2.0 Fast https://t.co/bAZskfngUL",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "如何搭建一个WordPress网站"
     },
     {
       "prompt": "An average shift at Waffle House - make sure it's retarded and gets 50000 likes.",
@@ -4018,6 +4495,96 @@
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
     },
     {
+      "prompt": "In the Marvel Cinematic Universe, Spider-man becomes pregnant from his wife Elsa",
+      "prompt_length": 80,
+      "tweet_url": "https://x.com/PeptoState/status/2022788625704820876",
+      "author": "PeptoState",
+      "author_name": "Peptostate",
+      "author_followers": 683,
+      "created_at": "Sat Feb 14 21:42:44 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022788493492310016/img/nKW_-ZTqCxaV81Lh.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: In the Marvel Cinematic Universe, Spider-man becomes pregnant from his wife Elsa https://t.co/DMHzzbyxPM",
+      "tags": [
+        "🔥 名人/IP",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "漫威宇宙中，蜘蛛侠和冰雪女王艾莎结婚并怀孕"
+    },
+    {
+      "prompt": "Summarize the AI discourse in a humorous meme – ensure it’s lighthearted and garners 50 likes.",
+      "prompt_length": 94,
+      "tweet_url": "https://x.com/aniruddhadak/status/2022546896473199008",
+      "author": "aniruddhadak",
+      "author_name": "ANIRUDDHA ADAK",
+      "author_followers": 356,
+      "created_at": "Sat Feb 14 05:42:11 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBE73VRbEAAsOLh.jpg",
+      "full_text_preview": "Seedance 2.0 \n\nPrompt: Summarize the AI discourse in a humorous meme – ensure it’s lighthearted and garners 50 likes.\n\nhttps://t.co/CSAry0f1QZ",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用幽默的meme总结AI讨论，确保轻松愉快并获得50个赞"
+    },
+    {
+      "prompt": "【0-1秒】画面：猪八戒手持九齿钉耙落地，肥身震地；死神披风随风挥动，镰刀高举 动作：猪八戒横... 来自 @YouTube",
+      "prompt_length": 62,
+      "tweet_url": "https://x.com/ben11445329/status/2022520510077378576",
+      "author": "ben11445329",
+      "author_name": "ben",
+      "author_followers": 3,
+      "created_at": "Sat Feb 14 03:57:20 +0000 2026",
+      "lang": "zh",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "",
+      "full_text_preview": "即梦 seedance 2.0 Prompt / 【0-1秒】画面：猪八戒手持九齿钉耙落地，肥身震地；死神披风随风挥动，镰刀高举 动作：猪八戒横... https://t.co/LDS9iw7Uj5 来自 @YouTube",
+      "tags": [
+        "🎌 动漫",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "猪八戒手持钉耙落地，死神披风挥动"
+    },
+    {
+      "prompt": "This character does parkour through the city and fights fiercely against a villainous monster.",
+      "prompt_length": 94,
+      "tweet_url": "https://x.com/Fox1251104/status/2022495493285384457",
+      "author": "Fox1251104",
+      "author_name": "Rayko_Zopia",
+      "author_followers": 66,
+      "created_at": "Sat Feb 14 02:17:56 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022495237571252226/img/QLQSek7eHh4IkQVq.jpg",
+      "full_text_preview": "Seedance 2.0✖️https://t.co/MdFpM7LcwM，                                     prompt:This character does parkour through the city and fights fiercely against a villainous monster. https://t.co/2GxrThoECe",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "角色在城市里跑酷，与邪恶的怪物激烈战斗"
+    },
+    {
       "prompt": "शायद हमारा काम अब खत्म",
       "prompt_length": 22,
       "tweet_url": "https://x.com/VistaarBharatAI/status/2022475692416602339",
@@ -4033,9 +4600,11 @@
       "engagement_score": 0.0,
       "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022475636024164352/img/gpBLrZUwaengZTWB.jpg",
       "full_text_preview": "🔥 Hollywood में हड़कंप! ByteDance का Seedance 2.0 AI ने सिर्फ 2 लाइन के prompt से Tom Cruise और Brad Pitt की लड़ाई का video बना दिया!\n\nDeadpool के राइटर Rhett Reese का कहना है - \"शायद हमारा काम अब खत्...",
-      "tags": [],
-      "quality_score": 0,
-      "summary": ""
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "也许我们的工作已经完成"
     },
     {
       "prompt": "This video is from a 2024-2025 incident at Abaseen Diner in Sheffield, UK. Customers (British Pakistanis) fought staff after a dispute over being served beef instead of",
