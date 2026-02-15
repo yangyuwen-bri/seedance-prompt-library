@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-209-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-02-14-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-226-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-02-15-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,24 +12,24 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **209** |
-| Languages | en: 157, zh: 43, es: 6, ja: 1, tr: 1 |
-| Last Updated | 2026-02-14 |
+| Total Prompts | **226** |
+| Languages | en: 172, zh: 44, es: 6, ja: 1, tr: 1 |
+| Last Updated | 2026-02-15 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 66 |
-| 😂 搞笑/Meme | 48 |
+| 🎬 电影/影视 | 67 |
+| 😂 搞笑/Meme | 54 |
 | 🎨 艺术/创意 | 39 |
-| 💡 创意/实验 | 34 |
-| 🎌 动漫 | 24 |
-| 📺 广告/商业 | 18 |
+| 💡 创意/实验 | 36 |
+| 🎌 动漫 | 28 |
+| 📺 广告/商业 | 20 |
 | 🌍 写实/纪实 | 17 |
-| 🎮 游戏 | 11 |
+| 🎮 游戏 | 12 |
 | 🔥 名人/IP | 10 |
-| 🏷️ 其他 | 6 |
+| 🏷️ 其他 | 8 |
 | 🎵 音乐/MV | 4 |
 
 ## 🔥 Top 10 Prompts
@@ -89,7 +89,18 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 
 ---
 
-### #6 ❤️ 3275 | 🌍 写实/纪实
+### #6 ❤️ 2801 | 😂 搞笑/Meme
+> 拉里·大卫因为使用 Seedance 2 惹麻烦，要求制作低智商且能获得点赞的视频。
+
+```
+Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.
+```
+
+[![Video](https://pbs.twimg.com/media/HBOZWxZaMAADMBP.jpg)](https://x.com/charliebcurran/status/2023129113549328497)
+
+---
+
+### #7 ❤️ 3275 | 🌍 写实/纪实
 > Kimi对GenAI视频模型市场进行全面分析，重点关注领先的参与者。
 
 ```
@@ -100,7 +111,7 @@ I asked Kimi to conduct a comprehensive analysis of the GenAI video model market
 
 ---
 
-### #7 ❤️ 3198 | 🎬 电影/影视
+### #8 ❤️ 3198 | 🎬 电影/影视
 > 快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。
 
 ```
@@ -111,7 +122,7 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ---
 
-### #8 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
+### #9 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
 > 泰勒·德顿向咒术回战的角色解释搏击俱乐部的规则，真人风格。
 
 ```
@@ -122,7 +133,7 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 
 ---
 
-### #9 ❤️ 2436 | 🎌 动漫
+### #10 ❤️ 2436 | 🎌 动漫
 > 路飞和悟空在阳光号上进行一场史诗般的战斗。
 
 ```
@@ -130,17 +141,6 @@ Luffy and Goku having an epic fight scene on the sunny.
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2021611717751390208/img/GPvQ-J9m3e9r4dbi.jpg)](https://x.com/markgadala/status/2021611931480609139)
-
----
-
-### #10 ❤️ 1805 | 🎬 电影/影视
-> SWAT 警官全副武装，戴着防毒面具和头盔，用突击步枪直接指向镜头。
-
-```
-[Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity:
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2021509298778701824/img/nD6yOxS7pH7CIsHH.jpg)](https://x.com/shikoba_86/status/2021509569831170072)
 
 ---
 

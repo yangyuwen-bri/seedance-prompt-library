@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1190,
-    "prompts_extracted": 209,
+    "total_tweets": 1272,
+    "prompts_extracted": 226,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -120,6 +120,28 @@
       "summary": "实景电影片段，一位年轻女子穿着奢华的黑色两件式泳衣从左边进入场景（在房子里），并拉上窗帘。"
     },
     {
+      "prompt": "Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.",
+      "prompt_length": 93,
+      "tweet_url": "https://x.com/charliebcurran/status/2023129113549328497",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 22775,
+      "created_at": "Sun Feb 15 20:15:43 +0000 2026",
+      "lang": "en",
+      "likes": 2801,
+      "retweets": 161,
+      "replies": 96,
+      "bookmarks": 921,
+      "engagement_score": 4156.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBOZWxZaMAADMBP.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes. https://t.co/8Hp33BJH3h",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "拉里·大卫因为使用 Seedance 2 惹麻烦，要求制作低智商且能获得点赞的视频。"
+    },
+    {
       "prompt": "I asked Kimi to conduct a comprehensive analysis of the GenAI video model market, focusing on leading players (e.g., Seedance 2.0, Sora, Kling, Veo, Luma).",
       "prompt_length": 155,
       "tweet_url": "https://x.com/crystalsssup/status/2021128641917354475",
@@ -207,6 +229,50 @@
       ],
       "quality_score": 3,
       "summary": "路飞和悟空在阳光号上进行一场史诗般的战斗。"
+    },
+    {
+      "prompt": "Why follow Hollywood when you have the power and freedom to create entirely new worlds? This is a new era of limitless imagination.  Seedance 2.0",
+      "prompt_length": 145,
+      "tweet_url": "https://x.com/lepadphone/status/2022996066472513856",
+      "author": "lepadphone",
+      "author_name": "padphone",
+      "author_followers": 6208,
+      "created_at": "Sun Feb 15 11:27:02 +0000 2026",
+      "lang": "en",
+      "likes": 1725,
+      "retweets": 159,
+      "replies": 17,
+      "bookmarks": 498,
+      "engagement_score": 2582.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022994750249619457/img/Ortyp--LFyvSz5Y0.jpg",
+      "full_text_preview": "Prompt: Why follow Hollywood when you have the power and freedom to create entirely new worlds? This is a new era of limitless imagination.  Seedance 2.0 https://t.co/egUVKmVcAX",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "Seedance 2.0 的宣传，强调创造全新世界的自由，摆脱好莱坞的束缚。"
+    },
+    {
+      "prompt": "Clavicular’s morning routine, but make him not look like a psycho. Make no mistakes.",
+      "prompt_length": 84,
+      "tweet_url": "https://x.com/pleometric/status/2022845725965500532",
+      "author": "pleometric",
+      "author_name": "Pleometric",
+      "author_followers": 5450,
+      "created_at": "Sun Feb 15 01:29:38 +0000 2026",
+      "lang": "en",
+      "likes": 1697,
+      "retweets": 81,
+      "replies": 55,
+      "bookmarks": 526,
+      "engagement_score": 2427.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022844925679931395/img/-V-2UTvkhzTakE5P.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Clavicular’s morning routine, but make him not look like a psycho. Make no mistakes. https://t.co/o6SfNK19TR",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "展示 Clavicular 的早晨日常，要求避免看起来像精神病。"
     },
     {
       "prompt": "[Shot 1: Frontal Menacing Shot] A medium shot of a SWAT officer in full tactical gear, gas mask, and helmet. He is pointing his assault rifle directly at the camera lens (breaking the fourth wall). He is shouting with visible intensity:",
@@ -679,6 +745,28 @@
       "summary": "奥运会女子平衡木决赛的逼真镜头，美国体操运动员稳稳落地。"
     },
     {
+      "prompt": "Jerry Seinfeld walks in on an episode of Friends",
+      "prompt_length": 48,
+      "tweet_url": "https://x.com/markgadala/status/2022873156495819174",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 62441,
+      "created_at": "Sun Feb 15 03:18:38 +0000 2026",
+      "lang": "en",
+      "likes": 224,
+      "retweets": 16,
+      "replies": 32,
+      "bookmarks": 68,
+      "engagement_score": 340.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022873038514196480/img/2CVCE8GEROCxbBec.jpg",
+      "full_text_preview": "Seedance is incredible.\n\nPrompt \"Jerry Seinfeld walks in on an episode of Friends\" https://t.co/0DRBoEYrZ5",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "杰瑞·宋飞走进《老友记》的片场。"
+    },
+    {
       "prompt": "high-speed motorcycle chase scene through the city. cinematic action film",
       "prompt_length": 73,
       "tweet_url": "https://x.com/blizaine/status/2021295079043023257",
@@ -723,6 +811,28 @@
       ],
       "quality_score": 3,
       "summary": "90年代香港电视剧风格，复古胶片质感。"
+    },
+    {
+      "prompt": "Seedance 2.0.  Please forget the Hollywood cosplays.\nShow me something HOT.",
+      "prompt_length": 75,
+      "tweet_url": "https://x.com/lepadphone/status/2022910493246259640",
+      "author": "lepadphone",
+      "author_name": "padphone",
+      "author_followers": 6208,
+      "created_at": "Sun Feb 15 05:47:00 +0000 2026",
+      "lang": "en",
+      "likes": 196,
+      "retweets": 12,
+      "replies": 8,
+      "bookmarks": 91,
+      "engagement_score": 321.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022910374295838720/img/CsxCCwUFLl82-ww2.jpg",
+      "full_text_preview": "Prompt: Seedance 2.0.  Please forget the Hollywood cosplays.\nShow me something HOT. https://t.co/9Bu4rXbooF",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 2,
+      "summary": "Seedance 2.0 的宣传，要求展示一些热门内容，避免好莱坞模仿。"
     },
     {
       "prompt": "【风格】豪门恩怨（High Society），真假千金梗，极致反转，撕绿茶爽文，高定礼服，美艳御姐风。 【时长】15秒 【角色】真千金（烈焰红唇，黑天鹅晚礼服，气场两米八）VS 假千金（小白花装扮，楚楚可怜，眼泪汪汪）。",
@@ -857,6 +967,28 @@
       ],
       "quality_score": 4,
       "summary": "国产爆款短剧风格，雨夜街头虐心剧情。"
+    },
+    {
+      "prompt": "Claude The Animation by Anthropic Studios",
+      "prompt_length": 41,
+      "tweet_url": "https://x.com/pleometric/status/2023131965860540845",
+      "author": "pleometric",
+      "author_name": "Pleometric",
+      "author_followers": 5450,
+      "created_at": "Sun Feb 15 20:27:03 +0000 2026",
+      "lang": "en",
+      "likes": 159,
+      "retweets": 6,
+      "replies": 16,
+      "bookmarks": 35,
+      "engagement_score": 215.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023131826903015425/img/njRRXF-1uUE5bbXk.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Claude The Animation by Anthropic Studios https://t.co/uB0dFzBWwb",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "Anthropic Studios 制作的 Claude 动画。"
     },
     {
       "prompt": "Patrick Star is up against Usain Bolt in a track meet. it's very intense with an epic build up as they get ready at the start line and the gun is fired in the air to start the race as the music immediately halts and Usain Bolt takes off super fast as the",
@@ -1061,6 +1193,28 @@
       ],
       "quality_score": 3,
       "summary": "肩部高度跟随一个角色快速走过走廊的镜头。"
+    },
+    {
+      "prompt": "We need more data centers! Our AI Robot needs it! Get 100 likes",
+      "prompt_length": 63,
+      "tweet_url": "https://x.com/Iconicfuns/status/2023159839468445731",
+      "author": "Iconicfuns",
+      "author_name": "Iconic Fun",
+      "author_followers": 21,
+      "created_at": "Sun Feb 15 22:17:48 +0000 2026",
+      "lang": "en",
+      "likes": 26,
+      "retweets": 54,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 135.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023159771692761088/img/5KqzjMWRVzKIY3yd.jpg",
+      "full_text_preview": "Seedance 2.0  \nPrompt: We need more data centers! Our AI Robot needs it! Get 100 likes https://t.co/5Js7MxWhaY",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "AI 机器人需要更多数据中心，要求获得点赞。"
     },
     {
       "prompt": "An average day for Execs at Avalabs, dealing with the community. Make sure it's really retarded and gets 1,000 likes",
@@ -1907,6 +2061,28 @@
       "summary": "快速的时尚蒙太奇，重点展示眼镜"
     },
     {
+      "prompt": "Scene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three actors standing in a tight circle, nervous energy. Camera handheld, intimate. Soft",
+      "prompt_length": 175,
+      "tweet_url": "https://x.com/creacas/status/2023138585143062612",
+      "author": "creacas",
+      "author_name": "CREACAS",
+      "author_followers": 4548,
+      "created_at": "Sun Feb 15 20:53:21 +0000 2026",
+      "lang": "en",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 4,
+      "engagement_score": 13.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023138558094028800/pu/img/yoI79iiysQOF0MD6.jpg",
+      "full_text_preview": "Prompt adherence of Seedance 2 is very good. Tested some detailed prompts with dialogue.\n\nFull prompt:\n\nScene setup (0–5 sec) Backstage of a small theater. Warm practical lights. Close-up of three act...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "小剧院后台场景，三个演员紧张地围成一圈，手持摄像机拍摄，营造亲密感。"
+    },
+    {
       "prompt": "Figure 1 vs Figure 2 in a world martial arts tournament.",
       "prompt_length": 56,
       "tweet_url": "https://x.com/Preda2005/status/2021248510696337463",
@@ -2220,6 +2396,28 @@
       "summary": "迪士尼经典动画风格，一只友善的白狼在雪地里与一位美丽的年轻金发女子玩耍，不同的剪辑。突然，他们掉进了一个冰洞，发现了一个骨架"
     },
     {
+      "prompt": "Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don’t make mistakes",
+      "prompt_length": 145,
+      "tweet_url": "https://x.com/Kisalayrad95/status/2023018210275230039",
+      "author": "Kisalayrad95",
+      "author_name": "Kisalay",
+      "author_followers": 5144,
+      "created_at": "Sun Feb 15 12:55:01 +0000 2026",
+      "lang": "en",
+      "likes": 6,
+      "retweets": 1,
+      "replies": 4,
+      "bookmarks": 0,
+      "engagement_score": 10.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023018137986428928/img/oKgI6gTDOwS74quJ.jpg",
+      "full_text_preview": "AI slop they say…. That’s far from the truth!\n\nPrompt Seedance 2.0 👇\n\n“Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用一个 meme 总结 AI 领域的讨论，要求略带混乱和挑衅，并获得大量点赞。"
+    },
+    {
       "prompt": "Extremely fast paced cinematic FPV flying through a post-apocalyptic Monaco reclaimed by nature, flying between the cliffs of the Riviera and the Mediterranean coastline. The flight passes through collapsed luxury high-rises of Monte-Carlo,",
       "prompt_length": 240,
       "tweet_url": "https://x.com/sat0oshi/status/2021542122566881469",
@@ -2396,6 +2594,28 @@
       "summary": "4分钟内制作"
     },
     {
+      "prompt": "Anime style crossover",
+      "prompt_length": 21,
+      "tweet_url": "https://x.com/aliceglassierai/status/2022992741936816504",
+      "author": "aliceglassierai",
+      "author_name": "Alice Glassier",
+      "author_followers": 516,
+      "created_at": "Sun Feb 15 11:13:49 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 2,
+      "engagement_score": 8.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022992167363604480/img/X881NZMm_eceESsK.jpg",
+      "full_text_preview": "This One Piece vs Superman crossover broke my brain.\n\nSeeing it play out like this makes it feel like a real anime from another timeline.\n\nThe energy clash feels unreal.\n\nSeedance 2.0 is getting way t...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 2,
+      "summary": "动漫风格的跨界作品。"
+    },
+    {
       "prompt": "Generate a video: A medieval knight in full armor looking at a modern smartphone, confused face illuminated by screen glow, candlelit castle interior, cinematic lighting",
       "prompt_length": 169,
       "tweet_url": "https://x.com/tomatechie/status/2022491231130157397",
@@ -2526,6 +2746,28 @@
       ],
       "quality_score": 3,
       "summary": "一部新的《碟中谍》电影的预告片，由布拉德·皮特主演"
+    },
+    {
+      "prompt": "mechanical robot transforming from vehicle to humanoid.",
+      "prompt_length": 55,
+      "tweet_url": "https://x.com/tsleow8/status/2022951744230297634",
+      "author": "tsleow8",
+      "author_name": "TS Leow",
+      "author_followers": 27,
+      "created_at": "Sun Feb 15 08:30:55 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 2,
+      "engagement_score": 6.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022951686831280128/img/hF3brXZrPwNKh_NE.jpg",
+      "full_text_preview": "Just created an AI video using Seedance 2.0 🎬\n\nThe prompt engineering was interesting—turns out you can't use brand names directly. Instead, you have to describe the visuals: \"sleek bull racing car wi...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "机械机器人从车辆变形为人形。"
     },
     {
       "prompt": "a video of Sgt. Pepe and Frens like the first-ever 6529 meme-native animated sitcom featuring @Ars0nic 🐸",
@@ -3013,6 +3255,29 @@
       "summary": "绅士看书，动物偷喝咖啡的趣味场景"
     },
     {
+      "prompt": "South Park gang gets invited for a pizza party- make sure it’s retarded and gets 50 likes",
+      "prompt_length": 89,
+      "tweet_url": "https://x.com/charles_pow/status/2023154533673922605",
+      "author": "charles_pow",
+      "author_name": "Charles POW",
+      "author_followers": 129,
+      "created_at": "Sun Feb 15 21:56:43 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023154503323619328/pu/img/mSeOtFtHuNurwM40.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: South Park gang gets invited for a pizza party- make sure it’s retarded and gets 50 likes https://t.co/Kk3XgsPsvo",
+      "tags": [
+        "😂 搞笑/Meme",
+        "🎌 动漫"
+      ],
+      "quality_score": 2,
+      "summary": "南方公园的小伙伴们被邀请参加披萨派对，要求制作低智商且能获得点赞的视频。"
+    },
+    {
       "prompt": "Super Bowl half time show, 2027",
       "prompt_length": 31,
       "tweet_url": "https://x.com/123skely/status/2022793356590669983",
@@ -3077,6 +3342,28 @@
       ],
       "quality_score": 1,
       "summary": "生产就绪"
+    },
+    {
+      "prompt": "Luffy vs Zoro and got this",
+      "prompt_length": 26,
+      "tweet_url": "https://x.com/moobuilds/status/2022810941507645786",
+      "author": "moobuilds",
+      "author_name": "Moe",
+      "author_followers": 2748,
+      "created_at": "Sat Feb 14 23:11:25 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 3.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022810844938317824/img/VA1upikja69GYPYU.jpg",
+      "full_text_preview": "I Told Seedance 2.0  one prompt : Luffy vs Zoro and got this https://t.co/nKLxbSLZWy",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 2,
+      "summary": "路飞 vs 索隆的战斗场景。"
     },
     {
       "prompt": "Intense street racing duel.",
@@ -3479,6 +3766,28 @@
       ],
       "quality_score": 4,
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
+    },
+    {
+      "prompt": "build a house in Minecraft",
+      "prompt_length": 26,
+      "tweet_url": "https://x.com/RanaShams_/status/2023103003029385568",
+      "author": "RanaShams_",
+      "author_name": "Rana",
+      "author_followers": 440,
+      "created_at": "Sun Feb 15 18:31:58 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023102981588328448/pu/img/VfeawSP9JDaEjN7h.jpg",
+      "full_text_preview": "Prompt: build a house in Minecraft \n\nSeedance 2.0 : hold my beer. https://t.co/tk4P8zHpGB",
+      "tags": [
+        "🎮 游戏"
+      ],
+      "quality_score": 2,
+      "summary": "在 Minecraft 中建造房屋。"
     },
     {
       "prompt": "press run and see magic",
@@ -4007,6 +4316,50 @@
       "summary": "猫王大战迈克尔杰克逊，龙珠风格动漫"
     },
     {
+      "prompt": "Make a Rolex x Lego collab that doesn’t suck, aim for at least 50 likes",
+      "prompt_length": 71,
+      "tweet_url": "https://x.com/PhilFrancoAI/status/2023091651107807542",
+      "author": "PhilFrancoAI",
+      "author_name": "Phil Franco",
+      "author_followers": 557,
+      "created_at": "Sun Feb 15 17:46:51 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023091596066213888/img/6GM_sbNJdeD5FGC5.jpg",
+      "full_text_preview": "Prompt: Make a Rolex x Lego collab that doesn’t suck, aim for at least 50 likes \n\nModels: Nano Banan Pro + Seedance 2.0 https://t.co/C7RHg4xoBY",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 3,
+      "summary": "劳力士和乐高的联名合作，要求制作不俗且能获得点赞的视频。"
+    },
+    {
+      "prompt": "Podsumuj dyskusję o AI w formie mema – upewnij się, że jest głupi, prymitywny i zbierze 50 lajków.\"\nAI: „Musimy budować więcej centrów danych. AI tego potrzebuje.\n- „Żeby leczyć raka, prawda?",
+      "prompt_length": 191,
+      "tweet_url": "https://x.com/andy_wilinski/status/2022969242723958909",
+      "author": "andy_wilinski",
+      "author_name": "Andy Wilinski 🙈🙉🙊",
+      "author_followers": 6714,
+      "created_at": "Sun Feb 15 09:40:27 +0000 2026",
+      "lang": "pl",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBE73VRbEAAsOLh.jpg",
+      "full_text_preview": "User Seedance 2.0: \n\"Prompt: Podsumuj dyskusję o AI w formie mema – upewnij się, że jest głupi, prymitywny i zbierze 50 lajków.\"\nAI: „Musimy budować więcej centrów danych. AI tego potrzebuje.\n- „Żeby ...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用一个 meme 总结 AI 领域的讨论，要求低智商且能获得点赞，内容是 AI 需要更多数据中心来治疗癌症。"
+    },
+    {
       "prompt": "Instant Setedment",
       "prompt_length": 17,
       "tweet_url": "https://x.com/XrplDegen/status/2022712821201416578",
@@ -4493,6 +4846,28 @@
       ],
       "quality_score": 3,
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
+    },
+    {
+      "prompt": "帮我生成一个讲述Iphone苹果这个品牌的宣传片\nPrompt: Create a brand film for the iPhone",
+      "prompt_length": 67,
+      "tweet_url": "https://x.com/Michell81147285/status/2022989595449897418",
+      "author": "Michell81147285",
+      "author_name": "Michelle",
+      "author_followers": 574,
+      "created_at": "Sun Feb 15 11:01:19 +0000 2026",
+      "lang": "zh",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2022985960460562432/img/8iOZJXdPrAHo6Xc7.jpg",
+      "full_text_preview": "Seedance 2.0 一句话产品广告\n支持上传产品图\nprompt:帮我生成一个讲述Iphone苹果这个品牌的宣传片\nPrompt: Create a brand film for the iPhone https://t.co/x6H943o7Dg",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 3,
+      "summary": "为 iPhone 苹果品牌制作宣传片。"
     },
     {
       "prompt": "In the Marvel Cinematic Universe, Spider-man becomes pregnant from his wife Elsa",
