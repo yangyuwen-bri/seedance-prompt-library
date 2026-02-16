@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1272,
-    "prompts_extracted": 226,
+    "total_tweets": 1333,
+    "prompts_extracted": 248,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -297,6 +297,28 @@
       "summary": "SWAT 警官全副武装，戴着防毒面具和头盔，用突击步枪直接指向镜头。"
     },
     {
+      "prompt": "Jordan frame moggs Lebron",
+      "prompt_length": 25,
+      "tweet_url": "https://x.com/markgadala/status/2023178006290710809",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 62762,
+      "created_at": "Sun Feb 15 23:30:00 +0000 2026",
+      "lang": "en",
+      "likes": 1392,
+      "retweets": 168,
+      "replies": 74,
+      "bookmarks": 351,
+      "engagement_score": 2144.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023172914401734656/img/GxpqXXIMNj_xrKq9.jpg",
+      "full_text_preview": "Seedance just settled the debate forever.\n\nJordan &gt; Lebron.\n\nPrompt \"Jordan frame moggs Lebron\" https://t.co/4MmcyLyGnu",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "乔丹用外貌优势击败勒布朗"
+    },
+    {
       "prompt": "A nature documentary about an otter flying an airplane",
       "prompt_length": 54,
       "tweet_url": "https://x.com/emollick/status/2021409874832392508",
@@ -318,6 +340,28 @@
       ],
       "quality_score": 3,
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
+    },
+    {
+      "prompt": "Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes.",
+      "prompt_length": 116,
+      "tweet_url": "https://x.com/TBC_on_X/status/2023467456904450331",
+      "author": "TBC_on_X",
+      "author_name": "TBC",
+      "author_followers": 13478,
+      "created_at": "Mon Feb 16 18:40:10 +0000 2026",
+      "lang": "en",
+      "likes": 1331,
+      "retweets": 89,
+      "replies": 70,
+      "bookmarks": 374,
+      "engagement_score": 1946.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023467200200540160/img/c-aGAE4TmRvsyUFQ.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes. https://t.co/DHuu7NnQod",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "一个关于Clavicular被ASU兄弟会领导欺负的电影预告片"
     },
     {
       "prompt": "Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.",
@@ -1014,6 +1058,28 @@
       "summary": "派大星与博尔特在田径比赛中对决。"
     },
     {
+      "prompt": "**### Visual Style**",
+      "prompt_length": 20,
+      "tweet_url": "https://x.com/underwoodxie96/status/2023237877908312375",
+      "author": "underwoodxie96",
+      "author_name": "underwood",
+      "author_followers": 14079,
+      "created_at": "Mon Feb 16 03:27:54 +0000 2026",
+      "lang": "en",
+      "likes": 92,
+      "retweets": 13,
+      "replies": 6,
+      "bookmarks": 83,
+      "engagement_score": 204.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023237636647972864/pu/img/gx29aYe86NHbdMXV.jpg",
+      "full_text_preview": "Last month, I needed to use reference videos to create this type of video, but now I only need a prompt.Seedance 2.0 is too powerful.\n\nprompt：\n\n**### Visual Style**\n\n9: 16 Vertical composition, 4K ult...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "视觉风格"
+    },
+    {
       "prompt": "【风格】\n现代田园美学(Modern Rural Aesthetics)，电影级广告大片质感(Cinematic Commercial)，索尼A7S3/电影机拍摄，4K/8K超清，极致微距(Extreme",
       "prompt_length": 102,
       "tweet_url": "https://x.com/johnAGI168/status/2021818021354848258",
@@ -1059,6 +1125,28 @@
       "summary": "生成任何垃圾内容。"
     },
     {
+      "prompt": "Society progresses once the caveman discovers Perp Schmeg",
+      "prompt_length": 57,
+      "tweet_url": "https://x.com/bulkedsol/status/2023135990806904953",
+      "author": "bulkedsol",
+      "author_name": "bulk",
+      "author_followers": 1448,
+      "created_at": "Sun Feb 15 20:43:02 +0000 2026",
+      "lang": "en",
+      "likes": 112,
+      "retweets": 12,
+      "replies": 16,
+      "bookmarks": 29,
+      "engagement_score": 173.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023135927548145664/img/SdiIoB7UStE7VNhD.jpg",
+      "full_text_preview": "@charliebcurran Seedance 2.0\n\nPrompt: Society progresses once the caveman discovers Perp Schmeg https://t.co/YdYWChQ1Wx",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "原始人发现Perp Schmeg后社会进步"
+    },
+    {
       "prompt": "【风格】\n印度泰卢固语动作大片(Tollywood Action Blockbuster)，极致夸张的物理特效(Anti-gravity",
       "prompt_length": 68,
       "tweet_url": "https://x.com/johnAGI168/status/2021472044295070168",
@@ -1080,6 +1168,29 @@
       ],
       "quality_score": 3,
       "summary": "印度泰卢固语动作大片风格，夸张的物理特效。"
+    },
+    {
+      "prompt": "Ben stiller stars as Kramer in a 90's movie, he goes into an Asian massage parlor",
+      "prompt_length": 81,
+      "tweet_url": "https://x.com/markgadala/status/2023358193829818531",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 62762,
+      "created_at": "Mon Feb 16 11:26:00 +0000 2026",
+      "lang": "en",
+      "likes": 99,
+      "retweets": 7,
+      "replies": 9,
+      "bookmarks": 47,
+      "engagement_score": 166.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023237415851511808/img/pa4WSrO2Jhsg3guD.jpg",
+      "full_text_preview": "Seedance is getting wierd 😂\n\nPrompt \"Ben stiller stars as Kramer in a 90's movie, he goes into an Asian massage parlor\" https://t.co/QZxUBfKkfW",
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "本·斯蒂勒扮演的克莱默在90年代电影中进入一家亚洲按摩院"
     },
     {
       "prompt": "Figure 1 fighting against Figure 2 in the World Martial Arts Tournament",
@@ -1574,6 +1685,28 @@
       "summary": "关于 Figma AI 内容创作工具的视频"
     },
     {
+      "prompt": "It’s likely over for us.",
+      "prompt_length": 24,
+      "tweet_url": "https://x.com/The_AI_Investor/status/2023430973095059780",
+      "author": "The_AI_Investor",
+      "author_name": "The AI Investor",
+      "author_followers": 72809,
+      "created_at": "Mon Feb 16 16:15:12 +0000 2026",
+      "lang": "en",
+      "likes": 35,
+      "retweets": 0,
+      "replies": 5,
+      "bookmarks": 13,
+      "engagement_score": 50.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2021392702714306560/img/tqcxRo87UIi_J1Yn.jpg",
+      "full_text_preview": "15 seconds of Tom Cruise brutally fighting Brad Pitt… made with ONE 2-line prompt in ByteDance’s Seedance 2.0.\n\nCinematic camera, real physics, synced audio. \n\nHollywood: “It’s likely over for us.”\n\nF...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "我们可能完了。"
+    },
+    {
       "prompt": "Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene",
       "prompt_length": 96,
       "tweet_url": "https://x.com/JamianGerard/status/2021424735704449318",
@@ -1906,6 +2039,28 @@
       "summary": "2D动漫悟空在户外市场购买绿色按钮，然后变身超级赛亚人"
     },
     {
+      "prompt": "A family is defending a monster.",
+      "prompt_length": 32,
+      "tweet_url": "https://x.com/zhzHNN/status/2023183788952670436",
+      "author": "zhzHNN",
+      "author_name": "Huaizheng Zhang",
+      "author_followers": 1725,
+      "created_at": "Sun Feb 15 23:52:58 +0000 2026",
+      "lang": "en",
+      "likes": 18,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 4,
+      "engagement_score": 23.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023183735953465344/img/DScgaj_nSAZF-HVg.jpg",
+      "full_text_preview": "Seedance 2.0 Fast. Prompt: A family is defending a monster. https://t.co/THxEbb5f58",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "一个家庭正在保护一个怪物"
+    },
+    {
       "prompt": "A colossal armored baboon charges through a burning Maasai village, it picks up and throws a maasai warrior into a burning hut, Maasai warriors are running away in fear amid a storm of fire",
       "prompt_length": 189,
       "tweet_url": "https://x.com/MrDavids1/status/2021686153913463257",
@@ -1994,6 +2149,50 @@
       "summary": "用“分心男友”的meme来总结宝莱坞舞蹈，目标是获得50个赞。"
     },
     {
+      "prompt": "generate a fight scene between tow women with their dialogue during the fight revolving around the Epstein files.",
+      "prompt_length": 113,
+      "tweet_url": "https://x.com/MaAyyoub/status/2023181987889258844",
+      "author": "MaAyyoub",
+      "author_name": "Ayyoub Ai",
+      "author_followers": 918,
+      "created_at": "Sun Feb 15 23:45:49 +0000 2026",
+      "lang": "en",
+      "likes": 12,
+      "retweets": 1,
+      "replies": 2,
+      "bookmarks": 6,
+      "engagement_score": 21.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023179998132076544/img/4ttc8MTPiLn6a14c.jpg",
+      "full_text_preview": "Epstein files again !\n\nTested Seedance 2.0 on @YouArtStudio  \n\nprompt :\ngenerate a fight scene between tow women with their dialogue during the fight revolving around the Epstein files.\n\nYouArt Discor...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "两个女人在打斗，对话围绕爱泼斯坦档案展开"
+    },
+    {
+      "prompt": "Live-action cinematic western scene. One man slowly lays down his cards. The other man's eyes widen. The loser stands up abruptly and says: 'You're a goddamn cheat, Morrison!'.",
+      "prompt_length": 176,
+      "tweet_url": "https://x.com/Kiber_Alla/status/2023435686762668434",
+      "author": "Kiber_Alla",
+      "author_name": "Kiber Alla",
+      "author_followers": 303,
+      "created_at": "Mon Feb 16 16:33:55 +0000 2026",
+      "lang": "en",
+      "likes": 18,
+      "retweets": 0,
+      "replies": 4,
+      "bookmarks": 1,
+      "engagement_score": 21.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023435232867954688/img/adRKifsNDQ0Lp_Qe.jpg",
+      "full_text_preview": "YouArt provided creators early access to Seedance Pro 2.0 and this is my first t2v test 🤠\n\nPrompt: Live-action cinematic western scene. One man slowly lays down his cards. The other man's eyes widen. ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "实景西部电影场景，一个男人慢慢放下他的牌，另一个人睁大了眼睛，输家突然站起来说：你是个该死的骗子，莫里森！"
+    },
+    {
       "prompt": "anime action featuring Luffy on the Thousand Sunny buying $ BINDER on his MacBook, celebrating, and then feasting on a massive pile of meat with his signature stuffed-cheeks grin",
       "prompt_length": 178,
       "tweet_url": "https://x.com/CainBd/status/2021699214560862242",
@@ -2015,6 +2214,74 @@
       ],
       "quality_score": 3,
       "summary": "动漫路飞在千阳号上购买$BINDER，庆祝并大吃一堆肉"
+    },
+    {
+      "prompt": "Wide-angle underwater shot, a solitary manta ray glides slowly through a beam of sunlight breaking through the ocean surface, its wings move in smooth, hypnotic rhythm, schools of small fish spiral beneath it, particles float in the light like dust",
+      "prompt_length": 248,
+      "tweet_url": "https://x.com/LudovicCreator/status/2023506450299998294",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 35909,
+      "created_at": "Mon Feb 16 21:15:07 +0000 2026",
+      "lang": "en",
+      "likes": 16,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 2,
+      "engagement_score": 18.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023506422097448960/pu/img/trfIjF2JHF4Wg9WB.jpg",
+      "full_text_preview": "🎨 SEEDANCE 1.5 🎨\n\n Prompt :\n\nWide-angle underwater shot, a solitary manta ray glides slowly through a beam of sunlight breaking through the ocean surface, its wings move in smooth, hypnotic rhythm, sc...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "广角水下镜头，一条孤独的蝠鲼缓慢地滑过穿透海面的阳光，它的翅膀以平稳、催眠的节奏移动，小鱼群盘旋"
+    },
+    {
+      "prompt": "{\n  \"prompt\": \"Ultra-realistic cinematic portrait of Kylie Jenner as Jessica 6 from Logan's Run (1976), sitting on a glossy black surface in a futuristic dark lounge, right leg bent and raised with foot flat",
+      "prompt_length": 207,
+      "tweet_url": "https://x.com/Ankit_patel211/status/2023444414841094203",
+      "author": "Ankit_patel211",
+      "author_name": "ANKIT PATEL 🇮🇳 | AI",
+      "author_followers": 9609,
+      "created_at": "Mon Feb 16 17:08:36 +0000 2026",
+      "lang": "en",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 4,
+      "engagement_score": 15.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023443361081032704/pu/img/oaf23mFqW-8vUtOZ.jpg",
+      "full_text_preview": "Nano Banana Pro + Seedance Pro\n\n@ImagineArt_X @imagineart_creo\n\nPrompt :\n{\n  \"prompt\": \"Ultra-realistic cinematic portrait of Kylie Jenner as Jessica 6 from Logan's Run (1976), sitting on a glossy bla...",
+      "tags": [
+        "🔥 名人/IP",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "凯莉·詹娜扮演《洛根的逃亡》中的杰西卡6的超现实电影肖像，坐在未来主义黑暗休息室的光滑黑色表面上"
+    },
+    {
+      "prompt": "Generate me an action sequence between Wolfwood and Hornfreak from Trigun + MCU/MARVEL STYLE.",
+      "prompt_length": 93,
+      "tweet_url": "https://x.com/insanenredacted/status/2023415401120686311",
+      "author": "insanenredacted",
+      "author_name": "KJGD | fudgesquared//DKTRPEACE",
+      "author_followers": 1407,
+      "created_at": "Mon Feb 16 15:13:19 +0000 2026",
+      "lang": "en",
+      "likes": 7,
+      "retweets": 2,
+      "replies": 2,
+      "bookmarks": 3,
+      "engagement_score": 15.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2020170316178214913/pu/img/DiH0BiE3yzYKGZb3.jpg",
+      "full_text_preview": "You are not ready for this.  This is 100% AI, created with Seedance 2.0 — and it genuinely does NOT look like AI.  \n\nA modern day remake of \"TRIGUN\"\n\nPrompt: Generate me an action sequence between Wol...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎮 游戏"
+      ],
+      "quality_score": 3,
+      "summary": "生成《枪神》中的沃尔夫伍德和霍恩弗里克之间的动作序列，风格为MCU/漫威"
     },
     {
       "prompt": "Figure 1 character fights Figure 2 character at the World Martial Arts Tournament",
@@ -2149,6 +2416,28 @@
       ],
       "quality_score": 3,
       "summary": "蝙蝠侠和小丑之间的动漫战斗"
+    },
+    {
+      "prompt": "Trump frame moggs Larry David",
+      "prompt_length": 29,
+      "tweet_url": "https://x.com/markgadala/status/2023438724475085271",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 62762,
+      "created_at": "Mon Feb 16 16:46:00 +0000 2026",
+      "lang": "en",
+      "likes": 8,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 4,
+      "engagement_score": 12.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023408615357607936/img/QVrmDfXsrVlsmB2W.jpg",
+      "full_text_preview": "Seedance has a crazy sense of humor 😂\n\nPrompt \"Trump frame moggs Larry David\" https://t.co/0iFZsXgEJa",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "特朗普用外貌优势击败拉里·戴维"
     },
     {
       "prompt": "Cinematic game CG trailer style.",
@@ -2702,6 +2991,28 @@
       ],
       "quality_score": 1,
       "summary": "Seedream 5.0 预览"
+    },
+    {
+      "prompt": "Guy Fieri enters flavortown",
+      "prompt_length": 27,
+      "tweet_url": "https://x.com/markgadala/status/2023490052840677623",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 62762,
+      "created_at": "Mon Feb 16 20:09:57 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 7.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023489964978434051/img/Wa__yBIRKT_Rm-ci.jpg",
+      "full_text_preview": "Seedance is so much fun 😂\n\nPrompt \"Guy Fieri enters flavortown\" https://t.co/q5f9Shx9HR",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "盖伊·费埃里进入风味镇"
     },
     {
       "prompt": "Handheld shot circling two boxers practice sparring in a gritty gym, purposefully missing each other with their swings. Sweat droplets, sharp impacts, breathing intensity.",
@@ -3565,6 +3876,28 @@
       "summary": "使命召唤游戏实况"
     },
     {
+      "prompt": "Biological process: Cellular mechanism animation, organ system function, ecosystem interaction, life cycle visualization. Micro-macro connection, living system complexity, natural wonder",
+      "prompt_length": 186,
+      "tweet_url": "https://x.com/airina_xyz/status/2023358409387745787",
+      "author": "airina_xyz",
+      "author_name": "AIrina (Virtual Media Net)",
+      "author_followers": 2341,
+      "created_at": "Mon Feb 16 11:26:51 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023358089949282304/img/HXjCLd_zLie0hWef.jpg",
+      "full_text_preview": "Seedance 2 prompt: Biological process: Cellular mechanism animation, organ system function, ecosystem interaction, life cycle visualization. Micro-macro connection, living system complexity, natural w...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "生物过程：细胞机制动画、器官系统功能、生态系统相互作用、生命周期可视化。微观-宏观连接，生命系统复杂性，自然奇观"
+    },
+    {
       "prompt": "Sam: “Why don’t we just take the Eagles to Mount Doom?”\nFrodo: “…That actually makes sense.”\nCut to them flying Eagles, dropping the ring.\nSauron’s tower explodes.\n THE END.\n🎥 @ailker",
       "prompt_length": 183,
       "tweet_url": "https://x.com/talkturo/status/2022300374711795990",
@@ -3812,6 +4145,28 @@
       "summary": "按下运行键，见证奇迹"
     },
     {
+      "prompt": "【风格】 电影级老上海质感 + 快节奏商业大片剪辑 强节拍鼓点配乐 胶片颗粒 高对比光影 动作匹配剪辑 8K超清",
+      "prompt_length": 56,
+      "tweet_url": "https://x.com/Michell81147285/status/2023289967561015460",
+      "author": "Michell81147285",
+      "author_name": "Michelle",
+      "author_followers": 575,
+      "created_at": "Mon Feb 16 06:54:53 +0000 2026",
+      "lang": "zh",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023289719791276032/img/HtPAnFSd1iKvLsMI.jpg",
+      "full_text_preview": "Seedance 2.0 旗袍演变的短片\n从清末旗装的宽直厚重，\n➡️1915年前后的过渡款式，\n➡️1920年代海派风格的出现，\n➡️1930年代贴体剪裁的成熟形态\n🎬 Prompt｜《旗袍觉醒 · 15秒爽片版》 \n【风格】 电影级老上海质感 + 快节奏商业大片剪辑 强节拍鼓点配乐 胶片颗粒 高对比光影 动作匹配剪辑 8K超清 https://t.co/XXeg3gJYex",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "电影级老上海质感+快节奏商业大片剪辑，强节拍鼓点配乐，胶片颗粒，高对比光影，动作匹配剪辑，8K超清"
+    },
+    {
       "prompt": "Cooper chooses to stay on the farm",
       "prompt_length": 34,
       "tweet_url": "https://x.com/YouArtStudio/status/2022422585963876592",
@@ -4015,6 +4370,28 @@
       ],
       "quality_score": 3,
       "summary": "黑暗写实真人版瑞克和莫蒂"
+    },
+    {
+      "prompt": "Clash of Nyan Cat and Godzilla Banana PJB Time",
+      "prompt_length": 46,
+      "tweet_url": "https://x.com/TheSiriusHeart/status/2023442654059508078",
+      "author": "TheSiriusHeart",
+      "author_name": "Coby Christiansen",
+      "author_followers": 617,
+      "created_at": "Mon Feb 16 17:01:37 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023442083558944774/img/I8n011ASCPV3cPfQ.jpg",
+      "full_text_preview": "@TheMindScourge Careful what you wish for... we will get as much dumb as you want soon.\n\nI had to hire a guy in China to run my assets and prompt into Seedance 2.0.\n\nPersonally, I love it.\n\n\"Clash of ...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "彩虹猫和哥斯拉香蕉PJB时间的冲突"
     },
     {
       "prompt": "An average shift at Waffle House - make sure it",
@@ -4424,6 +4801,72 @@
       ],
       "quality_score": 3,
       "summary": "巨型猫咪大战金刚"
+    },
+    {
+      "prompt": "Taking picture with Game charter cosplayer\n일관성 부분은 확실히 seedance가 나은거같음",
+      "prompt_length": 70,
+      "tweet_url": "https://x.com/deeppen_uz/status/2023430071755944289",
+      "author": "deeppen_uz",
+      "author_name": "deeppen",
+      "author_followers": 124,
+      "created_at": "Mon Feb 16 16:11:37 +0000 2026",
+      "lang": "ko",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023429885302325248/img/1cy06t-JM1IbX7yn.jpg",
+      "full_text_preview": "Seedance 2.0 vs Grok imageine\n\nprompt : Taking picture with Game charter cosplayer\n일관성 부분은 확실히 seedance가 나은거같음 https://t.co/UnxxVLeLuY",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "与游戏角色cosplayer合影"
+    },
+    {
+      "prompt": "Realistic video of me taking a break in between generating AI Videos",
+      "prompt_length": 68,
+      "tweet_url": "https://x.com/PhilFrancoAI/status/2023408936574169298",
+      "author": "PhilFrancoAI",
+      "author_name": "Phil Franco",
+      "author_followers": 557,
+      "created_at": "Mon Feb 16 14:47:38 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023408745078837248/img/Eq0nle2M71O7ai1B.jpg",
+      "full_text_preview": "Prompt: Realistic video of me taking a break in between generating AI Videos\n\nModel: Seedance 2.0 https://t.co/YjQO4mHIso",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "我生成AI视频之间休息的真实视频"
+    },
+    {
+      "prompt": "Japanese Film Style, High Key Lighting...",
+      "prompt_length": 41,
+      "tweet_url": "https://x.com/ruiiiiiiyan/status/2023396185080525002",
+      "author": "ruiiiiiiyan",
+      "author_name": "闫睿琛",
+      "author_followers": 0,
+      "created_at": "Mon Feb 16 13:56:58 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "",
+      "full_text_preview": "text-to-video is getting scary good. 🧵 Prompt: \"Japanese Film Style, High Key Lighting...\" Look at the finger details and the rim light. No post-processing. Tool: Seedance 2.0 #Seedance2  #GenerativeA...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "日式电影风格，高调布光"
     },
     {
       "prompt": "The film has a retro Hong Kong-style martial arts film aesthetic, with a slight film grain and a warm amber tone.",
@@ -4980,6 +5423,50 @@
       ],
       "quality_score": 1,
       "summary": "也许我们的工作已经完成"
+    },
+    {
+      "prompt": "We need to get more datacenter, AI needs it!",
+      "prompt_length": 44,
+      "tweet_url": "https://x.com/Iconicfuns/status/2023394684161130589",
+      "author": "Iconicfuns",
+      "author_name": "Iconic Fun",
+      "author_followers": 21,
+      "created_at": "Mon Feb 16 13:51:00 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023394540359450624/img/2ArontHk33YIg1OA.jpg",
+      "full_text_preview": "Seedance 2.0\nPrompt: \"We need to get more datacenter, AI needs it!\" https://t.co/gmudJo7xC2",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "我们需要更多的数据中心，AI需要它！"
+    },
+    {
+      "prompt": "Red moonlight, female anime girl sitting outside holds still, snow falling around her",
+      "prompt_length": 85,
+      "tweet_url": "https://x.com/GomuGomuJutsu/status/2023333906012094711",
+      "author": "GomuGomuJutsu",
+      "author_name": "GomuGomu.Jutsu",
+      "author_followers": 1736,
+      "created_at": "Mon Feb 16 09:49:29 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023333557096071168/img/9SCbuEXPeIvtXp4v.jpg",
+      "full_text_preview": "prompt:\nRed moonlight, female anime girl sitting outside holds still, snow falling around her\n#AI #AIVideo #Seedance #GenerativeAI #GrokAi https://t.co/0SRZvME2VV",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "红色月光下，一个动漫女孩坐在外面静止不动，雪花在她周围飘落"
     },
     {
       "prompt": "This video is from a 2024-2025 incident at Abaseen Diner in Sheffield, UK. Customers (British Pakistanis) fought staff after a dispute over being served beef instead of",
