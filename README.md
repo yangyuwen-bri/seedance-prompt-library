@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-248-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-02-16-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-264-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-02-17-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,25 +12,25 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **248** |
-| Languages | en: 192, zh: 45, es: 6, ja: 1, tr: 1 |
-| Last Updated | 2026-02-16 |
+| Total Prompts | **264** |
+| Languages | en: 207, zh: 45, es: 6, ko: 2, ja: 1 |
+| Last Updated | 2026-02-17 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 74 |
-| 😂 搞笑/Meme | 59 |
-| 🎨 艺术/创意 | 39 |
+| 🎬 电影/影视 | 82 |
+| 😂 搞笑/Meme | 62 |
+| 🎨 艺术/创意 | 40 |
 | 💡 创意/实验 | 37 |
-| 🎌 动漫 | 29 |
+| 🎌 动漫 | 30 |
 | 📺 广告/商业 | 21 |
 | 🌍 写实/纪实 | 19 |
-| 🏷️ 其他 | 14 |
+| 🏷️ 其他 | 17 |
 | 🎮 游戏 | 13 |
 | 🔥 名人/IP | 11 |
-| 🎵 音乐/MV | 4 |
+| 🎵 音乐/MV | 5 |
 
 ## 🔥 Top 10 Prompts
 
@@ -122,7 +122,18 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ---
 
-### #9 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
+### #9 ❤️ 1285 | 🏷️ 其他
+> 提示词类型声明，无法生成具体视频
+
+```
+Video Generation (Seedance 2.0):
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2023627985895694336/img/TrU0_bmo3k4kk0ed.jpg)](https://x.com/Elaina43114880/status/2023629768034594961)
+
+---
+
+### #10 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
 > 泰勒·德顿向咒术回战的角色解释搏击俱乐部的规则，真人风格。
 
 ```
@@ -130,17 +141,6 @@ tyler durden explains fight club rules to jujutsu kaisen characters. live action
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2021411710859608068/img/S5mlvhKLBdfWDUTT.jpg)](https://x.com/aimikoda/status/2021412326172393760)
-
----
-
-### #10 ❤️ 2436 | 🎌 动漫
-> 路飞和悟空在阳光号上进行一场史诗般的战斗。
-
-```
-Luffy and Goku having an epic fight scene on the sunny.
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2021611717751390208/img/GPvQ-J9m3e9r4dbi.jpg)](https://x.com/markgadala/status/2021611931480609139)
 
 ---
 
