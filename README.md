@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-264-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-02-17-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-282-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-02-18-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,25 +12,25 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **264** |
-| Languages | en: 207, zh: 45, es: 6, ko: 2, ja: 1 |
-| Last Updated | 2026-02-17 |
+| Total Prompts | **282** |
+| Languages | en: 223, zh: 46, es: 6, ko: 2, ja: 1 |
+| Last Updated | 2026-02-18 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 82 |
-| 😂 搞笑/Meme | 62 |
-| 🎨 艺术/创意 | 40 |
+| 🎬 电影/影视 | 92 |
+| 😂 搞笑/Meme | 63 |
+| 🎨 艺术/创意 | 42 |
 | 💡 创意/实验 | 37 |
 | 🎌 动漫 | 30 |
-| 📺 广告/商业 | 21 |
-| 🌍 写实/纪实 | 19 |
-| 🏷️ 其他 | 17 |
+| 📺 广告/商业 | 22 |
+| 🌍 写实/纪实 | 20 |
+| 🏷️ 其他 | 19 |
 | 🎮 游戏 | 13 |
-| 🔥 名人/IP | 11 |
-| 🎵 音乐/MV | 5 |
+| 🔥 名人/IP | 12 |
+| 🎵 音乐/MV | 6 |
 
 ## 🔥 Top 10 Prompts
 
@@ -56,7 +56,18 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 
 ---
 
-### #3 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
+### #3 ❤️ 11815 | 🎨 艺术/创意
+> 将整个场景的每一帧都转换为奥术动画的艺术风格。
+
+```
+change every frame in the entire scene to match the art style of the arcane animation, style transfer
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2024135583237545984/img/85NZ94saewO1SRy3.jpg)](https://x.com/ProperPrompter/status/2024135643350311256)
+
+---
+
+### #4 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
 > 在屏幕上随意堆砌内容，包括一艘大船，所有东西都爆炸，要求疯狂并获得至少50个赞。
 
 ```
@@ -67,7 +78,7 @@ just toss a bunch of bullshit on screen, show me like a big ship too, everything
 
 ---
 
-### #4 ❤️ 5437 | 📺 广告/商业
+### #5 ❤️ 5437 | 📺 广告/商业
 > 高质量的女性洗发水广告。
 
 ```
@@ -78,7 +89,7 @@ a high quality shampoo ad for women
 
 ---
 
-### #5 ❤️ 4051 | 🎬 电影/影视
+### #6 ❤️ 4051 | 🎬 电影/影视
 > 实景电影片段，一位年轻女子穿着奢华的黑色两件式泳衣从左边进入场景（在房子里），并拉上窗帘。
 
 ```
@@ -89,7 +100,7 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 
 ---
 
-### #6 ❤️ 2801 | 😂 搞笑/Meme
+### #7 ❤️ 2801 | 😂 搞笑/Meme
 > 拉里·大卫因为使用 Seedance 2 惹麻烦，要求制作低智商且能获得点赞的视频。
 
 ```
@@ -100,7 +111,7 @@ Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and
 
 ---
 
-### #7 ❤️ 3275 | 🌍 写实/纪实
+### #8 ❤️ 3275 | 🌍 写实/纪实
 > Kimi对GenAI视频模型市场进行全面分析，重点关注领先的参与者。
 
 ```
@@ -111,7 +122,7 @@ I asked Kimi to conduct a comprehensive analysis of the GenAI video model market
 
 ---
 
-### #8 ❤️ 3198 | 🎬 电影/影视
+### #9 ❤️ 3198 | 🎬 电影/影视
 > 快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。
 
 ```
@@ -122,7 +133,7 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ---
 
-### #9 ❤️ 1285 | 🏷️ 其他
+### #10 ❤️ 1285 | 🏷️ 其他
 > 提示词类型声明，无法生成具体视频
 
 ```
@@ -130,17 +141,6 @@ Video Generation (Seedance 2.0):
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2023627985895694336/img/TrU0_bmo3k4kk0ed.jpg)](https://x.com/Elaina43114880/status/2023629768034594961)
-
----
-
-### #10 ❤️ 2515 | 🎬 电影/影视 🎌 动漫
-> 泰勒·德顿向咒术回战的角色解释搏击俱乐部的规则，真人风格。
-
-```
-tyler durden explains fight club rules to jujutsu kaisen characters. live action style.
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2021411710859608068/img/S5mlvhKLBdfWDUTT.jpg)](https://x.com/aimikoda/status/2021412326172393760)
 
 ---
 

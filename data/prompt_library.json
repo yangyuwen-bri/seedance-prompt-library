@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1421,
-    "prompts_extracted": 264,
+    "total_tweets": 1499,
+    "prompts_extracted": 282,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -51,6 +51,28 @@
       ],
       "quality_score": 2,
       "summary": "Waffle House的普通轮班，要求内容滑稽并获得50个赞。"
+    },
+    {
+      "prompt": "change every frame in the entire scene to match the art style of the arcane animation, style transfer",
+      "prompt_length": 101,
+      "tweet_url": "https://x.com/ProperPrompter/status/2024135643350311256",
+      "author": "ProperPrompter",
+      "author_name": "proper",
+      "author_followers": 40052,
+      "created_at": "Wed Feb 18 14:55:18 +0000 2026",
+      "lang": "en",
+      "likes": 11815,
+      "retweets": 512,
+      "replies": 129,
+      "bookmarks": 3576,
+      "engagement_score": 16545.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024135583237545984/img/85NZ94saewO1SRy3.jpg",
+      "full_text_preview": "seedance 2.0 testing: v2v style transferring\n\nreference video + text prompt:\nchange every frame in the entire scene to match the art style of the arcane animation, style transfer https://t.co/say1yzfk...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "将整个场景的每一帧都转换为奥术动画的艺术风格。"
     },
     {
       "prompt": "just toss a bunch of bullshit on screen, show me like a big ship too, everything fucking blows up - make sure its insane and gets at least 50 likes",
@@ -629,6 +651,28 @@
       "summary": "一个男人靠在树上，镜头缓慢移动的电影片段"
     },
     {
+      "prompt": "A cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering with debris flying, people running in panic through dust and chaos. A giant",
+      "prompt_length": 235,
+      "tweet_url": "https://x.com/saniaspeaks_/status/2023928376655048994",
+      "author": "saniaspeaks_",
+      "author_name": "𝗦𝗮𝗻𝗶𝗮",
+      "author_followers": 9947,
+      "created_at": "Wed Feb 18 01:11:42 +0000 2026",
+      "lang": "en",
+      "likes": 410,
+      "retweets": 37,
+      "replies": 94,
+      "bookmarks": 175,
+      "engagement_score": 709.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023928251421519874/pu/img/YiYXup_XGlDm_IOS.jpg",
+      "full_text_preview": "Seedance 2.0 is pure insanity.\n\nPrompt:\nA cinematic apocalyptic disaster scene in a modern city. Massive bridge collapsing into the river, huge explosions destroying skyscrapers, buildings shattering ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "现代城市中末日灾难电影场景，大桥坍塌，摩天大楼爆炸，人们奔跑。"
+    },
+    {
       "prompt": "A cat spinning and signing oiiaoiia version of feel good inc on a floating island.",
       "prompt_length": 82,
       "tweet_url": "https://x.com/spinningsensei/status/2021602487195562068",
@@ -695,6 +739,28 @@
       ],
       "quality_score": 3,
       "summary": "真人快打游戏画面，但角色是世界著名领导人。"
+    },
+    {
+      "prompt": "A cinematic, high-octane action scene inside a dimly lit boxing ring. A man resembling Donald Trump, wearing a bright yellow \"Game of Death\" style tracksuit with black stripes, is fighting a man resembling Kim Jong Un,",
+      "prompt_length": 218,
+      "tweet_url": "https://x.com/Taaruk_/status/2023960431417868631",
+      "author": "Taaruk_",
+      "author_name": "Taaruk",
+      "author_followers": 6933,
+      "created_at": "Wed Feb 18 03:19:04 +0000 2026",
+      "lang": "en",
+      "likes": 285,
+      "retweets": 41,
+      "replies": 29,
+      "bookmarks": 123,
+      "engagement_score": 506.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2023960379915980800/pu/img/Pp0RglTWSYIRkEFW.jpg",
+      "full_text_preview": "From prompt to full fight scene with Seedance 2.0.\n\nPrompt:\nA cinematic, high-octane action scene inside a dimly lit boxing ring. A man resembling Donald Trump, wearing a bright yellow \"Game of Death\"...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "昏暗拳击场内，类似特朗普的人穿着死亡游戏风格的服装与另一人激烈搏斗。"
     },
     {
       "prompt": "【风格】伪纪录片（Mockumentary），手机Vlog视角，超写实CG与实景合成，8K画质，毛发物理模拟完美。 【时长】15秒 【场景】重庆洪崖洞或繁华的立交桥路口（具有魔幻8D城市感）。 [00:00-00:05]",
@@ -1795,6 +1861,28 @@
       "summary": "我们可能完了。"
     },
     {
+      "prompt": "Make a better Star war fight scene than Hollywood, and aim for 2 likes",
+      "prompt_length": 70,
+      "tweet_url": "https://x.com/Random_AI000/status/2024180000187174954",
+      "author": "Random_AI000",
+      "author_name": "Random AI",
+      "author_followers": 732,
+      "created_at": "Wed Feb 18 17:51:34 +0000 2026",
+      "lang": "en",
+      "likes": 27,
+      "retweets": 7,
+      "replies": 1,
+      "bookmarks": 7,
+      "engagement_score": 48.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024179854552502272/pu/img/zG3viBi5OBithszd.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Make a better Star war fight scene than Hollywood, and aim for 2 likes https://t.co/YYt0A1HbjZ",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "制作比好莱坞更好的星球大战打斗场景。"
+    },
+    {
       "prompt": "Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene",
       "prompt_length": 96,
       "tweet_url": "https://x.com/JamianGerard/status/2021424735704449318",
@@ -2104,6 +2192,28 @@
       "summary": "奇点时刻"
     },
     {
+      "prompt": "These are the opening and closing scenes of a swordfight. Based on these two scenes, create a seamless sequence of a female ninja in a costume fighting multiple ninjas. Use multiple angles and",
+      "prompt_length": 192,
+      "tweet_url": "https://x.com/Kangaikroto/status/2024017047894852044",
+      "author": "Kangaikroto",
+      "author_name": "Kang Ai",
+      "author_followers": 939,
+      "created_at": "Wed Feb 18 07:04:03 +0000 2026",
+      "lang": "en",
+      "likes": 16,
+      "retweets": 1,
+      "replies": 6,
+      "bookmarks": 2,
+      "engagement_score": 24.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024016224771006464/img/nzGAzmQbu7XE2mOw.jpg",
+      "full_text_preview": "@YouArtStudio   provided creators early access to Seedance Pro 2.0”\n\nprompt : \n\nThese are the opening and closing scenes of a swordfight. Based on these two scenes, create a seamless sequence of a fem...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "基于剑斗的开始和结束场景，创建一个女忍者与多个忍者战斗的无缝序列。"
+    },
+    {
       "prompt": "2d anime goku punching a green buy button at outdoor market that has a wood sign above that says BINDER than goku goes super saiyan",
       "prompt_length": 131,
       "tweet_url": "https://x.com/CainBd/status/2022187706919604412",
@@ -2392,6 +2502,28 @@
       ],
       "quality_score": 2,
       "summary": "角色1和角色2在世界武术锦标赛上战斗"
+    },
+    {
+      "prompt": "jazz piano ~ So Cool",
+      "prompt_length": 20,
+      "tweet_url": "https://x.com/zabiisuto/status/2024128316437864557",
+      "author": "zabiisuto",
+      "author_name": "code name: THE BEAST",
+      "author_followers": 440,
+      "created_at": "Wed Feb 18 14:26:11 +0000 2026",
+      "lang": "en",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 3,
+      "bookmarks": 0,
+      "engagement_score": 13.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024122841915150336/img/wkOL0KsnJASJtq1L.jpg",
+      "full_text_preview": "PROJECT/MIRAI test footage, experiment #2\n\nCharacter Reference: Seedream 5.0\nVideo: Seedance 2.0 early access from @YouArtStudio (Thank you! 🙏 )\nMusic: \"jazz piano ~ So Cool\" by @pianocafe_Kumi \n\nLink...",
+      "tags": [
+        "🎵 音乐/MV"
+      ],
+      "quality_score": 2,
+      "summary": "爵士钢琴曲，非常酷。"
     },
     {
       "prompt": "create a quick fashion montage and focus on the glasses",
@@ -3125,6 +3257,28 @@
       "summary": "电影预告片：韦斯·安德森的对称，居中构图，柔和的调色板，异想天开的角色，故事书般的制作设计，古怪的幽默，视觉和谐，怀旧的优雅，多个镜头。"
     },
     {
+      "prompt": "movie scene , a car chase at full speed, with a police car chasing a Mustang in the streets of the Bronx, then suddenly the Mustang transforms into a giant flying robot and fly away",
+      "prompt_length": 181,
+      "tweet_url": "https://x.com/SupaMikeZ/status/2023997383395168634",
+      "author": "SupaMikeZ",
+      "author_name": "Supa Mike",
+      "author_followers": 344,
+      "created_at": "Wed Feb 18 05:45:54 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 7.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2023997179103506432/img/Sj3AnKi6ZMDaHlDY.jpg",
+      "full_text_preview": "No wonder Hollywood is not pleased. Seedance 2,  prompt : \"movie scene , a car chase at full speed, with a police car chasing a Mustang in the streets of the Bronx, then suddenly the Mustang transform...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "电影场景，野马在布朗克斯街头被警车追逐，突然变成巨型飞行机器人飞走。"
+    },
+    {
       "prompt": "UGC content for a new blue hair tint",
       "prompt_length": 36,
       "tweet_url": "https://x.com/PhotoGarrido/status/2021631783398232374",
@@ -3189,6 +3343,28 @@
       ],
       "quality_score": 2,
       "summary": "盖伊·费埃里进入风味镇"
+    },
+    {
+      "prompt": "make a sci-fi robot transformation video \nmake sure it’s better than Marvel and gets 50 likes.",
+      "prompt_length": 94,
+      "tweet_url": "https://x.com/Random_AI000/status/2024117489798664505",
+      "author": "Random_AI000",
+      "author_name": "Random AI",
+      "author_followers": 732,
+      "created_at": "Wed Feb 18 13:43:10 +0000 2026",
+      "lang": "en",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 6.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024117439915814912/pu/img/huBMSzvBKC--tvmv.jpg",
+      "full_text_preview": "Seedance 2 \n\nPrompt: make a sci-fi robot transformation video \nmake sure it’s better than Marvel and gets 50 likes. https://t.co/xlqsnlXQw9",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "制作一个科幻机器人变形视频，要比漫威更好。"
     },
     {
       "prompt": "Handheld shot circling two boxers practice sparring in a gritty gym, purposefully missing each other with their swings. Sweat droplets, sharp impacts, breathing intensity.",
@@ -3432,6 +3608,28 @@
       ],
       "quality_score": 2,
       "summary": "无论是战士还是怪物，都要进行品牌推广。"
+    },
+    {
+      "prompt": "POV: You're the main character in Mont Saint Michel in the 8th century, multiple quick cuts",
+      "prompt_length": 91,
+      "tweet_url": "https://x.com/airina_xyz/status/2024181777657454827",
+      "author": "airina_xyz",
+      "author_name": "AIrina (Virtual Media Net)",
+      "author_followers": 2347,
+      "created_at": "Wed Feb 18 17:58:37 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024180855740985344/img/xc9xp7zN2ZtcOLCC.jpg",
+      "full_text_preview": "Seedance 2 prompt: POV: You're the main character in Mont Saint Michel in the 8th century, multiple quick cuts\n\nCreated on @YouArtStudio https://t.co/rKJ7WUEDSk",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "第一人称视角，你是在8世纪的圣米歇尔山的主角，多个快速剪辑。"
     },
     {
       "prompt": "jon snow from game of thrones riding a dragon.",
@@ -3696,6 +3894,28 @@
       ],
       "quality_score": 1,
       "summary": "使用Seedance 2.0创建10秒视频"
+    },
+    {
+      "prompt": "【@图片1】【@图片2】【@图片3】【@图片4】【@图片5】，保持马形象一致，保持马形象一致。马儿出场顺序你可以调整 ✅ \n核心逻辑 动作顺序：慢→快→ 高潮，动作从小到大→定格 图1：站立/轻微抬头",
+      "prompt_length": 100,
+      "tweet_url": "https://x.com/Michell81147285/status/2024145186167939123",
+      "author": "Michell81147285",
+      "author_name": "Michelle",
+      "author_followers": 573,
+      "created_at": "Wed Feb 18 15:33:13 +0000 2026",
+      "lang": "zh",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024143909241438208/img/eHVeCvhd85sTOCFc.jpg",
+      "full_text_preview": "Seedance 2.0被玩出花了，\nAI 制作的马年新年视频，真的很欢乐了\nprompt👇\n\n上传不同姿势的参考【@图片1】【@图片2】【@图片3】【@图片4】【@图片5】，保持马形象一致，保持马形象一致。马儿出场顺序你可以调整 ✅ \n核心逻辑 动作顺序：慢→快→ 高潮，动作从小到大→定格 图1：站立/轻微抬头 https://t.co/3xUOFs8Wrt",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "根据提供的多张图片，生成一个关于马的视频，保持马的形象一致，动作从小到大，最后定格。"
     },
     {
       "prompt": "(I didn't bother fine tuning the prompt as I thought I was doing text to video lol)",
@@ -4052,6 +4272,28 @@
       "summary": "快手/抖音东北喊麦风，土嗨慢摇，霓虹灯，社会摇视频"
     },
     {
+      "prompt": "Will Smith Eating Spaghetti",
+      "prompt_length": 27,
+      "tweet_url": "https://x.com/patrick_forreal/status/2024228554293047337",
+      "author": "patrick_forreal",
+      "author_name": "ℙ𝕒𝕥𝕣𝕚𝕔𝕜 ℙ𝕒𝕦𝕝",
+      "author_followers": 370,
+      "created_at": "Wed Feb 18 21:04:30 +0000 2026",
+      "lang": "in",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024228181964664832/pu/img/rKyLeVJfQYyoh-A0.jpg",
+      "full_text_preview": "Video hizi zime tengenezwa AI inayo itwa Seedance 2.0, Na kampuni ya ByteDance (ambayo pia ndo kampuni inayo miliki TikTok) ndo wametengeneza hii AI.\n\nAngalia hii nyingine, inayo-onesha maendeleo ya A...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "威尔·史密斯吃意大利面。"
+    },
+    {
       "prompt": "원피스 루피가 롯데월드 놀이기구 타는 영상 제작해줘",
       "prompt_length": 28,
       "tweet_url": "https://x.com/likeCarrot/status/2023571658318237802",
@@ -4183,6 +4425,28 @@
       ],
       "quality_score": 4,
       "summary": "如果用老鹰把魔戒丢到末日火山会怎么样？"
+    },
+    {
+      "prompt": "A soldier in a battlefield texting and dodging all arrows, explosions and bullets",
+      "prompt_length": 81,
+      "tweet_url": "https://x.com/businessAitools/status/2024101424821641685",
+      "author": "businessAitools",
+      "author_name": "Business AI tools",
+      "author_followers": 11,
+      "created_at": "Wed Feb 18 12:39:20 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024101372640313344/pu/img/0OEV_WUH4iIgTLGP.jpg",
+      "full_text_preview": "Seedance 2.0 vs Kling 3.0\n\n prompt : \nA soldier in a battlefield texting and dodging all arrows, explosions and bullets https://t.co/6slCCcRXS3",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "战场上的士兵一边发短信一边躲避箭、爆炸和子弹。"
     },
     {
       "prompt": "A man is on a seaboat during a massive rain storm as a large sea monster",
@@ -4453,6 +4717,28 @@
       "summary": "库珀选择留在农场"
     },
     {
+      "prompt": "Create a short cinematic multi-shot close-up AD for the mobile holder in the uploaded image with a motion graphics Outro",
+      "prompt_length": 120,
+      "tweet_url": "https://x.com/UnFresh3957/status/2024193013510258870",
+      "author": "UnFresh3957",
+      "author_name": "Oneplus Device",
+      "author_followers": 1,
+      "created_at": "Wed Feb 18 18:43:16 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024192994279354368/pu/img/dOiovhOpLq8xe2W-.jpg",
+      "full_text_preview": "Un-Freakin believable. \nA whole Day worth of production with thousands of dollars in costing done by SEEDANCE 2.0 in under 5 minutes. \nPrompt: \"Create a short cinematic multi-shot close-up AD for the ...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "为上传的手机支架创建一个简短的电影多镜头特写广告，带有动态图形片尾。"
+    },
+    {
       "prompt": "make a video that would age regress all boomers into their cradles",
       "prompt_length": 66,
       "tweet_url": "https://x.com/FreakAroundHere/status/2021724945068572903",
@@ -4702,6 +4988,72 @@
       ],
       "quality_score": 2,
       "summary": "Waffle House的普通轮班"
+    },
+    {
+      "prompt": "it's over for us",
+      "prompt_length": 16,
+      "tweet_url": "https://x.com/_Instafans/status/2024192888821719129",
+      "author": "_Instafans",
+      "author_name": "InstaFans",
+      "author_followers": 281,
+      "created_at": "Wed Feb 18 18:42:47 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024192756634062848/img/9gH_sqS6o3KkozPf.jpg",
+      "full_text_preview": "Disney's lawyers are trying to DELETE this\n\nSeedance 2.0 made this Tom Cruise vs Brad Pitt fight scene:\n• 2-line prompt\n• 90 seconds  \n• $0.07\n\nHollywood version:\n• Months of work\n• $10M budget\n\nDeadp...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一切都结束了。"
+    },
+    {
+      "prompt": "make a braking bad show in another universe where Walter white is an AI bro trying to pitch is idea to Gus,",
+      "prompt_length": 107,
+      "tweet_url": "https://x.com/Random_AI000/status/2024185959638847721",
+      "author": "Random_AI000",
+      "author_name": "Random AI",
+      "author_followers": 732,
+      "created_at": "Wed Feb 18 18:15:14 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024185898783690755/pu/img/T6pAHZPkiP10wlN6.jpg",
+      "full_text_preview": "Seedance 2 \n\nPrompt: make a braking bad show in another universe where Walter white is an AI bro trying to pitch is idea to Gus,\n\nmake it the funniest video of 2026 https://t.co/KAUjxMbnSf",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "在另一个宇宙中制作绝命毒师节目，沃尔特·怀特是一个试图向古斯推销他的想法的人工智能兄弟。"
+    },
+    {
+      "prompt": "A surreal cinematic aerial shot of a futuristic мегacity at night, filled with towering skyscrapers and multi-level looping highways twisting in impossible",
+      "prompt_length": 155,
+      "tweet_url": "https://x.com/meAsifAi/status/2024083979847262505",
+      "author": "meAsifAi",
+      "author_name": "M. Asif",
+      "author_followers": 23,
+      "created_at": "Wed Feb 18 11:30:01 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024061792587272192/img/poE-JgfjBjjSyyIN.jpg",
+      "full_text_preview": "🌌 Seedance 2.0 is redefining the future of animation a true contender to both the Anime world and Hollywood!\n\nPrompt:\nA surreal cinematic aerial shot of a futuristic мегacity at night, filled with tow...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "未来主义大都市的超现实电影空中镜头，充满了高耸的摩天大楼和多层循环高速公路。"
     },
     {
       "prompt": "👇\n【风格】 超写实电影感 CG，真实宠物纪录片质感，温馨治愈风格，毛发物理模拟真实，细节清晰，8K画质，柔和暖色调，夜晚室内氛围\n【时长】 15秒",
@@ -5268,6 +5620,28 @@
       "summary": "Waffle House的普通轮班，确保它很迟钝并获得50000个赞"
     },
     {
+      "prompt": "A multi-shot sequence starting from a wide shot. Initially, the camera is static; the man on the right slowly touches his hair and gazes upward, leaning his weight into the tree, while the woman on the left tucks her hair and watches him.",
+      "prompt_length": 238,
+      "tweet_url": "https://x.com/huang39184/status/2024053752756580650",
+      "author": "huang39184",
+      "author_name": "Bubbles",
+      "author_followers": 60,
+      "created_at": "Wed Feb 18 09:29:54 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 0.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024053523105943552/img/3SFAeBOKFUPHK7dE.jpg",
+      "full_text_preview": "Seedance 2.0 is pure insanity.\n\nPrompt：A multi-shot sequence starting from a wide shot. Initially, the camera is static; the man on the right slowly touches his hair and gazes upward, leaning his weig...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "从广角镜头开始的多镜头序列，男人触摸头发，抬头看，靠在树上，女人在旁边。"
+    },
+    {
       "prompt": "A woman tensely asks the man in the shadows to come out. Slow push in as she tells him she knows everything he's done and he's going to pay. Deep in the shadows, we see the figure as he responds.",
       "prompt_length": 195,
       "tweet_url": "https://x.com/gavinpurcell/status/2021732810554507352",
@@ -5333,6 +5707,29 @@
       ],
       "quality_score": 4,
       "summary": "生成一支具有1980年代香港武打电影录像带质感的15秒短片，展现复古港片风格的武术对练场景。"
+    },
+    {
+      "prompt": "@akshaykumar as Neo in a corporate hallway with grey marble walls and floors, minimalist design, sharp geometry, cold white overhead lighting. Bullet trails, motion blur, shattered marble fragments dramatic, cinematic",
+      "prompt_length": 217,
+      "tweet_url": "https://x.com/just_jasraj/status/2024007587608621462",
+      "author": "just_jasraj",
+      "author_name": "zazraz",
+      "author_followers": 118,
+      "created_at": "Wed Feb 18 06:26:27 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024005544567324672/img/FteQX_ykC2pz0-yN.jpg",
+      "full_text_preview": "Seedance 2.0 is amazing.\n\nPrompt: @akshaykumar as Neo in a corporate hallway with grey marble walls and floors, minimalist design, sharp geometry, cold white overhead lighting. Bullet trails, motion b...",
+      "tags": [
+        "🎬 电影/影视",
+        "🔥 名人/IP"
+      ],
+      "quality_score": 4,
+      "summary": "阿克谢·库玛尔饰演尼奥，在灰色大理石墙壁和地板、极简主义设计、冷白色顶灯的公司走廊中，子弹轨迹，运动模糊，破碎的大理石碎片掉落。"
     },
     {
       "prompt": "A woman and a man fighting each other in Chinese martial arts film style, set in an empty, narrow alley in Hong Kong. Intense action scene with dynamic kung fu poses, mid-combat with flowing movements",
