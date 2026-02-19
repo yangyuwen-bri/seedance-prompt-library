@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1499,
-    "prompts_extracted": 282,
+    "total_tweets": 1576,
+    "prompts_extracted": 298,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -206,6 +206,28 @@
       ],
       "quality_score": 3,
       "summary": "快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。"
+    },
+    {
+      "prompt": "AI goes woke. Make it really offensive - like really offensive.",
+      "prompt_length": 63,
+      "tweet_url": "https://x.com/charliebcurran/status/2024585477148627118",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 23496,
+      "created_at": "Thu Feb 19 20:42:47 +0000 2026",
+      "lang": "en",
+      "likes": 1971,
+      "retweets": 179,
+      "replies": 92,
+      "bookmarks": 705,
+      "engagement_score": 3141.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBjF4NQbkAAarVR.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: AI goes woke. Make it really offensive - like really offensive. https://t.co/hBGiuNb19F",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "生成具有冒犯性的AI内容"
     },
     {
       "prompt": "Video Generation (Seedance 2.0):",
@@ -718,6 +740,28 @@
       "summary": "两个女人在战斗。"
     },
     {
+      "prompt": "keep the central person completely motionless and frozen like a statue. Animate only the surrounding background and people with fast-paced movement and heavy motion blur, creating a",
+      "prompt_length": 181,
+      "tweet_url": "https://x.com/linyi_zheng/status/2024286150765269083",
+      "author": "linyi_zheng",
+      "author_name": "Lena Zheng",
+      "author_followers": 716,
+      "created_at": "Thu Feb 19 00:53:22 +0000 2026",
+      "lang": "en",
+      "likes": 323,
+      "retweets": 30,
+      "replies": 16,
+      "bookmarks": 287,
+      "engagement_score": 678.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024286045660155904/img/t6RLH3dsy_-T0OG6.jpg",
+      "full_text_preview": "Turned this Recraft V4 image into a dynamic time-lapse effect with Seedance 2.0 ⏳✨\n\nPrompt: keep the central person completely motionless and frozen like a statue. Animate only the surrounding backgro...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "静止的人物与快速运动的背景形成对比"
+    },
+    {
       "prompt": "Mortal Kombat gameplay footage but the characters are famous world leaders",
       "prompt_length": 74,
       "tweet_url": "https://x.com/thedorbrothers/status/2021203121024926171",
@@ -989,6 +1033,28 @@
       "summary": "Seedance 2.0 的宣传，要求展示一些热门内容，避免好莱坞模仿。"
     },
     {
+      "prompt": "Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints. The car speeds past without stopping. Dust cloud. She walks to her trunk and",
+      "prompt_length": 251,
+      "tweet_url": "https://x.com/Kiber_Alla/status/2024411387535962433",
+      "author": "Kiber_Alla",
+      "author_name": "Kiber Alla",
+      "author_followers": 364,
+      "created_at": "Thu Feb 19 09:11:01 +0000 2026",
+      "lang": "en",
+      "likes": 143,
+      "retweets": 11,
+      "replies": 14,
+      "bookmarks": 115,
+      "engagement_score": 291.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024409973522931712/img/y3-Okcq6Aq-SZXd5.jpg",
+      "full_text_preview": "Seedance Pro 2.0. \nPrompt: Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "女子在沙漠加油站的电影场景"
+    },
+    {
       "prompt": "【风格】豪门恩怨（High Society），真假千金梗，极致反转，撕绿茶爽文，高定礼服，美艳御姐风。 【时长】15秒 【角色】真千金（烈焰红唇，黑天鹅晚礼服，气场两米八）VS 假千金（小白花装扮，楚楚可怜，眼泪汪汪）。",
       "prompt_length": 110,
       "tweet_url": "https://x.com/johnAGI168/status/2020691248927875173",
@@ -1210,6 +1276,28 @@
       ],
       "quality_score": 1,
       "summary": "视觉风格"
+    },
+    {
+      "prompt": "Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoom in. His shoulders shake—he's either crying or laughing. Cut to close-up of",
+      "prompt_length": 254,
+      "tweet_url": "https://x.com/Kiber_Alla/status/2024414230976270847",
+      "author": "Kiber_Alla",
+      "author_name": "Kiber Alla",
+      "author_followers": 364,
+      "created_at": "Thu Feb 19 09:22:19 +0000 2026",
+      "lang": "en",
+      "likes": 113,
+      "retweets": 8,
+      "replies": 10,
+      "bookmarks": 67,
+      "engagement_score": 201.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024413710375153665/img/3DrhZxN35_Nk2UFN.jpg",
+      "full_text_preview": "Seedance 2.0🎥\nPrompt: Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoo...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "战士雨中跪地拔剑的电影场景"
     },
     {
       "prompt": "【风格】\n现代田园美学(Modern Rural Aesthetics)，电影级广告大片质感(Cinematic Commercial)，索尼A7S3/电影机拍摄，4K/8K超清，极致微距(Extreme",
@@ -1685,6 +1773,28 @@
       "summary": "唯美东方古典仙侠风格，绝美仙女的电影级质感短片"
     },
     {
+      "prompt": "let's see paul allen's dx terminal agent",
+      "prompt_length": 40,
+      "tweet_url": "https://x.com/poof_eth/status/2024292824615637400",
+      "author": "poof_eth",
+      "author_name": "poof",
+      "author_followers": 14341,
+      "created_at": "Thu Feb 19 01:19:53 +0000 2026",
+      "lang": "en",
+      "likes": 55,
+      "retweets": 6,
+      "replies": 7,
+      "bookmarks": 3,
+      "engagement_score": 73.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024292667455070208/img/H-P_9Kx7opnjBse3.jpg",
+      "full_text_preview": "seedance 2.0 prompt:\n\n\"let's see paul allen's dx terminal agent\" https://t.co/1wn5o8Gsg3",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "展示Paul Allen的DX终端代理"
+    },
+    {
       "prompt": "【风格】东方玄幻武侠（Wuxia Fantasy），电影级特效大片，史诗感，慢动作与快剪结合，粒子光效炸裂，4K超清。\n【时长】15秒",
       "prompt_length": 67,
       "tweet_url": "https://x.com/johnAGI168/status/2021217600122884274",
@@ -1727,6 +1837,28 @@
       ],
       "quality_score": 3,
       "summary": "关于George的宋飞正传剧集"
+    },
+    {
+      "prompt": "The image I provide contains my kitten — please use it as the character model reference.\nCreate a video where the kitten is riding a small cart and racing on a MotoGP track.",
+      "prompt_length": 173,
+      "tweet_url": "https://x.com/underwoodxie96/status/2024511160503132494",
+      "author": "underwoodxie96",
+      "author_name": "underwood",
+      "author_followers": 14305,
+      "created_at": "Thu Feb 19 15:47:28 +0000 2026",
+      "lang": "en",
+      "likes": 30,
+      "retweets": 6,
+      "replies": 1,
+      "bookmarks": 24,
+      "engagement_score": 66.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024511128257384449/pu/img/DxQ18glxjHhFK4x1.jpg",
+      "full_text_preview": "Use Seedance 2.0 and provide a photo of a kitten.\n\nprompt：\nThe image I provide contains my kitten — please use it as the character model reference.\nCreate a video where the kitten is riding a small ca...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 4,
+      "summary": "小猫在MotoGP赛道上驾驶小车比赛"
     },
     {
       "prompt": "Make the characters from Image 1 and Image 2 fight using the movements from the green-screen reference video. Setting: abandoned parking lot. Add visual effects during combat.",
@@ -1861,6 +1993,28 @@
       "summary": "我们可能完了。"
     },
     {
+      "prompt": "impossible maneuver",
+      "prompt_length": 19,
+      "tweet_url": "https://x.com/Kiber_Alla/status/2024427709560951282",
+      "author": "Kiber_Alla",
+      "author_name": "Kiber Alla",
+      "author_followers": 364,
+      "created_at": "Thu Feb 19 10:15:52 +0000 2026",
+      "lang": "en",
+      "likes": 35,
+      "retweets": 2,
+      "replies": 7,
+      "bookmarks": 7,
+      "engagement_score": 49.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024427354609565696/img/z9k08I0Uq7fu__yE.jpg",
+      "full_text_preview": "I decided to stress‑test Seedance 2 with a crazy amount of shot changes 🤠\nI was aiming for a tense western chase, but the goofy music, that “impossible maneuver” line I dropped into the prompt, and on...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 1,
+      "summary": "生成一个不可能的动作"
+    },
+    {
       "prompt": "Make a better Star war fight scene than Hollywood, and aim for 2 likes",
       "prompt_length": 70,
       "tweet_url": "https://x.com/Random_AI000/status/2024180000187174954",
@@ -1970,6 +2124,28 @@
       ],
       "quality_score": 1,
       "summary": "一句西班牙语“这是AI做的”"
+    },
+    {
+      "prompt": "Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots - one black (hero), one silver (opponent) - engage in rapid karate-style",
+      "prompt_length": 254,
+      "tweet_url": "https://x.com/john87445528/status/2024474572288926191",
+      "author": "john87445528",
+      "author_name": "John",
+      "author_followers": 4887,
+      "created_at": "Thu Feb 19 13:22:05 +0000 2026",
+      "lang": "en",
+      "likes": 26,
+      "retweets": 2,
+      "replies": 4,
+      "bookmarks": 10,
+      "engagement_score": 42.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024474201202036736/img/B-mkHllE5CTpD12K.jpg",
+      "full_text_preview": "seedance prompt :  Style: 1970s Gritty Sci-Fi Sports Film, Real Steel Aesthetic, Desaturated 35mm Film Stock, Practical Robot Combat Scene: Underground robot fighting cage. Two 2.5m tall combat robots...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "1970年代风格的机器人格斗电影场景"
     },
     {
       "prompt": "Half-Finished Father and Baby Wooden Sculpture",
@@ -2190,6 +2366,50 @@
       ],
       "quality_score": 1,
       "summary": "奇点时刻"
+    },
+    {
+      "prompt": "a man runs in the rain",
+      "prompt_length": 22,
+      "tweet_url": "https://x.com/jamesjyu/status/2024305814950101034",
+      "author": "jamesjyu",
+      "author_name": "james yu",
+      "author_followers": 14077,
+      "created_at": "Thu Feb 19 02:11:30 +0000 2026",
+      "lang": "en",
+      "likes": 22,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 5,
+      "engagement_score": 28.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024305383347814400/img/4Yh1XGIiuGAQjQ0s.jpg",
+      "full_text_preview": "current state of seedance guardrails: \n\n&lt;prompt with reference image, no known IP referenced&gt;\nREJECTED FOR COPYRIGHT\n\n&lt;me taking anything out that could be construed as IP&gt;\nREJECTED FOR CO...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一个男人在雨中奔跑"
+    },
+    {
+      "prompt": "Trump arrives in Fortnite!",
+      "prompt_length": 26,
+      "tweet_url": "https://x.com/jomatech/status/2024608758945731001",
+      "author": "jomatech",
+      "author_name": "Joma Tech",
+      "author_followers": 113071,
+      "created_at": "Thu Feb 19 22:15:18 +0000 2026",
+      "lang": "en",
+      "likes": 16,
+      "retweets": 2,
+      "replies": 3,
+      "bookmarks": 3,
+      "engagement_score": 26.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024607404172742656/img/Arpprjv4au9puSR1.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Trump arrives in Fortnite!\n\nCreated using Seedance 2.0 on @plotpartyai https://t.co/82rhYl9jWV",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "特朗普出现在堡垒之夜游戏中"
     },
     {
       "prompt": "These are the opening and closing scenes of a swordfight. Based on these two scenes, create a seamless sequence of a female ninja in a costume fighting multiple ninjas. Use multiple angles and",
@@ -3808,6 +4028,28 @@
       "summary": "儿童版龙珠动画，风格类似汪汪队立大功"
     },
     {
+      "prompt": "使用seedance_2.0_fast生成：一个美女元气满满地对着镜头挥手说中文：\\",
+      "prompt_length": 42,
+      "tweet_url": "https://x.com/zstmfhy/status/2024438488385622231",
+      "author": "zstmfhy",
+      "author_name": "AI奶爸",
+      "author_followers": 11988,
+      "created_at": "Thu Feb 19 10:58:42 +0000 2026",
+      "lang": "zh",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 4.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024437462232367104/img/cSl1gIMNDePRI-41.jpg",
+      "full_text_preview": "4⃣ 奶爸的AI助手\n\"prompt\": \"使用seedance_2.0_fast生成：一个美女元气满满地对着镜头挥手说中文：\\\"嗨！我是奶爸的AI助手！还没关注的朋友点个关注呗～我会一直在AIGC领域深耕，给大家带来更多超酷的AI作品和实用教程，跟我一起玩转人工智能！\\\" 表情阳光有活力，动作轻快友好，画面明亮清新\"\" https://t.co/mQouEM8ZrB",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "一个美女元气满满地对着镜头挥手说中文"
+    },
+    {
       "prompt": "Vegeta super saiyan 100 vs a nonchalance impassable base form Goku",
       "prompt_length": 66,
       "tweet_url": "https://x.com/minilozio/status/2021801238191354346",
@@ -4203,6 +4445,28 @@
       ],
       "quality_score": 3,
       "summary": "尼日利亚拉各斯的 alien 入侵"
+    },
+    {
+      "prompt": "Cinematic action sequence in a suburban living room: Arnold Schwarzenegger as Terminator T-800,  battles a  Predator  and wrist blades. Intense hand-to-hand combat: punches, throws through walls, furniture smashing, sparks and debris",
+      "prompt_length": 233,
+      "tweet_url": "https://x.com/FragZero/status/2024602699635790191",
+      "author": "FragZero",
+      "author_name": "FragZero",
+      "author_followers": 396,
+      "created_at": "Thu Feb 19 21:51:13 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 2,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024599555325542400/img/IzkYhLX5mVuPC-r-.jpg",
+      "full_text_preview": "Seedance 2.0 prompt: Cinematic action sequence in a suburban living room: Arnold Schwarzenegger as Terminator T-800,  battles a  Predator  and wrist blades. Intense hand-to-hand combat: punches, throw...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "终结者T-800与铁血战士在客厅激战的电影场景"
     },
     {
       "prompt": "make a viral godzilla video that can get me 1M impressions",
@@ -4854,6 +5118,28 @@
       "summary": "北宋古装情感短剧，国风，雨夜冷调美学，电影级镜头语言"
     },
     {
+      "prompt": "create an old classic kung fu movie with dogs in a very dramatic fashion",
+      "prompt_length": 72,
+      "tweet_url": "https://x.com/JackRicofficial/status/2024558690909422000",
+      "author": "JackRicofficial",
+      "author_name": "Jack Rico",
+      "author_followers": 14724,
+      "created_at": "Thu Feb 19 18:56:21 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024557037766545408/img/D8OuUafc58Qz1pcO.jpg",
+      "full_text_preview": "The prompt I used for all of them was: \"create an old classic kung fu movie with dogs in a very dramatic fashion\". \n\nTried SEEDANCE 2.0 first. https://t.co/ScN6Th2y9N",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "制作一部关于狗的经典功夫电影"
+    },
+    {
       "prompt": "One Prompt + One Image - Thriller Scene, High-Speed Racing &amp; more",
       "prompt_length": 69,
       "tweet_url": "https://x.com/bhrugsy/status/2022052159601480130",
@@ -5214,6 +5500,28 @@
       ],
       "quality_score": 2,
       "summary": "使视频中的每一种水果都显得新鲜成熟"
+    },
+    {
+      "prompt": "Sum up AI discourse in a meme - make sure it's retarded and gets 50 likes.",
+      "prompt_length": 74,
+      "tweet_url": "https://x.com/ekcheungAI/status/2024559791494836234",
+      "author": "ekcheungAI",
+      "author_name": "EK",
+      "author_followers": 8853,
+      "created_at": "Thu Feb 19 19:00:43 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024559750323552257/pu/img/cRJEufBFj_n2QfaS.jpg",
+      "full_text_preview": "Just tried Seedance 2.0 with the wildest prompt I've seen!\n\n\"Sum up AI discourse in a meme - make sure it's retarded and gets 50 likes.\"\n\nThis is literally meme generation on autopilot 😂\n\nNow AI can e...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用一个meme总结AI讨论"
     },
     {
       "prompt": "做一个5岁iPad小孩会喜欢的视频，\n手上沾着奇多污渍在屏幕上乱摸。\n不要出错。目标是50个点赞。",
@@ -5929,6 +6237,50 @@
       ],
       "quality_score": 3,
       "summary": "麦迪逊广场花园演唱会，主唱跪在舞台边缘的逼真镜头。"
+    },
+    {
+      "prompt": "Authentic cinematic quality, Wong Kar-wai wuxia style. A solitary black cat clad in lightweight soft armor confronts pursuers amidst the vast, desolate desert sands. Intense martial arts combat unfolds",
+      "prompt_length": 201,
+      "tweet_url": "https://x.com/tropwyld/status/2024296965237068076",
+      "author": "tropwyld",
+      "author_name": "Wild",
+      "author_followers": 271,
+      "created_at": "Thu Feb 19 01:36:20 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024296893573189635/img/2wWqzGQ2jjPM_Mm7.jpg",
+      "full_text_preview": "Below is a combat scene generated by Seedance 2.0 using the following prompt: Authentic cinematic quality, Wong Kar-wai wuxia style. A solitary black cat clad in lightweight soft armor confronts pursu...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "王家卫风格的武侠电影，黑猫在沙漠中与追兵战斗"
+    },
+    {
+      "prompt": "liquid mercury sphere morphing into a blooming rose, reflecting a neon city skyline.",
+      "prompt_length": 84,
+      "tweet_url": "https://x.com/jznode/status/2024285984490156347",
+      "author": "jznode",
+      "author_name": "JZ",
+      "author_followers": 7,
+      "created_at": "Thu Feb 19 00:52:42 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024285916970295298/img/kvE5xmJZi9CNwCN3.jpg",
+      "full_text_preview": "seedance 2.0, one text prompt, zero editing.\n\"liquid mercury sphere morphing into a blooming rose, reflecting a neon city skyline.\"\nthe physics on the mercury is wild. https://t.co/P22ItkG1Hr",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "液态水银球变成玫瑰，反射霓虹城市天际线"
     },
     {
       "prompt": "A small,...",

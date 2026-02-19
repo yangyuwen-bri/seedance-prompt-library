@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-282-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-02-18-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-298-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-02-19-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,22 +12,22 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **282** |
-| Languages | en: 223, zh: 46, es: 6, ko: 2, ja: 1 |
-| Last Updated | 2026-02-18 |
+| Total Prompts | **298** |
+| Languages | en: 238, zh: 47, es: 6, ko: 2, ja: 1 |
+| Last Updated | 2026-02-19 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 92 |
-| 😂 搞笑/Meme | 63 |
-| 🎨 艺术/创意 | 42 |
-| 💡 创意/实验 | 37 |
+| 🎬 电影/影视 | 98 |
+| 😂 搞笑/Meme | 66 |
+| 🎨 艺术/创意 | 43 |
+| 💡 创意/实验 | 39 |
 | 🎌 动漫 | 30 |
+| 🏷️ 其他 | 23 |
 | 📺 广告/商业 | 22 |
 | 🌍 写实/纪实 | 20 |
-| 🏷️ 其他 | 19 |
 | 🎮 游戏 | 13 |
 | 🔥 名人/IP | 12 |
 | 🎵 音乐/MV | 6 |
@@ -133,14 +133,14 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ---
 
-### #10 ❤️ 1285 | 🏷️ 其他
-> 提示词类型声明，无法生成具体视频
+### #10 ❤️ 1971 | 🏷️ 其他
+> 生成具有冒犯性的AI内容
 
 ```
-Video Generation (Seedance 2.0):
+AI goes woke. Make it really offensive - like really offensive.
 ```
 
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2023627985895694336/img/TrU0_bmo3k4kk0ed.jpg)](https://x.com/Elaina43114880/status/2023629768034594961)
+[![Video](https://pbs.twimg.com/media/HBjF4NQbkAAarVR.jpg)](https://x.com/charliebcurran/status/2024585477148627118)
 
 ---
 
