@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1576,
-    "prompts_extracted": 298,
+    "total_tweets": 1638,
+    "prompts_extracted": 309,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -206,6 +206,29 @@
       ],
       "quality_score": 3,
       "summary": "快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。"
+    },
+    {
+      "prompt": "Make a Pixar film about Punch. I want to cry and fall in love with him.",
+      "prompt_length": 71,
+      "tweet_url": "https://x.com/TBC_on_X/status/2024861467317776754",
+      "author": "TBC_on_X",
+      "author_name": "TBC",
+      "author_followers": 13912,
+      "created_at": "Fri Feb 20 14:59:28 +0000 2026",
+      "lang": "en",
+      "likes": 2252,
+      "retweets": 284,
+      "replies": 61,
+      "bookmarks": 543,
+      "engagement_score": 3473.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024861354683953153/img/K3ORUuTHMMevuj0l.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Make a Pixar film about Punch. I want to cry and fall in love with him. https://t.co/z3jfkzLElb",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "制作一部关于Punch的皮克斯风格电影，希望让人感动和爱上他。"
     },
     {
       "prompt": "AI goes woke. Make it really offensive - like really offensive.",
@@ -1570,6 +1593,29 @@
       "summary": "Avalabs高管的普通一天，需要足够滑稽以获得点赞。"
     },
     {
+      "prompt": "ARGUMENT - WHIP PAN FOLLOWS SPEAKER\n15 Seconds / Continuous Shot / Dynamic Camera",
+      "prompt_length": 81,
+      "tweet_url": "https://x.com/aimikoda/status/2024864600680776001",
+      "author": "aimikoda",
+      "author_name": "Aimi Kōda",
+      "author_followers": 946,
+      "created_at": "Fri Feb 20 15:11:55 +0000 2026",
+      "lang": "en",
+      "likes": 63,
+      "retweets": 1,
+      "replies": 7,
+      "bookmarks": 56,
+      "engagement_score": 126.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024864341569232897/img/i_eJ1bwE2afKb-bN.jpg",
+      "full_text_preview": "Tried whip pans and dialogue. I don't think there's a model that does it better.\n\nSeedance 2.0\n\nPrompt:\nARGUMENT - WHIP PAN FOLLOWS SPEAKER\n15 Seconds / Continuous Shot / Dynamic Camera\n\nSHOT DESCRIPT...",
+      "tags": [
+        "💡 创意/实验",
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "一个15秒的连续镜头，动态摄像机跟随说话者。"
+    },
+    {
       "prompt": "【风格】抖音搞笑段子（Viral Sketch Comedy），竖屏（Portrait），生活化运镜，演员表情夸张，音效卡点清晰。\n【时长】15秒\n【角色】\n老板（穿西装，夹公文包，一脸优越感）。",
       "prompt_length": 98,
       "tweet_url": "https://x.com/johnAGI168/status/2021197689937965562",
@@ -1795,6 +1841,29 @@
       "summary": "展示Paul Allen的DX终端代理"
     },
     {
+      "prompt": "Visual Style\nPhotorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range. Realistic live-action look with detailed skin, scales, clay and fire, natural highlights and shadows. Subtle handheld camera shake, shallow depth of field,",
+      "prompt_length": 254,
+      "tweet_url": "https://x.com/Kiber_Alla/status/2024840701276500387",
+      "author": "Kiber_Alla",
+      "author_name": "Kiber Alla",
+      "author_followers": 380,
+      "created_at": "Fri Feb 20 13:36:57 +0000 2026",
+      "lang": "en",
+      "likes": 53,
+      "retweets": 2,
+      "replies": 5,
+      "bookmarks": 14,
+      "engagement_score": 73.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024839328719949824/img/uEmXyvFZO3XiSkIF.jpg",
+      "full_text_preview": "Seedance 2.0\nPrompt: Visual Style\nPhotorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range. Realistic live-action look with detailed skin, scales, clay and fire, natural hi...",
+      "tags": [
+        "💡 创意/实验",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "写实电影风格，16:9，8K分辨率，宽动态范围，逼真的真人动作，细节丰富的皮肤、鳞片、粘土和火焰，自然的高光和阴影。"
+    },
+    {
       "prompt": "【风格】东方玄幻武侠（Wuxia Fantasy），电影级特效大片，史诗感，慢动作与快剪结合，粒子光效炸裂，4K超清。\n【时长】15秒",
       "prompt_length": 67,
       "tweet_url": "https://x.com/johnAGI168/status/2021217600122884274",
@@ -1881,6 +1950,29 @@
       ],
       "quality_score": 3,
       "summary": "让图像1和图像2中的角色使用绿幕参考视频中的动作进行战斗，场景设置在废弃的停车场，并在战斗中添加视觉效果。"
+    },
+    {
+      "prompt": "A 13-second POV horror sequence set in a desolate, abandoned institutional hallway with grimy, peeling walls",
+      "prompt_length": 108,
+      "tweet_url": "https://x.com/IqraSaifiii/status/2024773067856351317",
+      "author": "IqraSaifiii",
+      "author_name": "Iqra Saifi",
+      "author_followers": 6516,
+      "created_at": "Fri Feb 20 09:08:12 +0000 2026",
+      "lang": "en",
+      "likes": 34,
+      "retweets": 4,
+      "replies": 10,
+      "bookmarks": 14,
+      "engagement_score": 61.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024772985211764737/img/tSfuw8FkoOCne2u6.jpg",
+      "full_text_preview": "Who needs to wait for Seedance 2.0 when we have Kling 3.0?\n\nI just created a Shot Horror Sequence \n\nMulti Shot in text to video with Kling 3.0 on @Kling_ai \n\nPrompt:\n\nA 13-second POV horror sequence s...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "一个13秒的POV恐怖场景，设置在一个荒凉、废弃的机构走廊里，墙壁肮脏、剥落。"
     },
     {
       "prompt": "cinematic romantic epic film trailer, fast professional cuts. booming sci-fi romance love scene",
@@ -4072,6 +4164,52 @@
       "summary": "贝吉塔超级赛亚人100对战无所谓的常态悟空"
     },
     {
+      "prompt": "An overweight Indonesian man fights several enemies armed with machetes in a hotel hallway. He defeats them",
+      "prompt_length": 107,
+      "tweet_url": "https://x.com/sapujagad1987/status/2024801707813900338",
+      "author": "sapujagad1987",
+      "author_name": "Manz Al Ghozi",
+      "author_followers": 256,
+      "created_at": "Fri Feb 20 11:02:00 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 4.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024801167881240577/img/09LUGFFtlXmANIVx.jpg",
+      "full_text_preview": "@YouArtStudio\nProvided creators early access to Seedance Pro 2.0”  \n\nJust Simple prompt : \n\"An overweight Indonesian man fights several enemies armed with machetes in a hotel hallway. He defeats them\"...",
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "一个超重的印度尼西亚男人在酒店走廊里与几个手持砍刀的敌人战斗并击败他们。"
+    },
+    {
+      "prompt": "A female ninja fighting in a dark cinematic alley, intense sword fight, dynamic camera movement, high action, dramatic lighting",
+      "prompt_length": 127,
+      "tweet_url": "https://x.com/0879520ed907421/status/2024708073944932816",
+      "author": "0879520ed907421",
+      "author_name": "MB_H89 AI",
+      "author_followers": 227,
+      "created_at": "Fri Feb 20 04:49:56 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 4.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024706598602784768/img/k5yyk_pw8zZBLikR.jpg",
+      "full_text_preview": "@YouArtStudio provided creators early access to seedance Pro 2.0 \n\nprompt : A female ninja fighting in a dark cinematic alley, intense sword fight, dynamic camera movement, high action, dramatic light...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "一个女忍者在黑暗的电影巷子里战斗，激烈的剑战，动态的摄像机运动，高动作，戏剧性的灯光。"
+    },
+    {
       "prompt": "luffy in netflix brand",
       "prompt_length": 22,
       "tweet_url": "https://x.com/Motion_Viz/status/2022206606268911888",
@@ -4291,6 +4429,29 @@
       ],
       "quality_score": 2,
       "summary": "2027年超级碗中场秀。"
+    },
+    {
+      "prompt": "An epic cinematic fight between two ninjas in a bamboo forest — the White Ninja and the Black Ninja. The White Ninja defeats the Black Ninja. The White Ninja then says: “I create with",
+      "prompt_length": 183,
+      "tweet_url": "https://x.com/sapujagad1987/status/2024887036914926020",
+      "author": "sapujagad1987",
+      "author_name": "Manz Al Ghozi",
+      "author_followers": 255,
+      "created_at": "Fri Feb 20 16:41:04 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024886388228059136/img/sxHVEUleF2kFCALt.jpg",
+      "full_text_preview": "@YouArtStudio \nProvided creators early access to Seedance Pro 2.0”\n\nSimple Prompt :\nAn epic cinematic fight between two ninjas in a bamboo forest — the White Ninja and the Black Ninja. The White Ninja...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "两个忍者在竹林中进行史诗般的电影战斗——白忍者和黑忍者。白忍者击败了黑忍者。然后白忍者说：“我用创造”。"
     },
     {
       "prompt": "Prime? naaah, this is a champion's drink!",
@@ -6569,6 +6730,97 @@
       ],
       "quality_score": 3,
       "summary": "红色月光下，一个动漫女孩坐在外面静止不动，雪花在她周围飘落"
+    },
+    {
+      "prompt": "make a New Wave song about video killed the radio star and update it to Seedance killed to movie industry",
+      "prompt_length": 105,
+      "tweet_url": "https://x.com/stevegarfield/status/2024846085684961625",
+      "author": "stevegarfield",
+      "author_name": "Steve Garfield",
+      "author_followers": 28709,
+      "created_at": "Fri Feb 20 13:58:21 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "",
+      "full_text_preview": "Seedance Killed the Cinema Star.\n\nPrompted Gemini to use AI to create a song about Seedance generative video. \n\nPrompt: “make a New Wave song about video killed the radio star and update it to Seedanc...",
+      "tags": [
+        "🎵 音乐/MV",
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "制作一首关于“录像带杀死了广播明星”的新浪潮歌曲，并将其更新为“Seedance杀死了电影行业”。"
+    },
+    {
+      "prompt": "Live-action manga adaptation · Breathing Style",
+      "prompt_length": 46,
+      "tweet_url": "https://x.com/Rita53135643/status/2024801975607427235",
+      "author": "Rita53135643",
+      "author_name": "Rita",
+      "author_followers": 2905,
+      "created_at": "Fri Feb 20 11:03:04 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024801908934795264/img/XwB_mpInpGWXrIiu.jpg",
+      "full_text_preview": "Seedance 2.0 is terrifyingly good 😱\nI didn't even mention Demon Slayer or any specific keywords in the prompt...\nAnd this text-to-video result?\nMy \"live-action\" prompt straight-up gave me the exact or...",
+      "tags": [
+        "🎌 动漫",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "真人漫画改编，呼吸法。"
+    },
+    {
+      "prompt": "Turn me into John Wick",
+      "prompt_length": 22,
+      "tweet_url": "https://x.com/bywilllove/status/2024734655862493301",
+      "author": "bywilllove",
+      "author_name": "Will Love",
+      "author_followers": 1276,
+      "created_at": "Fri Feb 20 06:35:34 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024733816351576065/img/-k8cBEWiWLMlX4Ai.jpg",
+      "full_text_preview": "AI did this in 30 seconds  \n\nWith 1 quick prompt: 'Turn me into John Wick'\n\nHollywood is dead. Enter the era of Seedance 2.0 and AI films https://t.co/JCnPeNCExv",
+      "tags": [
+        "🎬 电影/影视",
+        "🔥 名人/IP"
+      ],
+      "quality_score": 2,
+      "summary": "把我变成John Wick。"
+    },
+    {
+      "prompt": "2 line prompt in Seedance 2.",
+      "prompt_length": 28,
+      "tweet_url": "https://x.com/hjtherealj/status/2024722539444949462",
+      "author": "hjtherealj",
+      "author_name": "HJ (Hank) Ellison",
+      "author_followers": 1537,
+      "created_at": "Fri Feb 20 05:47:25 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "",
+      "full_text_preview": "GSN-According to The Guardian, the 15-second video was created by Irish filmmaker Ruairí Robinson using Seedance 2, an AI video generator released by ByteDance. Robinson described the clip as the resu...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "Seedance 2 中的两行提示。"
     },
     {
       "prompt": "This video is from a 2024-2025 incident at Abaseen Diner in Sheffield, UK. Customers (British Pakistanis) fought staff after a dispute over being served beef instead of",

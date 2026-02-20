@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-298-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-02-19-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-309-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-02-20-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,25 +12,25 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **298** |
-| Languages | en: 238, zh: 47, es: 6, ko: 2, ja: 1 |
-| Last Updated | 2026-02-19 |
+| Total Prompts | **309** |
+| Languages | en: 249, zh: 47, es: 6, ko: 2, ja: 1 |
+| Last Updated | 2026-02-20 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 98 |
-| 😂 搞笑/Meme | 66 |
-| 🎨 艺术/创意 | 43 |
-| 💡 创意/实验 | 39 |
-| 🎌 动漫 | 30 |
-| 🏷️ 其他 | 23 |
+| 🎬 电影/影视 | 105 |
+| 😂 搞笑/Meme | 67 |
+| 🎨 艺术/创意 | 48 |
+| 💡 创意/实验 | 42 |
+| 🎌 动漫 | 31 |
+| 🏷️ 其他 | 25 |
 | 📺 广告/商业 | 22 |
 | 🌍 写实/纪实 | 20 |
 | 🎮 游戏 | 13 |
-| 🔥 名人/IP | 12 |
-| 🎵 音乐/MV | 6 |
+| 🔥 名人/IP | 13 |
+| 🎵 音乐/MV | 7 |
 
 ## 🔥 Top 10 Prompts
 
@@ -133,14 +133,14 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 
 ---
 
-### #10 ❤️ 1971 | 🏷️ 其他
-> 生成具有冒犯性的AI内容
+### #10 ❤️ 2252 | 🎬 电影/影视 🎨 艺术/创意
+> 制作一部关于Punch的皮克斯风格电影，希望让人感动和爱上他。
 
 ```
-AI goes woke. Make it really offensive - like really offensive.
+Make a Pixar film about Punch. I want to cry and fall in love with him.
 ```
 
-[![Video](https://pbs.twimg.com/media/HBjF4NQbkAAarVR.jpg)](https://x.com/charliebcurran/status/2024585477148627118)
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2024861354683953153/img/K3ORUuTHMMevuj0l.jpg)](https://x.com/TBC_on_X/status/2024861467317776754)
 
 ---
 
