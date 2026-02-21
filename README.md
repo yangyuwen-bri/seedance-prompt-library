@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-309-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-02-20-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-319-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-02-21-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,23 +12,23 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **309** |
-| Languages | en: 249, zh: 47, es: 6, ko: 2, ja: 1 |
-| Last Updated | 2026-02-20 |
+| Total Prompts | **319** |
+| Languages | en: 257, zh: 47, es: 6, tr: 2, in: 2 |
+| Last Updated | 2026-02-21 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 105 |
-| 😂 搞笑/Meme | 67 |
-| 🎨 艺术/创意 | 48 |
+| 🎬 电影/影视 | 107 |
+| 😂 搞笑/Meme | 71 |
+| 🎨 艺术/创意 | 50 |
 | 💡 创意/实验 | 42 |
 | 🎌 动漫 | 31 |
-| 🏷️ 其他 | 25 |
+| 🏷️ 其他 | 26 |
 | 📺 广告/商业 | 22 |
 | 🌍 写实/纪实 | 20 |
-| 🎮 游戏 | 13 |
+| 🎮 游戏 | 14 |
 | 🔥 名人/IP | 13 |
 | 🎵 音乐/MV | 7 |
 
@@ -56,7 +56,18 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 
 ---
 
-### #3 ❤️ 11815 | 🎨 艺术/创意
+### #3 ❤️ 12979 | 😂 搞笑/Meme
+> 猴子反击，让女孩们骄傲（内容模糊）
+
+```
+Punch the Monkey punches back. Make the girls proud.
+```
+
+[![Video](https://pbs.twimg.com/media/HBo_Vu2bAAE9ohR.jpg)](https://x.com/charliebcurran/status/2025000532646265184)
+
+---
+
+### #4 ❤️ 11815 | 🎨 艺术/创意
 > 将整个场景的每一帧都转换为奥术动画的艺术风格。
 
 ```
@@ -67,7 +78,7 @@ change every frame in the entire scene to match the art style of the arcane anim
 
 ---
 
-### #4 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
+### #5 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
 > 在屏幕上随意堆砌内容，包括一艘大船，所有东西都爆炸，要求疯狂并获得至少50个赞。
 
 ```
@@ -78,7 +89,7 @@ just toss a bunch of bullshit on screen, show me like a big ship too, everything
 
 ---
 
-### #5 ❤️ 5437 | 📺 广告/商业
+### #6 ❤️ 5437 | 📺 广告/商业
 > 高质量的女性洗发水广告。
 
 ```
@@ -89,7 +100,7 @@ a high quality shampoo ad for women
 
 ---
 
-### #6 ❤️ 4051 | 🎬 电影/影视
+### #7 ❤️ 4051 | 🎬 电影/影视
 > 实景电影片段，一位年轻女子穿着奢华的黑色两件式泳衣从左边进入场景（在房子里），并拉上窗帘。
 
 ```
@@ -100,7 +111,7 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 
 ---
 
-### #7 ❤️ 2801 | 😂 搞笑/Meme
+### #8 ❤️ 2801 | 😂 搞笑/Meme
 > 拉里·大卫因为使用 Seedance 2 惹麻烦，要求制作低智商且能获得点赞的视频。
 
 ```
@@ -111,7 +122,7 @@ Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and
 
 ---
 
-### #8 ❤️ 3275 | 🌍 写实/纪实
+### #9 ❤️ 3275 | 🌍 写实/纪实
 > Kimi对GenAI视频模型市场进行全面分析，重点关注领先的参与者。
 
 ```
@@ -122,7 +133,7 @@ I asked Kimi to conduct a comprehensive analysis of the GenAI video model market
 
 ---
 
-### #9 ❤️ 3198 | 🎬 电影/影视
+### #10 ❤️ 3198 | 🎬 电影/影视
 > 快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。
 
 ```
@@ -130,17 +141,6 @@ fast action movie scene, hand-held camera, the woman notices the pilots have dis
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2020888550791659520/img/QfKNmFjSe_YEwtla.jpg)](https://x.com/janekm/status/2020888750285332526)
-
----
-
-### #10 ❤️ 2252 | 🎬 电影/影视 🎨 艺术/创意
-> 制作一部关于Punch的皮克斯风格电影，希望让人感动和爱上他。
-
-```
-Make a Pixar film about Punch. I want to cry and fall in love with him.
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2024861354683953153/img/K3ORUuTHMMevuj0l.jpg)](https://x.com/TBC_on_X/status/2024861467317776754)
 
 ---
 

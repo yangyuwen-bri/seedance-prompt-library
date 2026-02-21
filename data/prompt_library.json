@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1638,
-    "prompts_extracted": 309,
+    "total_tweets": 1703,
+    "prompts_extracted": 319,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -51,6 +51,28 @@
       ],
       "quality_score": 2,
       "summary": "Waffle House的普通轮班，要求内容滑稽并获得50个赞。"
+    },
+    {
+      "prompt": "Punch the Monkey punches back. Make the girls proud.",
+      "prompt_length": 52,
+      "tweet_url": "https://x.com/charliebcurran/status/2025000532646265184",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 24147,
+      "created_at": "Sat Feb 21 00:12:04 +0000 2026",
+      "lang": "en",
+      "likes": 12979,
+      "retweets": 1727,
+      "replies": 321,
+      "bookmarks": 3453,
+      "engagement_score": 20727.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBo_Vu2bAAE9ohR.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Punch the Monkey punches back. Make the girls proud. https://t.co/AYhPf490bJ",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "猴子反击，让女孩们骄傲（内容模糊）"
     },
     {
       "prompt": "change every frame in the entire scene to match the art style of the arcane animation, style transfer",
@@ -1211,6 +1233,28 @@
       "summary": "在温哥华豪宅前策马狂奔的场景。"
     },
     {
+      "prompt": "Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single continuous shot)Open high",
+      "prompt_length": 104,
+      "tweet_url": "https://x.com/umesh_ai/status/2025151963386548438",
+      "author": "umesh_ai",
+      "author_name": "Umesh",
+      "author_followers": 43140,
+      "created_at": "Sat Feb 21 10:13:48 +0000 2026",
+      "lang": "en",
+      "likes": 130,
+      "retweets": 7,
+      "replies": 14,
+      "bookmarks": 69,
+      "engagement_score": 221.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025151914695180288/pu/img/_8rgFQYBFa6CyEyV.jpg",
+      "full_text_preview": "This wasn’t generated with the latest Seedance 2.0 or Kling 3.0.\n\nThis was made with Kling 2.6. Imagine what will be possible to create in the next couple of years.\n\nPrompt: Futuristic hovercraft on s...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "未来悬浮艇在非洲草原上行驶的连续镜头"
+    },
+    {
       "prompt": "【风格】国产爆款短剧（Viral Short Drama），竖屏构图（9:16 Portrait Ratio），极致虐心（Melodramatic），雨夜街头，高对比度霓虹光影，手持摄影晃动感。 【时长】15秒",
       "prompt_length": 105,
       "tweet_url": "https://x.com/johnAGI168/status/2020696605855302062",
@@ -1707,6 +1751,28 @@
       "summary": "一个生物在未来城市中极速行驶，四个场景切换。"
     },
     {
+      "prompt": "Create a Pixar-style film about Punch that will make grown men cry",
+      "prompt_length": 66,
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2025032233011294419",
+      "author": "ChillaiKalan__",
+      "author_name": "K",
+      "author_followers": 8270,
+      "created_at": "Sat Feb 21 02:18:02 +0000 2026",
+      "lang": "en",
+      "likes": 66,
+      "retweets": 3,
+      "replies": 13,
+      "bookmarks": 22,
+      "engagement_score": 100.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025032175654244352/pu/img/3flA_Uk-x3zWM4KU.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Create a Pixar-style film about Punch that will make grown men cry https://t.co/A2I4x1D0bT",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "制作一部皮克斯风格的关于Punch的电影，让人感动"
+    },
+    {
       "prompt": "【风格】史诗级灾难动作片（Epic Disaster Action），真人特效（Live-Action VFX），冰火两重天的极端环境，颗粒感战损画质，高速摄影，物理破坏真实感。 【时长】15秒",
       "prompt_length": 97,
       "tweet_url": "https://x.com/johnAGI168/status/2021125715324752246",
@@ -1794,6 +1860,28 @@
       ],
       "quality_score": 4,
       "summary": "一战战场上，50英尺高的蒸汽动力步行战争机器行进的电影级多镜头视频，以史诗般的广角镜头开始，展示多个机械巨人在泥泞中前进。"
+    },
+    {
+      "prompt": "Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her",
+      "prompt_length": 223,
+      "tweet_url": "https://x.com/underwoodxie96/status/2025085690154000794",
+      "author": "underwoodxie96",
+      "author_name": "underwood",
+      "author_followers": 14523,
+      "created_at": "Sat Feb 21 05:50:27 +0000 2026",
+      "lang": "en",
+      "likes": 40,
+      "retweets": 7,
+      "replies": 3,
+      "bookmarks": 32,
+      "engagement_score": 87.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025085648022200320/pu/img/_-iz_F-1bhLysjzw.jpg",
+      "full_text_preview": "Create popular drag videos using Seedance 2.0\n\nprompt：\nHelp me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dress...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "一个穿着朴素的女孩在舒适的房子里"
     },
     {
       "prompt": "【风格】东方古典仙侠美学，唯美主义，电影级质感，流体布料模拟，发光粒子特效，梦幻光影。 【时长】15秒 【主角】绝美仙女，身着多层素白霓裳羽衣，超长飘带。 [00:00-00:05] 镜头1：史诗感大远景（Epic Wide Shot）。",
@@ -2039,6 +2127,28 @@
       ],
       "quality_score": 2,
       "summary": "抖音/快手竖屏高端网红直播间风格"
+    },
+    {
+      "prompt": "the most boring and awkward moment ever",
+      "prompt_length": 39,
+      "tweet_url": "https://x.com/ProperPrompter/status/2025180010768990616",
+      "author": "ProperPrompter",
+      "author_name": "proper",
+      "author_followers": 40995,
+      "created_at": "Sat Feb 21 12:05:15 +0000 2026",
+      "lang": "en",
+      "likes": 35,
+      "retweets": 2,
+      "replies": 8,
+      "bookmarks": 10,
+      "engagement_score": 53.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025179959569117184/img/5c7G9CeIrM2wyeyw.jpg",
+      "full_text_preview": "seedance 2.0: spacial consistency\n\npause on the wide shot and check the seating order for consistency of the close up shots. 🤌\n\nprompt: the most boring and awkward moment ever https://t.co/2uf5aLtYDd",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "有史以来最无聊和尴尬的时刻"
     },
     {
       "prompt": "The @figma for AI content creation is finally here.",
@@ -2746,6 +2856,28 @@
       ],
       "quality_score": 3,
       "summary": "广角水下镜头，一条孤独的蝠鲼缓慢地滑过穿透海面的阳光，它的翅膀以平稳、催眠的节奏移动，小鱼群盘旋"
+    },
+    {
+      "prompt": "Ultra-realistic cinematic action sequence based on the provided reference frames. Same Asian man, same rooftop",
+      "prompt_length": 110,
+      "tweet_url": "https://x.com/xenit_v0/status/2025296908240257191",
+      "author": "xenit_v0",
+      "author_name": "Mehmet",
+      "author_followers": 7768,
+      "created_at": "Sat Feb 21 19:49:45 +0000 2026",
+      "lang": "tr",
+      "likes": 10,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 7,
+      "engagement_score": 17.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025296357909463040/img/zvSLBq-SiFRicFN1.jpg",
+      "full_text_preview": "Seedance 2.0 kullanılarak oluşturulan bir kaç  bilim kurgu film  sahnesi: \n\nPromptu da altında veriyorum isteyen başka modeller ile deneyebilir.\n\n1. Video: \n\"Prompt:\n\"Ultra-realistic cinematic action ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "基于参考帧的超现实电影动作场景，亚洲男子在屋顶"
     },
     {
       "prompt": "{\n  \"prompt\": \"Ultra-realistic cinematic portrait of Kylie Jenner as Jessica 6 from Logan's Run (1976), sitting on a glossy black surface in a futuristic dark lounge, right leg bent and raised with foot flat",
@@ -3832,6 +3964,28 @@
       ],
       "quality_score": 3,
       "summary": "80年代电视访谈节目，金发女记者采访吸血鬼"
+    },
+    {
+      "prompt": "Si “Punch the Monkey” membalas pukulan. Bikin para cewek bangga.",
+      "prompt_length": 64,
+      "tweet_url": "https://x.com/notkirno/status/2025259950860370174",
+      "author": "notkirno",
+      "author_name": "K18",
+      "author_followers": 2638,
+      "created_at": "Sat Feb 21 17:22:54 +0000 2026",
+      "lang": "in",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 5.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBo_Vu2bAAE9ohR.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt:\nSi “Punch the Monkey” membalas pukulan. Bikin para cewek bangga. https://t.co/bskcFtRwND",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "猴子反击，让女孩们骄傲（印尼语）"
     },
     {
       "prompt": "dance battle video",
@@ -5120,6 +5274,28 @@
       "summary": "电影级老上海质感+快节奏商业大片剪辑，强节拍鼓点配乐，胶片颗粒，高对比光影，动作匹配剪辑，8K超清"
     },
     {
+      "prompt": "Cyberpunk style, game CGI, dark scene. A run-down city corner. A young assassin fights enemies. The camera rapidly pulls back, revealing the assassin surrounded by multiple enemies. The assassin",
+      "prompt_length": 194,
+      "tweet_url": "https://x.com/RizkiYulfa20495/status/2024983544913863114",
+      "author": "RizkiYulfa20495",
+      "author_name": "Yulfany Rizki",
+      "author_followers": 96,
+      "created_at": "Fri Feb 20 23:04:34 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2024983507332902913/pu/img/VaRuyasw0dGkKTXY.jpg",
+      "full_text_preview": "@YouArtStudio   provided creators early access to Seedance Pro 2.0”\n\nSimpel Prompt : \nCyberpunk style, game CGI, dark scene. A run-down city corner. A young assassin fights enemies. The camera rapidly...",
+      "tags": [
+        "🎮 游戏"
+      ],
+      "quality_score": 3,
+      "summary": "赛博朋克风格，游戏CGI，年轻刺客在破败的城市角落与敌人战斗"
+    },
+    {
       "prompt": "Cooper chooses to stay on the farm",
       "prompt_length": 34,
       "tweet_url": "https://x.com/YouArtStudio/status/2022422585963876592",
@@ -5345,6 +5521,50 @@
       ],
       "quality_score": 3,
       "summary": "关于耐克品牌的宣传片"
+    },
+    {
+      "prompt": "Punch the Monkey punches back. Make the girls proud.” 🐒🔥",
+      "prompt_length": 56,
+      "tweet_url": "https://x.com/SheKnowsScience/status/2025171617802813791",
+      "author": "SheKnowsScience",
+      "author_name": "Liisa Nieminen",
+      "author_followers": 1405,
+      "created_at": "Sat Feb 21 11:31:54 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBo_Vu2bAAE9ohR.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: “Punch the Monkey punches back. Make the girls proud.” 🐒🔥\n\nFrom comfort toy to comeback arc.\n\nMain character energy unlocked.\nhttps://t.co/aIHOkq3A8W",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "猴子反击，让女孩们骄傲（带表情符号）"
+    },
+    {
+      "prompt": "Photorealistic superhero cat jumps from a skyscraper at night and flies between tall buildings, red cape flowing, cinematic tracking shot, realistic physics, smooth motion, slight motion blur, dramatic.",
+      "prompt_length": 202,
+      "tweet_url": "https://x.com/Sutris0810/status/2025063464117612840",
+      "author": "Sutris0810",
+      "author_name": "SUTRIS",
+      "author_followers": 8,
+      "created_at": "Sat Feb 21 04:22:08 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025063354159824902/pu/img/80ZGH017GJarweZY.jpg",
+      "full_text_preview": "@YouArtStudio   provided creators early access to Seedance Pro 2.0”\nPrompt:\nPhotorealistic superhero cat jumps from a skyscraper at night and flies between tall buildings, red cape flowing, cinematic ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "超现实主义的超级英雄猫在夜晚从摩天大楼跳下，在建筑物之间飞行"
     },
     {
       "prompt": "recreate the the last of us TV show but make it good this time",
