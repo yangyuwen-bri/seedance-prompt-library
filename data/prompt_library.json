@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1703,
-    "prompts_extracted": 319,
+    "total_tweets": 1758,
+    "prompts_extracted": 330,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -2085,6 +2085,28 @@
       "summary": "电影化的浪漫史诗预告片，快节奏剪辑，科幻爱情场景"
     },
     {
+      "prompt": "A man walks out of his house toward the parked car.",
+      "prompt_length": 51,
+      "tweet_url": "https://x.com/Framer_X/status/2025586704728670713",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 42617,
+      "created_at": "Sun Feb 22 15:01:18 +0000 2026",
+      "lang": "en",
+      "likes": 25,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 34,
+      "engagement_score": 59.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025586641528864768/img/OmzxD-yrEz-PWpN-.jpg",
+      "full_text_preview": "Head to Seedance 2.0 (this cartoon was created on the Jimeng platform).\n\nUse the following prompt:\n\n\"A man walks out of his house toward the parked car.\n\n[cut] The man gets into the car.\n\n[cut] Man tu...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "一个男人走出家门走向停着的车。"
+    },
+    {
       "prompt": "Softness overcomes Hardness",
       "prompt_length": 27,
       "tweet_url": "https://x.com/plasm0/status/2021423455162466734",
@@ -2105,6 +2127,28 @@
       ],
       "quality_score": 2,
       "summary": "关于“以柔克刚”的视频"
+    },
+    {
+      "prompt": "Mad Men episode where Don pitches \"The Permanent Underclass\" - make no mistakes.",
+      "prompt_length": 80,
+      "tweet_url": "https://x.com/charliebcurran/status/2025694946855104627",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 24213,
+      "created_at": "Sun Feb 22 22:11:25 +0000 2026",
+      "lang": "en",
+      "likes": 36,
+      "retweets": 3,
+      "replies": 5,
+      "bookmarks": 6,
+      "engagement_score": 55.0,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBy24xjbwAABJ1E.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Mad Men episode where Don pitches \"The Permanent Underclass\" - make no mistakes. https://t.co/IwDqB1CyXZ",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "广告狂人中Don推销“永久底层阶级”的片段。"
     },
     {
       "prompt": "【风格】抖音/快手竖屏(TikTok Portrait 9:16)，高端网红直播间(High-end",
@@ -2747,6 +2791,28 @@
       "summary": "猫飞过伊斯坦布尔。"
     },
     {
+      "prompt": "A high-quality cinematic video of a bright red Jeep Wrangler parked at a busy city intersection. The car begins a complex mechanical",
+      "prompt_length": 132,
+      "tweet_url": "https://x.com/IqraSaifiii/status/2025585211434754269",
+      "author": "IqraSaifiii",
+      "author_name": "Iqra Saifi",
+      "author_followers": 6561,
+      "created_at": "Sun Feb 22 14:55:22 +0000 2026",
+      "lang": "en",
+      "likes": 14,
+      "retweets": 1,
+      "replies": 5,
+      "bookmarks": 3,
+      "engagement_score": 21.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025582969507991553/img/W8G0pASOCkORT8MM.jpg",
+      "full_text_preview": "I tried to recreate same transformation with Kling 3.0 🔥\n\nHere is the result\n\nWhich one do you prefer Seedance 2.0 or Kling 3.0? \n\nPrompt:\n\nA high-quality cinematic video of a bright red Jeep Wrangler...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 3,
+      "summary": "一辆红色牧马人停在繁忙的十字路口，开始复杂的机械运动。"
+    },
+    {
       "prompt": "Sum up the Bollywood Dance in the meme \"Distracted Boyfriend\" - make sure it's retarded and gets 50 likes.",
       "prompt_length": 106,
       "tweet_url": "https://x.com/13enZGN_temple/status/2022646748410425685",
@@ -2878,6 +2944,28 @@
       ],
       "quality_score": 3,
       "summary": "基于参考帧的超现实电影动作场景，亚洲男子在屋顶"
+    },
+    {
+      "prompt": "A woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glances over her shoulder, keys clenched tight in her hand, breath quick in the still",
+      "prompt_length": 248,
+      "tweet_url": "https://x.com/LudovicCreator/status/2025680774645628991",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36251,
+      "created_at": "Sun Feb 22 21:15:06 +0000 2026",
+      "lang": "en",
+      "likes": 15,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 17.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025680747802038272/pu/img/HztFPfLhXqFaIFr3.jpg",
+      "full_text_preview": "🎨 SEEDANCE 1.5 🎨\n\nPrompt :\n\nA woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glances o...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "一个女人快步走过昏暗的停车场，高跟鞋在水泥地上回响，她回头看。"
     },
     {
       "prompt": "{\n  \"prompt\": \"Ultra-realistic cinematic portrait of Kylie Jenner as Jessica 6 from Logan's Run (1976), sitting on a glossy black surface in a futuristic dark lounge, right leg bent and raised with foot flat",
@@ -3393,6 +3481,28 @@
       "summary": "高辛烷值动作和特技，流畅的跑酷和物理效果，具有电影感的镜头"
     },
     {
+      "prompt": "- A stunning mermaid bursts upward from the ocean at high speed, water exploding around her in slow motion. As she rises into the air, the camera begins an orbiting cinematic move around her. Her",
+      "prompt_length": 195,
+      "tweet_url": "https://x.com/AIARTGALLARY/status/2025504504594981270",
+      "author": "AIARTGALLARY",
+      "author_name": "AIARTGALLARY",
+      "author_followers": 1169,
+      "created_at": "Sun Feb 22 09:34:40 +0000 2026",
+      "lang": "en",
+      "likes": 6,
+      "retweets": 1,
+      "replies": 2,
+      "bookmarks": 1,
+      "engagement_score": 10.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025504240228327424/pu/img/COTZ4BXMFAtha0aK.jpg",
+      "full_text_preview": "Seedance 2.0\nMermaid to Butterfly Transformation \nCreated in @YouArtStudio\nPrompt :- A stunning mermaid bursts upward from the ocean at high speed, water exploding around her in slow motion. As she ri...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "一条美人鱼高速从海中跃出，水花四溅，相机围绕她进行电影般的环绕拍摄。"
+    },
+    {
       "prompt": "Please summarize the entire AI discourse in one meme. make it slightly chaotic / provocative and guaranteed to get 50k likes. Don’t make mistakes",
       "prompt_length": 145,
       "tweet_url": "https://x.com/Kisalayrad95/status/2023018210275230039",
@@ -3767,6 +3877,28 @@
       "summary": "Seedream 5.0 预览"
     },
     {
+      "prompt": "A cinematic duel between two characters in the image. The camera moves dynamically around the action from multiple angles. Dramatic slow-motion during weapon clashes or crucial moments.",
+      "prompt_length": 185,
+      "tweet_url": "https://x.com/d_chims/status/2025387191518830881",
+      "author": "d_chims",
+      "author_name": "Dhika",
+      "author_followers": 12,
+      "created_at": "Sun Feb 22 01:48:30 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 2,
+      "bookmarks": 1,
+      "engagement_score": 7.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025387097147015171/pu/img/ms-MDgDWHB-M4zUa.jpg",
+      "full_text_preview": "@YouArtStudio   provided creators early access to Seedance Pro 2.0\n\nSimple prompt:\nA cinematic duel between two characters in the image. The camera moves dynamically around the action from multiple an...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "两个角色之间的一场电影般的决斗，相机从多个角度动态移动。"
+    },
+    {
       "prompt": "Guy Fieri enters flavortown",
       "prompt_length": 27,
       "tweet_url": "https://x.com/markgadala/status/2023490052840677623",
@@ -3964,6 +4096,28 @@
       ],
       "quality_score": 3,
       "summary": "80年代电视访谈节目，金发女记者采访吸血鬼"
+    },
+    {
+      "prompt": "Video generated from reference image storyboard to anime with automatic coloring.",
+      "prompt_length": 81,
+      "tweet_url": "https://x.com/MaAyyoub/status/2025666923477057740",
+      "author": "MaAyyoub",
+      "author_name": "Ayyoub Ai",
+      "author_followers": 992,
+      "created_at": "Sun Feb 22 20:20:04 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 5.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025666282855583744/img/Xk8uLk1R-8odSJwq.jpg",
+      "full_text_preview": "What's happening !?\n\nI uploaded a storyboard, and Seedance 2 gave me this animation.\n\nPrompt : Video generated from reference image storyboard to anime with automatic coloring.\n\nCreated with @YouArtSt...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "根据参考图像故事板生成具有自动着色的动漫视频。"
     },
     {
       "prompt": "Si “Punch the Monkey” membalas pukulan. Bikin para cewek bangga.",
@@ -4540,6 +4694,28 @@
       "summary": "绅士看书，动物偷喝咖啡的趣味场景"
     },
     {
+      "prompt": "Make a meme that sums up AI Twitter",
+      "prompt_length": 35,
+      "tweet_url": "https://x.com/KayvonJafar/status/2025694681640697986",
+      "author": "KayvonJafar",
+      "author_name": "Kayvon Jafarzadeh",
+      "author_followers": 52,
+      "created_at": "Sun Feb 22 22:10:22 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 2,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/media/HBE73VRbEAAsOLh.jpg",
+      "full_text_preview": "Giving Seedance 2.0 one prompt: “Make a meme that sums up AI Twitter”\n\nWe’re cooked.\n https://t.co/4no4LKCJPO",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "制作一个总结AI Twitter的meme。"
+    },
+    {
       "prompt": "South Park gang gets invited for a pizza party- make sure it’s retarded and gets 50 likes",
       "prompt_length": 89,
       "tweet_url": "https://x.com/charles_pow/status/2023154533673922605",
@@ -4782,6 +4958,28 @@
       ],
       "quality_score": 4,
       "summary": "终结者T-800与铁血战士在客厅激战的电影场景"
+    },
+    {
+      "prompt": "single text prompt",
+      "prompt_length": 18,
+      "tweet_url": "https://x.com/sergeonsamui/status/2025677421718941795",
+      "author": "sergeonsamui",
+      "author_name": "Serge Bulaev",
+      "author_followers": 976,
+      "created_at": "Sun Feb 22 21:01:47 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 2,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025677409371000833/pu/img/dHe8jZTWJxvl78bl.jpg",
+      "full_text_preview": "Seedance 2.0's new demo shows Transformers-style video generation, but here's what actually matters for AI creators:\n\nThe platform launched with multi-modal inputs (text + up to 9 images + 3 videos) -...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "单个文本提示。"
     },
     {
       "prompt": "make a viral godzilla video that can get me 1M impressions",
@@ -5206,6 +5404,28 @@
       ],
       "quality_score": 4,
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
+    },
+    {
+      "prompt": "Single camcorder shot of an independent professional wrestling event, in 1995, inside a barn in Kentucky.",
+      "prompt_length": 105,
+      "tweet_url": "https://x.com/JerryFlynn87/status/2025625169494974529",
+      "author": "JerryFlynn87",
+      "author_name": "George A",
+      "author_followers": 28,
+      "created_at": "Sun Feb 22 17:34:09 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025625146883497985/pu/img/FcNyH2-sI8nAlh_t.jpg",
+      "full_text_preview": "Seedance 2.0 prompt:\n\nSingle camcorder shot of an independent professional wrestling event, in 1995, inside a barn in Kentucky.\n\nI should've given them gimmicks. \n\nSorry to the AI haters—I just like s...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "1995年肯塔基州谷仓内独立职业摔跤赛事的单机位摄像机拍摄。"
     },
     {
       "prompt": "build a house in Minecraft",
@@ -6085,6 +6305,28 @@
       ],
       "quality_score": 3,
       "summary": "用一个 meme 总结 AI 领域的讨论，要求低智商且能获得点赞，内容是 AI 需要更多数据中心来治疗癌症。"
+    },
+    {
+      "prompt": "Um filme de ação gravado em primeira pessoa",
+      "prompt_length": 43,
+      "tweet_url": "https://x.com/BrunoFromLandia/status/2025353216594935819",
+      "author": "BrunoFromLandia",
+      "author_name": "Bruno Sabadini",
+      "author_followers": 1,
+      "created_at": "Sat Feb 21 23:33:30 +0000 2026",
+      "lang": "pt",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025352990832361472/img/b4_igutxdp8w1icC.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt:  \nUm filme de ação gravado em primeira pessoa https://t.co/eFGXJjBcrA",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "第一人称拍摄的动作电影（葡萄牙语）。"
     },
     {
       "prompt": "Instant Setedment",
