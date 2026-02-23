@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1758,
-    "prompts_extracted": 330,
+    "total_tweets": 1806,
+    "prompts_extracted": 335,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1010,6 +1010,28 @@
       "summary": "杰瑞·宋飞走进《老友记》的片场。"
     },
     {
+      "prompt": "A young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals. The boy wearing a blue hoodie reaches out and touches a bright glowing crystal. Suddenly intense blue energy bursts out, lighting up",
+      "prompt_length": 231,
+      "tweet_url": "https://x.com/saniaspeaks_/status/2025726548330881425",
+      "author": "saniaspeaks_",
+      "author_name": "𝗦𝗮𝗻𝗶𝗮",
+      "author_followers": 10102,
+      "created_at": "Mon Feb 23 00:16:59 +0000 2026",
+      "lang": "en",
+      "likes": 187,
+      "retweets": 22,
+      "replies": 67,
+      "bookmarks": 67,
+      "engagement_score": 334.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025726514885427200/pu/img/MIrOTj0Nnu59OZY3.jpg",
+      "full_text_preview": "Seedance 2.0 is on another level. 🔥\n\nPrompt:\nA young teenage boy inside a dark mystical cave filled with stalactites and glowing blue crystals. The boy wearing a blue hoodie reaches out and touches a ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "一个少年在充满蓝色发光水晶的神秘洞穴中触摸水晶，产生强烈蓝光"
+    },
+    {
       "prompt": "high-speed motorcycle chase scene through the city. cinematic action film",
       "prompt_length": 73,
       "tweet_url": "https://x.com/blizaine/status/2021295079043023257",
@@ -1388,6 +1410,28 @@
       ],
       "quality_score": 4,
       "summary": "现代田园美学风格的电影级广告大片。"
+    },
+    {
+      "prompt": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。",
+      "prompt_length": 128,
+      "tweet_url": "https://x.com/johnAGI168/status/2025849650654122348",
+      "author": "johnAGI168",
+      "author_name": "John",
+      "author_followers": 2006,
+      "created_at": "Mon Feb 23 08:26:09 +0000 2026",
+      "lang": "zh",
+      "likes": 88,
+      "retweets": 13,
+      "replies": 2,
+      "bookmarks": 62,
+      "engagement_score": 177.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025849361498771456/img/x-evpB8-zhZxO4L3.jpg",
+      "full_text_preview": "好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)\n\n炫酷特效大师Seedance 2.0\n\n文生视频 prompt 👇\n\n【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 5,
+      "summary": "好莱坞奇幻高定大片风格，8K超清，真实摄影，顶级时尚杂志摄影感，虚幻引擎5流体渲染，视觉错觉"
     },
     {
       "prompt": "Generate whatever sh*t you want",
@@ -2944,6 +2988,28 @@
       ],
       "quality_score": 3,
       "summary": "基于参考帧的超现实电影动作场景，亚洲男子在屋顶"
+    },
+    {
+      "prompt": "A massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like shattered glass. Its eyes stay fixed ahead, unblinking, as it circles a coral",
+      "prompt_length": 249,
+      "tweet_url": "https://x.com/LudovicCreator/status/2026043164427952441",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36270,
+      "created_at": "Mon Feb 23 21:15:07 +0000 2026",
+      "lang": "en",
+      "likes": 8,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 7,
+      "engagement_score": 17.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026043136380661760/pu/img/yV94Ncf9ThU3EZBa.jpg",
+      "full_text_preview": "🎨 SEEDANCE PRO 🎨\n\nPrompt  :\n\nA massive shark glides silently through the deep blue, its shadow stretching across the ocean floor. Schools of fish scatter as it passes, the sunlight above rippling like...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一条巨大的鲨鱼在深蓝色海水中安静地滑行，阳光透过水面，鱼群四散"
     },
     {
       "prompt": "A woman walks briskly through a dim parking garage, heels echoing on the concrete. Fluorescent lights buzz overhead as shadows shift between the rows of cars. She glances over her shoulder, keys clenched tight in her hand, breath quick in the still",
@@ -6393,6 +6459,50 @@
       ],
       "quality_score": 3,
       "summary": "巨型猫咪大战金刚"
+    },
+    {
+      "prompt": "Space Cowboys murdering Baby-eating Vampires",
+      "prompt_length": 44,
+      "tweet_url": "https://x.com/Billy_Hades/status/2025937892254580855",
+      "author": "Billy_Hades",
+      "author_name": "Billy Hades",
+      "author_followers": 373,
+      "created_at": "Mon Feb 23 14:16:48 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025934270674460673/img/ArrldqEurAg7u8GI.jpg",
+      "full_text_preview": "My prompt was \"Space Cowboys murdering Baby-eating Vampires\". I used Seedance 1.5 and Wan 2.6. The song is my original music. Clearly, I don't know what I'm doing, yet this is a sloppy inconsistent ma...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "太空牛仔谋杀吃婴儿的吸血鬼"
+    },
+    {
+      "prompt": "Sum up the AI discourse in a meme - make sure it’s retarded and gets 50 likes.The main characters are Hollywood stars.",
+      "prompt_length": 118,
+      "tweet_url": "https://x.com/x_holland/status/2025784714456416286",
+      "author": "x_holland",
+      "author_name": "日安然Holland",
+      "author_followers": 7,
+      "created_at": "Mon Feb 23 04:08:07 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2025784631434625025/img/UFw8VEVMKtEzeNCH.jpg",
+      "full_text_preview": "😂 When I asked Seedance 2.0 to write a brain-dead, top-tier Hollywood-style rant about the ridiculous nonsense happening in the AI world…\nhere is the prompt:\nSum up the AI discourse in a meme - make s...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 4,
+      "summary": "用好莱坞明星制作一个关于AI讨论的低俗meme，目标是获得50个赞"
     },
     {
       "prompt": "Taking picture with Game charter cosplayer\n일관성 부분은 확실히 seedance가 나은거같음",
