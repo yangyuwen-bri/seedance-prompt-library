@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1806,
-    "prompts_extracted": 335,
+    "total_tweets": 1854,
+    "prompts_extracted": 343,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -228,6 +228,28 @@
       ],
       "quality_score": 3,
       "summary": "快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。"
+    },
+    {
+      "prompt": "Show what’s happening in Silicon Valley after the @Citrini7 article.  Make no mistakes.",
+      "prompt_length": 87,
+      "tweet_url": "https://x.com/charliebcurran/status/2026114996330197005",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 24359,
+      "created_at": "Tue Feb 24 02:00:33 +0000 2026",
+      "lang": "en",
+      "likes": 2379,
+      "retweets": 228,
+      "replies": 66,
+      "bookmarks": 744,
+      "engagement_score": 3676.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HB406UZaYAAIU95.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Show what’s happening in Silicon Valley after the @Citrini7 article.  Make no mistakes. https://t.co/6Vz6n3I9C5",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "展示@Citrini7文章发表后硅谷发生的事情。"
     },
     {
       "prompt": "Make a Pixar film about Punch. I want to cry and fall in love with him.",
@@ -1659,6 +1681,28 @@
       "summary": "AI 机器人需要更多数据中心，要求获得点赞。"
     },
     {
+      "prompt": "Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portrait: a woman who looks exactly like her. Cut to the woman , She gasps and says:",
+      "prompt_length": 254,
+      "tweet_url": "https://x.com/Kiber_Alla/status/2026237737322348761",
+      "author": "Kiber_Alla",
+      "author_name": "Kiber Alla",
+      "author_followers": 410,
+      "created_at": "Tue Feb 24 10:08:16 +0000 2026",
+      "lang": "en",
+      "likes": 77,
+      "retweets": 6,
+      "replies": 10,
+      "bookmarks": 35,
+      "engagement_score": 129.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026237324929957888/img/Br3meCeco84XqPdx.jpg",
+      "full_text_preview": "Seedance 2.0 \nPrompt: Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portrait...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "真人电影场景，女人缓慢下楼梯，镜头从脚到脸向上倾斜，她停在楼梯中间，看着一幅肖像。"
+    },
+    {
       "prompt": "An average day for Execs at Avalabs, dealing with the community. Make sure it's really retarded and gets 1,000 likes",
       "prompt_length": 116,
       "tweet_url": "https://x.com/Stupifff/status/2022068457546895767",
@@ -1770,6 +1814,28 @@
       ],
       "quality_score": 3,
       "summary": "食物开始旋转，食材轻柔而精确地分离，保持对齐和比例，运动平滑，没有额外的效果。"
+    },
+    {
+      "prompt": "16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。\n0-3秒：驾驶舱内视角，双手紧握方向盘，仪表盘转速表飙升至红区，引擎轰鸣声炸裂。挡风玻璃前方是璀璨的",
+      "prompt_length": 102,
+      "tweet_url": "https://x.com/songguoxiansen/status/2026287013515980957",
+      "author": "songguoxiansen",
+      "author_name": "松果先森",
+      "author_followers": 25618,
+      "created_at": "Tue Feb 24 13:24:05 +0000 2026",
+      "lang": "zh",
+      "likes": 42,
+      "retweets": 12,
+      "replies": 0,
+      "bookmarks": 35,
+      "engagement_score": 101.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026286816496926720/img/HkVF86_li02koM41.jpg",
+      "full_text_preview": "极品飞车-漂移过弯\n\nSeedance 2.0 提示词：\n\n第1段（0-15秒）Prompt:\n16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。\n0-3秒：驾驶舱内视角，双手紧握方向盘，仪表盘转速表飙升至红区，引擎轰鸣声炸裂。挡风玻璃前方是璀璨的 https://t.co/WcbcjY73i8",
+      "tags": [
+        "🎮 游戏"
+      ],
+      "quality_score": 5,
+      "summary": "第一人称驾驶舱视角，极品飞车风格的夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果的视频。"
     },
     {
       "prompt": "a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic angles",
@@ -1949,6 +2015,28 @@
       ],
       "quality_score": 4,
       "summary": "唯美东方古典仙侠风格，绝美仙女的电影级质感短片"
+    },
+    {
+      "prompt": "POV holding your phone playing a wild ahh clip made with seedance 2.0",
+      "prompt_length": 69,
+      "tweet_url": "https://x.com/ProperPrompter/status/2026338409820860435",
+      "author": "ProperPrompter",
+      "author_name": "proper",
+      "author_followers": 41587,
+      "created_at": "Tue Feb 24 16:48:19 +0000 2026",
+      "lang": "en",
+      "likes": 56,
+      "retweets": 5,
+      "replies": 8,
+      "bookmarks": 11,
+      "engagement_score": 81.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026338359086559236/img/jc9sJZSFpKEa2OZu.jpg",
+      "full_text_preview": "prompt: POV holding your phone playing a wild ahh clip made with seedance 2.0 https://t.co/ZspostNA3A",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "POV视角，用手机播放一个用Seedance 2.0制作的疯狂视频片段。"
     },
     {
       "prompt": "let's see paul allen's dx terminal agent",
@@ -2526,6 +2614,28 @@
       "summary": "一个普通的加密货币投资者进行最少的研究，然后盲目地投入随机的垃圾币。"
     },
     {
+      "prompt": "Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard:",
+      "prompt_length": 95,
+      "tweet_url": "https://x.com/jawwwn_/status/2026348248336896057",
+      "author": "jawwwn_",
+      "author_name": "Jawwwn",
+      "author_followers": 21177,
+      "created_at": "Tue Feb 24 17:27:24 +0000 2026",
+      "lang": "en",
+      "likes": 28,
+      "retweets": 2,
+      "replies": 4,
+      "bookmarks": 5,
+      "engagement_score": 39.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026348178946273283/img/IIGo_WDEs4yfotKC.jpg",
+      "full_text_preview": "I had my doubts, but wow, Seedance 2.0 is incredible.\n\nPrompt: Tech billionaire CEO live-streaming himself smoking various meats with friends in his backyard: https://t.co/YSuTOLRL5T",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "科技亿万富翁CEO直播和朋友在后院烤肉。"
+    },
+    {
       "prompt": "Design a motion-graphics style ad based on this image, using multiple camera angles—e.g., close-ups that highlight the glass reflections, various tap/click interaction animations, and a focus on this glossy “glass UI” design language. End",
       "prompt_length": 238,
       "tweet_url": "https://x.com/lepadphone/status/2021221688130797954",
@@ -2656,6 +2766,28 @@
       ],
       "quality_score": 1,
       "summary": "奇点时刻"
+    },
+    {
+      "prompt": "Kung fu battle between Sensei and student, in front of abandoned dojo.",
+      "prompt_length": 70,
+      "tweet_url": "https://x.com/JohnnyDigital47/status/2026072001329446914",
+      "author": "JohnnyDigital47",
+      "author_name": "Johnny Digital",
+      "author_followers": 291,
+      "created_at": "Mon Feb 23 23:09:42 +0000 2026",
+      "lang": "en",
+      "likes": 18,
+      "retweets": 0,
+      "replies": 13,
+      "bookmarks": 4,
+      "engagement_score": 28.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026071556594827264/img/OsYMrv8DycREcT3i.jpg",
+      "full_text_preview": "I can confirm....#Seedance 2.0 is a mfing BEAST!\nFirst 2 test images: High &amp; Low Res\nOne prompt: Kung fu battle between Sensei and student, in front of abandoned dojo. \n\nNothing more....nothing le...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "师父和学生在废弃道场前进行功夫对决。"
     },
     {
       "prompt": "a man runs in the rain",
@@ -3743,6 +3875,28 @@
       ],
       "quality_score": 2,
       "summary": "水兵月跳到床上尖叫。"
+    },
+    {
+      "prompt": "Make a fashion editorial style video with the uploaded image model. Keep character 100% consistent. She is a curvy hourglass model.  Display her beauty in various sensual fashion poses. Take multiple angle shot, closeup, body zoom, face shot,walk",
+      "prompt_length": 246,
+      "tweet_url": "https://x.com/evafashionedit/status/2026285094860955745",
+      "author": "evafashionedit",
+      "author_name": "Eva",
+      "author_followers": 6,
+      "created_at": "Tue Feb 24 13:16:27 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 5,
+      "engagement_score": 8.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026284311465562113/img/tI-s2Lh8jJ07worV.jpg",
+      "full_text_preview": "Made with seedance 2.0\nPrompt: \nMake a fashion editorial style video with the uploaded image model. Keep character 100% consistent. She is a curvy hourglass model.  Display her beauty in various sensu...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "用上传的图像模型制作时尚社论风格的视频，保持角色100%一致，展示她的性感时尚姿势。"
     },
     {
       "prompt": "Made in 4 minutes",
@@ -5424,6 +5578,28 @@
       ],
       "quality_score": 3,
       "summary": "电视剧Martin在2026年的喜剧片段"
+    },
+    {
+      "prompt": "Man sitting at the bar.",
+      "prompt_length": 23,
+      "tweet_url": "https://x.com/Framer_X/status/2026326552162779398",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 44316,
+      "created_at": "Tue Feb 24 16:01:12 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026326492712771584/img/SKtQrK5zoUjCdSDI.jpg",
+      "full_text_preview": "This cartoon was created with Sora 2, but the same prompts work great with Seedance 2.0.\n\nPrompt:\n\n\"Man sitting at the bar.\n\n[cut] Over the shoulder shot - in front of the man, in the corner, a hangin...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "男人坐在酒吧里。"
     },
     {
       "prompt": "Make this character as a realistic 3D character in T-pose.",
