@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1854,
-    "prompts_extracted": 343,
+    "total_tweets": 1910,
+    "prompts_extracted": 358,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -475,6 +475,28 @@
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
     },
     {
+      "prompt": "真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述:",
+      "prompt_length": 98,
+      "tweet_url": "https://x.com/songguoxiansen/status/2026481512607265116",
+      "author": "songguoxiansen",
+      "author_name": "松果先森",
+      "author_followers": 26138,
+      "created_at": "Wed Feb 25 02:16:57 +0000 2026",
+      "lang": "zh",
+      "likes": 1049,
+      "retweets": 99,
+      "replies": 49,
+      "bookmarks": 692,
+      "engagement_score": 1968.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026481390909534212/img/Ojbl7iOyj5_yPYdY.jpg",
+      "full_text_preview": "妹子，大哥来晚了，都怪Seedance2太堵车\n\nSeedance 2.0 提示词prompt：\n\n真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述: https://t.co/zQBl7HfMSz",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "第一人称视角，在KTV包厢内拍摄一位穿着时尚的亚洲女性。"
+    },
+    {
       "prompt": "Movie trailer of Clavicular getting framemogged by the ASU frat leader - make sure it’s ascending and gets 50 likes.",
       "prompt_length": 116,
       "tweet_url": "https://x.com/TBC_on_X/status/2023467456904450331",
@@ -919,6 +941,28 @@
       "summary": "国产神豪爽剧风格的竖屏短剧，讲述被羞辱新郎的故事。"
     },
     {
+      "prompt": "9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, automatic exposure shifts, focus pulling, authentic environmental audio capture, distant",
+      "prompt_length": 201,
+      "tweet_url": "https://x.com/minchoi/status/2026510205345763536",
+      "author": "minchoi",
+      "author_name": "Min Choi",
+      "author_followers": 359354,
+      "created_at": "Wed Feb 25 04:10:58 +0000 2026",
+      "lang": "en",
+      "likes": 236,
+      "retweets": 31,
+      "replies": 37,
+      "bookmarks": 143,
+      "engagement_score": 465.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026508950024171521/img/rN9Liql8okLTbBwJ.jpg",
+      "full_text_preview": "Seedance 2.0 created this from a single prompt 🤯\n\nPROMPT (English version):\n9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, automatic e...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "模拟手机拍摄的真实场景，包含手持抖动和自动曝光等效果。"
+    },
+    {
       "prompt": "Then he decided what to do and proceeds to do it!",
       "prompt_length": 49,
       "tweet_url": "https://x.com/VORTEX_Promos/status/2022125282468196750",
@@ -1253,6 +1297,28 @@
       ],
       "quality_score": 2,
       "summary": "关于女性的逼真镜头，描述不完整。"
+    },
+    {
+      "prompt": "cannot count to 10",
+      "prompt_length": 18,
+      "tweet_url": "https://x.com/fofrAI/status/2026753439313641906",
+      "author": "fofrAI",
+      "author_name": "fofr",
+      "author_followers": 53632,
+      "created_at": "Wed Feb 25 20:17:29 +0000 2026",
+      "lang": "en",
+      "likes": 158,
+      "retweets": 3,
+      "replies": 18,
+      "bookmarks": 43,
+      "engagement_score": 222.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026752765356126208/img/b7yS1sm2zd0xp8aF.jpg",
+      "full_text_preview": "Seedance 2 joins the \"cannot count to 10\" club:\n\n&gt; a man counts out loud from 1 to 10, using his fingers and holding them up as he goes\n\nPretty sure this is a scary Ryan Reynolds/Ben Stiller hybrid...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "无法数到10。"
     },
     {
       "prompt": "👇\n场景1：豪宅大门前策马狂奔（0:00-0:05，5秒）\n• 地点：温哥华西区顶级豪宅正门前（大型庄园式别墅，石材/木结构大门，宽阔车道入口，常绿树篱环绕）\n•",
@@ -1637,6 +1703,28 @@
       "summary": "极致第一人称女友视角的手持自拍VLOG。"
     },
     {
+      "prompt": "1. open with an establishing fly over shot of a misty jungle in the early morning, a soldier (the woman in the image) is in a chopper in army uniform, she says \"We're entering foh-fur country now.",
+      "prompt_length": 196,
+      "tweet_url": "https://x.com/fofrAI/status/2026762628605862190",
+      "author": "fofrAI",
+      "author_name": "fofr",
+      "author_followers": 53632,
+      "created_at": "Wed Feb 25 20:54:00 +0000 2026",
+      "lang": "en",
+      "likes": 88,
+      "retweets": 3,
+      "replies": 10,
+      "bookmarks": 54,
+      "engagement_score": 154.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026762368256987137/img/mvjggEQ-398cn-AV.jpg",
+      "full_text_preview": "Seedance 2 is very good at following a detailed list of scenes in a single prompt:\n\n1. open with an establishing fly over shot of a misty jungle in the early morning, a soldier (the woman in the image...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "士兵乘坐直升机进入丛林执行任务的电影场景。"
+    },
+    {
       "prompt": "Medium tracking shot following a character walking quickly down a corridor from behind.The camera follows at shoulder height, steady and close.AMBIENCE: distant ventilation noise, subtle rumble.The character slows down slightly, sensing",
       "prompt_length": 236,
       "tweet_url": "https://x.com/shikoba_86/status/2021409156947734958",
@@ -1970,6 +2058,28 @@
       ],
       "quality_score": 4,
       "summary": "一战战场上，50英尺高的蒸汽动力步行战争机器行进的电影级多镜头视频，以史诗般的广角镜头开始，展示多个机械巨人在泥泞中前进。"
+    },
+    {
+      "prompt": "1. two people in a cafe, one says, \"did you ever see that foh-fur movie?\", the other: \"Yeah, I remember it well..\"\n2. cuts to a dark sci-fi",
+      "prompt_length": 139,
+      "tweet_url": "https://x.com/fofrAI/status/2026760125999100329",
+      "author": "fofrAI",
+      "author_name": "fofr",
+      "author_followers": 53632,
+      "created_at": "Wed Feb 25 20:44:04 +0000 2026",
+      "lang": "en",
+      "likes": 55,
+      "retweets": 1,
+      "replies": 6,
+      "bookmarks": 29,
+      "engagement_score": 90.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026759933618708480/img/EUIY-1Kk7FtOdEmf.jpg",
+      "full_text_preview": "In this test Seedance 2 seamlessly handles switching away from a scene, to something completely different, and then back again.\n\nPrompt:\n1. two people in a cafe, one says, \"did you ever see that foh-f...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "两人在咖啡馆谈论电影，然后切换到科幻场景。"
     },
     {
       "prompt": "Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her",
@@ -2413,6 +2523,28 @@
       ],
       "quality_score": 2,
       "summary": "制作比好莱坞更好的星球大战打斗场景。"
+    },
+    {
+      "prompt": "Close-up on her hands gripping the paintbrush, knuckles white, paint dripping down her wrist. Shallow depth of field, the blank canvas a soft white blur behind her. She exhales. [cut] Wide",
+      "prompt_length": 188,
+      "tweet_url": "https://x.com/HBCoop_/status/2026748738354450919",
+      "author": "HBCoop_",
+      "author_name": "Heather Cooper",
+      "author_followers": 52928,
+      "created_at": "Wed Feb 25 19:58:49 +0000 2026",
+      "lang": "en",
+      "likes": 29,
+      "retweets": 2,
+      "replies": 2,
+      "bookmarks": 12,
+      "engagement_score": 46.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026748716544135168/pu/img/s7Wi8euWkmI-rU9f.jpg",
+      "full_text_preview": "First Seedance 2.0 Test! \n\nSeedance 5.0 Lite @krea_ai → Seedance 2.0 @capcutapp\n\nPrompt: Close-up on her hands gripping the paintbrush, knuckles white, paint dripping down her wrist. Shallow depth of ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "特写镜头展示一位女性手握画笔，正在创作。"
     },
     {
       "prompt": "Will Smith fighting a spaghetti monster, epic action film scene, different cuts, 80s movie scene",
@@ -3078,6 +3210,28 @@
       "summary": "动漫路飞在千阳号上购买$BINDER，庆祝并大吃一堆肉"
     },
     {
+      "prompt": "day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.",
+      "prompt_length": 86,
+      "tweet_url": "https://x.com/ehalm_/status/2026559157302902801",
+      "author": "ehalm_",
+      "author_name": "Emmet Halm",
+      "author_followers": 21536,
+      "created_at": "Wed Feb 25 07:25:29 +0000 2026",
+      "lang": "en",
+      "likes": 11,
+      "retweets": 2,
+      "replies": 2,
+      "bookmarks": 3,
+      "engagement_score": 19.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026558649460817920/img/SasUUB1GrhAvFYBp.jpg",
+      "full_text_preview": "Prompt: day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.\n\nMade with Seedance 2.0 on @yapper_so https://t.co/NiYtFBxJDo",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "一个上班族水豚的日常，要求尽可能真实。"
+    },
+    {
       "prompt": "Wide-angle underwater shot, a solitary manta ray glides slowly through a beam of sunlight breaking through the ocean surface, its wings move in smooth, hypnotic rhythm, schools of small fish spiral beneath it, particles float in the light like dust",
       "prompt_length": 248,
       "tweet_url": "https://x.com/LudovicCreator/status/2023506450299998294",
@@ -3679,6 +3833,28 @@
       "summary": "高辛烷值动作和特技，流畅的跑酷和物理效果，具有电影感的镜头"
     },
     {
+      "prompt": ", a woman in her 20s in her bathroom talking about their hyaluronic acid serum.",
+      "prompt_length": 79,
+      "tweet_url": "https://x.com/ananbatra/status/2026654101480812628",
+      "author": "ananbatra",
+      "author_name": "Ananay Batra",
+      "author_followers": 3344,
+      "created_at": "Wed Feb 25 13:42:45 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 10.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026653841656307712/img/6yawgX4vHlkfzG1K.jpg",
+      "full_text_preview": "Seedance 2.0 out on EzUGC in 2 hours, this video was one shotted with the most barebones low effort prompt one could write:\n\n\"A UGC video for a skincare brand \"The Ordinary\", a woman in her 20s in her...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 2,
+      "summary": "一位20多岁的女性在浴室里谈论玻尿酸精华。"
+    },
+    {
       "prompt": "- A stunning mermaid bursts upward from the ocean at high speed, water exploding around her in slow motion. As she rises into the air, the camera begins an orbiting cinematic move around her. Her",
       "prompt_length": 195,
       "tweet_url": "https://x.com/AIARTGALLARY/status/2025504504594981270",
@@ -4029,6 +4205,28 @@
       ],
       "quality_score": 4,
       "summary": "电影预告片：韦斯·安德森的对称，居中构图，柔和的调色板，异想天开的角色，故事书般的制作设计，古怪的幽默，视觉和谐，怀旧的优雅，多个镜头。"
+    },
+    {
+      "prompt": "Generate a cinematic consistent photorealistic grid 3x3 for European women perfume advertising. No text",
+      "prompt_length": 103,
+      "tweet_url": "https://x.com/michaelheina/status/2026657415056245195",
+      "author": "michaelheina",
+      "author_name": "Michael Heina",
+      "author_followers": 812,
+      "created_at": "Wed Feb 25 13:55:55 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 3,
+      "engagement_score": 7.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026656741094486017/img/FoirJbX7TLFSQPQl.jpg",
+      "full_text_preview": "How to generate a 15-second ad directly from a grid: Seedance 2 (Grid-to-video) 🧵\n\n1️⃣ Generate a Grid: Use NanoBananaPro with 4K resolution for max quality. \n\nPrompt: Generate a cinematic consistent ...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 3,
+      "summary": "为欧洲女性香水制作一个电影质感的九宫格广告。"
     },
     {
       "prompt": "movie scene , a car chase at full speed, with a police car chasing a Mustang in the streets of the Bronx, then suddenly the Mustang transforms into a giant flying robot and fly away",
@@ -4450,6 +4648,28 @@
       "summary": "无论是战士还是怪物，都要进行品牌推广。"
     },
     {
+      "prompt": "I want a cinematic montage of vehicles and include slow motion drifting.",
+      "prompt_length": 72,
+      "tweet_url": "https://x.com/Clive_99/status/2026533599269335335",
+      "author": "Clive_99",
+      "author_name": "Clive",
+      "author_followers": 1821,
+      "created_at": "Wed Feb 25 05:43:55 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026533204602101760/img/zIfJov_wjCLg_oK6.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: I want a cinematic montage of vehicles and include slow motion drifting. https://t.co/SBdeqSUv62",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "车辆的电影蒙太奇，包含慢动作漂移。"
+    },
+    {
       "prompt": "POV: You're the main character in Mont Saint Michel in the 8th century, multiple quick cuts",
       "prompt_length": 91,
       "tweet_url": "https://x.com/airina_xyz/status/2024181777657454827",
@@ -4580,6 +4800,28 @@
       ],
       "quality_score": 3,
       "summary": "参考图像：时尚人物站在戏剧性的海岸悬崖上，俯瞰深海，纹理飘逸的服装，电影般的自然光线，社论。"
+    },
+    {
+      "prompt": "0–2s: A low-angle shot shows a giant cartoon girl @image1 (wearing a blue LA cap, sunglasses, holding a bouquet of flowers) peeking out from behind a colorful snack shop at a seaside amusement park @image2. One hand",
+      "prompt_length": 215,
+      "tweet_url": "https://x.com/linyi_zheng/status/2026452895068205331",
+      "author": "linyi_zheng",
+      "author_name": "Lena Zheng",
+      "author_followers": 778,
+      "created_at": "Wed Feb 25 00:23:14 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 4.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026447031913558018/img/LqptX55iFkSwqCjm.jpg",
+      "full_text_preview": "2/ Bring her to life as a fun vlog with Seedance 2.0\n\nPrompt:\n0–2s: A low-angle shot shows a giant cartoon girl @image1 (wearing a blue LA cap, sunglasses, holding a bouquet of flowers) peeking out fr...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "一个巨大的卡通女孩在海边游乐园的零食店后面偷看。"
     },
     {
       "prompt": "create a cinematic WW2 motorcycle escape sequence that makes sora and veo question their existence",
@@ -5114,6 +5356,28 @@
       "summary": "派大星在田径比赛中对抗尤塞恩·博尔特。"
     },
     {
+      "prompt": "{\n  \"visual_world\": {\n    \"light\": \"剧烈闪烁的红色能量光和蓝色能量光对比黑暗城市夜空，空气中飘浮着火花和余烬\",\n    \"color\": \"高对比度，饱和的红色和蓝色能量光，去饱和的黑暗城市天际线\",\n    \"film\": \"35毫米电影感，2.39:1",
+      "prompt_length": 147,
+      "tweet_url": "https://x.com/fahabib91/status/2026550181437780383",
+      "author": "fahabib91",
+      "author_name": "Habib ullah",
+      "author_followers": 557,
+      "created_at": "Wed Feb 25 06:49:49 +0000 2026",
+      "lang": "zh",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026549379965005829/img/xxm5ETSi_u4UHZAJ.jpg",
+      "full_text_preview": "Seedance 2.0 accepted cinematic prompt \n\nPrompt:\n\n{\n  \"visual_world\": {\n    \"light\": \"剧烈闪烁的红色能量光和蓝色能量光对比黑暗城市夜空，空气中飘浮着火花和余烬\",\n    \"color\": \"高对比度，饱和的红色和蓝色能量光，去饱和的黑暗城市天际线\",\n    \"film\": \"35毫米电影感，2.39:1 ht...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "描述了高对比度红蓝能量光与黑暗城市夜空的视觉效果。"
+    },
+    {
       "prompt": "Will Smith fighting a spaghetti monster.😅",
       "prompt_length": 41,
       "tweet_url": "https://x.com/MaAyyoub/status/2021885642188161441",
@@ -5422,6 +5686,28 @@
       ],
       "quality_score": 4,
       "summary": "如果用老鹰把魔戒丢到末日火山会怎么样？"
+    },
+    {
+      "prompt": "Highly dynamic cinematic dance video based on @ image1 visual. Viral TikTok trend style. High-energy, flawless modern hip-hop choreography with fast, sharp kinetic movements. Rapid, rhythmic camera cuts matching a fast beat. Seamlessly blending wide",
+      "prompt_length": 249,
+      "tweet_url": "https://x.com/michaelheina/status/2026663355830677919",
+      "author": "michaelheina",
+      "author_name": "Michael Heina",
+      "author_followers": 812,
+      "created_at": "Wed Feb 25 14:19:32 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026661722384150528/img/nnBuyVikhtVdSzDC.jpg",
+      "full_text_preview": "Seedance 2 dancing prompt:\n\nHighly dynamic cinematic dance video based on @ image1 visual. Viral TikTok trend style. High-energy, flawless modern hip-hop choreography with fast, sharp kinetic movement...",
+      "tags": [
+        "🎵 音乐/MV"
+      ],
+      "quality_score": 4,
+      "summary": "基于特定图像的动态电影舞蹈视频，风格为TikTok流行的快节奏嘻哈舞蹈。"
     },
     {
       "prompt": "A soldier in a battlefield texting and dodging all arrows, explosions and bullets",
@@ -6117,6 +6403,50 @@
       ],
       "quality_score": 2,
       "summary": "Waffle House的普通轮班"
+    },
+    {
+      "prompt": "Wait… Seedance 2.0 works in CapCut now?! \nI’m obsessed.",
+      "prompt_length": 55,
+      "tweet_url": "https://x.com/Preda2005/status/2026774458434982142",
+      "author": "Preda2005",
+      "author_name": "Marcio Lima 利真 マルシオ 💎",
+      "author_followers": 69640,
+      "created_at": "Wed Feb 25 21:41:01 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026774354206572544/img/aZm1aViPqiV7YfAz.jpg",
+      "full_text_preview": "3⃣ Third experiment: \n\nBringing a static image to life… \nand giving it a voice. 🗣️🔊\n\nOne simple prompt:\n\n“Wait… Seedance 2.0 works in CapCut now?! \nI’m obsessed.” https://t.co/wyl5a3l0dE",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "Seedance 2.0现在可以在CapCut中使用了！"
+    },
+    {
+      "prompt": "Create a looping action sequence of Bruce Lee fighting with Jackie Chan like the old Japanese style television movies. Make sure the starting of the video loops with the ending.",
+      "prompt_length": 177,
+      "tweet_url": "https://x.com/NEUR0N0/status/2026550169731579935",
+      "author": "NEUR0N0",
+      "author_name": "neur0n",
+      "author_followers": 11,
+      "created_at": "Wed Feb 25 06:49:46 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026550131471036420/pu/img/pK34sHgOeeJ3QPQA.jpg",
+      "full_text_preview": "Bruce Lee x Jackie Chan using Seedance 2.0\n\nAbsolute Cinema 🙌 \n\nPrompt 👇\n\"Create a looping action sequence of Bruce Lee fighting with Jackie Chan like the old Japanese style television movies. Make su...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "制作一个李小龙和成龙战斗的循环动作序列，风格类似于老式日本电视电影。"
     },
     {
       "prompt": "it's over for us",
