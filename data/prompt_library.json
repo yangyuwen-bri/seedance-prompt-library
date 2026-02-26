@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1910,
-    "prompts_extracted": 358,
+    "total_tweets": 1952,
+    "prompts_extracted": 369,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1882,6 +1882,28 @@
       "summary": "电影级质感，时空折叠，盐湖神女觉醒为未来都市霓虹战士。"
     },
     {
+      "prompt": "Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping through bridges, staircases, interiors with warm lights, and exiting through a",
+      "prompt_length": 195,
+      "tweet_url": "https://x.com/ZaraIrahh/status/2026983864401625354",
+      "author": "ZaraIrahh",
+      "author_name": "Zara",
+      "author_followers": 12399,
+      "created_at": "Thu Feb 26 11:33:07 +0000 2026",
+      "lang": "en",
+      "likes": 59,
+      "retweets": 5,
+      "replies": 41,
+      "bookmarks": 14,
+      "engagement_score": 103.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026983792125325312/pu/img/fo-N87flC4IGzO5t.jpg",
+      "full_text_preview": "FPV AI video of a treehouse\n\nCreated with Seedance 2.0 on @yapper_so \n\nPrompt: Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping thro...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "FPV穿越森林中逼真舒适的树屋，光线温暖。"
+    },
+    {
       "prompt": "The food start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.",
       "prompt_length": 155,
       "tweet_url": "https://x.com/Strength04_X/status/2022621706016453020",
@@ -1902,6 +1924,28 @@
       ],
       "quality_score": 3,
       "summary": "食物开始旋转，食材轻柔而精确地分离，保持对齐和比例，运动平滑，没有额外的效果。"
+    },
+    {
+      "prompt": "Timothee Chalamet at the Apple keynote.  Don't make it gay.",
+      "prompt_length": 59,
+      "tweet_url": "https://x.com/charliebcurran/status/2027109731140268367",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 24376,
+      "created_at": "Thu Feb 26 19:53:16 +0000 2026",
+      "lang": "en",
+      "likes": 68,
+      "retweets": 1,
+      "replies": 7,
+      "bookmarks": 22,
+      "engagement_score": 101.5,
+      "video_thumbnail": "https://pbs.twimg.com/media/HCHnGX5a8AAQiQC.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Timothee Chalamet at the Apple keynote.  Don't make it gay. https://t.co/cZV70cl3Mb",
+      "tags": [
+        "🔥 名人/IP"
+      ],
+      "quality_score": 3,
+      "summary": "甜茶在苹果发布会上，要求避免出现同性恋元素。"
     },
     {
       "prompt": "16:9横屏，第一人称驾驶舱视角，极品飞车游戏风格，夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果。\n0-3秒：驾驶舱内视角，双手紧握方向盘，仪表盘转速表飙升至红区，引擎轰鸣声炸裂。挡风玻璃前方是璀璨的",
@@ -3210,6 +3254,28 @@
       "summary": "动漫路飞在千阳号上购买$BINDER，庆祝并大吃一堆肉"
     },
     {
+      "prompt": "发现新大陆我最棒！导航定位不迷航！探险路上有保障，哥伦布导航带你闯！",
+      "prompt_length": 34,
+      "tweet_url": "https://x.com/johnAGI168/status/2027037472790593858",
+      "author": "johnAGI168",
+      "author_name": "John",
+      "author_followers": 2488,
+      "created_at": "Thu Feb 26 15:06:08 +0000 2026",
+      "lang": "zh",
+      "likes": 8,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 10,
+      "engagement_score": 20.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027037257383718912/img/6zaD5tMhzkUM3BXz.jpg",
+      "full_text_preview": "哥带你闯🤣\n\n搞来搞去目前还是Seedance 2.0好玩🤩\n\n就是可惜了现在审查太严生成速度几乎龟速😭\n\n文生视频prompt 👇\n\nADVENTURE ENERGY: 哥伦布看着手机GPS导航，兴奋地说：\"发现新大陆我最棒！导航定位不迷航！探险路上有保障，哥伦布导航带你闯！\" 海浪航行特效 - 卫星定位动画 - https://t.co/1Ra9BFSOhm",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 3,
+      "summary": "哥伦布导航广告，突出导航定位功能。"
+    },
+    {
       "prompt": "day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.",
       "prompt_length": 86,
       "tweet_url": "https://x.com/ehalm_/status/2026559157302902801",
@@ -4185,6 +4251,28 @@
       "summary": "使用上传的图片作为第一帧"
     },
     {
+      "prompt": "My dog is dreaming",
+      "prompt_length": 18,
+      "tweet_url": "https://x.com/JohnnyWang8802/status/2026973343958905203",
+      "author": "JohnnyWang8802",
+      "author_name": "Johnny Wang",
+      "author_followers": 1428,
+      "created_at": "Thu Feb 26 10:51:19 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 7.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026973148017733632/img/PnEMkRDVqtsTip8f.jpg",
+      "full_text_preview": "Prompt: \"My dog is dreaming\" Result: 👇\n\nThe comprehension and realism of Seedance 2.0 have reached this level. No complex parameters needed, just one simple idea. https://t.co/DddN8fiM0e",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "我的狗在做梦。"
+    },
+    {
       "prompt": "Movie trailer: Wes Anderson symmetry, centered composition, pastel color palette, whimsical characters, storybook production design. Quirky humor, visual harmony, nostalgic elegance. Multiple shots, fast cuts",
       "prompt_length": 208,
       "tweet_url": "https://x.com/airina_xyz/status/2022720243206877455",
@@ -5046,6 +5134,28 @@
       "summary": "使用Seedance 2.0创建10秒视频"
     },
     {
+      "prompt": "Wide shot, two cars collide at a downtown road junction in a major US city, causing a massive explosion.",
+      "prompt_length": 104,
+      "tweet_url": "https://x.com/JeremyHaccoun/status/2026800561648025971",
+      "author": "JeremyHaccoun",
+      "author_name": "Jeremy Haccoun",
+      "author_followers": 460,
+      "created_at": "Wed Feb 25 23:24:44 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026800158495694848/img/WTHc2Et_vsq-sa0e.jpg",
+      "full_text_preview": "First Seedance 2 test.\n\nWhen I think about how many days I used to spend comping fire in After Effects… this is pretty wild. \n\nPrompt: Wide shot, two cars collide at a downtown road junction in a majo...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "美国城市路口两车相撞引发巨大爆炸。"
+    },
+    {
       "prompt": "【@图片1】【@图片2】【@图片3】【@图片4】【@图片5】，保持马形象一致，保持马形象一致。马儿出场顺序你可以调整 ✅ \n核心逻辑 动作顺序：慢→快→ 高潮，动作从小到大→定格 图1：站立/轻微抬头",
       "prompt_length": 100,
       "tweet_url": "https://x.com/Michell81147285/status/2024145186167939123",
@@ -5268,6 +5378,28 @@
       "summary": "Prime？不，这是冠军的饮料！"
     },
     {
+      "prompt": "Brand Y·The Future Has Arrived (15 seconds·Hollywood Blockbuster Version) Core Concept: Congested Roads (Real-World Dilemma) -&gt; Mechanical Transformation (Technological Highlight) -&gt; Vertical Takeoff (Freedom and the Future). Style Setting: High-end Car",
+      "prompt_length": 259,
+      "tweet_url": "https://x.com/athianandam/status/2026935694854414647",
+      "author": "athianandam",
+      "author_name": "anand mekala",
+      "author_followers": 100,
+      "created_at": "Thu Feb 26 08:21:42 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 3.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026935565430697985/img/6JcIWlVx_Ul29BT1.jpg",
+      "full_text_preview": "seedance 2.0\nprompt: Brand Y·The Future Has Arrived (15 seconds·Hollywood Blockbuster Version) Core Concept: Congested Roads (Real-World Dilemma) -&gt; Mechanical Transformation (Technological Highlig...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "品牌Y的科幻大片广告，展现拥堵道路到机械变形的垂直交通解决方案。"
+    },
+    {
       "prompt": "production-ready",
       "prompt_length": 16,
       "tweet_url": "https://x.com/heliogen_ai/status/2021784141067325562",
@@ -5422,6 +5554,28 @@
       "summary": "尼日利亚拉各斯的 alien 入侵"
     },
     {
+      "prompt": "🏮🏃‍♂️\n\nGenerated on https://t.co/lPGZllsJUb using the Seedance 1.5 video model. The consistency and art style are incredible.\n\nWant the prompt?\n\nFollow me\n\nReply",
+      "prompt_length": 161,
+      "tweet_url": "https://x.com/khan_faizan01/status/2027000446666363018",
+      "author": "khan_faizan01",
+      "author_name": "Faizan Khan",
+      "author_followers": 18,
+      "created_at": "Thu Feb 26 12:39:00 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027000365091373056/img/kahLb0OS5mm_0kjg.jpg",
+      "full_text_preview": "AI-generated anime is reaching a whole new level of \"fluid.\" 🏮🏃‍♂️\n\nGenerated on https://t.co/lPGZllsJUb using the Seedance 1.5 video model. The consistency and art style are incredible.\n\nWant the pro...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一个跑步的人，提示关注和回复以获取prompt。"
+    },
+    {
       "prompt": "Cinematic action sequence in a suburban living room: Arnold Schwarzenegger as Terminator T-800,  battles a  Predator  and wrist blades. Intense hand-to-hand combat: punches, throws through walls, furniture smashing, sparks and debris",
       "prompt_length": 233,
       "tweet_url": "https://x.com/FragZero/status/2024602699635790191",
@@ -5533,6 +5687,28 @@
       "summary": "快手/抖音东北喊麦风，土嗨慢摇，霓虹灯，社会摇视频"
     },
     {
+      "prompt": "An intense action sequence where a landscaper is running through a forest into an empty clearing where a rocket is waiting for him. He gets in and the rocket launches. Cinematic.",
+      "prompt_length": 178,
+      "tweet_url": "https://x.com/kylethacker/status/2026808487603581182",
+      "author": "kylethacker",
+      "author_name": "Kyle Thacker",
+      "author_followers": 846,
+      "created_at": "Wed Feb 25 23:56:14 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026807981070024704/img/zc2QXeGIZkdUe5_s.jpg",
+      "full_text_preview": "Seedance 2.0 is going to be a legal nightmare. Incredible quality though.\n\nPrompt: \"An intense action sequence where a landscaper is running through a forest into an empty clearing where a rocket is w...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "园艺师在森林中奔跑，登上火箭发射的紧张动作场景。"
+    },
+    {
       "prompt": "Will Smith Eating Spaghetti",
       "prompt_length": 27,
       "tweet_url": "https://x.com/patrick_forreal/status/2024228554293047337",
@@ -5575,6 +5751,28 @@
       ],
       "quality_score": 3,
       "summary": "海贼王路飞在乐天世界乘坐游乐设施的视频"
+    },
+    {
+      "prompt": "@Image1's character",
+      "prompt_length": 19,
+      "tweet_url": "https://x.com/SYDxStudio/status/2027058995731607571",
+      "author": "SYDxStudio",
+      "author_name": "SYD",
+      "author_followers": 2473,
+      "created_at": "Thu Feb 26 16:31:40 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027058252803084289/img/wP3iaXD7t6E4BVLW.jpg",
+      "full_text_preview": "Since I haven’t been able to fully experiment with the power of Seedance 2.0 yet, I’m continuing to refine and adapt my prompts so they can run on Sora 2, Kling AI and later Seedance, using the exact ...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "基于@Image1的角色创作视频。"
     },
     {
       "prompt": "ok, what prompt did they use?",
@@ -5886,6 +6084,28 @@
       ],
       "quality_score": 1,
       "summary": "男人坐在酒吧里。"
+    },
+    {
+      "prompt": "My cat is a secret agent.",
+      "prompt_length": 25,
+      "tweet_url": "https://x.com/JohnnyWang8802/status/2027073446367371772",
+      "author": "JohnnyWang8802",
+      "author_name": "Johnny Wang",
+      "author_followers": 1428,
+      "created_at": "Thu Feb 26 17:29:05 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027073284479840256/img/OldF5VdrlO2i7LSn.jpg",
+      "full_text_preview": "Prompt: \"My cat is a secret agent.\" \n\nTool: Seedance 2.0\n\nThe moment the mustache and top hat went on... perfect vibe. AI video comprehension is getting absolutely insane right now. 🕵️‍♂️🤯 https://t.c...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "我的猫是秘密特工。"
     },
     {
       "prompt": "Make this character as a realistic 3D character in T-pose.",
@@ -7476,6 +7696,28 @@
       ],
       "quality_score": 3,
       "summary": "麦迪逊广场花园演唱会，主唱跪在舞台边缘的逼真镜头。"
+    },
+    {
+      "prompt": "Put this image on a huge billboard where all the people around are looking it and are in awe, and everybody say \"wow\", \"amazing",
+      "prompt_length": 127,
+      "tweet_url": "https://x.com/SupaMikeZ/status/2026864473588531263",
+      "author": "SupaMikeZ",
+      "author_name": "Supa Mike",
+      "author_followers": 346,
+      "created_at": "Thu Feb 26 03:38:42 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2026864429456146432/img/RLoCVW_hQ8H0lR6J.jpg",
+      "full_text_preview": "Another fun test with a screenshot of https://t.co/SJZSGEhWPE and seedance 2.\nPrompt : Put this image on a huge billboard where all the people around are looking it and are in awe, and everybody say \"...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "将图片放在巨大的广告牌上，周围的人惊叹不已。"
     },
     {
       "prompt": "Authentic cinematic quality, Wong Kar-wai wuxia style. A solitary black cat clad in lightweight soft armor confronts pursuers amidst the vast, desolate desert sands. Intense martial arts combat unfolds",

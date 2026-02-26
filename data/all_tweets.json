@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026808487603581182",
+    "url": "https://x.com/kylethacker/status/2026808487603581182",
+    "text": "Seedance 2.0 is going to be a legal nightmare. Incredible quality though.\n\nPrompt: \"An intense action sequence where a landscaper is running through a forest into an empty clearing where a rocket is waiting for him. He gets in and the rocket launches. Cinematic.\" https://t.co/eG6YmvdcVF",
+    "createdAt": "Wed Feb 25 23:56:14 +0000 2026",
+    "lang": "en",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "kylethacker",
+      "name": "Kyle Thacker",
+      "followers": 846,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026807981070024704/img/zc2QXeGIZkdUe5_s.jpg"
+    ]
+  },
+  {
+    "id": "2026801697285169652",
+    "url": "https://x.com/manson_ai/status/2026801697285169652",
+    "text": "Seedance 2.0 翻车现场！[流汗]\n\n明明参数拉满了，出片皮肤还是像磨皮过度的假人，动作透着一股AI廉价感，离电影级质感差了十万八千里。\n\n到底是我的 Prompt 没写对（缺少真实纹理指令？），还是采样步数和种子数有坑？怎么才能去塑料感？\n\n#AI视频 #Seedance2.0 #AIGC https://t.co/bfkt4DdRdI",
+    "createdAt": "Wed Feb 25 23:29:15 +0000 2026",
+    "lang": "zh",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "manson_ai",
+      "name": "MansoN_AI",
+      "followers": 88,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026800127961112576/img/LRqwOGNCRdPuZ9FA.jpg"
+    ]
+  },
+  {
+    "id": "2026800561648025971",
+    "url": "https://x.com/JeremyHaccoun/status/2026800561648025971",
+    "text": "First Seedance 2 test.\n\nWhen I think about how many days I used to spend comping fire in After Effects… this is pretty wild. \n\nPrompt: Wide shot, two cars collide at a downtown road junction in a major US city, causing a massive explosion. https://t.co/p3J1FG1TS0",
+    "createdAt": "Wed Feb 25 23:24:44 +0000 2026",
+    "lang": "en",
+    "likeCount": 3,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "JeremyHaccoun",
+      "name": "Jeremy Haccoun",
+      "followers": 460,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026800158495694848/img/WTHc2Et_vsq-sa0e.jpg"
+    ]
+  },
+  {
     "id": "2026793748089213183",
     "url": "https://x.com/ibexdream/status/2026793748089213183",
     "text": "Today, @capcutapp added the option to generate Seedance 2.0 videos directly inside the app, so I decided to run a quick test. \nI’ve posted the prompt in the replies below. 👇 https://t.co/yJCXxaxG6A",
@@ -18545,6 +18617,944 @@
       "isBlueVerified": true
     },
     "media": []
+  },
+  {
+    "id": "2027151933908177164",
+    "url": "https://x.com/RyanStrandjord/status/2027151933908177164",
+    "text": "Trying to generate video with Seedance 2.0 right now is such a mess. \n\nEverything I try to prompt from an image is blocked, and even videos without a start image are being blocked. \n\nAfter an hour of rendering I was able to get a 15 second clip of \"Dog chases cat.\" \n\nHbu? https://t.co/vgDugMqiJ0",
+    "createdAt": "Thu Feb 26 22:40:58 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "RyanStrandjord",
+      "name": "Ryan Strandjord",
+      "followers": 276,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027151735194587136/img/1glIb5CHf24bXTCA.jpg"
+    ]
+  },
+  {
+    "id": "2027110726515429437",
+    "url": "https://x.com/AIVideoDotCom/status/2027110726515429437",
+    "text": "no, this isn't Seedance 2.0.\n\nbut can you believe this multi-shot sequence is made with one prompt?\n\njust using AVA. want to try it?\n\nreply with \"aivideo\" and we will DM you a link. https://t.co/i3Dmb1iuc9",
+    "createdAt": "Thu Feb 26 19:57:13 +0000 2026",
+    "lang": "en",
+    "likeCount": 2,
+    "retweetCount": 0,
+    "replyCount": 2,
+    "quoteCount": 1,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "AIVideoDotCom",
+      "name": "AIVideoDotCom",
+      "followers": 3536,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2027110675714031616/pu/img/aEHrIzqSnXfM4_db.jpg"
+    ]
+  },
+  {
+    "id": "2027109731140268367",
+    "url": "https://x.com/charliebcurran/status/2027109731140268367",
+    "text": "Seedance 2.0\n\nPrompt: Timothee Chalamet at the Apple keynote.  Don't make it gay. https://t.co/cZV70cl3Mb",
+    "createdAt": "Thu Feb 26 19:53:16 +0000 2026",
+    "lang": "en",
+    "likeCount": 68,
+    "retweetCount": 1,
+    "replyCount": 7,
+    "quoteCount": 4,
+    "bookmarkCount": 22,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "charliebcurran",
+      "name": "Charles Curran",
+      "followers": 24376,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/media/HCHnGX5a8AAQiQC.jpg"
+    ]
+  },
+  {
+    "id": "2027073446367371772",
+    "url": "https://x.com/JohnnyWang8802/status/2027073446367371772",
+    "text": "Prompt: \"My cat is a secret agent.\" \n\nTool: Seedance 2.0\n\nThe moment the mustache and top hat went on... perfect vibe. AI video comprehension is getting absolutely insane right now. 🕵️‍♂️🤯 https://t.co/4dCw49mxyW",
+    "createdAt": "Thu Feb 26 17:29:05 +0000 2026",
+    "lang": "en",
+    "likeCount": 2,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "JohnnyWang8802",
+      "name": "Johnny Wang",
+      "followers": 1428,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027073284479840256/img/OldF5VdrlO2i7LSn.jpg"
+    ]
+  },
+  {
+    "id": "2027071041621946549",
+    "url": "https://x.com/JohnnyWang8802/status/2027071041621946549",
+    "text": "One word Prompt in Seedance 2.0 ：\n\n\"Paradox\"\n\nSeedance 2.0 has a good understanding of individual words, and the generated videos are error-free and successful. The simple prompts also improve the success rate of prompt review. https://t.co/IzZEGdamxk",
+    "createdAt": "Thu Feb 26 17:19:32 +0000 2026",
+    "lang": "en",
+    "likeCount": 2,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "JohnnyWang8802",
+      "name": "Johnny Wang",
+      "followers": 1428,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027069853753131008/img/tPuXxRdbqd-Ga9RK.jpg"
+    ]
+  },
+  {
+    "id": "2027069641886200279",
+    "url": "https://x.com/iamfakhrealam/status/2027069641886200279",
+    "text": "Powered by Seedance 2.0: it studies winning clips, learns the pattern, and recreates view-getting content.\n\nNo timeline. No stress. Prompt and post...\n\nExample https://t.co/r3oDK3Z7QR",
+    "createdAt": "Thu Feb 26 17:13:58 +0000 2026",
+    "lang": "en",
+    "likeCount": 4,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": true,
+    "isRetweet": false,
+    "author": {
+      "userName": "iamfakhrealam",
+      "name": "Fakhr",
+      "followers": 37191,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027069590766006272/img/0p2-vcbgGz7GE-_4.jpg"
+    ]
+  },
+  {
+    "id": "2027067883654672485",
+    "url": "https://x.com/AlisherFarhadi/status/2027067883654672485",
+    "text": "Seedance 2 in @pixio_ai is absolutely insane.\n\nBlockbuster level video with just a simple one line prompt. There is a lot you can do with 12 seconds, and it only takes 5 generations to have a minute of video.\n\nThe hype is real.\n\n@kukaj94 cooked with this update. https://t.co/N8rtbpMvBZ",
+    "createdAt": "Thu Feb 26 17:06:59 +0000 2026",
+    "lang": "en",
+    "likeCount": 3,
+    "retweetCount": 1,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "AlisherFarhadi",
+      "name": "Alisher Farhadi",
+      "followers": 659,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027066886618230784/img/P7mVjhp-uzhrEs_0.jpg"
+    ]
+  },
+  {
+    "id": "2027058995731607571",
+    "url": "https://x.com/SYDxStudio/status/2027058995731607571",
+    "text": "Since I haven’t been able to fully experiment with the power of Seedance 2.0 yet, I’m continuing to refine and adapt my prompts so they can run on Sora 2, Kling AI and later Seedance, using the exact same structured flow, without any modifications.\n\nPrompt : \n@Image1's character https://t.co/1VQsu4Omo1",
+    "createdAt": "Thu Feb 26 16:31:40 +0000 2026",
+    "lang": "en",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "SYDxStudio",
+      "name": "SYD",
+      "followers": 2473,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027058252803084289/img/wP3iaXD7t6E4BVLW.jpg"
+    ]
+  },
+  {
+    "id": "2027053764536856705",
+    "url": "https://x.com/ricardotosatt/status/2027053764536856705",
+    "text": "Seedance 2.0 demonstrates high temporal consistency. \n\nSingle prompt workflows are transforming how we generate complex CGI and robotic animations. 🤖\n\n#ai #seedance https://t.co/j2guCACfeO",
+    "createdAt": "Thu Feb 26 16:10:52 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "ricardotosatt",
+      "name": "Ricardo Tosatto",
+      "followers": 61,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2027053728566493184/pu/img/jyoZ1ugaSoKKQIav.jpg"
+    ]
+  },
+  {
+    "id": "2027048003094360374",
+    "url": "https://x.com/laszlogaal_/status/2027048003094360374",
+    "text": "IKEA x Seedance 2.0. Everything is coming from a text prompt only. #seedance2 https://t.co/eW2EJy8p8J",
+    "createdAt": "Thu Feb 26 15:47:59 +0000 2026",
+    "lang": "en",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "laszlogaal_",
+      "name": "László Gaál",
+      "followers": 1891,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027043439217688577/img/9kqfAZ5GYWzrdb-q.jpg"
+    ]
+  },
+  {
+    "id": "2027037472790593858",
+    "url": "https://x.com/johnAGI168/status/2027037472790593858",
+    "text": "哥带你闯🤣\n\n搞来搞去目前还是Seedance 2.0好玩🤩\n\n就是可惜了现在审查太严生成速度几乎龟速😭\n\n文生视频prompt 👇\n\nADVENTURE ENERGY: 哥伦布看着手机GPS导航，兴奋地说：\"发现新大陆我最棒！导航定位不迷航！探险路上有保障，哥伦布导航带你闯！\" 海浪航行特效 - 卫星定位动画 - https://t.co/1Ra9BFSOhm",
+    "createdAt": "Thu Feb 26 15:06:08 +0000 2026",
+    "lang": "zh",
+    "likeCount": 8,
+    "retweetCount": 1,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 10,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "johnAGI168",
+      "name": "John",
+      "followers": 2488,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027037257383718912/img/6zaD5tMhzkUM3BXz.jpg"
+    ]
+  },
+  {
+    "id": "2027022008060645437",
+    "url": "https://x.com/afiqnymous/status/2027022008060645437",
+    "text": "Sun Wukong vs Marvel Characters\n\nA million-dollar Hollywood scene… generated with one prompt in less than 10minutes for less than $10 dollars.\n\nCreated with Seedance 2.0, now available on @kontenai for early access! https://t.co/cW44Ynjj3T",
+    "createdAt": "Thu Feb 26 14:04:41 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 1,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "afiqnymous",
+      "name": "Afiq",
+      "followers": 2455,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027021572272476160/img/Ub5mcAYzoTY6bY2i.jpg"
+    ]
+  },
+  {
+    "id": "2027021917530599913",
+    "url": "https://x.com/martinleblanc/status/2027021917530599913",
+    "text": "😈 While we are waiting for Seedance 2.0, Kling 3.0 is still an amazing option.\n\nEspecially Omni mode when working with character. Just generate multiple facial expressions and provide them as reference images.\n\nThen make a multi-shot prompt and you will have amazing character https://t.co/FhYGSZF6KY",
+    "createdAt": "Thu Feb 26 14:04:20 +0000 2026",
+    "lang": "en",
+    "likeCount": 170,
+    "retweetCount": 8,
+    "replyCount": 8,
+    "quoteCount": 4,
+    "bookmarkCount": 136,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "martinleblanc",
+      "name": "Martin LeBlanc",
+      "followers": 7580,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027021349139644417/img/CZoKiu0H0o5C6uyh.jpg"
+    ]
+  },
+  {
+    "id": "2027020829075079319",
+    "url": "https://x.com/Zopia_AI/status/2027020829075079319",
+    "text": "Meet the Mecha-Frog: The Squishiest Tank in the Galaxy 🐸💎\nSeedance 2.0 brings this \"Jelly Mecha\" to life, making it look both incredibly powerful and impossibly squishy！\n\nCheck the thread for the exact prompt Zopia used! ✍️👇\n#Zopia #Seedance2 #Cyberpunk  #Mecha https://t.co/uVRy7OWQkQ",
+    "createdAt": "Thu Feb 26 14:00:00 +0000 2026",
+    "lang": "en",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "Zopia_AI",
+      "name": "Zopia AI",
+      "followers": 147,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026953902118309889/img/Qqck6U4kZLaLNQvU.jpg"
+    ]
+  },
+  {
+    "id": "2027014236119928856",
+    "url": "https://x.com/3h0ll7/status/2027014236119928856",
+    "text": "This project explores structured prompt engineering, precise movement timing, and advanced cinematic composition using @YouArtStudio\n\nCreated using Seedance 2.0.\nProud Creative Partner. https://t.co/Cx3mfBwD1L",
+    "createdAt": "Thu Feb 26 13:33:48 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "3h0ll7",
+      "name": "𝓗𝓪𝓼𝓼𝓪𝓷",
+      "followers": 108,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2027014169661251585/pu/img/rr34Hx4a5WkY80Vq.jpg"
+    ]
+  },
+  {
+    "id": "2027011307439038778",
+    "url": "https://x.com/motionhigh_ai/status/2027011307439038778",
+    "text": "Motion Setting : High. Start the Journey, Fill the Tummy.\n#kling3 Kling 3.0 is still very handy and fun to create with, till we wait for the official release of the Seedance 2.0. Edited with @capcutapp. Used Veo3 for the opening, only one prompt and it got us the result of a nice https://t.co/tOB52iumWS",
+    "createdAt": "Thu Feb 26 13:22:10 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "motionhigh_ai",
+      "name": "Motion High",
+      "followers": 6,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027005941561151489/img/Zxb9tmP-b3jmmNhv.jpg"
+    ]
+  },
+  {
+    "id": "2027005734915829992",
+    "url": "https://x.com/Pexoai01/status/2027005734915829992",
+    "text": "This isn't just another UGC video. \nThis is the future of UGC.\nFlawless character consistency across a 45-second narrative, all generated from a single prompt on Pexo with Seedance 2.0.\nThe creator toolkit is evolving. Be part of the evolution. Join the Pexo Discord now: https://t.co/LswLpt3N3x",
+    "createdAt": "Thu Feb 26 13:00:01 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "Pexoai01",
+      "name": "Pexo",
+      "followers": 11,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026864472737067009/img/yRs23mURZtwB7PlQ.jpg"
+    ]
+  },
+  {
+    "id": "2027000446666363018",
+    "url": "https://x.com/khan_faizan01/status/2027000446666363018",
+    "text": "AI-generated anime is reaching a whole new level of \"fluid.\" 🏮🏃‍♂️\n\nGenerated on https://t.co/lPGZllsJUb using the Seedance 1.5 video model. The consistency and art style are incredible.\n\nWant the prompt?\n\nFollow me\n\nReply \"PROMPT\" I’ll send it over to your DMs! 📩\n\n#AICommunity https://t.co/lMN81synwS",
+    "createdAt": "Thu Feb 26 12:39:00 +0000 2026",
+    "lang": "en",
+    "likeCount": 2,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "khan_faizan01",
+      "name": "Faizan Khan",
+      "followers": 18,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2027000365091373056/img/kahLb0OS5mm_0kjg.jpg"
+    ]
+  },
+  {
+    "id": "2026991545598320853",
+    "url": "https://x.com/paipiange/status/2026991545598320853",
+    "text": "Seedance 2.0 提示词prompt：  真人写实风格，竖屏，第一人称男友视角。在昏暗的KTV包厢内，背景有紫色和蓝色的霓虹激光灯闪烁。一位漂亮的年轻亚洲女性坐在黑色皮沙发上，黑色长发披肩，身穿黑色露肩亮片毛衣，戴着精致项链。 动作描述: https://t.co/Lw147KrYi6",
+    "createdAt": "Thu Feb 26 12:03:38 +0000 2026",
+    "lang": "zh",
+    "likeCount": 2,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "paipiange",
+      "name": "paipiange",
+      "followers": 803,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026991453248090112/img/-yyMEGoe6I2vNRbq.jpg"
+    ]
+  },
+  {
+    "id": "2026983864401625354",
+    "url": "https://x.com/ZaraIrahh/status/2026983864401625354",
+    "text": "FPV AI video of a treehouse\n\nCreated with Seedance 2.0 on @yapper_so \n\nPrompt: Fast-paced FPV cinematic flying through a hyper-realistic, cozy treehouse in a dense forest at golden hour, sweeping through bridges, staircases, interiors with warm lights, and exiting through a https://t.co/a2du7FOMBJ",
+    "createdAt": "Thu Feb 26 11:33:07 +0000 2026",
+    "lang": "en",
+    "likeCount": 59,
+    "retweetCount": 5,
+    "replyCount": 41,
+    "quoteCount": 0,
+    "bookmarkCount": 14,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "ZaraIrahh",
+      "name": "Zara",
+      "followers": 12399,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2026983792125325312/pu/img/fo-N87flC4IGzO5t.jpg"
+    ]
+  },
+  {
+    "id": "2026981066284658768",
+    "url": "https://x.com/enesozcanileai/status/2026981066284658768",
+    "text": "Hızlıca yaptığım bir Seedance 2.0 Denemesi.. Prompt Aşağıda:\n\n\"Ultra realistic cinematic action scene at Istanbul Bosphorus waterfront, modern urban pier area, no mosques visible, no religious buildings visible, modern buildings only fictional male action hero with completely https://t.co/VeUZ0CxHTZ",
+    "createdAt": "Thu Feb 26 11:22:00 +0000 2026",
+    "lang": "ro",
+    "likeCount": 0,
+    "retweetCount": 1,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "enesozcanileai",
+      "name": "Enes Özcan ile Yapay Zeka",
+      "followers": 1089,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026980940052873216/img/PR5paHu8-E5ugsDU.jpg"
+    ]
+  },
+  {
+    "id": "2026973343958905203",
+    "url": "https://x.com/JohnnyWang8802/status/2026973343958905203",
+    "text": "Prompt: \"My dog is dreaming\" Result: 👇\n\nThe comprehension and realism of Seedance 2.0 have reached this level. No complex parameters needed, just one simple idea. https://t.co/DddN8fiM0e",
+    "createdAt": "Thu Feb 26 10:51:19 +0000 2026",
+    "lang": "en",
+    "likeCount": 5,
+    "retweetCount": 1,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "JohnnyWang8802",
+      "name": "Johnny Wang",
+      "followers": 1428,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026973148017733632/img/PnEMkRDVqtsTip8f.jpg"
+    ]
+  },
+  {
+    "id": "2026966106553077847",
+    "url": "https://x.com/sumiturkude007/status/2026966106553077847",
+    "text": "A million-dollar Hollywood scene… generated with one prompt in less than 2 minutes — for just a few cents.\nCreated with Seedance 2.0 https://t.co/J1tJRWxfdE",
+    "createdAt": "Thu Feb 26 10:22:33 +0000 2026",
+    "lang": "en",
+    "likeCount": 523,
+    "retweetCount": 60,
+    "replyCount": 50,
+    "quoteCount": 5,
+    "bookmarkCount": 197,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "sumiturkude007",
+      "name": "sammy",
+      "followers": 2896,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2026966048499773440/pu/img/KnXWuzvZKEzzmhtO.jpg"
+    ]
+  },
+  {
+    "id": "2026941124162539896",
+    "url": "https://x.com/CoolHandLuke_82/status/2026941124162539896",
+    "text": "Grok Imagine difference when retrying old prompt with new one! @elonmusk, we can’t wait for a seedance competitor! @grok https://t.co/kT7L6H6nBR",
+    "createdAt": "Thu Feb 26 08:43:17 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 1,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "CoolHandLuke_82",
+      "name": "Luke 🇬🇧",
+      "followers": 159,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026941071687581696/img/v_WxoHC9hAngsmHq.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2026941071679270912/img/XXN-ZmkiE-vvZy-k.jpg"
+    ]
+  },
+  {
+    "id": "2026935694854414647",
+    "url": "https://x.com/athianandam/status/2026935694854414647",
+    "text": "seedance 2.0\nprompt: Brand Y·The Future Has Arrived (15 seconds·Hollywood Blockbuster Version) Core Concept: Congested Roads (Real-World Dilemma) -&gt; Mechanical Transformation (Technological Highlight) -&gt; Vertical Takeoff (Freedom and the Future). Style Setting: High-end Car https://t.co/d8N509Ycd2",
+    "createdAt": "Thu Feb 26 08:21:42 +0000 2026",
+    "lang": "en",
+    "likeCount": 3,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "athianandam",
+      "name": "anand mekala",
+      "followers": 100,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026935565430697985/img/6JcIWlVx_Ul29BT1.jpg"
+    ]
+  },
+  {
+    "id": "2026928123166720067",
+    "url": "https://x.com/YaseenK7212/status/2026928123166720067",
+    "text": "This is such a cool transformation🔥\n\nit took just one prompt to make this video.\n\nSeedance 2.0 is making actual movies now🤯 https://t.co/kvrWN0hKnH",
+    "createdAt": "Thu Feb 26 07:51:37 +0000 2026",
+    "lang": "en",
+    "likeCount": 4813,
+    "retweetCount": 349,
+    "replyCount": 89,
+    "quoteCount": 14,
+    "bookmarkCount": 1892,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "YaseenK7212",
+      "name": "Yaseen Khan Gul",
+      "followers": 20260,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026927968732557312/img/w85uCDbLisUNe5Jq.jpg"
+    ]
+  },
+  {
+    "id": "2026887549772263881",
+    "url": "https://x.com/OfirBrown/status/2026887549772263881",
+    "text": "@BeanieBlossom Cute prompt 🙏 here is my take :) seedream 5 + seedance 2.0 + @capcutapp https://t.co/DOilhEgKZA",
+    "createdAt": "Thu Feb 26 05:10:24 +0000 2026",
+    "lang": "en",
+    "likeCount": 4,
+    "retweetCount": 2,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": true,
+    "isRetweet": false,
+    "author": {
+      "userName": "OfirBrown",
+      "name": "Ofir Brown",
+      "followers": 372,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026887453487898625/img/pnd2USZHctSfxuhB.jpg"
+    ]
+  },
+  {
+    "id": "2026864473588531263",
+    "url": "https://x.com/SupaMikeZ/status/2026864473588531263",
+    "text": "Another fun test with a screenshot of https://t.co/SJZSGEhWPE and seedance 2.\nPrompt : Put this image on a huge billboard where all the people around are looking it and are in awe, and everybody say \"wow\", \"amazing\" https://t.co/VKDgWKigfb",
+    "createdAt": "Thu Feb 26 03:38:42 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "SupaMikeZ",
+      "name": "Supa Mike",
+      "followers": 346,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026864429456146432/img/RLoCVW_hQ8H0lR6J.jpg"
+    ]
+  },
+  {
+    "id": "2026861824386515357",
+    "url": "https://x.com/songguoxiansen/status/2026861824386515357",
+    "text": "中国上古神话-女娲补天\n\nSeedance 2.0 提示词\n\nPrompt在评论区 https://t.co/PxXDse2mLQ",
+    "createdAt": "Thu Feb 26 03:28:10 +0000 2026",
+    "lang": "zh",
+    "likeCount": 47,
+    "retweetCount": 4,
+    "replyCount": 8,
+    "quoteCount": 0,
+    "bookmarkCount": 23,
+    "isQuote": true,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "songguoxiansen",
+      "name": "松果先森",
+      "followers": 26619,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026861639736385536/img/zUUGpYIt2V_7-NY2.jpg"
+    ]
+  },
+  {
+    "id": "2026860141019025461",
+    "url": "https://x.com/mitchozz/status/2026860141019025461",
+    "text": "First experiment with Seedance 2.0 🎬\nFloating worlds, masked warrior, dragon boss fight…\nWe’re entering a new era of AI cinema.\nPrompt in the thread 👇\n\n#AIvideo #AIart #AIfilm #Seedance2 #CinematicAI #UnrealEngineVibes #VFXartist #ContentCreator #Innovation #NextGen https://t.co/6Xprda8snf",
+    "createdAt": "Thu Feb 26 03:21:29 +0000 2026",
+    "lang": "en",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 2,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "mitchozz",
+      "name": "Mitchozz1",
+      "followers": 339,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026859701309198336/img/vwE0gX4PPuJXut5U.jpg"
+    ]
+  },
+  {
+    "id": "2026847419724607846",
+    "url": "https://x.com/4nzee/status/2026847419724607846",
+    "text": "Though the action is great, it did not follow the prompt correctly smh (made with seedance 2) https://t.co/59CaYgSWDj",
+    "createdAt": "Thu Feb 26 02:30:56 +0000 2026",
+    "lang": "en",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "4nzee",
+      "name": "Alphonce Maunda",
+      "followers": 426,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026847185602760705/img/fHj51TvSjLvhKsw-.jpg"
+    ]
+  },
+  {
+    "id": "2026846380896190731",
+    "url": "https://x.com/songguoxiansen/status/2026846380896190731",
+    "text": "大哥在想什么呢？\n\nSeedance 2.0 提示词prompt： https://t.co/RyJwaneEpP",
+    "createdAt": "Thu Feb 26 02:26:48 +0000 2026",
+    "lang": "zh",
+    "likeCount": 126,
+    "retweetCount": 23,
+    "replyCount": 8,
+    "quoteCount": 1,
+    "bookmarkCount": 105,
+    "isQuote": true,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "songguoxiansen",
+      "name": "松果先森",
+      "followers": 26619,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026846100137877504/img/hmjvQF10idSNHuco.jpg"
+    ]
+  },
+  {
+    "id": "2026830994892804266",
+    "url": "https://x.com/WolfRiccardo/status/2026830994892804266",
+    "text": "VEO 3.1 vs SEEDANCE 2.0 \nSame prompt. Who won? 😅 https://t.co/khdtXFKGpZ",
+    "createdAt": "Thu Feb 26 01:25:40 +0000 2026",
+    "lang": "en",
+    "likeCount": 1,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "WolfRiccardo",
+      "name": "Riccardo Wolf",
+      "followers": 556,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026830521821548544/img/zYGmzXrZ7jYuiE76.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2026830579157639168/img/wYPi16zjwWIg8JnC.jpg"
+    ]
+  },
+  {
+    "id": "2026828309217292643",
+    "url": "https://x.com/smallstones677/status/2026828309217292643",
+    "text": "Seedance 2.0 把中国美女直接拉进古代战场，柔美瞬间变身杀神，网友看完直接泪目：这才是真正的“女战士觉醒”！\n\n社区已经疯传这些变形神作，每一条都让女孩们尖叫“我也要这样变身”，直接复制prompt进Seedance 2.0就能生成你的专属古风女战神！ https://t.co/AiYt6Lm2L7",
+    "createdAt": "Thu Feb 26 01:15:00 +0000 2026",
+    "lang": "zh",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "smallstones677",
+      "name": "Sims干货知识分享",
+      "followers": 171,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026641247432278016/img/dXGgdEtCu_hrWU2J.jpg"
+    ]
+  },
+  {
+    "id": "2026825384260678044",
+    "url": "https://x.com/FussyPastor/status/2026825384260678044",
+    "text": "Seedance 2.0 is impressive, it's prompt adherence is really strong. But this then exposes your ability to cover all facets of the scene. Check out these porch pirates, there's a scene breaker in each of them and some are my fault for not addressing it in the prompt. https://t.co/Jo7pHTsOsV",
+    "createdAt": "Thu Feb 26 01:03:22 +0000 2026",
+    "lang": "en",
+    "likeCount": 12,
+    "retweetCount": 1,
+    "replyCount": 3,
+    "quoteCount": 0,
+    "bookmarkCount": 2,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "FussyPastor",
+      "name": "Pastor",
+      "followers": 2405,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026819232202407936/img/TfurfeQqFNN3RTRA.jpg"
+    ]
+  },
+  {
+    "id": "2026820905326825942",
+    "url": "https://x.com/Morph_VGart/status/2026820905326825942",
+    "text": "One prompt made this wholesome clip in Seedance 2.0 \n\nmade w/ @YouArtStudio https://t.co/aPASxlpxv5",
+    "createdAt": "Thu Feb 26 00:45:34 +0000 2026",
+    "lang": "en",
+    "likeCount": 18,
+    "retweetCount": 2,
+    "replyCount": 4,
+    "quoteCount": 1,
+    "bookmarkCount": 3,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "Morph_VGart",
+      "name": "Morph",
+      "followers": 27206,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026820805284294657/img/IvluSUS-HQBQ_1U6.jpg"
+    ]
+  },
+  {
+    "id": "2026819243736498530",
+    "url": "https://x.com/MhmdElattar_/status/2026819243736498530",
+    "text": "This is video control with the new Seedance 2.0 model.\nTwo pics of my characters + one motion video + one prompt… and we got THIS.\nGoodbye, Hollywood. 👋🎬 https://t.co/f3AnPJ0Jz7",
+    "createdAt": "Thu Feb 26 00:38:58 +0000 2026",
+    "lang": "en",
+    "likeCount": 2,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 1,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "MhmdElattar_",
+      "name": "Mo Elattar",
+      "followers": 50,
+      "isBlueVerified": false
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026819159737196544/img/_d4aNKxrL9mSnFOk.jpg"
+    ]
+  },
+  {
+    "id": "2026812556573290688",
+    "url": "https://x.com/ZephyraLeigh/status/2026812556573290688",
+    "text": "Made with Seedance 2.0 from just one prompt.\n\nIf life’s a journey, this is the kind of view I’d choose every time. https://t.co/cAnsCCdip5",
+    "createdAt": "Thu Feb 26 00:12:24 +0000 2026",
+    "lang": "en",
+    "likeCount": 25,
+    "retweetCount": 6,
+    "replyCount": 11,
+    "quoteCount": 0,
+    "bookmarkCount": 5,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "ZephyraLeigh",
+      "name": "Zephyra Leigh",
+      "followers": 4737,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2026812475107323906/pu/img/ZGF05iRDg21kPEqj.jpg"
+    ]
+  },
+  {
+    "id": "2026812063457116362",
+    "url": "https://x.com/OriSilver/status/2026812063457116362",
+    "text": "You'll see your favorite influencer speaks about how seedance demand a special kind of prompt to unlock its full potential. \n\nThat is nonsense.\n\nSeedance too is so good, that even with a vague prompt you'll get supreme results, and even without any prompt. \n \nFirst &lt;&gt; last frame https://t.co/9Yq25jn6Wu",
+    "createdAt": "Thu Feb 26 00:10:26 +0000 2026",
+    "lang": "en",
+    "likeCount": 5,
+    "retweetCount": 0,
+    "replyCount": 1,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "OriSilver",
+      "name": "Ori Silver",
+      "followers": 1821,
+      "isBlueVerified": true
+    },
+    "media": [
+      "https://pbs.twimg.com/amplify_video_thumb/2026811902555201536/img/eupxCAhyqECq-dKf.jpg"
+    ]
   },
   {
     "id": "2024608758945731001",
