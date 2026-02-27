@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1952,
-    "prompts_extracted": 369,
+    "total_tweets": 1981,
+    "prompts_extracted": 377,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -2260,6 +2260,29 @@
       "summary": "东方玄幻武侠电影级特效大片，史诗感慢动作与快剪结合"
     },
     {
+      "prompt": "A silver-haired elderly woman in a loose linen dress stands at the edge of a misty forest lake at dawn, her weathered hands releasing a paper lantern onto the still water; the camera uses a slow lens push from medium close-up to close-up, capturing",
+      "prompt_length": 248,
+      "tweet_url": "https://x.com/LudovicCreator/status/2027315285477241014",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36334,
+      "created_at": "Fri Feb 27 09:30:04 +0000 2026",
+      "lang": "en",
+      "likes": 40,
+      "retweets": 8,
+      "replies": 5,
+      "bookmarks": 8,
+      "engagement_score": 68.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2027315268012101632/pu/img/gz4yRt3kXpHMZeCH.jpg",
+      "full_text_preview": "🎨 SEEDANCE 1.5 🎨\n\nPrompt  :\n\nA silver-haired elderly woman in a loose linen dress stands at the edge of a misty forest lake at dawn, her weathered hands releasing a paper lantern onto the still water;...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "一位银发老妇人在黎明时分的雾气森林湖边，放飞纸灯笼的唯美场景。"
+    },
+    {
       "prompt": "seinfeld episode about george",
       "prompt_length": 29,
       "tweet_url": "https://x.com/poof_eth/status/2023588461190537263",
@@ -3077,6 +3100,28 @@
       "summary": "一个家庭正在保护一个怪物"
     },
     {
+      "prompt": "A Coca Cola ad with 2 beautiful blonde women",
+      "prompt_length": 44,
+      "tweet_url": "https://x.com/markgadala/status/2027212591391469617",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 65717,
+      "created_at": "Fri Feb 27 02:42:00 +0000 2026",
+      "lang": "en",
+      "likes": 12,
+      "retweets": 0,
+      "replies": 4,
+      "bookmarks": 6,
+      "engagement_score": 23.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027182574469029889/img/4jVIsTunyj-m4T2X.jpg",
+      "full_text_preview": "Ad agencies are cooked.\n\nSeedance 2 prompt \"A Coca Cola ad with 2 beautiful blonde women\" https://t.co/KV61cdjRpO",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 2,
+      "summary": "可口可乐广告，主角是两位金发美女。"
+    },
+    {
       "prompt": "A colossal armored baboon charges through a burning Maasai village, it picks up and throws a maasai warrior into a burning hut, Maasai warriors are running away in fear amid a storm of fire",
       "prompt_length": 189,
       "tweet_url": "https://x.com/MrDavids1/status/2021686153913463257",
@@ -3274,6 +3319,51 @@
       ],
       "quality_score": 3,
       "summary": "哥伦布导航广告，突出导航定位功能。"
+    },
+    {
+      "prompt": "make me a UGC-style ad for teeth whitening strips",
+      "prompt_length": 49,
+      "tweet_url": "https://x.com/instaclaws/status/2027361821863100424",
+      "author": "instaclaws",
+      "author_name": "Instaclaw",
+      "author_followers": 1322,
+      "created_at": "Fri Feb 27 12:34:59 +0000 2026",
+      "lang": "en",
+      "likes": 9,
+      "retweets": 4,
+      "replies": 4,
+      "bookmarks": 1,
+      "engagement_score": 20.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027358619449077760/img/DsT5dz-6TEPBHZAp.jpg",
+      "full_text_preview": "this entire ad was made by an AI agent with one prompt.\n\nSeedance 2.0 is now live inside every Instaclaw agent within our Director skill.\n\ni told my instaclaw agent \"make me a UGC-style ad for teeth w...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 3,
+      "summary": "制作一个用户原创内容风格的牙齿美白贴广告。"
+    },
+    {
+      "prompt": "A soldier in a battlefield texting and dodging all arrows, explosions and bullets Seedance 2 is a major step forward for AI movies, let’s see how Hollywood reacts.",
+      "prompt_length": 163,
+      "tweet_url": "https://x.com/ChromaFlowx/status/2027217774162891134",
+      "author": "ChromaFlowx",
+      "author_name": "Chroma Flow ®",
+      "author_followers": 18503,
+      "created_at": "Fri Feb 27 03:02:35 +0000 2026",
+      "lang": "en",
+      "likes": 9,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 9,
+      "engagement_score": 20.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027209812518285312/img/u7dScwAodnZHVwbo.jpg",
+      "full_text_preview": "Seedance 2.0 vs Kling 3.0 With the prompt : A soldier in a battlefield texting and dodging all arrows, explosions and bullets Seedance 2 is a major step forward for AI movies, let’s see how Hollywood ...",
+      "tags": [
+        "😂 搞笑/Meme",
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "战场上的士兵一边发短信一边躲避箭、爆炸和子弹，暗示Seedance 2的强大。"
     },
     {
       "prompt": "day in the life of a salaryman, but he's a capybara. Make it as realistic as possible.",
@@ -4295,6 +4385,29 @@
       "summary": "电影预告片：韦斯·安德森的对称，居中构图，柔和的调色板，异想天开的角色，故事书般的制作设计，古怪的幽默，视觉和谐，怀旧的优雅，多个镜头。"
     },
     {
+      "prompt": "Create mini-episode of a \"The Office\" like office mockumentary about Greek Gods",
+      "prompt_length": 79,
+      "tweet_url": "https://x.com/aegucer/status/2027172765405765901",
+      "author": "aegucer",
+      "author_name": "emre",
+      "author_followers": 1001,
+      "created_at": "Fri Feb 27 00:03:44 +0000 2026",
+      "lang": "en",
+      "likes": 6,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 7.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027172685097340928/img/oTSw8K4-cxEL3FC1.jpg",
+      "full_text_preview": "Prompt: Create mini-episode of a \"The Office\" like office mockumentary about Greek Gods\n\nSeedance 2 + Latted https://t.co/o97AwUvtMA",
+      "tags": [
+        "😂 搞笑/Meme",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "制作一个类似《办公室》的关于希腊诸神的伪纪录片迷你剧。"
+    },
+    {
       "prompt": "Generate a cinematic consistent photorealistic grid 3x3 for European women perfume advertising. No text",
       "prompt_length": 103,
       "tweet_url": "https://x.com/michaelheina/status/2026657415056245195",
@@ -4668,6 +4781,28 @@
       ],
       "quality_score": 2,
       "summary": "舞蹈 Battle 视频"
+    },
+    {
+      "prompt": "An ancient stone mandala carved into the floor of a temple, camera slowly descending from above, rays of sunlight entering through temple pillars, golden dust floating in air, detailed symmetrical carvings glowing softly, mystical energy pulsing from center",
+      "prompt_length": 257,
+      "tweet_url": "https://x.com/babymemexx/status/2027236498999828744",
+      "author": "babymemexx",
+      "author_name": "Baby Meme X",
+      "author_followers": 6814,
+      "created_at": "Fri Feb 27 04:17:00 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 5.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027145799814283264/img/TdwjKELlngrOpKgb.jpg",
+      "full_text_preview": "Seedance 2.0 prompt: An ancient stone mandala carved into the floor of a temple, camera slowly descending from above, rays of sunlight entering through temple pillars, golden dust floating in air, det...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "寺庙地面上雕刻的古老石制曼陀罗，镜头从上方缓缓下降，阳光穿过柱子，金色尘埃漂浮在空中。"
     },
     {
       "prompt": "a 15-second video clip showing a hyper-realistic recreation of Bryan Cranston as Walter White (from Breaking Bad) delivering an intense, dramatic monologue in what looks like a supermarket setting. The character appears in his",
@@ -8050,6 +8185,51 @@
       ],
       "quality_score": 3,
       "summary": "红色月光下，一个动漫女孩坐在外面静止不动，雪花在她周围飘落"
+    },
+    {
+      "prompt": "FPV cinematic flight through a hyper-realistic treehouse at golden hour: bridges, staircases, warm interiors, exiting through skylight, fast-paced dynamic camera.",
+      "prompt_length": 162,
+      "tweet_url": "https://x.com/meAsifAi/status/2027340433786069277",
+      "author": "meAsifAi",
+      "author_name": "M. Asif",
+      "author_followers": 21,
+      "created_at": "Fri Feb 27 11:10:00 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027259687968681984/img/Wr0N1X5ZHJ4c8vLa.jpg",
+      "full_text_preview": "Created with Seedance 2.0 on @yapper_so \n\nPrompt:\nFPV cinematic flight through a hyper-realistic treehouse at golden hour: bridges, staircases, warm interiors, exiting through skylight, fast-paced dyn...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "第一人称视角，电影感地穿梭于一个超现实的树屋，包括桥梁、楼梯、温暖的室内，从天窗出来，快节奏的动态镜头。"
+    },
+    {
+      "prompt": "Create a cinematic short film with multiple shots of a woman with short silver hair wearing a black turtleneck, standing against a textured concrete wall. A horizontal red laser light scans across her eyes.",
+      "prompt_length": 206,
+      "tweet_url": "https://x.com/meAsifAi/status/2027325334849490973",
+      "author": "meAsifAi",
+      "author_name": "M. Asif",
+      "author_followers": 21,
+      "created_at": "Fri Feb 27 10:10:00 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027254581348962304/img/JIcJQ_tfJ75BlP2J.jpg",
+      "full_text_preview": "Using Seedance 2.0\n\nPrompt:\nCreate a cinematic short film with multiple shots of a woman with short silver hair wearing a black turtleneck, standing against a textured concrete wall. A horizontal red ...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "制作一部电影短片，多个镜头展示一位银色短发女子穿着黑色高领毛衣，站在纹理混凝土墙前，一道水平红色激光扫过她。"
     },
     {
       "prompt": "make a New Wave song about video killed the radio star and update it to Seedance killed to movie industry",
