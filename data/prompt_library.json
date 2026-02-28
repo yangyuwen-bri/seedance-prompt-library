@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 1981,
-    "prompts_extracted": 377,
+    "total_tweets": 2007,
+    "prompts_extracted": 382,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1857,6 +1857,28 @@
       ],
       "quality_score": 4,
       "summary": "抖音搞笑段子，老板一脸优越感。"
+    },
+    {
+      "prompt": "Cinematic 1950s black and white film style. A medium shot of a well-groomed man in a light-colored t-shirt and slacks approaching a",
+      "prompt_length": 131,
+      "tweet_url": "https://x.com/arceyul/status/2027679957669781583",
+      "author": "arceyul",
+      "author_name": "arc.",
+      "author_followers": 91773,
+      "created_at": "Sat Feb 28 09:39:09 +0000 2026",
+      "lang": "en",
+      "likes": 80,
+      "retweets": 3,
+      "replies": 12,
+      "bookmarks": 27,
+      "engagement_score": 120.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027679886115008512/img/3FK7EqIJKBp84dOg.jpg",
+      "full_text_preview": "Kling 3.0 is a commercial-grade, professional large model.\n\nKling 3.0 supports 1080p output, and Seedance 2.0 only supports 720p. 🧵\n\nPROMPT:\n\n\"Cinematic 1950s black and white film style. A medium shot...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "黑白电影风格，一个穿着整洁的男人走近"
     },
     {
       "prompt": "【影片设定】电影级质感，IMAX画幅，ARRI Alexa 65mm，高对比度，赛博朋克美学，8K分辨率。\n\n【核心概念】时空折叠。从古老纯净的盐湖神女，瞬间觉醒为未来都市的霓虹战士。",
@@ -4275,6 +4297,28 @@
       "summary": "动漫风格的跨界作品。"
     },
     {
+      "prompt": "A chaotic food fight erupting inside a crowded restaurant, captured through at least 10 cinematic shots with dramatic slow motion sequences, as dishes and food slam into people’s faces and explode on impact, splattering everywhere in vivid",
+      "prompt_length": 239,
+      "tweet_url": "https://x.com/aimikoda/status/2027863587755291067",
+      "author": "aimikoda",
+      "author_name": "Aimi Kōda",
+      "author_followers": 1215,
+      "created_at": "Sat Feb 28 21:48:49 +0000 2026",
+      "lang": "en",
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 8.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027862987315273728/img/9B4v48tj401qhA09.jpg",
+      "full_text_preview": "Seedance 2.0 Food Fight Scene\n\nPrompt: A chaotic food fight erupting inside a crowded restaurant, captured through at least 10 cinematic shots with dramatic slow motion sequences, as dishes and food s...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 4,
+      "summary": "拥挤的餐厅里爆发了一场混乱的食物大战，通过电影镜头和慢动作捕捉"
+    },
+    {
       "prompt": "Generate a video: A medieval knight in full armor looking at a modern smartphone, confused face illuminated by screen glow, candlelit castle interior, cinematic lighting",
       "prompt_length": 169,
       "tweet_url": "https://x.com/tomatechie/status/2022491231130157397",
@@ -5998,6 +6042,28 @@
       "summary": "生物过程：细胞机制动画、器官系统功能、生态系统相互作用、生命周期可视化。微观-宏观连接，生命系统复杂性，自然奇观"
     },
     {
+      "prompt": "Using Image 1 as a reference, generate a 15-second multi-camera video scene: starting with a wide-angle shot of the mansion's exterior, guests are entering the house, then the scene switches to the ballroom,",
+      "prompt_length": 207,
+      "tweet_url": "https://x.com/BrennanErbz/status/2027527874367132130",
+      "author": "BrennanErbz",
+      "author_name": "Brennan Erbz",
+      "author_followers": 1325,
+      "created_at": "Fri Feb 27 23:34:49 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027527081601732611/img/5hwb_rcReEmZNIk4.jpg",
+      "full_text_preview": "The opening scene to Eyes Wide Shut 2, made with Seedance 2.0. \n\nPrompt: Using Image 1 as a reference, generate a 15-second multi-camera video scene: starting with a wide-angle shot of the mansion's e...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "以图像1为参考，生成一个15秒的多机位视频场景，展示豪宅外观和客人进入"
+    },
+    {
       "prompt": "Sam: “Why don’t we just take the Eagles to Mount Doom?”\nFrodo: “…That actually makes sense.”\nCut to them flying Eagles, dropping the ring.\nSauron’s tower explodes.\n THE END.\n🎥 @ailker",
       "prompt_length": 183,
       "tweet_url": "https://x.com/talkturo/status/2022300374711795990",
@@ -6556,6 +6622,28 @@
       ],
       "quality_score": 4,
       "summary": "北宋古装情感短剧，国风，雨夜冷调美学，电影级镜头语言"
+    },
+    {
+      "prompt": "A cinematic shot of @[Reference_Image] —battling a monstrous creature in a neon-lit industrial sci-fi alley. The cyborg charges forward and throws powerful punches while dodging claw strikes, sparks and debris exploding from impacts as",
+      "prompt_length": 235,
+      "tweet_url": "https://x.com/yuday9909/status/2026904316465000707",
+      "author": "yuday9909",
+      "author_name": "TheYudayVerse",
+      "author_followers": 98,
+      "created_at": "Thu Feb 26 06:17:01 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2026904091893657600/pu/img/_v6wJsEHSklCp4tE.jpg",
+      "full_text_preview": "Generated with seedance 2.0 (i2v)\n\nPrompt : \nA cinematic shot of @[Reference_Image] —battling a monstrous creature in a neon-lit industrial sci-fi alley. The cyborg charges forward and throws powerful...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "电影镜头，@[Reference_Image]在一个霓虹灯照亮的科幻工业巷道中与怪物战斗"
     },
     {
       "prompt": "create an old classic kung fu movie with dogs in a very dramatic fashion",
@@ -8029,6 +8117,28 @@
       ],
       "quality_score": 3,
       "summary": "为 iPhone 苹果品牌制作宣传片。"
+    },
+    {
+      "prompt": "man in a blue business suit,",
+      "prompt_length": 28,
+      "tweet_url": "https://x.com/UrbanAcolyte/status/2027600872486904078",
+      "author": "UrbanAcolyte",
+      "author_name": "Prince Bell",
+      "author_followers": 2298,
+      "created_at": "Sat Feb 28 04:24:53 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027598677687345152/img/Zc_zuwuDqFKPa0wL.jpg",
+      "full_text_preview": "Where @TheoMediaAI has his \"man in a blue business suit,\" I have this guyl. \nHe's gonna be my Thai/Chinese action hero who stars in all my stuff. \nI created him by accident from a text prompt when I c...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一个穿着蓝色商务套装的男人"
     },
     {
       "prompt": "In the Marvel Cinematic Universe, Spider-man becomes pregnant from his wife Elsa",
