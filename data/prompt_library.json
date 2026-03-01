@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2007,
-    "prompts_extracted": 382,
+    "total_tweets": 2035,
+    "prompts_extracted": 386,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -583,6 +583,28 @@
       ],
       "quality_score": 4,
       "summary": "国产热门短剧风格，快节奏剪辑，高颜值滤镜，情绪爆发，雨夜唯美虐心，霸道总裁男主和倔强女主的15秒短剧。"
+    },
+    {
+      "prompt": "Show my support for all the beautiful Persian baddies that are about to get liberated. Get me at least three of their numbers.",
+      "prompt_length": 126,
+      "tweet_url": "https://x.com/charliebcurran/status/2027825297761108004",
+      "author": "charliebcurran",
+      "author_name": "Charles Curran",
+      "author_followers": 25326,
+      "created_at": "Sat Feb 28 19:16:40 +0000 2026",
+      "lang": "en",
+      "likes": 554,
+      "retweets": 71,
+      "replies": 89,
+      "bookmarks": 276,
+      "engagement_score": 1189.0,
+      "video_thumbnail": "https://pbs.twimg.com/media/HCRIcalbEAAyXSQ.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Show my support for all the beautiful Persian baddies that are about to get liberated. Get me at least three of their numbers. https://t.co/0onNVhMxXv",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "表达对波斯美女的支持并索要联系方式"
     },
     {
       "prompt": "live action Saiyan battle between Goku &amp; Vegeta, super saiyan blue",
@@ -5003,6 +5025,29 @@
       "summary": "人类橄榄球队与银背大猩猩进行橄榄球比赛的超现实直播画面"
     },
     {
+      "prompt": "A compact yellow electric creature generating lightning attacks while fighting technologically advanced alien troops in a futuristic ringworld battlefield, cinematic sci-fi action, dramatic lighting",
+      "prompt_length": 198,
+      "tweet_url": "https://x.com/charliegreenman/status/2027890241877561813",
+      "author": "charliegreenman",
+      "author_name": "Charlie Greenman",
+      "author_followers": 5676,
+      "created_at": "Sat Feb 28 23:34:44 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027890068459798528/img/BVQc4xB4SWjAdnGE.jpg",
+      "full_text_preview": "My first Seedance 2.0 video.\n\nPrompt: A compact yellow electric creature generating lightning attacks while fighting technologically advanced alien troops in a futuristic ringworld battlefield, cinema...",
+      "tags": [
+        "🎮 游戏",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "黄色电属性生物在未来战场对抗外星军队"
+    },
+    {
       "prompt": "Two martial artists fighting on a rooftop at sunset, spinning kicks and rapid punches, wind blowing clothes, smooth cinematic camera orbit, slow motion mid-air kick, epic vibe.",
       "prompt_length": 176,
       "tweet_url": "https://x.com/ZephyraLeigh/status/2022702079832395803",
@@ -6355,6 +6400,29 @@
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
     },
     {
+      "prompt": "movie scene, people walking down the streets of the Bronx in 1980, when suddenly they turn into zombies and run like crazy. Funny movie",
+      "prompt_length": 135,
+      "tweet_url": "https://x.com/SupaMikeZ/status/2028088606389342616",
+      "author": "SupaMikeZ",
+      "author_name": "Supa Mike",
+      "author_followers": 345,
+      "created_at": "Sun Mar 01 12:42:58 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028088568221229056/img/T7CGwWI4gxKO7VLI.jpg",
+      "full_text_preview": "Seedance 2 prompt : \"movie scene, people walking down the streets of the Bronx in 1980, when suddenly they turn into zombies and run like crazy. Funny movie\" https://t.co/oQctowypCr",
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "1980年代布朗克斯街头人群变异成丧尸的搞笑电影片段"
+    },
+    {
       "prompt": "Single camcorder shot of an independent professional wrestling event, in 1995, inside a barn in Kentucky.",
       "prompt_length": 105,
       "tweet_url": "https://x.com/JerryFlynn87/status/2025625169494974529",
@@ -7276,6 +7344,28 @@
       ],
       "quality_score": 3,
       "summary": "猫王大战迈克尔杰克逊，龙珠风格动漫"
+    },
+    {
+      "prompt": "POV, hand-to-hand combat, main character is [😉], background is [😃], Hong Kong Shaw Brothers film style.",
+      "prompt_length": 103,
+      "tweet_url": "https://x.com/i_aivideo/status/2028130284018053414",
+      "author": "i_aivideo",
+      "author_name": "🎅AI VIDEO NEWS❄️",
+      "author_followers": 128,
+      "created_at": "Sun Mar 01 15:28:35 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028130129994719232/img/-CXmEdi0Rtr_PdMK.jpg",
+      "full_text_preview": "#seedance 1.5 PRO prompt: \nPOV, hand-to-hand combat, main character is [😉], background is [😃], Hong Kong Shaw Brothers film style. https://t.co/2l8ljrvklP",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "第一人称视角，香港邵氏电影风格的近身格斗"
     },
     {
       "prompt": "Make a Rolex x Lego collab that doesn’t suck, aim for at least 50 likes",
