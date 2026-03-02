@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2035,
-    "prompts_extracted": 386,
+    "total_tweets": 2062,
+    "prompts_extracted": 390,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1702,6 +1702,29 @@
       "summary": "现代玄幻动作片，好莱坞特效，冷暖光对比。"
     },
     {
+      "prompt": "Race sequence, presented in rapid cinematic coverage with dynamic angles and intense",
+      "prompt_length": 84,
+      "tweet_url": "https://x.com/aimikoda/status/2028507175899824190",
+      "author": "aimikoda",
+      "author_name": "Aimi Kōda",
+      "author_followers": 1252,
+      "created_at": "Mon Mar 02 16:26:13 +0000 2026",
+      "lang": "en",
+      "likes": 87,
+      "retweets": 4,
+      "replies": 13,
+      "bookmarks": 57,
+      "engagement_score": 158.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028504479276969984/img/MUDXJVb-cdGk_ADb.jpg",
+      "full_text_preview": "Primal Race 🏇\n\nRight now, image-to-video feels like the safest way to create with Seedance 2.0 without running into restrictions. And keeping the prompts shorter to minimize risk.\n\nPrompt: Race sequen...",
+      "tags": [
+        "🎬 电影/影视",
+        "💡 创意/实验"
+      ],
+      "quality_score": 2,
+      "summary": "快速电影风格的赛跑场景，具有动态角度和紧张感"
+    },
+    {
       "prompt": "【风格】极致第一人称女友视角(Ultimate Girlfriend POV)，手持自拍VLOG，竖屏(9:16)，胶片感滤镜(Film Grain)，自然光(夕阳黄金时刻)，镜头有自然的晃动和调整。\n【时长】15秒",
       "prompt_length": 108,
       "tweet_url": "https://x.com/johnAGI168/status/2021252179923787806",
@@ -3053,6 +3076,28 @@
       ],
       "quality_score": 1,
       "summary": "一个男人在雨中奔跑"
+    },
+    {
+      "prompt": "A group of wild horses gallops across an open plain at golden hour, their manes streaming in the wind. Hooves pound the earth in unison, kicking up clouds of dust that catch the sun like fire. One stallion breaks ahead, silhouetted against the wide",
+      "prompt_length": 248,
+      "tweet_url": "https://x.com/LudovicCreator/status/2028579887301140894",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36382,
+      "created_at": "Mon Mar 02 21:15:08 +0000 2026",
+      "lang": "en",
+      "likes": 16,
+      "retweets": 2,
+      "replies": 3,
+      "bookmarks": 6,
+      "engagement_score": 27.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2028579851540537344/pu/img/0n3HooCSbgaqmVas.jpg",
+      "full_text_preview": "🎨 SEEDANCE PRO 🎨\n\nPrompt  :\n\nA group of wild horses gallops across an open plain at golden hour, their manes streaming in the wind. Hooves pound the earth in unison, kicking up clouds of dust that cat...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一群野马在黄金时段的开阔平原上奔驰，鬃毛在风中飘扬"
     },
     {
       "prompt": "Trump arrives in Fortnite!",
@@ -5867,6 +5912,28 @@
       "summary": "制作一个能获得百万展示的病毒式哥斯拉视频"
     },
     {
+      "prompt": "{\n  \"project\": \"Global Miniature City Series\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"Ultra-realistic macro miniature city model\",",
+      "prompt_length": 129,
+      "tweet_url": "https://x.com/xiaomiaode5383/status/2028360648393118001",
+      "author": "xiaomiaode5383",
+      "author_name": "xiaomiaode",
+      "author_followers": 51,
+      "created_at": "Mon Mar 02 06:43:58 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 2,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028356844662722560/img/fHq288fU0VmzGysG.jpg",
+      "full_text_preview": "Nano Banana 2 for structure.\nSeedance 2.0 for motion.#AIart  #GenerativeVideo #CreativeTech #prompt \nPrompt:\n{\n  \"project\": \"Global Miniature City Series\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"Ultra-...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "超现实微缩城市模型系列，纵向屏幕比例"
+    },
+    {
       "prompt": "two women fighting.",
       "prompt_length": 19,
       "tweet_url": "https://x.com/heyhassan/status/2020830288562282866",
@@ -6487,6 +6554,29 @@
       ],
       "quality_score": 1,
       "summary": "按下运行键，见证奇迹"
+    },
+    {
+      "prompt": "Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect.",
+      "prompt_length": 250,
+      "tweet_url": "https://x.com/0X0CLOWN/status/2028354276087730468",
+      "author": "0X0CLOWN",
+      "author_name": "Clown🤡·eth丨Web3拆解",
+      "author_followers": 3311,
+      "created_at": "Mon Mar 02 06:18:39 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028354165823746048/img/dfnelrEpSgCT_zZ_.jpg",
+      "full_text_preview": "Seedance 2.0 Video Prompt: Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high ...",
+      "tags": [
+        "🎌 动漫",
+        "💡 创意/实验"
+      ],
+      "quality_score": 4,
+      "summary": "第一人称视角无人机高速追踪一个在陡峭山路上滑板的白发3D动漫女孩"
     },
     {
       "prompt": "【风格】 电影级老上海质感 + 快节奏商业大片剪辑 强节拍鼓点配乐 胶片颗粒 高对比光影 动作匹配剪辑 8K超清",
