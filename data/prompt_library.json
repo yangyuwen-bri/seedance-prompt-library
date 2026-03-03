@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2062,
-    "prompts_extracted": 390,
+    "total_tweets": 2075,
+    "prompts_extracted": 392,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1991,6 +1991,28 @@
       ],
       "quality_score": 3,
       "summary": "食物开始旋转，食材轻柔而精确地分离，保持对齐和比例，运动平滑，没有额外的效果。"
+    },
+    {
+      "prompt": "提示词在整理中，稍后发到评论区",
+      "prompt_length": 15,
+      "tweet_url": "https://x.com/songguoxiansen/status/2028660333687280028",
+      "author": "songguoxiansen",
+      "author_name": "松果先森",
+      "author_followers": 27125,
+      "created_at": "Tue Mar 03 02:34:48 +0000 2026",
+      "lang": "zh",
+      "likes": 49,
+      "retweets": 4,
+      "replies": 7,
+      "bookmarks": 38,
+      "engagement_score": 101.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028660169656377344/img/PTN9aBKTKw3nQAtR.jpg",
+      "full_text_preview": "好莱坞大片风格-蓝胖战巨龙\n\nSeedance 2.0 Prompt：\n\n提示词在整理中，稍后发到评论区 https://t.co/atV30xE2gC",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "提示词内容缺失，无法判断视频内容"
     },
     {
       "prompt": "Timothee Chalamet at the Apple keynote.  Don't make it gay.",
@@ -6375,6 +6397,28 @@
       ],
       "quality_score": 3,
       "summary": "电视剧Martin在2026年的喜剧片段"
+    },
+    {
+      "prompt": "The Cinematic Master Prompt",
+      "prompt_length": 27,
+      "tweet_url": "https://x.com/SilverCoder2009/status/2028881059207958799",
+      "author": "SilverCoder2009",
+      "author_name": "Benjamin De Ridder",
+      "author_followers": 78,
+      "created_at": "Tue Mar 03 17:11:53 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028877700585394177/img/Pmvn2kYxgbrjBD_S.jpg",
+      "full_text_preview": "Built the visual in Nano Banana 2.\nAnimated it in Seedance 1.5 Pro.\n10 seconds.\nZero traditional editing.\nPure AI flow.\n\nCreative workflows are evolving fast.\nAre you keeping up? 👀\n\nPrompt of image an...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "提示词过于宽泛，暗示生成电影级别的视频"
     },
     {
       "prompt": "Man sitting at the bar.",
