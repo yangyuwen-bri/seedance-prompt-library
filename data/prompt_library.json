@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2075,
-    "prompts_extracted": 392,
+    "total_tweets": 2113,
+    "prompts_extracted": 402,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -896,6 +896,29 @@
       "summary": "真人快打游戏画面，但角色是世界著名领导人。"
     },
     {
+      "prompt": "【火爆全网的汽车变身教程】再见了，昂贵的后期特效！👋\n\n现在的 AI 已经能精准理解机械结构了。看看这组由 Seedance 2.0 生成的视频，从杜卡迪到 F-22，机械零件的翻转和咬合感简直离谱。\n\n制作这种视频的 3 个关键点： \n✅ 动态追踪： 给 Prompt 加上 tracking shot 让镜头动起来。 \n✅ 光影一致性：",
+      "prompt_length": 170,
+      "tweet_url": "https://x.com/ponyodong/status/2029123898420199910",
+      "author": "ponyodong",
+      "author_name": "ponyo波妞",
+      "author_followers": 5750,
+      "created_at": "Wed Mar 04 09:16:51 +0000 2026",
+      "lang": "zh",
+      "likes": 246,
+      "retweets": 40,
+      "replies": 31,
+      "bookmarks": 183,
+      "engagement_score": 544.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029123718161850368/img/Ug5Apbn5zWK_l0-j.jpg",
+      "full_text_preview": "【火爆全网的汽车变身教程】再见了，昂贵的后期特效！👋\n\n现在的 AI 已经能精准理解机械结构了。看看这组由 Seedance 2.0 生成的视频，从杜卡迪到 F-22，机械零件的翻转和咬合感简直离谱。\n\n制作这种视频的 3 个关键点： \n✅ 动态追踪： 给 Prompt 加上 tracking shot 让镜头动起来。 \n✅ 光影一致性： https://t.co/etksA6YhNb",
+      "tags": [
+        "📺 广告/商业",
+        "💡 创意/实验"
+      ],
+      "quality_score": 4,
+      "summary": "展示AI生成汽车变形视频，强调机械细节和制作技巧。"
+    },
+    {
       "prompt": "A cinematic, high-octane action scene inside a dimly lit boxing ring. A man resembling Donald Trump, wearing a bright yellow \"Game of Death\" style tracksuit with black stripes, is fighting a man resembling Kim Jong Un,",
       "prompt_length": 218,
       "tweet_url": "https://x.com/Taaruk_/status/2023960431417868631",
@@ -1723,6 +1746,29 @@
       ],
       "quality_score": 2,
       "summary": "快速电影风格的赛跑场景，具有动态角度和紧张感"
+    },
+    {
+      "prompt": "A lone woman stands on the roof of a brutalist concrete building at sunrise, wind pulling her coat backward as the city stretches endlessly below in soft golden haze, distant traffic glowing like veins of light. The camera begins in",
+      "prompt_length": 232,
+      "tweet_url": "https://x.com/saniaspeaks_/status/2029001631518605708",
+      "author": "saniaspeaks_",
+      "author_name": "𝗦𝗮𝗻𝗶𝗮",
+      "author_followers": 10187,
+      "created_at": "Wed Mar 04 01:11:00 +0000 2026",
+      "lang": "en",
+      "likes": 94,
+      "retweets": 5,
+      "replies": 35,
+      "bookmarks": 36,
+      "engagement_score": 157.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2029001599708733440/pu/img/ZDAhIwW3QStw0Tim.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so.\n\nPrompt:\nA lone woman stands on the roof of a brutalist concrete building at sunrise, wind pulling her coat backward as the city stretches endlessly below in soft...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "日出时分，一个孤独的女人站在野兽派混凝土建筑的屋顶上，俯瞰城市。"
     },
     {
       "prompt": "【风格】极致第一人称女友视角(Ultimate Girlfriend POV)，手持自拍VLOG，竖屏(9:16)，胶片感滤镜(Film Grain)，自然光(夕阳黄金时刻)，镜头有自然的晃动和调整。\n【时长】15秒",
@@ -3144,6 +3190,29 @@
       "summary": "特朗普出现在堡垒之夜游戏中"
     },
     {
+      "prompt": "A traveler in a long scarf trudges over endless dunes, sun blazing overhead. Footprints stretch behind them in the shifting sand, already fading in the wind. They pause at the crest of a hill, pulling out a small, tattered map, its edges curled.",
+      "prompt_length": 245,
+      "tweet_url": "https://x.com/LudovicCreator/status/2029304649421922740",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36420,
+      "created_at": "Wed Mar 04 21:15:05 +0000 2026",
+      "lang": "en",
+      "likes": 13,
+      "retweets": 1,
+      "replies": 1,
+      "bookmarks": 9,
+      "engagement_score": 24.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2029304626776887296/pu/img/5gEEgQ68oKyo4qSV.jpg",
+      "full_text_preview": "🎨 SEEDANCE PRO  🎨\n\nPrompt  :\n\nA traveler in a long scarf trudges over endless dunes, sun blazing overhead. Footprints stretch behind them in the shifting sand, already fading in the wind. They pause a...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一个围着长围巾的旅行者在无尽的沙丘上跋涉，太阳在头顶上燃烧。"
+    },
+    {
       "prompt": "These are the opening and closing scenes of a swordfight. Based on these two scenes, create a seamless sequence of a female ninja in a costume fighting multiple ninjas. Use multiple angles and",
       "prompt_length": 192,
       "tweet_url": "https://x.com/Kangaikroto/status/2024017047894852044",
@@ -3764,6 +3833,29 @@
       ],
       "quality_score": 2,
       "summary": "在屏幕上展示魔法少女小圆的片段"
+    },
+    {
+      "prompt": "In Japanese full color anime style, create a video celebrating",
+      "prompt_length": 62,
+      "tweet_url": "https://x.com/PocketScreenAI/status/2029070663655567473",
+      "author": "PocketScreenAI",
+      "author_name": "Jason W - AI",
+      "author_followers": 1587,
+      "created_at": "Wed Mar 04 05:45:19 +0000 2026",
+      "lang": "en",
+      "likes": 11,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 12.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029067577088172032/img/aIsIxS4K9dIlzkFG.jpg",
+      "full_text_preview": "I'm happy to announce that I joined Yapper's CPP. Thank you to @ehalm_ for giving me this opportunity. Today was especially tough for Seedance 2.0 usage so I made it with Grok on @yapper_so  instead. ...",
+      "tags": [
+        "🎌 动漫",
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "用日式全彩动漫风格创作一个庆祝视频。"
     },
     {
       "prompt": "Anime fight between Batman and the Joker",
@@ -4783,6 +4875,29 @@
       "summary": "Sgt. Pepe和Frens的视频，就像有史以来第一个6529 meme原生的动画情景喜剧，由@Ars0nic主演。"
     },
     {
+      "prompt": "A man sitting in his prison cell.\n\n[cut] Female guard walking through the prison corridor.\n\n[cut] The guard comes to the man",
+      "prompt_length": 124,
+      "tweet_url": "https://x.com/Framer_X/status/2029241842890621066",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 45493,
+      "created_at": "Wed Mar 04 17:05:31 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 2,
+      "engagement_score": 5.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029241784786927621/img/e6YaSwG-Ga8UFq40.jpg",
+      "full_text_preview": "Prompt (Sora 2/Seedance 2.0):\n\n\"A man sitting in his prison cell.\n\n[cut] Female guard walking through the prison corridor.\n\n[cut] The guard comes to the man's cell and stops behind the bars.\n\n[cut] Ba...",
+      "tags": [
+        "🎬 电影/影视",
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "一个男人坐在监狱牢房里，一个女警卫走过监狱走廊。"
+    },
+    {
       "prompt": "generate a video about  a running scene, behind is a giant monster big as a building with 100 floor is coming close, using Arcane style.",
       "prompt_length": 136,
       "tweet_url": "https://x.com/dipperdao/status/2021689147485040917",
@@ -5002,6 +5117,29 @@
       ],
       "quality_score": 2,
       "summary": "无论是战士还是怪物，都要进行品牌推广。"
+    },
+    {
+      "prompt": "Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated.\nDuration: 15s.\n[00-05s] Extreme Wide Shot (The Scale).",
+      "prompt_length": 142,
+      "tweet_url": "https://x.com/athianandam/status/2029217113697845741",
+      "author": "athianandam",
+      "author_name": "anand mekala",
+      "author_followers": 113,
+      "created_at": "Wed Mar 04 15:27:15 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029216867546742788/img/FIobBowo8xx_omuE.jpg",
+      "full_text_preview": "Denis Villeneuve Style Epic Desert Scene\nCinematic IMAX 70mm film style with epic scale and gritty realism.\n\nmodel: seedance 2.0\nPrompt:\nStyle: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, ...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "IMAX 70mm电影风格，丹尼斯·维伦纽瓦风格，粗犷的现实主义，史诗般的规模，色彩饱和度低。"
     },
     {
       "prompt": "I want a cinematic montage of vehicles and include slow motion drifting.",
@@ -5645,6 +5783,51 @@
       ],
       "quality_score": 4,
       "summary": "两个忍者在竹林中进行史诗般的电影战斗——白忍者和黑忍者。白忍者击败了黑忍者。然后白忍者说：“我用创造”。"
+    },
+    {
+      "prompt": "Woman sitting on a train with a briefcase.",
+      "prompt_length": 42,
+      "tweet_url": "https://x.com/Framer_X/status/2029241935672877095",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 45493,
+      "created_at": "Wed Mar 04 17:05:53 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 3.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029241876759670784/img/9fwZ9T_3cn8JyHry.jpg",
+      "full_text_preview": "Prompt (Sora 2/Seedance 2.0):\n\n\"Woman sitting on a train with a briefcase.\n\n[cut] Woman turns back as if someone is coming.\n\n[cut] Close-up shot of the woman taking the briefcase.\n\n[cut] The woman sta...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一个女人坐在火车上，拿着一个公文包。"
+    },
+    {
+      "prompt": "Man lying on a battlefield.\n\n[cut] Close-up shot of the man",
+      "prompt_length": 59,
+      "tweet_url": "https://x.com/Framer_X/status/2029241751580692719",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 45493,
+      "created_at": "Wed Mar 04 17:05:09 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 3.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029241680646619137/img/8At34OcAYY-AgFeb.jpg",
+      "full_text_preview": "Prompt (Sora 2/Seedance 2.0):\n\n\"Man lying on a battlefield.\n\n[cut] Close-up shot of the man's face as he opens his eyes.\n\n[cut] Other soldiers running away, shouting, \"Leave him!\"\n\n[cut] Enemy airplan...",
+      "tags": [
+        "🎬 电影/影视",
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一个男人躺在战场上。"
     },
     {
       "prompt": "Prime? naaah, this is a champion's drink!",
@@ -7050,6 +7233,29 @@
       "summary": "Waffle House的普通轮班"
     },
     {
+      "prompt": "技术规格：2.35:1超宽幕，电影级原生画质，4K医学CGI细节，差异化建模，24fps。",
+      "prompt_length": 45,
+      "tweet_url": "https://x.com/jiangyuhe618/status/2029213515546767792",
+      "author": "jiangyuhe618",
+      "author_name": "8bit",
+      "author_followers": 7,
+      "created_at": "Wed Mar 04 15:12:57 +0000 2026",
+      "lang": "zh",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029208952429527042/img/j6p0fIgj8bWMwlx2.jpg",
+      "full_text_preview": "[Original] Seedance 2.0  Video Prompts. If you find these helpful, please Like and Follow! Constantly updating.\n[原创] Seedance 2.0 视频提示。如果你觉得这些内容有帮助，请点赞并关注！不断更新。\nPrompt:\n技术规格：2.35:1超宽幕，电影级原生画质，4K医学CGI细...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "2.35:1超宽幕，电影级原生画质，4K医学CGI细节。"
+    },
+    {
       "prompt": "Wait… Seedance 2.0 works in CapCut now?! \nI’m obsessed.",
       "prompt_length": 55,
       "tweet_url": "https://x.com/Preda2005/status/2026774458434982142",
@@ -7921,6 +8127,29 @@
       ],
       "quality_score": 4,
       "summary": "生成一支具有1980年代香港武打电影录像带质感的15秒短片，展现复古港片风格的武术对练场景。"
+    },
+    {
+      "prompt": "Grok： fucking crazy world let’s kiss pink(taken over by @elonmusk 🤣)\nSeedance: I can make it pink but it must be animated version🤦🏻‍♀️\nQwen: pink ocean? Never.🤣",
+      "prompt_length": 160,
+      "tweet_url": "https://x.com/supermoon202/status/2029186362780553683",
+      "author": "supermoon202",
+      "author_name": "Super Moon",
+      "author_followers": 142,
+      "created_at": "Wed Mar 04 13:25:04 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029186237169582082/img/ApSjeOL4ChUrSxG1.jpg",
+      "full_text_preview": "Under exactly the same prompt( and despite my repeated emphasis on using a real person) : \nGrok： fucking crazy world let’s kiss pink(taken over by @elonmusk 🤣)\nSeedance: I can make it pink but it must...",
+      "tags": [
+        "😂 搞笑/Meme",
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "Grok要求生成一个疯狂的世界，让我们亲吻粉红色，Seedance只能生成动画版本。"
     },
     {
       "prompt": "@akshaykumar as Neo in a corporate hallway with grey marble walls and floors, minimalist design, sharp geometry, cold white overhead lighting. Bullet trails, motion blur, shattered marble fragments dramatic, cinematic",
