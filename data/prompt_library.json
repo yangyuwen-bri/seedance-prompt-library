@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2113,
-    "prompts_extracted": 402,
+    "total_tweets": 2133,
+    "prompts_extracted": 405,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1543,6 +1543,52 @@
       ],
       "quality_score": 4,
       "summary": "现代田园美学风格的电影级广告大片。"
+    },
+    {
+      "prompt": "WWI soldier sprinting across an open battlefield during a massive assault, muddy cratered ground, barbed wire, artillery explosions tearing through the field, dozens of soldiers charging across the",
+      "prompt_length": 197,
+      "tweet_url": "https://x.com/aimikoda/status/2029453057906364673",
+      "author": "aimikoda",
+      "author_name": "Aimi Kōda",
+      "author_followers": 1290,
+      "created_at": "Thu Mar 05 07:04:49 +0000 2026",
+      "lang": "en",
+      "likes": 95,
+      "retweets": 8,
+      "replies": 11,
+      "bookmarks": 79,
+      "engagement_score": 195.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029452574458593280/img/kf4MuEUGJR0xWvy9.jpg",
+      "full_text_preview": "Seedance 2.0\n\n🎥 Today's camera technique: Side Parallel Tracking Shot\n\nPrompt: WWI soldier sprinting across an open battlefield during a massive assault, muddy cratered ground, barbed wire, artillery ...",
+      "tags": [
+        "🌍 写实/纪实",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "一战士兵在炮火纷飞的战场上冲锋的电影场景"
+    },
+    {
+      "prompt": "A continuous 15-second ultra-cinematic FPV drone shot following a skateboarder bombing downhill through the steep streets of San Francisco. The drone flies low and fast just behind the",
+      "prompt_length": 184,
+      "tweet_url": "https://x.com/saniaspeaks_/status/2029453653317243173",
+      "author": "saniaspeaks_",
+      "author_name": "𝗦𝗮𝗻𝗶𝗮",
+      "author_followers": 10225,
+      "created_at": "Thu Mar 05 07:07:11 +0000 2026",
+      "lang": "en",
+      "likes": 115,
+      "retweets": 14,
+      "replies": 29,
+      "bookmarks": 37,
+      "engagement_score": 194.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2029453597218312192/pu/img/0j1U1rVVr_MwDeE5.jpg",
+      "full_text_preview": "Bombing the San Francisco Hills at Full Speed\n\nMade with Seedance 2.0 on yapper.\n\nPrompt:\nA continuous 15-second ultra-cinematic FPV drone shot following a skateboarder bombing downhill through the st...",
+      "tags": [
+        "🌍 写实/纪实",
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "旧金山街头滑板运动的超电影感FPV无人机跟拍"
     },
     {
       "prompt": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。",
@@ -3566,6 +3612,29 @@
       ],
       "quality_score": 3,
       "summary": "一个上班族水豚的日常，要求尽可能真实。"
+    },
+    {
+      "prompt": "Cinematic wide shot, Donald Trump and Khamenei in an intense hand-to-hand combat on the rooftop of a Tehran skyscraper, chaotic Hollywood action movie style, explosions, military helicopters circling, missiles streaks in",
+      "prompt_length": 220,
+      "tweet_url": "https://x.com/KolboAI/status/2029619012418629703",
+      "author": "KolboAI",
+      "author_name": "Kolbo AI",
+      "author_followers": 1621,
+      "created_at": "Thu Mar 05 18:04:15 +0000 2026",
+      "lang": "en",
+      "likes": 8,
+      "retweets": 3,
+      "replies": 3,
+      "bookmarks": 2,
+      "engagement_score": 19.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029617079477813248/img/ECy-5EW-t7CdpJkn.jpg",
+      "full_text_preview": "SeeDance 2.0 is Live in https://t.co/G6b9fZuWvs\n\nPrompt: Cinematic wide shot, Donald Trump and Khamenei in an intense hand-to-hand combat on the rooftop of a Tehran skyscraper, chaotic Hollywood actio...",
+      "tags": [
+        "😂 搞笑/Meme",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "特朗普和哈梅内伊在德黑兰摩天大楼屋顶进行好莱坞式格斗的电影场景"
     },
     {
       "prompt": "Wide-angle underwater shot, a solitary manta ray glides slowly through a beam of sunlight breaking through the ocean surface, its wings move in smooth, hypnotic rhythm, schools of small fish spiral beneath it, particles float in the light like dust",
