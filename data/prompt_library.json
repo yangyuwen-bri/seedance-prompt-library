@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2133,
-    "prompts_extracted": 405,
+    "total_tweets": 2162,
+    "prompts_extracted": 409,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1862,6 +1862,28 @@
       "summary": "士兵乘坐直升机进入丛林执行任务的电影场景。"
     },
     {
+      "prompt": "Prompt Mühendisliği",
+      "prompt_length": 19,
+      "tweet_url": "https://x.com/coreprompt/status/2029990001258483828",
+      "author": "coreprompt",
+      "author_name": "Doğukan - Neural Scripts",
+      "author_followers": 12271,
+      "created_at": "Fri Mar 06 18:38:26 +0000 2026",
+      "lang": "tr",
+      "likes": 63,
+      "retweets": 3,
+      "replies": 2,
+      "bookmarks": 74,
+      "engagement_score": 144.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029988447763431424/img/FdFFprLmtdGcNbre.jpg",
+      "full_text_preview": "TEK PROMPT İLE KUSURSUZ E-TİCARET REKLAMI\n\nSeedance 2.0'da \"Prompt Mühendisliği\"nin seviyesini bir tık daha yukarı taşıdık.\n\nAdım 1: Sadece ürün görsellerini içeri aktar. \nAdım 2: Sistemi İngilizce il...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "提示工程（Prompt Engineering）"
+    },
+    {
       "prompt": "Medium tracking shot following a character walking quickly down a corridor from behind.The camera follows at shoulder height, steady and close.AMBIENCE: distant ventilation noise, subtle rumble.The character slows down slightly, sensing",
       "prompt_length": 236,
       "tweet_url": "https://x.com/shikoba_86/status/2021409156947734958",
@@ -2350,6 +2372,29 @@
       ],
       "quality_score": 4,
       "summary": "唯美东方古典仙侠风格，绝美仙女的电影级质感短片"
+    },
+    {
+      "prompt": "Cinematic full color japanese action anime of 【@图片1】in dynamic combat against an army of humanoid robots. \nFast paced fight where she fights an army of humanoid robots. She fights at close quarters",
+      "prompt_length": 197,
+      "tweet_url": "https://x.com/PocketScreenAI/status/2029787669337928057",
+      "author": "PocketScreenAI",
+      "author_name": "Jason W - AI",
+      "author_followers": 1598,
+      "created_at": "Fri Mar 06 05:14:26 +0000 2026",
+      "lang": "en",
+      "likes": 46,
+      "retweets": 6,
+      "replies": 11,
+      "bookmarks": 17,
+      "engagement_score": 82.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2029787412126388224/pu/img/dbtIKrOAs00DDyON.jpg",
+      "full_text_preview": "It's been a long day. Time to relax with some I2V Seedance 2 slop. \n\nPrompt: \nCinematic full color japanese action anime of 【@图片1】in dynamic combat against an army of humanoid robots. \nFast paced figh...",
+      "tags": [
+        "🎌 动漫",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "日式动漫风格，全彩电影质感，一个女性角色与人形机器人军队进行快节奏近身战斗"
     },
     {
       "prompt": "POV holding your phone playing a wild ahh clip made with seedance 2.0",
@@ -4259,6 +4304,28 @@
       ],
       "quality_score": 3,
       "summary": "高辛烷值动作和特技，流畅的跑酷和物理效果，具有电影感的镜头"
+    },
+    {
+      "prompt": "man is working in the lab:\n\n[cut] multiple camera shots of a man working in the lab, taking notes, doing experiments\n\nNO MUSIC, NO TALKING, ONLY AMBIENT SOUND",
+      "prompt_length": 158,
+      "tweet_url": "https://x.com/Framer_X/status/2029961336856432924",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 45604,
+      "created_at": "Fri Mar 06 16:44:32 +0000 2026",
+      "lang": "en",
+      "likes": 9,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 10.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029958820676653056/img/4fF85WAbVUTSy3yn.jpg",
+      "full_text_preview": "Step 4. \n\nUpload it to Sora/Seedance (same as in Step 2) and type a prompt explaining what should happen:\n\n\"man is working in the lab:\n\n[cut] multiple camera shots of a man working in the lab, taking ...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一个男人在实验室工作，多个镜头切换，记录笔记，做实验，没有音乐和对话，只有环境音"
     },
     {
       "prompt": ", a woman in her 20s in her bathroom talking about their hyaluronic acid serum.",
@@ -8817,6 +8884,29 @@
       ],
       "quality_score": 3,
       "summary": "红色月光下，一个动漫女孩坐在外面静止不动，雪花在她周围飘落"
+    },
+    {
+      "prompt": "[Film Style]: 90s Hong Kong Art Cinema style, retro film feel, high ISO grain, ambiguous yellow-green tint, frame stepping effect, melancholic atmosphere.",
+      "prompt_length": 154,
+      "tweet_url": "https://x.com/athianandam/status/2029859117737935051",
+      "author": "athianandam",
+      "author_name": "anand mekala",
+      "author_followers": 115,
+      "created_at": "Fri Mar 06 09:58:21 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029859052894007296/img/5itpEbie3UVmQ1vm.jpg",
+      "full_text_preview": "Wong Kar-wai Film Style Rainy Phone Booth Scene\nmodel: seedance 2.0\n\nPrompt:\n[Film Style]: 90s Hong Kong Art Cinema style, retro film feel, high ISO grain, ambiguous yellow-green tint, frame stepping ...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "90年代香港艺术电影风格，复古胶片感，高ISO噪点，模糊的黄绿色调，跳帧效果，忧郁氛围"
     },
     {
       "prompt": "FPV cinematic flight through a hyper-realistic treehouse at golden hour: bridges, staircases, warm interiors, exiting through skylight, fast-paced dynamic camera.",
