@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2162,
-    "prompts_extracted": 409,
+    "total_tweets": 2190,
+    "prompts_extracted": 412,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -3949,6 +3949,28 @@
       "summary": "在屏幕上展示魔法少女小圆的片段"
     },
     {
+      "prompt": "Realistic style, vertical screen, warm cinematic lighting.[0-5s] Close-up shot on bed, handheld slight shake,",
+      "prompt_length": 109,
+      "tweet_url": "https://x.com/abulu8/status/2030329647142211763",
+      "author": "abulu8",
+      "author_name": "𝗦𝘆𝗲𝗱 𝗔𝗯𝘂𝘁𝗵𝗮𝗵𝗶𝗿 ∞",
+      "author_followers": 2172,
+      "created_at": "Sat Mar 07 17:08:04 +0000 2026",
+      "lang": "en",
+      "likes": 11,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 1,
+      "engagement_score": 13.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030328446610812929/img/ndy31Xo1qfNPSUw4.jpg",
+      "full_text_preview": "Happy Caturday! 😻 🐾 \n\nWatch out! That sneaky kitty’s antics will land it in trouble soon! 😹\n\n🎥 powered by Seedance 2.0 \ninside @YouArtStudio 💫  #YouArtCPP \n\nPrompt : Realistic style, vertical screen, ...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "写实风格的床边特写镜头，手持拍摄略带抖动，暖色电影光效。"
+    },
+    {
       "prompt": "In Japanese full color anime style, create a video celebrating",
       "prompt_length": 62,
       "tweet_url": "https://x.com/PocketScreenAI/status/2029070663655567473",
@@ -6451,6 +6473,29 @@
       "summary": "一个人用手指从1数到8"
     },
     {
+      "prompt": "👇\nA cinematic adventure scene set in a hidden jungle valley at sunrise. Massive ancient stone ruins covered in moss rise from dense tropical vegetation. Giant statues of forgotten warriors",
+      "prompt_length": 188,
+      "tweet_url": "https://x.com/MaAyyoub/status/2030412010056303029",
+      "author": "MaAyyoub",
+      "author_name": "Ayyoub Ai",
+      "author_followers": 1024,
+      "created_at": "Sat Mar 07 22:35:21 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030411809073864705/img/i0P5MiZRovEmiL3S.jpg",
+      "full_text_preview": "Echoes of Civilization\n\nCreated using Seedance 2.0 T2V by @YouArtStudio .\n\nThe prompt : 👇\nA cinematic adventure scene set in a hidden jungle valley at sunrise. Massive ancient stone ruins covered in m...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "日出时分，隐藏的丛林山谷中，巨大的古代石头废墟被苔藓覆盖，高耸着被遗忘的战士雕像，电影冒险场景。"
+    },
+    {
       "prompt": "Call of duty game play",
       "prompt_length": 22,
       "tweet_url": "https://x.com/toolfolio/status/2022578236295917606",
@@ -7886,6 +7931,28 @@
       ],
       "quality_score": 3,
       "summary": "用一个 meme 总结 AI 领域的讨论，要求低智商且能获得点赞，内容是 AI 需要更多数据中心来治疗癌症。"
+    },
+    {
+      "prompt": "magic—it's a workflow. 🎬\n\nCreated this commercial for my friend’s upcoming Chinese Milk tea shop in Riyadh using SeeDance 2.0.\n\nMy secret sauce\n1️⃣ Gemini (Nano Banana) for high-fidelity product bases. \n2️⃣ Modular 4-5s clips to beat the",
+      "prompt_length": 237,
+      "tweet_url": "https://x.com/Haile49477371/status/2030262371336540422",
+      "author": "Haile49477371",
+      "author_name": "Haile",
+      "author_followers": 3,
+      "created_at": "Sat Mar 07 12:40:44 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030260800926240768/img/D7CgYqx26vea5XqO.jpg",
+      "full_text_preview": "AI video isn't \"one-prompt\" magic—it's a workflow. 🎬\n\nCreated this commercial for my friend’s upcoming Chinese Milk tea shop in Riyadh using SeeDance 2.0.\n\nMy secret sauce\n1️⃣ Gemini (Nano Banana) for...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "使用 Seedance 2.0 为利雅得即将开业的中国奶茶店制作的商业广告，包括 Gemini (Nano Banana) 用于高保真产品基础。"
     },
     {
       "prompt": "Um filme de ação gravado em primeira pessoa",
