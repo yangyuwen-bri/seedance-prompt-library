@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2190,
-    "prompts_extracted": 412,
+    "total_tweets": 2209,
+    "prompts_extracted": 414,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -6875,6 +6875,29 @@
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
     },
     {
+      "prompt": "kung fu scene, comedy movie from hong kong, 1980",
+      "prompt_length": 48,
+      "tweet_url": "https://x.com/SupaMikeZ/status/2030626209076535592",
+      "author": "SupaMikeZ",
+      "author_name": "Supa Mike",
+      "author_followers": 344,
+      "created_at": "Sun Mar 08 12:46:30 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030626094651670528/img/SbOR7nyaPeoPhnRV.jpg",
+      "full_text_preview": "A good old-school fight between Jackie Chan and Stephen Chow.\nI didn't even ask for it. Seedance 2.0 generated it using this prompt: 'kung fu scene, comedy movie from hong kong, 1980' https://t.co/SqR...",
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 4,
+      "summary": "香港80年代功夫喜剧电影场景"
+    },
+    {
       "prompt": "movie scene, people walking down the streets of the Bronx in 1980, when suddenly they turn into zombies and run like crazy. Funny movie",
       "prompt_length": 135,
       "tweet_url": "https://x.com/SupaMikeZ/status/2028088606389342616",
@@ -8330,6 +8353,29 @@
       ],
       "quality_score": 4,
       "summary": "生成一支具有1980年代香港武打电影录像带质感的15秒短片，展现复古港片风格的武术对练场景。"
+    },
+    {
+      "prompt": "One continuous shot, pulling back the camera. A car races across the bridge at breakneck speed, tires screeching against the pavement as sparks fly, the body violently shaking in the gale. Suddenly, a colossal, imposing Transformer emerges.  ....Continue👇",
+      "prompt_length": 255,
+      "tweet_url": "https://x.com/Nabilidosoo/status/2030653810239053963",
+      "author": "Nabilidosoo",
+      "author_name": "Nabilidoso",
+      "author_followers": 23,
+      "created_at": "Sun Mar 08 14:36:10 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 0.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030653714596581376/img/tGdGuWDxvyLVkESu.jpg",
+      "full_text_preview": "Prompt: One continuous shot, pulling back the camera. A car races across the bridge at breakneck speed, tires screeching against the pavement as sparks fly, the body violently shaking in the gale. Sud...",
+      "tags": [
+        "🎬 电影/影视",
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "一镜到底拍摄，汽车在桥上飞驰，轮胎摩擦出火花"
     },
     {
       "prompt": "Grok： fucking crazy world let’s kiss pink(taken over by @elonmusk 🤣)\nSeedance: I can make it pink but it must be animated version🤦🏻‍♀️\nQwen: pink ocean? Never.🤣",
