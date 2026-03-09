@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2209,
-    "prompts_extracted": 414,
+    "total_tweets": 2247,
+    "prompts_extracted": 422,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1053,6 +1053,28 @@
       "summary": "水之呼吸与雷之呼吸的真人极速对决。"
     },
     {
+      "prompt": "A woman in her mid-30s wearing a heavy arctic survival suit races across the deck",
+      "prompt_length": 81,
+      "tweet_url": "https://x.com/LudovicCreator/status/2030939169485123604",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36437,
+      "created_at": "Mon Mar 09 09:30:05 +0000 2026",
+      "lang": "en",
+      "likes": 225,
+      "retweets": 25,
+      "replies": 21,
+      "bookmarks": 140,
+      "engagement_score": 430.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2030939147079233536/pu/img/SwHawMxrehN3KBsT.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nIce in her veins. ❄️🏃‍♀️\n\nAnother incredible sequence from Seedance 2.0. The scale of the glacier collapse vs. the tiny snowmobile creates such a massive sense of dread.\n\nPrompt  :\n\nA ...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一个三十多岁的女性穿着北极生存服在甲板上奔跑。"
+    },
+    {
       "prompt": "【风格】抖音直播带货风，极速语速(Rap-like Speed)，情绪极其亢奋。\n【时长】15秒\n【主角】激情带货主播（网红美女），面前摆着手机平板，背景是杂乱但真实的高端直播间。\n\n[00:00-00:05]",
       "prompt_length": 105,
       "tweet_url": "https://x.com/johnAGI168/status/2021199692650946709",
@@ -2016,6 +2038,29 @@
       ],
       "quality_score": 4,
       "summary": "抖音搞笑段子，老板一脸优越感。"
+    },
+    {
+      "prompt": "Creative cinematic scene where golden sand particles swirl in the air and transform into tiny mechanical watch parts, gears and screws forming out of the particles and assembling into a luxury wristwatch, magical yet",
+      "prompt_length": 216,
+      "tweet_url": "https://x.com/AIwithSynthia/status/2030908887218684293",
+      "author": "AIwithSynthia",
+      "author_name": "Synthia",
+      "author_followers": 11144,
+      "created_at": "Mon Mar 09 07:29:45 +0000 2026",
+      "lang": "en",
+      "likes": 69,
+      "retweets": 11,
+      "replies": 45,
+      "bookmarks": 11,
+      "engagement_score": 124.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2030908853743939584/pu/img/8LQwvsqSbLGwyt4I.jpg",
+      "full_text_preview": "Luxury watch assembly on Yapper using Seedance 2.0\n\nPrompt :\n\nCreative cinematic scene where golden sand particles swirl in the air and transform into tiny mechanical watch parts, gears and screws for...",
+      "tags": [
+        "🎨 艺术/创意",
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "金色沙粒在空中旋转并变成微小的机械手表零件，最终组装成一块豪华手表。"
     },
     {
       "prompt": "Cinematic 1950s black and white film style. A medium shot of a well-groomed man in a light-colored t-shirt and slacks approaching a",
@@ -3169,6 +3214,28 @@
       ],
       "quality_score": 1,
       "summary": "关于提示工程的商业模式讨论"
+    },
+    {
+      "prompt": "A man in his early 30s, tan skin,",
+      "prompt_length": 33,
+      "tweet_url": "https://x.com/LudovicCreator/status/2031086401610002631",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36437,
+      "created_at": "Mon Mar 09 19:15:08 +0000 2026",
+      "lang": "en",
+      "likes": 18,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 12,
+      "engagement_score": 30.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031086368399523840/pu/img/tnlq8cl06zt0gGZH.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nNeon lights. Wet pavement. Zero limits. 🌃🏍️\n\nThis cyberpunk chase sequence in Seedance 2.0 is pure adrenaline. That landing on the moving trailer is some of the cleanest physics I've s...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "一个三十岁左右，皮肤黝黑的男人。"
     },
     {
       "prompt": "singularity moment",
@@ -6275,6 +6342,28 @@
       "summary": "制作一个能获得百万展示的病毒式哥斯拉视频"
     },
     {
+      "prompt": "Cinematic disaster action sequence in intense, high-stakes chaos, photorealistic live-action style, dramatic lighting",
+      "prompt_length": 117,
+      "tweet_url": "https://x.com/yaorichcrypto/status/2030833218250015101",
+      "author": "yaorichcrypto",
+      "author_name": "Super Crypto Man 💊",
+      "author_followers": 1366,
+      "created_at": "Mon Mar 09 02:29:04 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030832074228428800/img/t2Vs2GVSxSJE8P-2.jpg",
+      "full_text_preview": "How's the effect of this disaster scene? It's not generated using Seedance or Kling; it's created by Grok Imagine. Is it hot-blooded? Is it thrilling?\n\nPrompt:\nCinematic disaster action sequence in in...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "电影般的灾难动作场景，高强度混乱，逼真的实景风格，戏剧性的灯光。"
+    },
+    {
       "prompt": "{\n  \"project\": \"Global Miniature City Series\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"Ultra-realistic macro miniature city model\",",
       "prompt_length": 129,
       "tweet_url": "https://x.com/xiaomiaode5383/status/2028360648393118001",
@@ -6875,6 +6964,28 @@
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
     },
     {
+      "prompt": "studio production",
+      "prompt_length": 17,
+      "tweet_url": "https://x.com/Opendrama_ai/status/2030782684763697318",
+      "author": "Opendrama_ai",
+      "author_name": "Opendrama",
+      "author_followers": 2,
+      "created_at": "Sun Mar 08 23:08:16 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2030782625514962945/pu/img/l_bQhDWuilD_exkE.jpg",
+      "full_text_preview": "Hollywood spends $200M on water physics for one pirate scene. Entire VFX teams just to simulate a splash.\n\nSeedance 2.0 generates this in under a minute. From a text prompt.\n\nThe gap between \"indie cr...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "工作室制作。"
+    },
+    {
       "prompt": "kung fu scene, comedy movie from hong kong, 1980",
       "prompt_length": 48,
       "tweet_url": "https://x.com/SupaMikeZ/status/2030626209076535592",
@@ -6985,6 +7096,50 @@
       ],
       "quality_score": 1,
       "summary": "按下运行键，见证奇迹"
+    },
+    {
+      "prompt": "A woman in her mid-30s wearing a heavy arctic survival suit races across the deck of",
+      "prompt_length": 84,
+      "tweet_url": "https://x.com/AIwithSanchit/status/2031077550387298755",
+      "author": "AIwithSanchit",
+      "author_name": "Sanchit | AI Tools & News",
+      "author_followers": 860,
+      "created_at": "Mon Mar 09 18:39:58 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031077537879830531/pu/img/4saJJpeD4rO7g2iQ.jpg",
+      "full_text_preview": "SEEDANCE 2 🎨\n\nIce in her veins. ❄️🏃‍♀️\n\nAnother incredible sequence from Seedance 2.0. The scale of the glacier collapse vs. the tiny snowmobile creates such a massive sense of dread.\n\nPrompt  :\n\nA wo...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一个三十多岁的女性穿着北极生存服在甲板上奔跑。"
+    },
+    {
+      "prompt": "Subject:\nPhotorealistic style, a young beautiful Asian woman sitting by the bay window of a high-rise building, wearing a very loose white shirt, left shoulder exposed, POV perspective, woman trying to block the lens with her",
+      "prompt_length": 225,
+      "tweet_url": "https://x.com/HomoDeusLite/status/2031023008383701061",
+      "author": "HomoDeusLite",
+      "author_name": "Jasmine_AI (Unlock AI Secrets Daily 🔑)",
+      "author_followers": 551,
+      "created_at": "Mon Mar 09 15:03:14 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031022954340052992/pu/img/4e9LwbmvwdfDyI6_.jpg",
+      "full_text_preview": "Seedance 2.0 generated AI girlfriend video.\n\nPrompt:\nSubject:\nPhotorealistic style, a young beautiful Asian woman sitting by the bay window of a high-rise building, wearing a very loose white shirt, l...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "一个年轻漂亮的亚洲女性坐在高层建筑的飘窗旁，穿着宽松的白衬衫，露出左肩，POV视角，女人试图。"
     },
     {
       "prompt": "Fast-paced FPV drone tracking shot from behind, closely following a 3D anime-style girl with white hair skateboarding down a steep, winding mountain road at incredibly high speed. Extreme forward momentum, wide-angle perspective, wind rushing effect.",
@@ -8064,6 +8219,28 @@
       ],
       "quality_score": 3,
       "summary": "巨型猫咪大战金刚"
+    },
+    {
+      "prompt": "Generate me a video that show",
+      "prompt_length": 29,
+      "tweet_url": "https://x.com/verbove/status/2031026788940358062",
+      "author": "verbove",
+      "author_name": "Martijn Verbove",
+      "author_followers": 1502,
+      "created_at": "Mon Mar 09 15:18:15 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2031026313536966656/img/tGtjomG_QUyX-Xvp.jpg",
+      "full_text_preview": "This is what $20 gets you at Seedance 2.0:\n\nPrompt:\n\n\"Generate me a video that show's me indie hackers and developers coding like crazy and being excited about every new release in the wild.\"\n\nPS: I w...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "生成一个视频，展示。"
     },
     {
       "prompt": "Space Cowboys murdering Baby-eating Vampires",
