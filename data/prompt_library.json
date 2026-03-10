@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2247,
-    "prompts_extracted": 422,
+    "total_tweets": 2336,
+    "prompts_extracted": 435,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1233,6 +1233,28 @@
       "summary": "Seedance 2.0 的宣传，要求展示一些热门内容，避免好莱坞模仿。"
     },
     {
+      "prompt": "First-person POV camera looking down at two hands in latex kitchen gloves pressing a soap dispenser at a bathroom sink, a completely ordinary domestic morning. The soap emerges. At the 2-second mark the foam expands beyond the palm still",
+      "prompt_length": 237,
+      "tweet_url": "https://x.com/rovvmut_/status/2031177267469234491",
+      "author": "rovvmut_",
+      "author_name": "Heisenberg",
+      "author_followers": 28489,
+      "created_at": "Tue Mar 10 01:16:12 +0000 2026",
+      "lang": "en",
+      "likes": 174,
+      "retweets": 13,
+      "replies": 28,
+      "bookmarks": 97,
+      "engagement_score": 314.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031177216101593092/pu/img/7tGlqpuvw_FoHoxg.jpg",
+      "full_text_preview": "Seedance 2.0 on @yapper_so \n\nPrompt: First-person POV camera looking down at two hands in latex kitchen gloves pressing a soap dispenser at a bathroom sink, a completely ordinary domestic morning. The...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "第一人称视角拍摄戴着乳胶手套的手在浴室水槽按压洗手液的日常场景。"
+    },
+    {
       "prompt": "Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints. The car speeds past without stopping. Dust cloud. She walks to her trunk and",
       "prompt_length": 251,
       "tweet_url": "https://x.com/Kiber_Alla/status/2024411387535962433",
@@ -1430,6 +1452,28 @@
       ],
       "quality_score": 3,
       "summary": "未来悬浮艇在非洲草原上行驶的连续镜头"
+    },
+    {
+      "prompt": "A woman in her late 20s wearing a flowing black combat coat threaded with glowing silver star patterns leaps across fragments of shattered asteroids drifting in deep space.",
+      "prompt_length": 172,
+      "tweet_url": "https://x.com/LudovicCreator/status/2031301568365048223",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36467,
+      "created_at": "Tue Mar 10 09:30:08 +0000 2026",
+      "lang": "en",
+      "likes": 127,
+      "retweets": 14,
+      "replies": 2,
+      "bookmarks": 59,
+      "engagement_score": 218.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031301535783620608/pu/img/vnB4b2ZRW65FEHQX.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nPrompt  :\n\nA woman in her late 20s wearing a flowing black combat coat threaded with glowing silver star patterns leaps across fragments of shattered asteroids drifting in deep space.\n...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "一位身穿黑色星纹战斗外套的20多岁女性在深空中跳跃于破碎的陨石碎片之间。"
     },
     {
       "prompt": "【风格】国产爆款短剧（Viral Short Drama），竖屏构图（9:16 Portrait Ratio），极致虐心（Melodramatic），雨夜街头，高对比度霓虹光影，手持摄影晃动感。 【时长】15秒",
@@ -2063,6 +2107,28 @@
       "summary": "金色沙粒在空中旋转并变成微小的机械手表零件，最终组装成一块豪华手表。"
     },
     {
+      "prompt": "video_generation_prompt",
+      "prompt_length": 23,
+      "tweet_url": "https://x.com/Just_sharon7/status/2030601657701253577",
+      "author": "Just_sharon7",
+      "author_name": "Sharon Riley",
+      "author_followers": 40425,
+      "created_at": "Sun Mar 08 11:08:56 +0000 2026",
+      "lang": "en",
+      "likes": 71,
+      "retweets": 7,
+      "replies": 34,
+      "bookmarks": 20,
+      "engagement_score": 123.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2030601577955049472/pu/img/aghFI2yMqmieMqPf.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so \n\n{\n  \"video_generation_prompt\": {\n    \"scenes\": [\n      {\n        \"scene_name\": \"Intro Jump\",\n        \"description\": \"Chibi character pops up from bottom of scree...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "视频生成提示语，内容缺失。"
+    },
+    {
       "prompt": "Cinematic 1950s black and white film style. A medium shot of a well-groomed man in a light-colored t-shirt and slacks approaching a",
       "prompt_length": 131,
       "tweet_url": "https://x.com/arceyul/status/2027679957669781583",
@@ -2531,6 +2597,28 @@
       "summary": "东方玄幻武侠电影级特效大片，史诗感慢动作与快剪结合"
     },
     {
+      "prompt": "A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the frame, slightly wrinkled and textured. An open pizza box sits nearby on the bed, its lid tilted back, revealing a partially eaten",
+      "prompt_length": 208,
+      "tweet_url": "https://x.com/saniaspeaks_/status/2031346779283710035",
+      "author": "saniaspeaks_",
+      "author_name": "𝗦𝗮𝗻𝗶𝗮",
+      "author_followers": 10259,
+      "created_at": "Tue Mar 10 12:29:47 +0000 2026",
+      "lang": "en",
+      "likes": 43,
+      "retweets": 3,
+      "replies": 29,
+      "bookmarks": 6,
+      "engagement_score": 69.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031346745624641536/pu/img/CdPEBVNJk3SXcUtv.jpg",
+      "full_text_preview": "Eating pizza on bed 😄\n\nMade with Seedance 2.0 on yapper.\n\nPrompt:A dim bedroom lit by a harsh on-camera flash. White bedsheets fill most of the frame, slightly wrinkled and textured. An open pizza box...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "昏暗的卧室，白色床单上放着打开的披萨盒。"
+    },
+    {
       "prompt": "A silver-haired elderly woman in a loose linen dress stands at the edge of a misty forest lake at dawn, her weathered hands releasing a paper lantern onto the still water; the camera uses a slow lens push from medium close-up to close-up, capturing",
       "prompt_length": 248,
       "tweet_url": "https://x.com/LudovicCreator/status/2027315285477241014",
@@ -2596,6 +2684,29 @@
       ],
       "quality_score": 4,
       "summary": "小猫在MotoGP赛道上驾驶小车比赛"
+    },
+    {
+      "prompt": "Two chibi fighters wearing oversized boxing gloves stand in a bright boxing ring surrounded by cheering crowds. The bell rings and they rush toward each other throwing rapid punches, dodging and sliding",
+      "prompt_length": 202,
+      "tweet_url": "https://x.com/AIwithSynthia/status/2031299428469137749",
+      "author": "AIwithSynthia",
+      "author_name": "Synthia",
+      "author_followers": 11145,
+      "created_at": "Tue Mar 10 09:21:38 +0000 2026",
+      "lang": "en",
+      "likes": 37,
+      "retweets": 4,
+      "replies": 29,
+      "bookmarks": 2,
+      "engagement_score": 61.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031299398303625226/pu/img/oRi7pOKfhvaw4IsT.jpg",
+      "full_text_preview": "The chibi fight is ON . This time using Seedance 2.0 on Yapper \n\nPrompt :\n\nTwo chibi fighters wearing oversized boxing gloves stand in a bright boxing ring surrounded by cheering crowds. The bell ring...",
+      "tags": [
+        "🎌 动漫",
+        "🎮 游戏"
+      ],
+      "quality_score": 4,
+      "summary": "两个Q版拳击手在拳击台上激烈对战。"
     },
     {
       "prompt": "Make the characters from Image 1 and Image 2 fight using the movements from the green-screen reference video. Setting: abandoned parking lot. Add visual effects during combat.",
@@ -2839,6 +2950,28 @@
       ],
       "quality_score": 1,
       "summary": "生成一个不可能的动作"
+    },
+    {
+      "prompt": "A stunt driver in a bright orange rally suit races a muscle car across a suspension bridge during a violent storm.",
+      "prompt_length": 114,
+      "tweet_url": "https://x.com/LudovicCreator/status/2031448792986222986",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36467,
+      "created_at": "Tue Mar 10 19:15:09 +0000 2026",
+      "lang": "en",
+      "likes": 25,
+      "retweets": 5,
+      "replies": 2,
+      "bookmarks": 13,
+      "engagement_score": 49.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031448755644325889/pu/img/YpEyi0-Dwe0lP3Du.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nInsurance companies watching this like: 👁️👄👁️\n\nDom Toretto would be proud. Family is stronger than gravity. 🚗💨\n\nPrompt  :\n\nA stunt driver in a bright orange rally suit races a muscle c...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "特技车手在暴风雨中驾驶肌肉车飞驰在悬索桥上。"
     },
     {
       "prompt": "Make a better Star war fight scene than Hollywood, and aim for 2 likes",
@@ -3835,6 +3968,29 @@
       ],
       "quality_score": 4,
       "summary": "一个女人快步走过昏暗的停车场，高跟鞋在水泥地上回响，她回头看。"
+    },
+    {
+      "prompt": "This is the opening and closing scene of a sword fight. Based on these two scenes, create a seamless sequence of an armored male knight with a red cape and sword fighting a giant horned monster with",
+      "prompt_length": 198,
+      "tweet_url": "https://x.com/Kangaikroto/status/2030649057199493543",
+      "author": "Kangaikroto",
+      "author_name": "Kang Ai",
+      "author_followers": 939,
+      "created_at": "Sun Mar 08 14:17:17 +0000 2026",
+      "lang": "en",
+      "likes": 7,
+      "retweets": 2,
+      "replies": 3,
+      "bookmarks": 2,
+      "engagement_score": 16.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030647827903528960/img/c3lcaAHuOE5W9bT5.jpg",
+      "full_text_preview": "@YouArtStudio\nprovided creators early access to Seedance Pro 2.0”\n\nprompt : \nThis is the opening and closing scene of a sword fight. Based on these two scenes, create a seamless sequence of an armored...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎮 游戏"
+      ],
+      "quality_score": 4,
+      "summary": "根据剑斗的开头和结尾场景，创建一个无缝的骑士与巨型角怪战斗的序列。"
     },
     {
       "prompt": "{\n  \"prompt\": \"Ultra-realistic cinematic portrait of Kylie Jenner as Jessica 6 from Logan's Run (1976), sitting on a glossy black surface in a futuristic dark lounge, right leg bent and raised with foot flat",
@@ -5168,6 +5324,28 @@
       "summary": "根据图片生成动画视频"
     },
     {
+      "prompt": "Real actor cosplay model at anime expo, ultra HD camera focusing on bare feet without socks, camera pans around character, slowly moves up to buttocks, finally lands on chin with face hidden.",
+      "prompt_length": 191,
+      "tweet_url": "https://x.com/HomoDeusLite/status/2031195892037136769",
+      "author": "HomoDeusLite",
+      "author_name": "Jasmine_AI (Unlock AI Secrets Daily 🔑)",
+      "author_followers": 556,
+      "created_at": "Tue Mar 10 02:30:13 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 5.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031195837850857474/pu/img/LPC8XDX0riClmnmD.jpg",
+      "full_text_preview": "Seedance 2.0 generates close-up videos of beautiful women.\n\nPrompt:\n'Real actor cosplay model at anime expo, ultra HD camera focusing on bare feet without socks, camera pans around character, slowly m...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "漫展上的真人cosplay，聚焦角色裸露的脚，镜头向上移动到臀部，最后到隐藏的面部。"
+    },
+    {
       "prompt": "1980s TV studio interview, blonde female journalist with long hair and low-cut dress asking vampire",
       "prompt_length": 99,
       "tweet_url": "https://x.com/ImperfectEngel/status/2021977382781927821",
@@ -6141,6 +6319,28 @@
       ],
       "quality_score": 2,
       "summary": "路飞 vs 索隆的战斗场景。"
+    },
+    {
+      "prompt": "What are you looking at?",
+      "prompt_length": 24,
+      "tweet_url": "https://x.com/pixazoai/status/2030936757555097883",
+      "author": "pixazoai",
+      "author_name": "Pixazo",
+      "author_followers": 59,
+      "created_at": "Mon Mar 09 09:20:30 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 3.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2030936670791688192/img/556vYE02KbeUw8vc.jpg",
+      "full_text_preview": "Seedance 2.0 just turned a simple prompt into a cinematic “What are you looking at?” moment. 🤯\n\nNatural expressions.\nSmooth camera motion.\nPure film-style atmosphere. 🎬🔥\n\nFrom a sketch and a prompt to...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "你在看什么？"
     },
     {
       "prompt": "Intense street racing duel.",
@@ -7794,6 +7994,50 @@
       "summary": "孤独的穿风衣的奔跑者在香港小巷中冲刺，撞倒了小贩车，水果散落"
     },
     {
+      "prompt": "concept car, brought to life using Seedance 1.5 Pro on https://t.co/WSB7YB1qMi. \n\nWant the secret sauce? Comment",
+      "prompt_length": 112,
+      "tweet_url": "https://x.com/khan_faizan01/status/2031290020888457217",
+      "author": "khan_faizan01",
+      "author_name": "Faizan Khan",
+      "author_followers": 19,
+      "created_at": "Tue Mar 10 08:44:15 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2031289982644793346/img/Y0Xq6c0g44gVE7VO.jpg",
+      "full_text_preview": "Sketch ➡️ Reality.\n\nCheck out the \"FUTURE I\" concept car, brought to life using Seedance 1.5 Pro on https://t.co/WSB7YB1qMi. \n\nWant the secret sauce? Comment \"PROMPT\" and I’ll send you the exact promp...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "概念车，使用Seedance 1.5 Pro生成。"
+    },
+    {
+      "prompt": "massive copyright infringement.",
+      "prompt_length": 31,
+      "tweet_url": "https://x.com/Opendrama_ai/status/2031244696752894037",
+      "author": "Opendrama_ai",
+      "author_name": "Opendrama",
+      "author_followers": 2,
+      "created_at": "Tue Mar 10 05:44:09 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2031244668827295744/pu/img/1p5QZ4c622-A1z0c.jpg",
+      "full_text_preview": "A 2-line prompt. 15 seconds. Hollywood is freaking out.\n\n@RuairiRobinson dropped this Tom Cruise vs Brad Pitt fight clip made with Seedance 2.0. The choreography. The lighting. The face consistency th...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "大规模侵犯版权。"
+    },
+    {
       "prompt": "Larry David in full Curb Your Enthusiasm freakout mode, wild-eyed",
       "prompt_length": 65,
       "tweet_url": "https://x.com/robh279/status/2023601890970452461",
@@ -8688,6 +8932,50 @@
       ],
       "quality_score": 2,
       "summary": "一个女孩玩三个球的杂耍。"
+    },
+    {
+      "prompt": "generating video",
+      "prompt_length": 16,
+      "tweet_url": "https://x.com/Thewarlordai/status/2031394707235098774",
+      "author": "Thewarlordai",
+      "author_name": "Warlord AI",
+      "author_followers": 158,
+      "created_at": "Tue Mar 10 15:40:14 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2031394248856317962/img/bf6qZCoZjpy4W1-g.jpg",
+      "full_text_preview": "Seedance 2.0’s FPV camera work is terrifyingly good. It’s not just \"generating video\"—it understands kinetic momentum and physics-defying cinematography.\n\nWe’re three months away from a single prompt ...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "生成视频。"
+    },
+    {
+      "prompt": "【核心风格】：印度泰卢固语电影风格，极致反重力物理特性，升格与降格变速摄影，漫天沙尘，史诗感 BGM 氛围，无血腥写实，极度强调撞击感。 \n【场景】：尘土飞扬的废弃惡石场或建筑工地，烈日当空，强风袭来。",
+      "prompt_length": 101,
+      "tweet_url": "https://x.com/Aleph6Zero9/status/2031343621279199372",
+      "author": "Aleph6Zero9",
+      "author_name": "JingleKitty",
+      "author_followers": 125,
+      "created_at": "Tue Mar 10 12:17:14 +0000 2026",
+      "lang": "zh",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2031342596115857408/img/jz9QC3935pgtWs7O.jpg",
+      "full_text_preview": "Seedance 2.0 印度宝莱坞反重力英雄😃\n\n全能参考 视频提示词 prompt 👇👇👇\n\n【核心风格】：印度泰卢固语电影风格，极致反重力物理特性，升格与降格变速摄影，漫天沙尘，史诗感 BGM 氛围，无血腥写实，极度强调撞击感。 \n【场景】：尘土飞扬的废弃惡石场或建筑工地，烈日当空，强风袭来。 https://t.co/aM18aopupP",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 5,
+      "summary": "印度泰卢固语电影风格，在废弃石场或建筑工地拍摄反重力撞击感的史诗级场景。"
     },
     {
       "prompt": "Create a high-intensity, ultra-realistic cinematic action video based on the image of a man kneeling",
