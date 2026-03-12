@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2406,
-    "prompts_extracted": 442,
+    "total_tweets": 2463,
+    "prompts_extracted": 451,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -917,6 +917,28 @@
       ],
       "quality_score": 4,
       "summary": "展示AI生成汽车变形视频，强调机械细节和制作技巧。"
+    },
+    {
+      "prompt": "The generations are radically different, using the same initial and final frames and spaceship elements.",
+      "prompt_length": 104,
+      "tweet_url": "https://x.com/hedo_ist/status/2031871115501400368",
+      "author": "hedo_ist",
+      "author_name": "hedoήist",
+      "author_followers": 22465,
+      "created_at": "Wed Mar 11 23:13:18 +0000 2026",
+      "lang": "en",
+      "likes": 294,
+      "retweets": 41,
+      "replies": 23,
+      "bookmarks": 149,
+      "engagement_score": 539.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2031866064938680320/img/rAYO5O-KvyOcDgO3.jpg",
+      "full_text_preview": "Seedance 2.0 VS Kling 3.0!  🔥\n\nEssential comparison to understand the two best models on the market\n\nConclusions and prompt:\n\nThe generations are radically different, using the same initial and final ...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 2,
+      "summary": "使用相同起始和结束帧以及飞船元素，展示不同世代的差异。"
     },
     {
       "prompt": "A cinematic, high-octane action scene inside a dimly lit boxing ring. A man resembling Donald Trump, wearing a bright yellow \"Game of Death\" style tracksuit with black stripes, is fighting a man resembling Kim Jong Un,",
@@ -2575,6 +2597,28 @@
       "summary": "写实电影风格，16:9，8K分辨率，宽动态范围，逼真的真人动作，细节丰富的皮肤、鳞片、粘土和火焰，自然的高光和阴影。"
     },
     {
+      "prompt": "First-person POV of a lightning bolt forming inside a massive thundercloud.",
+      "prompt_length": 75,
+      "tweet_url": "https://x.com/LudovicCreator/status/2032026333283238154",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36428,
+      "created_at": "Thu Mar 12 09:30:05 +0000 2026",
+      "lang": "en",
+      "likes": 45,
+      "retweets": 6,
+      "replies": 5,
+      "bookmarks": 13,
+      "engagement_score": 72.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032026311032438784/pu/img/QMSmH7JaZreY_Tiw.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nThe calm before the digital storm. ⛈️🏙️\n\nGenerated with Seedance 2. The lighting and cloud physics here are absolutely haunting.\n\nPrompt  :\n\nFirst-person POV of a lightning bolt formin...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "第一人称视角，展示闪电在巨大的雷云内部形成的过程。"
+    },
+    {
       "prompt": "【风格】东方玄幻武侠（Wuxia Fantasy），电影级特效大片，史诗感，慢动作与快剪结合，粒子光效炸裂，4K超清。\n【时长】15秒",
       "prompt_length": 67,
       "tweet_url": "https://x.com/johnAGI168/status/2021217600122884274",
@@ -3835,6 +3879,28 @@
       ],
       "quality_score": 3,
       "summary": "哥伦布导航广告，突出导航定位功能。"
+    },
+    {
+      "prompt": "A wingsuit flyer in a bright orange suit leaps from a coastal cliff above the Pacific Ocean.",
+      "prompt_length": 92,
+      "tweet_url": "https://x.com/LudovicCreator/status/2032173575604425168",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36428,
+      "created_at": "Thu Mar 12 19:15:11 +0000 2026",
+      "lang": "en",
+      "likes": 10,
+      "retweets": 3,
+      "replies": 2,
+      "bookmarks": 3,
+      "engagement_score": 20.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032173535393722368/pu/img/ruxnNBRO0iSdGTIe.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nAbsolute 0% margin for error. ⚡️\n\nExploring the Great Ocean Road via Seedance 2. The proximity flying is breathtaking.\n\nPrompt :\n\nA wingsuit flyer in a bright orange suit leaps from a ...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "翼装飞行员身穿亮橙色服装，从太平洋沿岸的悬崖上跳下。"
     },
     {
       "prompt": "make me a UGC-style ad for teeth whitening strips",
@@ -5855,6 +5921,28 @@
       "summary": "儿童版龙珠动画，风格类似汪汪队立大功"
     },
     {
+      "prompt": "Close-up shot of the taco filling slightly shifting as he takes a bite, warm light reflecting on the chopsticks.",
+      "prompt_length": 112,
+      "tweet_url": "https://x.com/Framer_X/status/2032107214270578859",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 46148,
+      "created_at": "Thu Mar 12 14:51:29 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 4.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032107162533838849/img/xoliS-Wg-muL5DnR.jpg",
+      "full_text_preview": "4)\n\n\"Close-up shot of the taco filling slightly shifting as he takes a bite, warm light reflecting on the chopsticks.\"\n\nSeedance 2.0 - perfectly captured food details, biting motion, and realistic foo...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "近距离拍摄吃 taco 的场景，展示馅料的轻微移动和筷子上的暖光。"
+    },
+    {
       "prompt": "使用seedance_2.0_fast生成：一个美女元气满满地对着镜头挥手说中文：\\",
       "prompt_length": 42,
       "tweet_url": "https://x.com/zstmfhy/status/2024438488385622231",
@@ -6761,6 +6849,72 @@
       ],
       "quality_score": 3,
       "summary": "海贼王路飞在乐天世界乘坐游乐设施的视频"
+    },
+    {
+      "prompt": "Final slow cinematic push-in as he takes another bite and small leaves pass across the frame.",
+      "prompt_length": 93,
+      "tweet_url": "https://x.com/Framer_X/status/2032107541182992533",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 46148,
+      "created_at": "Thu Mar 12 14:52:47 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032107486451548165/img/5Bw3Ahnpmy0Nq6Pd.jpg",
+      "full_text_preview": "9)\n\n\"Final slow cinematic push-in as he takes another bite and small leaves pass across the frame.\"\n\nSeedance 2.0 - adheres to the prompt, with a slow camera push-in, the man taking just a bite of the...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "缓慢的电影式推进镜头，展示他再次咬 taco，小树叶飘过画面。"
+    },
+    {
+      "prompt": "Low angle shot of fabric folds and robe movement as the wind passes.",
+      "prompt_length": 68,
+      "tweet_url": "https://x.com/Framer_X/status/2032107407661580587",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 46148,
+      "created_at": "Thu Mar 12 14:52:15 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032107357136961540/img/6L0BFZfaiZGGmh2r.jpg",
+      "full_text_preview": "7)\n\n\"Low angle shot of fabric folds and robe movement as the wind passes.\"\n\nSeedance 2.0 - follows the prompt, with natural fabric movement and steaming food that makes the shot feel more alive.\n\nSora...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "低角度拍摄，展示风吹过时织物褶皱和长袍的运动。"
+    },
+    {
+      "prompt": "Over-the-shoulder shot showing the quiet fantasy landscape in front of him, distant clouds slowly drifting.",
+      "prompt_length": 107,
+      "tweet_url": "https://x.com/Framer_X/status/2032107343773909094",
+      "author": "Framer_X",
+      "author_name": "Framer 🇱🇹",
+      "author_followers": 46148,
+      "created_at": "Thu Mar 12 14:52:00 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032107292284633088/img/c_-j2oEaZKxn3UEX.jpg",
+      "full_text_preview": "6)\n\n\"Over-the-shoulder shot showing the quiet fantasy landscape in front of him, distant clouds slowly drifting.\"\n\nSeedance 2.0 - prompt-accurate, with natural hair and clothes movement in the wind.\n\n...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "肩部视角，展示他面前安静的幻想景观，远处的云朵缓慢漂移。"
     },
     {
       "prompt": "@Image1's character",
@@ -9241,6 +9395,51 @@
       ],
       "quality_score": 3,
       "summary": "麦迪逊广场花园演唱会，主唱跪在舞台边缘的逼真镜头。"
+    },
+    {
+      "prompt": "3 paragraphs",
+      "prompt_length": 12,
+      "tweet_url": "https://x.com/ToniVE_/status/2032199700464402637",
+      "author": "ToniVE_",
+      "author_name": "Toni | VE",
+      "author_followers": 146,
+      "created_at": "Thu Mar 12 20:58:59 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032198518178226176/img/isJWQuv3CuPsPfny.jpg",
+      "full_text_preview": "AI is f*cking INSANE!!\n\nMost of these animations were made with Seedance 1.0 Pro + Envato Elements.\n\nTime spent: 30 minutes Prompt: 3 paragraphs\n\nCan you guess which frames are AI? https://t.co/CBaFRR...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "三个段落（无法判断视频内容）。"
+    },
+    {
+      "prompt": "Godzilla-Sized Orange Cat in Chongqing",
+      "prompt_length": 38,
+      "tweet_url": "https://x.com/poseidanai/status/2032118768063963174",
+      "author": "poseidanai",
+      "author_name": "poseidanai",
+      "author_followers": 502,
+      "created_at": "Thu Mar 12 15:37:23 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032118732601081856/pu/img/ZjkAHVDoLHf9_t47.jpg",
+      "full_text_preview": "Seedance 2.0 Video Prompt: Godzilla-Sized Orange Cat in Chongqing https://t.co/vVqTMpkOEE",
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "哥斯拉大小的橙色猫出现在重庆。"
     },
     {
       "prompt": "Put this image on a huge billboard where all the people around are looking it and are in awe, and everybody say \"wow\", \"amazing",
