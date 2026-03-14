@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2526,
-    "prompts_extracted": 461,
+    "total_tweets": 2593,
+    "prompts_extracted": 472,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -873,6 +873,28 @@
       "summary": "静止的人物与快速运动的背景形成对比"
     },
     {
+      "prompt": "extreme weather, complex physics, and a dynamic tracking camera following a golf ball mid-flight.",
+      "prompt_length": 97,
+      "tweet_url": "https://x.com/Dheepanratnam/status/2032810971140420073",
+      "author": "Dheepanratnam",
+      "author_name": "Dheepan Ratnam",
+      "author_followers": 10654,
+      "created_at": "Sat Mar 14 13:27:57 +0000 2026",
+      "lang": "en",
+      "likes": 308,
+      "retweets": 14,
+      "replies": 27,
+      "bookmarks": 247,
+      "engagement_score": 605.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032810482483019776/img/kepBw2VhrBcrBO_R.jpg",
+      "full_text_preview": "I gave Sora 2, Veo 3.1, and Seedance 2.0 a nearly impossible prompt: extreme weather, complex physics, and a dynamic tracking camera following a golf ball mid-flight.\n\nSeedance 2.0 is the only one tha...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "极端天气下，高尔夫球飞行轨迹的物理模拟和动态追踪镜头"
+    },
+    {
       "prompt": "Mortal Kombat gameplay footage but the characters are famous world leaders",
       "prompt_length": 74,
       "tweet_url": "https://x.com/thedorbrothers/status/2021203121024926171",
@@ -1430,6 +1452,28 @@
       ],
       "quality_score": 2,
       "summary": "关于女性的逼真镜头，描述不完整。"
+    },
+    {
+      "prompt": "create a nostalgic music video",
+      "prompt_length": 30,
+      "tweet_url": "https://x.com/hedo_ist/status/2032819944195526674",
+      "author": "hedo_ist",
+      "author_name": "hedoήist",
+      "author_followers": 22515,
+      "created_at": "Sat Mar 14 14:03:37 +0000 2026",
+      "lang": "en",
+      "likes": 122,
+      "retweets": 12,
+      "replies": 27,
+      "bookmarks": 60,
+      "engagement_score": 225.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032818190707838977/img/_OfrlpXdrJjT7M8-.jpg",
+      "full_text_preview": "Seedance 5.0\n\nprompt: create a nostalgic music video https://t.co/5tK25vKJjW",
+      "tags": [
+        "🎵 音乐/MV"
+      ],
+      "quality_score": 2,
+      "summary": "创建一个怀旧的音乐视频"
     },
     {
       "prompt": "cannot count to 10",
@@ -2641,6 +2685,28 @@
       "summary": "POV视角，用手机播放一个用Seedance 2.0制作的疯狂视频片段。"
     },
     {
+      "prompt": "A man in his early 30s, stubble beard, wearing a black armored motorcycle suit with reflective alpine stripes and a tinted racing visor,",
+      "prompt_length": 136,
+      "tweet_url": "https://x.com/LudovicCreator/status/2032898331773473265",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36490,
+      "created_at": "Sat Mar 14 19:15:06 +0000 2026",
+      "lang": "en",
+      "likes": 40,
+      "retweets": 6,
+      "replies": 9,
+      "bookmarks": 24,
+      "engagement_score": 80.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032898307702296576/pu/img/Hna6Pzj1phfWcXXL.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nSurviving the impossible. 🏔️🏍️\n\nTesting out the physics in SeeDance 2. This avalanche sequence is next level.\n\nPrompt :\n\nA man in his early 30s, stubble beard, wearing a black armored ...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "一个30岁左右的男人，穿着黑色装甲摩托车服，戴着有色赛车面罩"
+    },
+    {
       "prompt": "let's see paul allen's dx terminal agent",
       "prompt_length": 40,
       "tweet_url": "https://x.com/poof_eth/status/2024292824615637400",
@@ -3414,6 +3480,29 @@
       ],
       "quality_score": 3,
       "summary": "第一人称视角，从星际战斗机驾驶舱内部穿过小行星带。"
+    },
+    {
+      "prompt": "动画风格，JRPG风战斗演出，电影级镜头运动。",
+      "prompt_length": 23,
+      "tweet_url": "https://x.com/ShadeLurk/status/2032909170723438986",
+      "author": "ShadeLurk",
+      "author_name": "ShadeLurk",
+      "author_followers": 4217,
+      "created_at": "Sat Mar 14 19:58:10 +0000 2026",
+      "lang": "ja",
+      "likes": 27,
+      "retweets": 2,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 34.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032909013667688449/img/XF80pO2O8zoGL_fl.jpg",
+      "full_text_preview": "Seedance 2.0 Video Mode Pro smart_rescue OFF\n@SJinn_Agent PR\n\npromptは\n\nVSCode+Claude Code(Opus4.6)で生成された動画とpromptを解析して別案を作るループを組んで作りました\n\nリプは同じことを目指した別promptです\n\nprompt:\n动画风格，JRPG风战斗演出，电影级镜头运动。 https://...",
+      "tags": [
+        "🎌 动漫",
+        "🎮 游戏"
+      ],
+      "quality_score": 4,
+      "summary": "动画风格，JRPG风战斗演出，电影级镜头运动"
     },
     {
       "prompt": "Design a motion-graphics style ad based on this image, using multiple camera angles—e.g., close-ups that highlight the glass reflections, various tap/click interaction animations, and a focus on this glossy “glass UI” design language. End",
@@ -5876,6 +5965,28 @@
       "summary": "人类橄榄球队与银背大猩猩进行橄榄球比赛的超现实直播画面"
     },
     {
+      "prompt": "Sum up the AI discourse in a meme -",
+      "prompt_length": 35,
+      "tweet_url": "https://x.com/Ravious101/status/2032920758595297343",
+      "author": "Ravious101",
+      "author_name": "Victor Bigham 🇺🇸",
+      "author_followers": 228938,
+      "created_at": "Sat Mar 14 20:44:13 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032920640773062656/img/N4XiO9Hl2M9cgM2X.jpg",
+      "full_text_preview": "Seedance 2.0  Prompt: \n\nSum up the AI discourse in a meme - \n\nmake sure it’s retarded and gets 50 likes.\n\nAll about building those Data Centers https://t.co/BJf3H1W4No",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "用一个meme总结AI讨论"
+    },
+    {
       "prompt": "A compact yellow electric creature generating lightning attacks while fighting technologically advanced alien troops in a futuristic ringworld battlefield, cinematic sci-fi action, dramatic lighting",
       "prompt_length": 198,
       "tweet_url": "https://x.com/charliegreenman/status/2027890241877561813",
@@ -6428,6 +6539,28 @@
       ],
       "quality_score": 2,
       "summary": "南方公园的小伙伴们被邀请参加披萨派对，要求制作低智商且能获得点赞的视频。"
+    },
+    {
+      "prompt": "Sum up the AI discourse in a meme 😊 - make sure it’s retarded and gets 50 likes...see more",
+      "prompt_length": 90,
+      "tweet_url": "https://x.com/shauryabjym/status/2032708655716737222",
+      "author": "shauryabjym",
+      "author_name": "Shaurya Mishra",
+      "author_followers": 102929,
+      "created_at": "Sat Mar 14 06:41:24 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032708626872438784/pu/img/kEiDdZuOE9evXEIm.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Sum up the AI discourse in a meme 😊 - make sure it’s retarded and gets 50 likes...see more https://t.co/cQ6irLZ0QB",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用一个低智商的meme总结AI讨论，目标是获得50个赞"
     },
     {
       "prompt": "Super Bowl half time show, 2027",
@@ -7135,6 +7268,28 @@
       ],
       "quality_score": 2,
       "summary": "一个人用手指从1数到8"
+    },
+    {
+      "prompt": "Anime clip in Dr. Slump style.",
+      "prompt_length": 30,
+      "tweet_url": "https://x.com/migrok293703/status/2032821088493752688",
+      "author": "migrok293703",
+      "author_name": "migrok",
+      "author_followers": 0,
+      "created_at": "Sat Mar 14 14:08:10 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 2.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032820649392029696/img/tk1Mecj2RX9s0KBF.jpg",
+      "full_text_preview": "Seedance 2.0  \n\nPrompt: \n\nAnime clip in Dr. Slump style.\n\nDr. Slump villains have entered the throne room where Anubis resided on his golden throne. They used a mecha to currently lift Anubis’s arms a...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "《阿拉蕾》风格的动漫片段"
     },
     {
       "prompt": "👇\nA cinematic adventure scene set in a hidden jungle valley at sunrise. Massive ancient stone ruins covered in moss rise from dense tropical vegetation. Giant statues of forgotten warriors",
@@ -8077,6 +8232,28 @@
       "summary": "关于耐克品牌的宣传片"
     },
     {
+      "prompt": "15-second epic Chinese mythology cinematic: Dark Yushan abyss, Gunwang sits on rock, golden light pulses intensely in his belly. Sky cracks with thunder! Heavenly warrior slashes with glowing Wu sword—slow-motion epic cut! Blinding golden",
+      "prompt_length": 238,
+      "tweet_url": "https://x.com/mingxia/status/2032859187060121787",
+      "author": "mingxia",
+      "author_name": "名下的宝盒",
+      "author_followers": 3867,
+      "created_at": "Sat Mar 14 16:39:33 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032859005375430656/img/zRI79GqlD3E1G_BV.jpg",
+      "full_text_preview": "Seedance 2.0 Honored products.  \n\nPrompt: 15-second epic Chinese mythology cinematic: Dark Yushan abyss, Gunwang sits on rock, golden light pulses intensely in his belly. Sky cracks with thunder! Heav...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "15秒史诗级中国神话电影：黑暗的玉山深渊，滚王坐在石头上，金光在他腹部强烈跳动，天空雷声大作，天兵挥舞着发光的吴剑"
+    },
+    {
       "prompt": "Punch the Monkey punches back. Make the girls proud.” 🐒🔥",
       "prompt_length": 56,
       "tweet_url": "https://x.com/SheKnowsScience/status/2025171617802813791",
@@ -8772,6 +8949,28 @@
       ],
       "quality_score": 3,
       "summary": "用一个 meme 总结 AI 领域的讨论，要求低智商且能获得点赞，内容是 AI 需要更多数据中心来治疗癌症。"
+    },
+    {
+      "prompt": "Create a fight scene between two people, aiming for a Shaw Brothers movie feel. The action should be fluid and intense, while maintaining the characters' consistency.",
+      "prompt_length": 166,
+      "tweet_url": "https://x.com/heymarmot_ai/status/2032714656524153099",
+      "author": "heymarmot_ai",
+      "author_name": "HeyMarmot AI",
+      "author_followers": 3,
+      "created_at": "Sat Mar 14 07:05:14 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032714569634951169/img/8Ef7hzYs20SfvZFV.jpg",
+      "full_text_preview": "Seedance 2 can imitate any film style; film companies should really start to worry.\n\nPrompt:\n\nCreate a fight scene between two people, aiming for a Shaw Brothers movie feel. The action should be fluid...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "创作一场两人之间的打斗场面，目标是邵氏电影的感觉，动作流畅而激烈，同时保持角色的一致性"
     },
     {
       "prompt": "magic—it's a workflow. 🎬\n\nCreated this commercial for my friend’s upcoming Chinese Milk tea shop in Riyadh using SeeDance 2.0.\n\nMy secret sauce\n1️⃣ Gemini (Nano Banana) for high-fidelity product bases. \n2️⃣ Modular 4-5s clips to beat the",
@@ -9814,6 +10013,50 @@
       ],
       "quality_score": 3,
       "summary": "为 iPhone 苹果品牌制作宣传片。"
+    },
+    {
+      "prompt": "[00:00 – 00:03 | OVER-THE-SHOULDER MEDIUM SHOT - SLOW",
+      "prompt_length": 53,
+      "tweet_url": "https://x.com/MrDavids1/status/2032930135960334564",
+      "author": "MrDavids1",
+      "author_name": "Travis Davids",
+      "author_followers": 21367,
+      "created_at": "Sat Mar 14 21:21:29 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032928759486046208/img/Hh8Uk5UXq6clx4Wz.jpg",
+      "full_text_preview": "I'm not sure how many of you have actually heard singing + playing a musical instrument with Seedance 2.0, well, here you go + the same method I used for timestamped camera angle changes. This was ima...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "肩上中景镜头，慢速"
+    },
+    {
+      "prompt": "Besides love, hate, and grudges, the martial arts world should also have dragons.",
+      "prompt_length": 81,
+      "tweet_url": "https://x.com/0xDuShi/status/2032668768309326258",
+      "author": "0xDuShi",
+      "author_name": "Venom 毒师",
+      "author_followers": 180,
+      "created_at": "Sat Mar 14 04:02:54 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2032668411927658496/img/SsHej9ShdvKch1n8.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Besides love, hate, and grudges, the martial arts world should also have dragons. https://t.co/13FNIsafVU",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "除了爱恨情仇，武侠世界也应该有龙"
     },
     {
       "prompt": "man in a blue business suit,",
