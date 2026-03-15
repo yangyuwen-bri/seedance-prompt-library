@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2593,
-    "prompts_extracted": 472,
+    "total_tweets": 2671,
+    "prompts_extracted": 486,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1030,6 +1030,28 @@
       "summary": "国产神豪爽剧风格的竖屏短剧，讲述被羞辱新郎的故事。"
     },
     {
+      "prompt": "{\"shot\": { \"composition\": \"close-ups, wide reveals, ending with full 360° orbit\", \"lens\": \"50mm\", \"frame_rate\": \"24fps\", \"camera_movement\": \"rotating reveal around the vehicle\" }, \"subject\": { \"description\": \"White high performance Lamborghini",
+      "prompt_length": 243,
+      "tweet_url": "https://x.com/ZaraIrahh/status/2033080516073963930",
+      "author": "ZaraIrahh",
+      "author_name": "Zara",
+      "author_followers": 12487,
+      "created_at": "Sun Mar 15 07:19:02 +0000 2026",
+      "lang": "en",
+      "likes": 251,
+      "retweets": 31,
+      "replies": 44,
+      "bookmarks": 136,
+      "engagement_score": 471.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033080451229954050/pu/img/snH8ZiIcbkJ-LSZV.jpg",
+      "full_text_preview": "Seedance 2.0 on @yapper_so\n\nPrompt:\n\n{\"shot\": { \"composition\": \"close-ups, wide reveals, ending with full 360° orbit\", \"lens\": \"50mm\", \"frame_rate\": \"24fps\", \"camera_movement\": \"rotating reveal around...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 2,
+      "summary": "车辆旋转展示的创意镜头"
+    },
+    {
       "prompt": "9:16 vertical smartphone filming perspective, realistic bystander live-recording footage, subtle handheld shake, automatic exposure shifts, focus pulling, authentic environmental audio capture, distant",
       "prompt_length": 201,
       "tweet_url": "https://x.com/minchoi/status/2026510205345763536",
@@ -1520,6 +1542,28 @@
       "summary": "在温哥华豪宅前策马狂奔的场景。"
     },
     {
+      "prompt": "Pure hand-drawn 2D cartoon animation only — absolutely no 3D. Ever. 24fps on ones, 16:9. Every line breathes with subtle hand-drawn imperfections. A young adventurous boy rides a flying paper airplane over a vibrant seaside",
+      "prompt_length": 223,
+      "tweet_url": "https://x.com/Itswsm105f/status/2032624981214216632",
+      "author": "Itswsm105f",
+      "author_name": "Zyro",
+      "author_followers": 5052,
+      "created_at": "Sat Mar 14 01:08:54 +0000 2026",
+      "lang": "en",
+      "likes": 106,
+      "retweets": 32,
+      "replies": 83,
+      "bookmarks": 6,
+      "engagement_score": 222.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032624760472129538/pu/img/Qe9jA9Kk8LHBHxMW.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on Yapper @yapper_so\n\nPrompt :\n\nPure hand-drawn 2D cartoon animation only — absolutely no 3D. Ever. 24fps on ones, 16:9. Every line breathes with subtle hand-drawn imperfections...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 4,
+      "summary": "手绘2D动画，一个男孩乘坐纸飞机"
+    },
+    {
       "prompt": "Futuristic hovercraft on savanna hardpack with dust devils (10 seconds, single continuous shot)Open high",
       "prompt_length": 104,
       "tweet_url": "https://x.com/umesh_ai/status/2025151963386548438",
@@ -1540,6 +1584,28 @@
       ],
       "quality_score": 3,
       "summary": "未来悬浮艇在非洲草原上行驶的连续镜头"
+    },
+    {
+      "prompt": "【镜头一｜开场定调 · 3秒】\n\n电影级婚纱摄影，黄金时刻的逆光草原，@女主角 身着拖尾白色婚纱，薄纱随风轻扬，背对镜头凝视远方，@男主角 从画面右侧缓步走近，轻轻揽住她的腰。",
+      "prompt_length": 88,
+      "tweet_url": "https://x.com/johnAGI168/status/2033115224811721126",
+      "author": "johnAGI168",
+      "author_name": "John",
+      "author_followers": 3545,
+      "created_at": "Sun Mar 15 09:36:57 +0000 2026",
+      "lang": "zh",
+      "likes": 92,
+      "retweets": 19,
+      "replies": 0,
+      "bookmarks": 87,
+      "engagement_score": 218.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033114976794157056/img/aZakU4FHhjv1ogZL.jpg",
+      "full_text_preview": "高端婚纱摄像作品👰\n\nSeedance 2.0全能参考 prompt👇\n\n【镜头一｜开场定调 · 3秒】\n\n电影级婚纱摄影，黄金时刻的逆光草原，@女主角 身着拖尾白色婚纱，薄纱随风轻扬，背对镜头凝视远方，@男主角 从画面右侧缓步走近，轻轻揽住她的腰。 https://t.co/wFtCfKhdu2",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "电影级婚纱摄影，草原逆光下情侣相拥"
     },
     {
       "prompt": "A woman in her late 20s wearing a flowing black combat coat threaded with glowing silver star patterns leaps across fragments of shattered asteroids drifting in deep space.",
@@ -2439,6 +2505,28 @@
       "summary": "第一人称驾驶舱视角，极品飞车风格的夜间霓虹赛道，高对比度冷暖色调，强烈运动模糊效果的视频。"
     },
     {
+      "prompt": "First-person helmet POV from a motorcycle rider racing through a narrow desert canyon at sunset. Gloved hands grip",
+      "prompt_length": 114,
+      "tweet_url": "https://x.com/LudovicCreator/status/2033113497584689584",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36495,
+      "created_at": "Sun Mar 15 09:30:05 +0000 2026",
+      "lang": "en",
+      "likes": 64,
+      "retweets": 5,
+      "replies": 4,
+      "bookmarks": 25,
+      "engagement_score": 101.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033113473899483136/pu/img/mg2SzCfX0Hz0Kiw1.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nCheck out this desert canyon rockfall sequence I generated with SeeDance 2. The lighting and the physics of that final jump are insane!\n\nPrompt : \n\nFirst-person helmet POV from a motor...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "第一人称视角，摩托车手在沙漠峡谷中疾驰"
+    },
+    {
       "prompt": "a Creature is driving extremely fast through the futuristic city, 4 scene cut changes from dramatic angles",
       "prompt_length": 106,
       "tweet_url": "https://x.com/Dheepanratnam/status/2021943401198104904",
@@ -2729,6 +2817,28 @@
       "summary": "展示Paul Allen的DX终端代理"
     },
     {
+      "prompt": "High-End Commercial Ad — AURORA FIZZ\n00: 00 – 00 :02 | The Flash Arrival\nAction:\nThe AURORA FIZZ can blasts into frame from above, spinning rapidly on its vertical axis.\nVisuals:\nSharp motion blur. Golden",
+      "prompt_length": 204,
+      "tweet_url": "https://x.com/ZaraIrahh/status/2033146880008597937",
+      "author": "ZaraIrahh",
+      "author_name": "Zara",
+      "author_followers": 12486,
+      "created_at": "Sun Mar 15 11:42:44 +0000 2026",
+      "lang": "en",
+      "likes": 43,
+      "retweets": 3,
+      "replies": 25,
+      "bookmarks": 12,
+      "engagement_score": 73.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033146845220749312/pu/img/6ByfjEFFSlpJLv6N.jpg",
+      "full_text_preview": "High-End Commercial AD created with Seedance 2.0 on @yapper_so\n\nPrompt:\n\nHigh-End Commercial Ad — AURORA FIZZ\n00: 00 – 00 :02 | The Flash Arrival\nAction:\nThe AURORA FIZZ can blasts into frame from abo...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "高端商业广告，饮料罐高速旋转进入画面"
+    },
+    {
       "prompt": "Visual Style\nPhotorealistic cinematic style, 16:9 aspect ratio, 8K resolution, wide dynamic range. Realistic live-action look with detailed skin, scales, clay and fire, natural highlights and shadows. Subtle handheld camera shake, shallow depth of field,",
       "prompt_length": 254,
       "tweet_url": "https://x.com/Kiber_Alla/status/2024840701276500387",
@@ -2816,6 +2926,28 @@
       ],
       "quality_score": 4,
       "summary": "昏暗的卧室，白色床单上放着打开的披萨盒。"
+    },
+    {
+      "prompt": "Ultra-realistic wildlife documentary footage. A red fox moves cautiously along the",
+      "prompt_length": 82,
+      "tweet_url": "https://x.com/LudovicCreator/status/2033260711682470238",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36495,
+      "created_at": "Sun Mar 15 19:15:04 +0000 2026",
+      "lang": "en",
+      "likes": 31,
+      "retweets": 8,
+      "replies": 1,
+      "bookmarks": 20,
+      "engagement_score": 69.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033260694297092096/pu/img/6lbJjJk7TO931faO.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nNature’s precision, powered by AI. 🦊❄️\n\nThis fox hunt sequence was generated in a single pass with SeeDance2. The native audio sync on that snow crunch is just… wow.\n\nPrompt :\n\nUltra-r...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "超真实野生动物纪录片，一只红狐狸谨慎地移动"
     },
     {
       "prompt": "A silver-haired elderly woman in a loose linen dress stands at the edge of a misty forest lake at dawn, her weathered hands releasing a paper lantern onto the still water; the camera uses a slow lens push from medium close-up to close-up, capturing",
@@ -3303,6 +3435,28 @@
       ],
       "quality_score": 3,
       "summary": "马尔济斯犬参加冬季奥运会各种运动的精彩集锦"
+    },
+    {
+      "prompt": "The God of Small Things - Cinematic Video",
+      "prompt_length": 41,
+      "tweet_url": "https://x.com/Just_sharon7/status/2033211107234746672",
+      "author": "Just_sharon7",
+      "author_name": "Sharon Riley",
+      "author_followers": 40363,
+      "created_at": "Sun Mar 15 15:57:57 +0000 2026",
+      "lang": "en",
+      "likes": 25,
+      "retweets": 4,
+      "replies": 11,
+      "bookmarks": 5,
+      "engagement_score": 43.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033211044035014656/pu/img/6Hd3RwTRo_5E4iyB.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so \n\nPrompt\n\n{\n  \"title\": \"The God of Small Things - Cinematic Video\",\n  \"scenes\": [\n    {\n      \"scene_number\": 1,\n      \"title\": \"Opening / Childhood Memory\",\n     ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "电影《微物之神》的电影感视频"
     },
     {
       "prompt": "esto lo hizo una IA",
@@ -7694,6 +7848,28 @@
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
     },
     {
+      "prompt": "【核心主题】\n\n写实科幻机甲变身，空中坠落组装，机械装甲飞行聚合，未来战甲觉醒，电影级机械神性\n\n【人物基础设定】\n\n女性主角，战斗状态。\n\n面部有轻微擦伤与灰尘，嘴角带一点血迹。\n表情疲惫但意志坚定。",
+      "prompt_length": 101,
+      "tweet_url": "https://x.com/Vampirosapien15/status/2033137932215742858",
+      "author": "Vampirosapien15",
+      "author_name": "cyborg.digitalart",
+      "author_followers": 143,
+      "created_at": "Sun Mar 15 11:07:11 +0000 2026",
+      "lang": "zh",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033137753995804672/img/TGts7R6uo0kE-0GX.jpg",
+      "full_text_preview": "Mecha armour transformation made with seedance 2.0 on @MartiniArt_  \n\nPrompt 👇🏻👇🏻\n\n【核心主题】\n\n写实科幻机甲变身，空中坠落组装，机械装甲飞行聚合，未来战甲觉醒，电影级机械神性\n\n【人物基础设定】\n\n女性主角，战斗状态。\n\n面部有轻微擦伤与灰尘，嘴角带一点血迹。\n表情疲惫但意志坚定。 https://t.co/H4...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "写实科幻机甲变身，女性主角战斗状态"
+    },
+    {
       "prompt": "studio production",
       "prompt_length": 17,
       "tweet_url": "https://x.com/Opendrama_ai/status/2030782684763697318",
@@ -8885,6 +9061,50 @@
       "summary": "猫王大战迈克尔杰克逊，龙珠风格动漫"
     },
     {
+      "prompt": "show my support for all the  People who get 0 likes but still keep tweeting anyways.",
+      "prompt_length": 84,
+      "tweet_url": "https://x.com/utdrashy/status/2033124660041445492",
+      "author": "utdrashy",
+      "author_name": "utdZaïre",
+      "author_followers": 687,
+      "created_at": "Sun Mar 15 10:14:27 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033124398778236928/pu/img/t5dhfTJRB6VgLTos.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: show my support for all the  People who get 0 likes but still keep tweeting anyways. https://t.co/2uHrE22Efq",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 2,
+      "summary": "支持那些发推文但没人点赞的人"
+    },
+    {
+      "prompt": "Zhen Huan &amp; Consort Hua Talk Show",
+      "prompt_length": 37,
+      "tweet_url": "https://x.com/poseidanai/status/2032982013561680253",
+      "author": "poseidanai",
+      "author_name": "poseidanai",
+      "author_followers": 849,
+      "created_at": "Sun Mar 15 00:47:37 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032981993332551685/pu/img/qjx3IHglzApbqsE6.jpg",
+      "full_text_preview": "Seedance 2.0 Video Prompt: Zhen Huan &amp; Consort Hua Talk Show https://t.co/FM1gh3zIb6",
+      "tags": [
+        "🔥 名人/IP"
+      ],
+      "quality_score": 2,
+      "summary": "甄嬛和华妃的脱口秀"
+    },
+    {
       "prompt": "POV, hand-to-hand combat, main character is [😉], background is [😃], Hong Kong Shaw Brothers film style.",
       "prompt_length": 103,
       "tweet_url": "https://x.com/i_aivideo/status/2028130284018053414",
@@ -9991,6 +10211,96 @@
       ],
       "quality_score": 3,
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
+    },
+    {
+      "prompt": "Anthropic CEO vs openAI CEO after they signed with department of war, solo leveling anime style - make sure it gets 10 likes",
+      "prompt_length": 124,
+      "tweet_url": "https://x.com/3dblurss/status/2033301760379699436",
+      "author": "3dblurss",
+      "author_name": "Hasan (3dblur)",
+      "author_followers": 1357,
+      "created_at": "Sun Mar 15 21:58:11 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033300503548076032/img/rGZndof1lAGFxMOY.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt: Anthropic CEO vs openAI CEO after they signed with department of war, solo leveling anime style - make sure it gets 10 likes https://t.co/A8FoMsWPeF",
+      "tags": [
+        "🎌 动漫",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "Anthropic CEO vs OpenAI CEO，动漫风格，要求获得10个赞"
+    },
+    {
+      "prompt": "Couple's Argument Scene",
+      "prompt_length": 23,
+      "tweet_url": "https://x.com/poseidanai/status/2033235293252583679",
+      "author": "poseidanai",
+      "author_name": "poseidanai",
+      "author_followers": 849,
+      "created_at": "Sun Mar 15 17:34:04 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033235277670694912/pu/img/uu98X12UcSiBnGSw.jpg",
+      "full_text_preview": "Seedance 2.0 Video Prompt: Couple's Argument Scene https://t.co/E1L43eD7PH",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "情侣争吵场景"
+    },
+    {
+      "prompt": "Make an anime scene where A strongly muscled dragon stands towering in front of a human knight, looking at him threatingly. The knight pulls out a feather duster and tickles the dragon's belly. The dragon is ticklish and immediately starts giggling",
+      "prompt_length": 248,
+      "tweet_url": "https://x.com/migrok293703/status/2033175419415851314",
+      "author": "migrok293703",
+      "author_name": "migrok",
+      "author_followers": 1,
+      "created_at": "Sun Mar 15 13:36:09 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033175123553841152/img/CZE1XVkbmHlRqJ7_.jpg",
+      "full_text_preview": "Seedance 2.0    \n\nPrompt:\n\nMake an anime scene where A strongly muscled dragon stands towering in front of a human knight, looking at him threatingly. The knight pulls out a feather duster and tickles...",
+      "tags": [
+        "🎌 动漫",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "动漫场景，骑士用鸡毛掸子挠巨龙的肚子"
+    },
+    {
+      "prompt": "The man pulls out a portable stereo and start playing music. He starts breakdancing. Robot gets a bit perplexed at start but then he joins the breakdance session.",
+      "prompt_length": 162,
+      "tweet_url": "https://x.com/Lord_iiiip/status/2033103622523757049",
+      "author": "Lord_iiiip",
+      "author_name": "Lordiiiip.eth 🍌BananaConf ,BEEPLE 〽️NFTNYC24 $XPX",
+      "author_followers": 3958,
+      "created_at": "Sun Mar 15 08:50:51 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033103552831238144/img/HO3CyTMHEIqgjOCq.jpg",
+      "full_text_preview": "@AllaAisling Had some fun 😃 SeeDance Lite through @ImagineArt_X platform. Sometimes the unexpected can have great impact.\nPrompt: The man pulls out a portable stereo and start playing music. He starts...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "男人播放音乐跳霹雳舞，机器人加入"
     },
     {
       "prompt": "帮我生成一个讲述Iphone苹果这个品牌的宣传片\nPrompt: Create a brand film for the iPhone",
