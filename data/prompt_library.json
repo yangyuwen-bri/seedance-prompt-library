@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2671,
-    "prompts_extracted": 486,
+    "total_tweets": 2765,
+    "prompts_extracted": 503,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1164,6 +1164,28 @@
       "summary": "抖音直播带货风格的短视频，展示激情带货主播。"
     },
     {
+      "prompt": ": A battle between Goku and Naruto in a 2D animation style. Goku attacks with immense power, delivering a flurry of punches and kicks. The ground cracks and dust flies everywhere. Naruto dodges the strikes with quick turns and blocks, moving",
+      "prompt_length": 241,
+      "tweet_url": "https://x.com/Riya333S/status/2033320025172652218",
+      "author": "Riya333S",
+      "author_name": "Riya_Cute 🇺🇸",
+      "author_followers": 2755,
+      "created_at": "Sun Mar 15 23:10:45 +0000 2026",
+      "lang": "en",
+      "likes": 288,
+      "retweets": 33,
+      "replies": 82,
+      "bookmarks": 5,
+      "engagement_score": 400.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033319963663175680/pu/img/51iQG0T_285kylTf.jpg",
+      "full_text_preview": "Seedance 2.0 on @yapper_so \n\nPrompt:: A battle between Goku and Naruto in a 2D animation style. Goku attacks with immense power, delivering a flurry of punches and kicks. The ground cracks and dust fl...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "悟空和鸣人在2D动画风格中战斗，悟空猛烈攻击，鸣人躲闪。"
+    },
+    {
       "prompt": "photorealistic shot of the women's beam final at the olympics. gymnast from the united states does a back handspring and lands firmly on the beam, with the",
       "prompt_length": 155,
       "tweet_url": "https://x.com/venturetwins/status/2020951690183311780",
@@ -1185,6 +1207,50 @@
       ],
       "quality_score": 3,
       "summary": "奥运会女子平衡木决赛的逼真镜头，美国体操运动员稳稳落地。"
+    },
+    {
+      "prompt": ": Stop-motion clay animation with handcrafted tactile materials and real fabric, set under warm afternoon park lighting. Wide shot: a clay figure with a matchbox head and a clay figure with a lit candle head sit together on a real tiny park",
+      "prompt_length": 240,
+      "tweet_url": "https://x.com/Riya333S/status/2033529926092263917",
+      "author": "Riya333S",
+      "author_name": "Riya_Cute 🇺🇸",
+      "author_followers": 2755,
+      "created_at": "Mon Mar 16 13:04:50 +0000 2026",
+      "lang": "en",
+      "likes": 279,
+      "retweets": 29,
+      "replies": 62,
+      "bookmarks": 7,
+      "engagement_score": 375.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033529905594634240/pu/img/BlDGs5v3WlNnjK2h.jpg",
+      "full_text_preview": "Seedance 2.0 on @yapper_so \n\nPrompt:: Stop-motion clay animation with handcrafted tactile materials and real fabric, set under warm afternoon park lighting. Wide shot: a clay figure with a matchbox he...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "定格粘土动画，用手工触觉材料和真实织物制作，在温暖的午后公园光线下，展示了两个粘土人物。"
+    },
+    {
+      "prompt": ": A woman in her late 20s of Brazilian heritage, her dark curly hair contained under a structured white bucket hat, wearing a matching oversized black utility jacket, wide black trousers, and chunky white boots, rides a bright chrome",
+      "prompt_length": 233,
+      "tweet_url": "https://x.com/Riya333S/status/2033168318769582423",
+      "author": "Riya333S",
+      "author_name": "Riya_Cute 🇺🇸",
+      "author_followers": 2755,
+      "created_at": "Sun Mar 15 13:07:56 +0000 2026",
+      "lang": "en",
+      "likes": 212,
+      "retweets": 48,
+      "replies": 65,
+      "bookmarks": 5,
+      "engagement_score": 345.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033168286826070016/pu/img/vqrrkHxp1pf64v_B.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so \n\nPrompt:: A woman in her late 20s of Brazilian heritage, her dark curly hair contained under a structured white bucket hat, wearing a matching oversized black uti...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "一个20多岁的巴西裔女性，戴着白色帽子，穿着黑色工装夹克和宽松的黑色裤子。"
     },
     {
       "prompt": "Jerry Seinfeld walks in on an episode of Friends",
@@ -2439,6 +2505,28 @@
       "summary": "食物开始旋转，食材轻柔而精确地分离，保持对齐和比例，运动平滑，没有额外的效果。"
     },
     {
+      "prompt": "Ultra-realistic motorsport documentary footage. A matte-black hypercar",
+      "prompt_length": 70,
+      "tweet_url": "https://x.com/LudovicCreator/status/2033475881629294648",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36529,
+      "created_at": "Mon Mar 16 09:30:04 +0000 2026",
+      "lang": "en",
+      "likes": 59,
+      "retweets": 7,
+      "replies": 7,
+      "bookmarks": 24,
+      "engagement_score": 102.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033475862633279488/pu/img/ruKCVH3hwifWRJiy.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nSpeed is easy. Control is everything. 🏁\n\nA \"Spec Ad\" for a supercar that doesn't exist, made entirely with SeeDance 2.0. The physics on that cornering shot at the end is 👩‍🍳💋.\n\nPrompt ...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "超真实的赛车运动纪录片素材，一辆哑光黑色的超级跑车。"
+    },
+    {
       "prompt": "提示词在整理中，稍后发到评论区",
       "prompt_length": 15,
       "tweet_url": "https://x.com/songguoxiansen/status/2028660333687280028",
@@ -3217,6 +3305,28 @@
       "summary": "抖音/快手竖屏高端网红直播间风格"
     },
     {
+      "prompt": "An epic futuristic car assembly sequence inside a dark, glossy digital showroom. A white high performance Lamborghini begins forming in the center of a reflective black stage. The environment is minimal, clean, and dramatic, with",
+      "prompt_length": 229,
+      "tweet_url": "https://x.com/heygentlewhale/status/2033487699865137230",
+      "author": "heygentlewhale",
+      "author_name": "Gentle Whale | $BUBBLE",
+      "author_followers": 350474,
+      "created_at": "Mon Mar 16 10:17:02 +0000 2026",
+      "lang": "en",
+      "likes": 26,
+      "retweets": 10,
+      "replies": 6,
+      "bookmarks": 2,
+      "engagement_score": 54.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033487442226057217/img/HZBPRXBLaqo85yXM.jpg",
+      "full_text_preview": "Create with Seedance 2 on @Bubioai \n\nPrompt:\nAn epic futuristic car assembly sequence inside a dark, glossy digital showroom. A white high performance Lamborghini begins forming in the center of a ref...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 4,
+      "summary": "在一个黑暗、光滑的数字展厅中，一个史诗般的未来汽车组装序列，一辆白色的高性能兰博基尼开始在反光的黑色舞台中央形成。"
+    },
+    {
       "prompt": "A surfer carves through the face of a turquoise wave, sunlight catching the spray around them. Their silhouette curves with the water, perfectly balanced between motion and stillness.",
       "prompt_length": 183,
       "tweet_url": "https://x.com/LudovicCreator/status/2032388720951775318",
@@ -3369,6 +3479,50 @@
       ],
       "quality_score": 2,
       "summary": "制作比好莱坞更好的星球大战打斗场景。"
+    },
+    {
+      "prompt": "A biker wearing desert goggles and a sand-colored jacket races a dirt bike alongside a speeding freight train in a vast Sahara",
+      "prompt_length": 126,
+      "tweet_url": "https://x.com/LudovicCreator/status/2033623106019791114",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36529,
+      "created_at": "Mon Mar 16 19:15:06 +0000 2026",
+      "lang": "en",
+      "likes": 28,
+      "retweets": 1,
+      "replies": 2,
+      "bookmarks": 16,
+      "engagement_score": 47.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033623082343047168/pu/img/nlYNSaqRa9-xmukM.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\n\"Take 1. The Desert Train Heist.\" 🎬\n\nGenerated entirely with SeeDance 2.0. The 2026 AI video wars are just getting started.\n\nPrompt :\n\nA biker wearing desert goggles and a sand-colored...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一个戴着沙漠护目镜和沙色夹克的骑车人在广阔的撒哈拉沙漠中驾驶一辆越野摩托车与一辆高速行驶的货运列车并驾齐驱。"
+    },
+    {
+      "prompt": "a swan turns into a beautiful woman",
+      "prompt_length": 35,
+      "tweet_url": "https://x.com/markgadala/status/2033329396552245399",
+      "author": "markgadala",
+      "author_name": "Mark Gadala-Maria",
+      "author_followers": 69038,
+      "created_at": "Sun Mar 15 23:48:00 +0000 2026",
+      "lang": "en",
+      "likes": 24,
+      "retweets": 5,
+      "replies": 5,
+      "bookmarks": 10,
+      "engagement_score": 46.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033314291936288768/img/yjhcnfTvok4kpS1G.jpg",
+      "full_text_preview": "No wonder Hollywood is blocking the release of Seedance 2.\n\nIt's just so damn good.\n\nVisuals, audio, everything.\n\nPrompt \"a swan turns into a beautiful woman\" https://t.co/AUQfvN3Ghb",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 2,
+      "summary": "一只天鹅变成一个美丽的女人。"
     },
     {
       "prompt": "Close-up on her hands gripping the paintbrush, knuckles white, paint dripping down her wrist. Shallow depth of field, the blank canvas a soft white blur behind her. She exhales. [cut] Wide",
@@ -3767,6 +3921,28 @@
       ],
       "quality_score": 1,
       "summary": "关于提示工程的商业模式讨论"
+    },
+    {
+      "prompt": "Ultra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red LEGO Unimog snow truck across a snowy mountain pass in the Swiss Alps, deep snowbanks on both sides, pine trees dusted with frost, Santa wearing ski",
+      "prompt_length": 229,
+      "tweet_url": "https://x.com/RizwanAly07/status/2033363978500571237",
+      "author": "RizwanAly07",
+      "author_name": "Maverick | AI",
+      "author_followers": 2466,
+      "created_at": "Mon Mar 16 02:05:25 +0000 2026",
+      "lang": "en",
+      "likes": 20,
+      "retweets": 1,
+      "replies": 8,
+      "bookmarks": 6,
+      "engagement_score": 32.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033363946397421568/pu/img/ujfeTuyqLCZ_CA0G.jpg",
+      "full_text_preview": "Created with Seedance 2.0 on @yapper_so \n\nPrompt:\nUltra-realistic photograph of a LEGO Santa Claus minifigure driving a rugged red LEGO Unimog snow truck across a snowy mountain pass in the Swiss Alps...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "乐高圣诞老人驾驶乐高Unimog雪地车穿越瑞士阿尔卑斯山的雪山，超真实照片。"
     },
     {
       "prompt": "A man in his early 30s, tan skin,",
@@ -4324,6 +4500,28 @@
       "summary": "特朗普和哈梅内伊在德黑兰摩天大楼屋顶进行好莱坞式格斗的电影场景"
     },
     {
+      "prompt": "-\nRealistic Nordic snowy night. A man runs fast through deep snow, tracked closely from behind at foot level. A wolf chases him, maintaining a strong sense of speed. The man trips and rolls; the wolf lunges at him. A border collie",
+      "prompt_length": 230,
+      "tweet_url": "https://x.com/RizwanAly07/status/2032609444748734479",
+      "author": "RizwanAly07",
+      "author_name": "Maverick | AI",
+      "author_followers": 2466,
+      "created_at": "Sat Mar 14 00:07:10 +0000 2026",
+      "lang": "en",
+      "likes": 10,
+      "retweets": 1,
+      "replies": 6,
+      "bookmarks": 2,
+      "engagement_score": 18.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2032609374020255744/pu/img/P0v_-RiGqKaJP-Ks.jpg",
+      "full_text_preview": "Created with Seedance 2.0 on @yapper_so \n\nPrompt:-\nRealistic Nordic snowy night. A man runs fast through deep snow, tracked closely from behind at foot level. A wolf chases him, maintaining a strong s...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "真实的北欧雪夜，一个男人在深雪中快速奔跑，一只狼在后面追赶他。"
+    },
+    {
       "prompt": "Wide-angle underwater shot, a solitary manta ray glides slowly through a beam of sunlight breaking through the ocean surface, its wings move in smooth, hypnotic rhythm, schools of small fish spiral beneath it, particles float in the light like dust",
       "prompt_length": 248,
       "tweet_url": "https://x.com/LudovicCreator/status/2023506450299998294",
@@ -4344,6 +4542,28 @@
       ],
       "quality_score": 3,
       "summary": "广角水下镜头，一条孤独的蝠鲼缓慢地滑过穿透海面的阳光，它的翅膀以平稳、催眠的节奏移动，小鱼群盘旋"
+    },
+    {
+      "prompt": "lego explorer minifigure driving a mini snowmobile across icy terrain chased by a massive roaring polar bear, snow spraying dramatically behind, frozen mist in the air, intense cinematic backlight, dynamic tilted camera shot,",
+      "prompt_length": 225,
+      "tweet_url": "https://x.com/RizwanAly07/status/2033201595501232295",
+      "author": "RizwanAly07",
+      "author_name": "Maverick | AI",
+      "author_followers": 2466,
+      "created_at": "Sun Mar 15 15:20:10 +0000 2026",
+      "lang": "en",
+      "likes": 10,
+      "retweets": 1,
+      "replies": 7,
+      "bookmarks": 2,
+      "engagement_score": 17.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033201533085777920/pu/img/4D8fe9SetuVk6stR.jpg",
+      "full_text_preview": "Created with Seedance 2.0 on @yapper_so \n\nPrompt:\nlego explorer minifigure driving a mini snowmobile across icy terrain chased by a massive roaring polar bear, snow spraying dramatically behind, froze...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "乐高探险家驾驶迷你雪地摩托穿越冰冷地形，被一只巨大的咆哮的北极熊追赶。"
     },
     {
       "prompt": "Ultra-realistic cinematic action sequence based on the provided reference frames. Same Asian man, same rooftop",
@@ -5742,6 +5962,28 @@
       "summary": "Sgt. Pepe和Frens的视频，就像有史以来第一个6529 meme原生的动画情景喜剧，由@Ars0nic主演。"
     },
     {
+      "prompt": "Pure Hand-Drawn 2D Cartoon Witch Flight Through an Old European Town",
+      "prompt_length": 68,
+      "tweet_url": "https://x.com/ertanlabs/status/2033482505639076280",
+      "author": "ertanlabs",
+      "author_name": "Ertan Dönmez | Ai Master",
+      "author_followers": 701,
+      "created_at": "Mon Mar 16 09:56:24 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 6.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033482269273260032/img/L45BPRhI5SSgy9QW.jpg",
+      "full_text_preview": "Seedance 2.0 Prompt #seedance\n\n{\n  \"title\": \"Pure Hand-Drawn 2D Cartoon Witch Flight Through an Old European Town\",\n  \"format\": \"text-to-video prompt\",\n  \"language\": \"en\",\n  \"aspect_ratio\": \"16:9\",\n  ...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "纯手绘2D卡通女巫飞过一个古老的欧洲小镇。"
+    },
+    {
       "prompt": "A man sitting in his prison cell.\n\n[cut] Female guard walking through the prison corridor.\n\n[cut] The guard comes to the man",
       "prompt_length": 124,
       "tweet_url": "https://x.com/Framer_X/status/2029241842890621066",
@@ -7138,6 +7380,50 @@
       "summary": "制作一个能获得百万展示的病毒式哥斯拉视频"
     },
     {
+      "prompt": "Modern Anime Sakuga Fight Sequence",
+      "prompt_length": 34,
+      "tweet_url": "https://x.com/ertanlabs/status/2033618049736085713",
+      "author": "ertanlabs",
+      "author_name": "Ertan Dönmez | Ai Master",
+      "author_followers": 701,
+      "created_at": "Mon Mar 16 18:55:00 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033527437179355136/img/t5wldZx6DuCN8fck.jpg",
+      "full_text_preview": "Seedance 2.0 Json Prompt #seedance\n\n{\n  \"title\": \"Modern Anime Sakuga Fight Sequence\",\n  \"format\": \"text-to-video prompt\",\n  \"language\": \"en\",\n  \"genre\": \"anime action fight\",\n  \"style\": {\n    \"animat...",
+      "tags": [
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "现代动漫 Sakuga 打斗场景。"
+    },
+    {
+      "prompt": "fast action movie scene, hand-held camera, the woman notices",
+      "prompt_length": 60,
+      "tweet_url": "https://x.com/noman23761/status/2033528104556388587",
+      "author": "noman23761",
+      "author_name": "Cyber AI Creator 🎨",
+      "author_followers": 19,
+      "created_at": "Mon Mar 16 12:57:35 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033527958858792960/img/MEagbF2kG9KSHoKE.jpg",
+      "full_text_preview": "Seedance 2.0 video starting from a single image, she realizes the pilots are gone and rushes to take control of the plane\n\nWe ran a quick test with Seedance 2.0 using only a starting image and a simpl...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "快节奏动作电影场景，手持相机，女人注意到了什么。"
+    },
+    {
       "prompt": "Cinematic disaster action sequence in intense, high-stakes chaos, photorealistic live-action style, dramatic lighting",
       "prompt_length": 117,
       "tweet_url": "https://x.com/yaorichcrypto/status/2030833218250015101",
@@ -7846,6 +8132,28 @@
       ],
       "quality_score": 4,
       "summary": "沙漠游牧民骑着巨型沙虫穿越沙尘暴"
+    },
+    {
+      "prompt": "Traditional modern 3D animation style:",
+      "prompt_length": 38,
+      "tweet_url": "https://x.com/migrok293703/status/2033168005828341910",
+      "author": "migrok293703",
+      "author_name": "migrok",
+      "author_followers": 1,
+      "created_at": "Sun Mar 15 13:06:41 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033167882570313728/img/tKsQA18DpCbqoETG.jpg",
+      "full_text_preview": "Seedance 2.0  \n\nPrompt:\n\nTraditional modern 3D animation style: \n\n0.0s-4s: \nMighty Anubis sits in his throne and a group of villains stand in front of him with a mecha robot. The mecha robot is curren...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "传统现代3D动画风格。"
     },
     {
       "prompt": "【核心主题】\n\n写实科幻机甲变身，空中坠落组装，机械装甲飞行聚合，未来战甲觉醒，电影级机械神性\n\n【人物基础设定】\n\n女性主角，战斗状态。\n\n面部有轻微擦伤与灰尘，嘴角带一点血迹。\n表情疲惫但意志坚定。",
@@ -9303,6 +9611,50 @@
       "summary": "巨型猫咪大战金刚"
     },
     {
+      "prompt": "Cinematic disaster thriller, anamorphic 2.39:1, 35mm film grain, desaturated teal and ash palette, IMAX-scale destruction.",
+      "prompt_length": 122,
+      "tweet_url": "https://x.com/noman23761/status/2033535270163996789",
+      "author": "noman23761",
+      "author_name": "Cyber AI Creator 🎨",
+      "author_followers": 19,
+      "created_at": "Mon Mar 16 13:26:04 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2033535173812424704/img/CGbt36-u8F3Tl3Js.jpg",
+      "full_text_preview": "Soul Cinema start frame + Seedance 2.0, Pure cinema!\n\nPrompt : Cinematic disaster thriller, anamorphic 2.39:1, 35mm film grain, desaturated teal and ash palette, IMAX-scale destruction.\n\n[0-4s] Wide l...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "电影灾难惊悚片，变形宽银幕 2.39:1，35 毫米胶片颗粒，非饱和的青色和灰烬调色板，IMAX 规模的破坏。"
+    },
+    {
+      "prompt": "One sword. One storm. One devastating strike",
+      "prompt_length": 44,
+      "tweet_url": "https://x.com/yuday9909/status/2033524949738983505",
+      "author": "yuday9909",
+      "author_name": "TheYudayVerse",
+      "author_followers": 92,
+      "created_at": "Mon Mar 16 12:45:03 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033524907095777280/pu/img/JUxVt87vxslnmjhU.jpg",
+      "full_text_preview": "“ One sword. One storm. One devastating strike ”\ncreated with seedance 2.0\n\nPrompt ☟\n\nSubject/Character:\nA warrior wearing a sleek black combat outfit with subtle crimson accents, gripping an elegant ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "一剑，一场风暴，一次毁灭性的打击。"
+    },
+    {
       "prompt": "Generate me a video that show",
       "prompt_length": 29,
       "tweet_url": "https://x.com/verbove/status/2031026788940358062",
@@ -10211,6 +10563,28 @@
       ],
       "quality_score": 3,
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
+    },
+    {
+      "prompt": "Guangzhou City Montage (Part 1)",
+      "prompt_length": 31,
+      "tweet_url": "https://x.com/poseidanai/status/2033325439368982613",
+      "author": "poseidanai",
+      "author_name": "poseidanai",
+      "author_followers": 686,
+      "created_at": "Sun Mar 15 23:32:16 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033325417848045568/pu/img/HmmZRoQeGKktubGV.jpg",
+      "full_text_preview": "Seedance 2.0 Video Prompt: Guangzhou City Montage (Part 1) https://t.co/MSd3UIrpus",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "广州城市蒙太奇（第一部分）。"
     },
     {
       "prompt": "Anthropic CEO vs openAI CEO after they signed with department of war, solo leveling anime style - make sure it gets 10 likes",

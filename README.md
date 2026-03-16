@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-486-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-03-15-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-503-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-03-16-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,21 +12,21 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **486** |
-| Languages | en: 407, zh: 59, es: 6, tr: 3, ja: 3 |
-| Last Updated | 2026-03-15 |
+| Total Prompts | **503** |
+| Languages | en: 424, zh: 59, es: 6, tr: 3, ja: 3 |
+| Last Updated | 2026-03-16 |
 
 ## 🏷️ Categories
 
 | Tag | Count |
 |---|---|
-| 🎬 电影/影视 | 152 |
+| 🎬 电影/影视 | 155 |
 | 😂 搞笑/Meme | 92 |
-| 🎨 艺术/创意 | 82 |
-| 🏷️ 其他 | 62 |
-| 💡 创意/实验 | 52 |
-| 🌍 写实/纪实 | 43 |
-| 🎌 动漫 | 41 |
+| 🎨 艺术/创意 | 86 |
+| 🏷️ 其他 | 64 |
+| 💡 创意/实验 | 53 |
+| 🌍 写实/纪实 | 47 |
+| 🎌 动漫 | 44 |
 | 📺 广告/商业 | 35 |
 | 🎮 游戏 | 20 |
 | 🔥 名人/IP | 15 |
