@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2844,
-    "prompts_extracted": 511,
+    "total_tweets": 2906,
+    "prompts_extracted": 517,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1030,20 +1030,20 @@
       "summary": "国产神豪爽剧风格的竖屏短剧，讲述被羞辱新郎的故事。"
     },
     {
-      "prompt": "{\"shot\": { \"composition\": \"close-ups, wide reveals, ending with full 360° orbit\", \"lens\": \"50mm\", \"frame_rate\": \"24fps\", \"camera_movement\": \"rotating reveal around the vehicle\" }, \"subject\": { \"description\": \"White high performance Lamborghini",
-      "prompt_length": 243,
-      "tweet_url": "https://x.com/ZaraIrahh/status/2033080516073963930",
-      "author": "ZaraIrahh",
-      "author_name": "Zara",
-      "author_followers": 12487,
-      "created_at": "Sun Mar 15 07:19:02 +0000 2026",
+      "prompt": "{\"shot\": { \"composition\": \"close-ups, wide reveals, ending with full 360° orbit\", \"lens\": \"50mm\", \"frame_rate\": \"24fps\", \"camera_movement\": \"rotating reveal around the vehicle\" }, \"subject\": { \"description\": \"Yellow high performance",
+      "prompt_length": 232,
+      "tweet_url": "https://x.com/Riya333S/status/2033679512198910054",
+      "author": "Riya333S",
+      "author_name": "Riya_Cute 🇺🇸",
+      "author_followers": 2756,
+      "created_at": "Mon Mar 16 22:59:14 +0000 2026",
       "lang": "en",
-      "likes": 251,
-      "retweets": 31,
-      "replies": 44,
-      "bookmarks": 136,
-      "engagement_score": 471.0,
-      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033080451229954050/pu/img/snH8ZiIcbkJ-LSZV.jpg",
+      "likes": 349,
+      "retweets": 37,
+      "replies": 90,
+      "bookmarks": 4,
+      "engagement_score": 472.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033679369298952192/pu/img/OXCo3kHUNVYEPpuj.jpg",
       "full_text_preview": "Seedance 2.0 on @yapper_so\n\nPrompt:\n\n{\"shot\": { \"composition\": \"close-ups, wide reveals, ending with full 360° orbit\", \"lens\": \"50mm\", \"frame_rate\": \"24fps\", \"camera_movement\": \"rotating reveal around...",
       "tags": [
         "💡 创意/实验"
@@ -1139,6 +1139,29 @@
       ],
       "quality_score": 3,
       "summary": "一个三十多岁的女性穿着北极生存服在甲板上奔跑。"
+    },
+    {
+      "prompt": ": This depicts the battle between Saitama and Garou.\nWith just a single punch from Saitama, a massive gust of wind erupted, shattering the ground beneath them. Garou, using his incredible speed and agility, parried the blow and",
+      "prompt_length": 227,
+      "tweet_url": "https://x.com/Riya333S/status/2033891641245999492",
+      "author": "Riya333S",
+      "author_name": "Riya_Cute 🇺🇸",
+      "author_followers": 2756,
+      "created_at": "Tue Mar 17 13:02:09 +0000 2026",
+      "lang": "en",
+      "likes": 285,
+      "retweets": 58,
+      "replies": 40,
+      "bookmarks": 4,
+      "engagement_score": 425.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2033891593477099522/pu/img/Z6yZJ8I2NdfGMFDQ.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so \n\nPrompt:: This depicts the battle between Saitama and Garou.\nWith just a single punch from Saitama, a massive gust of wind erupted, shattering the ground beneath ...",
+      "tags": [
+        "🎌 动漫",
+        "🎮 游戏"
+      ],
+      "quality_score": 3,
+      "summary": "埼玉和饿狼的战斗场景，埼玉一拳击碎地面。"
     },
     {
       "prompt": "【风格】抖音直播带货风，极速语速(Rap-like Speed)，情绪极其亢奋。\n【时长】15秒\n【主角】激情带货主播（网红美女），面前摆着手机平板，背景是杂乱但真实的高端直播间。\n\n[00:00-00:05]",
@@ -2237,6 +2260,29 @@
       "summary": "提示工程（Prompt Engineering）"
     },
     {
+      "prompt": "Deserted subway tunnels lit only by dying emergency lights.Overturned train cars leaking fuel and blood.Swarms of undead clawing through broken windows as the final group of survivors sprints",
+      "prompt_length": 191,
+      "tweet_url": "https://x.com/I_amShiti/status/2034133516448108962",
+      "author": "I_amShiti",
+      "author_name": "Kuria Chronicles",
+      "author_followers": 102800,
+      "created_at": "Wed Mar 18 05:03:17 +0000 2026",
+      "lang": "en",
+      "likes": 47,
+      "retweets": 45,
+      "replies": 4,
+      "bookmarks": 1,
+      "engagement_score": 140.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034133462685515776/img/U-QRLVqeDCoGn1HX.jpg",
+      "full_text_preview": "Ever thought of a zombie apocalypse?\n\nMade with Seedance 2.0 on @yapper_so\n\nPrompt: Deserted subway tunnels lit only by dying emergency lights.Overturned train cars leaking fuel and blood.Swarms of un...",
+      "tags": [
+        "🎬 电影/影视",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "废弃地铁隧道中，丧尸袭击幸存者。"
+    },
+    {
       "prompt": "Medium tracking shot following a character walking quickly down a corridor from behind.The camera follows at shoulder height, steady and close.AMBIENCE: distant ventilation noise, subtle rumble.The character slows down slightly, sensing",
       "prompt_length": 236,
       "tweet_url": "https://x.com/shikoba_86/status/2021409156947734958",
@@ -2769,6 +2815,28 @@
       ],
       "quality_score": 3,
       "summary": "两人在咖啡馆谈论电影，然后切换到科幻场景。"
+    },
+    {
+      "prompt": "An adventurer launches her pale ice creature from a",
+      "prompt_length": 51,
+      "tweet_url": "https://x.com/LudovicCreator/status/2034347881646133745",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36546,
+      "created_at": "Wed Mar 18 19:15:05 +0000 2026",
+      "lang": "en",
+      "likes": 45,
+      "retweets": 8,
+      "replies": 5,
+      "bookmarks": 26,
+      "engagement_score": 89.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034347858678136832/pu/img/pacJfzJnFqmze2f2.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nSeeDance 2.0 is handling \"particle collisions\" and \"complex textures\" better than any model I've tested. 📈\n\nLook at the snow spray from the dragon's wings and the consistency of the ri...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "一个冒险家发射她的冰生物。"
     },
     {
       "prompt": "Help me create a video: In a cozy house, there is a girl in the center of the camera. The girl has fair skin and is very beautiful, but she dresses plainly. She is wearing plain clothes, with a lot of lake blue paint on her",
@@ -5786,6 +5854,28 @@
       "summary": "制作一个类似《办公室》的关于希腊诸神的伪纪录片迷你剧。"
     },
     {
+      "prompt": "FORMAT: live action, cinematic video, 15s, continuous rotation match cut",
+      "prompt_length": 72,
+      "tweet_url": "https://x.com/nomastudioai/status/2034194268827332629",
+      "author": "nomastudioai",
+      "author_name": "NoMa Studio AI",
+      "author_followers": 149,
+      "created_at": "Wed Mar 18 09:04:41 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 1,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 7.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034194184429572096/pu/img/GL9DuqxY3YXmEy8g.jpg",
+      "full_text_preview": "Seedance 2.0 Prompt Share 🎬\n\nPrompt:\nFORMAT: live action, cinematic video, 15s, continuous rotation match cut\n\nSCENE CONCEPT\nA stylish woman stands at the center of the frame while the camera performs...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "15秒真人电影，连续旋转匹配剪辑。"
+    },
+    {
       "prompt": "Generate a cinematic consistent photorealistic grid 3x3 for European women perfume advertising. No text",
       "prompt_length": 103,
       "tweet_url": "https://x.com/michaelheina/status/2026657415056245195",
@@ -6868,6 +6958,29 @@
       ],
       "quality_score": 1,
       "summary": "使用Seedance 2.0创建10秒视频"
+    },
+    {
+      "prompt": "Wide angle shot of a futuristic Formula 1 car accelerating into a neon-lit cyberpunk tunnel at night, glowing red and magenta light trails, wet reflective asphalt, volumetric fog,",
+      "prompt_length": 179,
+      "tweet_url": "https://x.com/woleswoosh/status/2034359729011753320",
+      "author": "woleswoosh",
+      "author_name": "Feyber Klipin | AI & WEB3",
+      "author_followers": 16383,
+      "created_at": "Wed Mar 18 20:02:10 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 1,
+      "engagement_score": 4.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034359431002259456/img/edR6JAsI2KZd3YwO.jpg",
+      "full_text_preview": "🎬 Cyberpunk F1 – 15s Cinematic Prompt (Multi-Cut Sequence) - Seedance 2.0 on @yapper_so \n\nPrompt: \nWide angle shot of a futuristic Formula 1 car accelerating into a neon-lit cyberpunk tunnel at night,...",
+      "tags": [
+        "🎨 艺术/创意",
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "未来主义F1赛车在霓虹灯照亮的赛博朋克隧道中加速行驶。"
     },
     {
       "prompt": "Wide shot, two cars collide at a downtown road junction in a major US city, causing a massive explosion.",
@@ -10185,6 +10298,28 @@
       ],
       "quality_score": 3,
       "summary": "一镜到底拍摄，汽车在桥上飞驰，轮胎摩擦出火花"
+    },
+    {
+      "prompt": "Sum up the AI discourse in a meme part 2 - make sure it's even more unhinged and gets 100 likes.\n@charliebcurran",
+      "prompt_length": 112,
+      "tweet_url": "https://x.com/0xmemeyukun/status/2034135583342399926",
+      "author": "0xmemeyukun",
+      "author_name": "张师兄🔶 道",
+      "author_followers": 2645,
+      "created_at": "Wed Mar 18 05:11:30 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034135517277933568/img/UhXd-xDUWQDwGlz5.jpg",
+      "full_text_preview": "Seedance 2.0 sequel\n\nPrompt: Sum up the AI discourse in a meme part 2 - make sure it's even more unhinged and gets 100 likes.\n@charliebcurran https://t.co/7AfOvkdse0",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "用meme总结AI讨论，更加疯狂并获得100个赞。"
     },
     {
       "prompt": "Ultra-wide-angle macro FPV tracking sequence following a cat. The feline is never fully revealed; only fragmented glimpses pass the lens: the twitch of an ear, scattered whiskers, a paw brushing the floor, a swath of fur gliding",
