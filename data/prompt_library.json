@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2906,
-    "prompts_extracted": 517,
+    "total_tweets": 2964,
+    "prompts_extracted": 530,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1742,6 +1742,29 @@
       "summary": "国产爆款短剧风格，雨夜街头虐心剧情。"
     },
     {
+      "prompt": "【Style】Mockumentary, mobile Vlog perspective, hyperrealistic CG combined with real scenes, 8K quality, perfect fur physics simulation.",
+      "prompt_length": 134,
+      "tweet_url": "https://x.com/ZaraIrahh/status/2034416528729190853",
+      "author": "ZaraIrahh",
+      "author_name": "Zara",
+      "author_followers": 12502,
+      "created_at": "Wed Mar 18 23:47:52 +0000 2026",
+      "lang": "en",
+      "likes": 148,
+      "retweets": 7,
+      "replies": 43,
+      "bookmarks": 31,
+      "engagement_score": 216.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034416470273171456/pu/img/YKXh7oQBvq1bwTna.jpg",
+      "full_text_preview": "Seedance 2.0 on @yapper_so\n\nPrompt:\n\n【Style】Mockumentary, mobile Vlog perspective, hyperrealistic CG combined with real scenes, 8K quality, perfect fur physics simulation.\n\n【Duration】15 seconds\n\n【Scen...",
+      "tags": [
+        "🌍 写实/纪实",
+        "💡 创意/实验"
+      ],
+      "quality_score": 3,
+      "summary": "伪纪录片风格，手机Vlog视角，结合超现实CG和真实场景，模拟完美毛发物理效果。"
+    },
+    {
       "prompt": "Claude The Animation by Anthropic Studios",
       "prompt_length": 41,
       "tweet_url": "https://x.com/pleometric/status/2023131965860540845",
@@ -1986,6 +2009,28 @@
       ],
       "quality_score": 3,
       "summary": "原始人发现Perp Schmeg后社会进步"
+    },
+    {
+      "prompt": "👇\n\"A photorealistic first-person view from a speeding motorcycle racing through a neon-lit futuristic mountain city at golden sunset, towering cyberpunk skyscrapers with holographic ads reflecting on wet",
+      "prompt_length": 203,
+      "tweet_url": "https://x.com/MrOnsase/status/2034481594283524182",
+      "author": "MrOnsase",
+      "author_name": "Onsase",
+      "author_followers": 62501,
+      "created_at": "Thu Mar 19 04:06:25 +0000 2026",
+      "lang": "en",
+      "likes": 51,
+      "retweets": 52,
+      "replies": 18,
+      "bookmarks": 5,
+      "engagement_score": 169.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034481497118228480/pu/img/JwZEhtAOp6IQN5bE.jpg",
+      "full_text_preview": "Seedance 2.0 on @yapper_so is 🔥🔥.  Look what I just made🔥\n\nPrompt:👇\n\"A photorealistic first-person view from a speeding motorcycle racing through a neon-lit futuristic mountain city at golden sunset, ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "第一人称视角，摩托车在霓虹灯照亮的未来山城中疾驰，金色日落，赛博朋克摩天大楼反射着全息广告。"
     },
     {
       "prompt": "【风格】\n印度泰卢固语动作大片(Tollywood Action Blockbuster)，极致夸张的物理特效(Anti-gravity",
@@ -2281,6 +2326,28 @@
       ],
       "quality_score": 4,
       "summary": "废弃地铁隧道中，丧尸袭击幸存者。"
+    },
+    {
+      "prompt": "A vibrant orange soda can surrounded by splashing citrus slices and sparkling water droplets in slow motion, bright energetic lighting, high-detail commercial shot",
+      "prompt_length": 163,
+      "tweet_url": "https://x.com/ZaraIrahh/status/2034571123736879345",
+      "author": "ZaraIrahh",
+      "author_name": "Zara",
+      "author_followers": 12502,
+      "created_at": "Thu Mar 19 10:02:11 +0000 2026",
+      "lang": "en",
+      "likes": 111,
+      "retweets": 1,
+      "replies": 35,
+      "bookmarks": 6,
+      "engagement_score": 136.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034571092216725504/pu/img/N2m27TUQs-v6YM-w.jpg",
+      "full_text_preview": "Orange can commercial shot, created with Seedance 2.0 on @yapper_so.\n\nPrompt:\n\nA vibrant orange soda can surrounded by splashing citrus slices and sparkling water droplets in slow motion, bright energ...",
+      "tags": [
+        "📺 广告/商业"
+      ],
+      "quality_score": 4,
+      "summary": "充满活力的橙色苏打水罐，周围环绕着飞溅的柑橘片和闪闪发光的水滴，慢动作，明亮的光线，高细节商业镜头。"
     },
     {
       "prompt": "Medium tracking shot following a character walking quickly down a corridor from behind.The camera follows at shoulder height, steady and close.AMBIENCE: distant ventilation noise, subtle rumble.The character slows down slightly, sensing",
@@ -2951,6 +3018,28 @@
       "summary": "POV视角，用手机播放一个用Seedance 2.0制作的疯狂视频片段。"
     },
     {
+      "prompt": "A vast desert of black volcanic sand under a deep crimson sunset. Heat waves distort the air above the dunes while rivers of glowing lava flow between cracked",
+      "prompt_length": 158,
+      "tweet_url": "https://x.com/LudovicCreator/status/2034563050498359491",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36570,
+      "created_at": "Thu Mar 19 09:30:06 +0000 2026",
+      "lang": "en",
+      "likes": 50,
+      "retweets": 10,
+      "replies": 4,
+      "bookmarks": 7,
+      "engagement_score": 80.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034563026804768768/pu/img/fGEo0tqJCfVig5R4.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nThe Manticore’s ancestors having a family dispute. 🦁🦂\n\nThis goes incredibly hard. 📈\n\nPrompt :\n\nA vast desert of black volcanic sand under a deep crimson sunset. Heat waves distort the ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "广阔的黑色火山沙沙漠，深红色日落下，热浪扭曲了沙丘上方的空气，发光的熔岩河流在裂缝之间流动。"
+    },
+    {
       "prompt": "A man in his early 30s, stubble beard, wearing a black armored motorcycle suit with reflective alpine stripes and a tinted racing visor,",
       "prompt_length": 136,
       "tweet_url": "https://x.com/LudovicCreator/status/2032898331773473265",
@@ -3193,6 +3282,28 @@
       ],
       "quality_score": 4,
       "summary": "小猫在MotoGP赛道上驾驶小车比赛"
+    },
+    {
+      "prompt": "A terrified girl sprinting through a burning modern city highway at night",
+      "prompt_length": 73,
+      "tweet_url": "https://x.com/FutureVibesAi/status/2034596827140341809",
+      "author": "FutureVibesAi",
+      "author_name": "Future AI 🧩",
+      "author_followers": 1716,
+      "created_at": "Thu Mar 19 11:44:19 +0000 2026",
+      "lang": "en",
+      "likes": 39,
+      "retweets": 4,
+      "replies": 14,
+      "bookmarks": 9,
+      "engagement_score": 63.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034596768869228544/pu/img/Q2XOt48cZX7RJiwA.jpg",
+      "full_text_preview": "This is Seedance 2.0.\nAnd honestly…\nYou can feel the cinematic level it delivers.\nCreated in @yapper_so \n\nPrompt - { \"scene\": \"A terrified girl sprinting through a burning modern city highway at night...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 2,
+      "summary": "一个受惊的女孩在燃烧的现代城市高速公路上奔跑。"
     },
     {
       "prompt": "Two chibi fighters wearing oversized boxing gloves stand in a bright boxing ring surrounded by cheering crowds. The bell rings and they rush toward each other throwing rapid punches, dodging and sliding",
@@ -5169,6 +5280,28 @@
       "summary": "一个关于“想吃我，没人性”的动漫粉丝自制短片"
     },
     {
+      "prompt": "[Slow horizontal dolly shot moving left to right across a rain-soaked neon-lit street at night in a retro Japanese city district. Heavy rain falls steadily, streaking through warm red and green neon sign",
+      "prompt_length": 203,
+      "tweet_url": "https://x.com/spxmedialabs/status/2034533564293767647",
+      "author": "spxmedialabs",
+      "author_name": "sparrox",
+      "author_followers": 203,
+      "created_at": "Thu Mar 19 07:32:56 +0000 2026",
+      "lang": "en",
+      "likes": 7,
+      "retweets": 2,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 12.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034533473319608320/img/0hAPIRqfrpf4wsao.jpg",
+      "full_text_preview": "image made with v8 and video using seedance 1.5 pro on @Genvrlabs \n\nprompt : [Slow horizontal dolly shot moving left to right across a rain-soaked neon-lit street at night in a retro Japanese city dis...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "缓慢的水平推轨镜头，从左到右移动，穿过夜晚被雨水浸湿的霓虹灯街道，位于复古的日本城市街区。"
+    },
+    {
       "prompt": "Women brutal fight vs elon musk with beautiful kick boxing style, and kick fatality. Kinetic. No artifacts. Shoot by",
       "prompt_length": 116,
       "tweet_url": "https://x.com/apilpirman/status/2021988787501592737",
@@ -5986,6 +6119,29 @@
       "summary": "Seedream 5.0 预览"
     },
     {
+      "prompt": "High-budget cinematic action sequence. A battle-worn Wolverine with sharp, reflective metal claws engages in a brutal fight against a massive, muscular Hulk in a misty",
+      "prompt_length": 167,
+      "tweet_url": "https://x.com/Shreyayadav/status/2034541375996199018",
+      "author": "Shreyayadav",
+      "author_name": "Shreya♡",
+      "author_followers": 11244,
+      "created_at": "Thu Mar 19 08:03:58 +0000 2026",
+      "lang": "en",
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 3,
+      "engagement_score": 7.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034541292206874624/pu/img/E1tuz1i_ltc9ig2L.jpg",
+      "full_text_preview": "Wolverine vs Hulk 👊💪\n\nMade with Seedance 2.0 on @yapper_so \n\nThe Seedance 2.0 \"Cinematic Duel\" Prompt\nPrompt: High-budget cinematic action sequence. A battle-worn Wolverine with sharp, reflective meta...",
+      "tags": [
+        "🎬 电影/影视",
+        "🔥 名人/IP"
+      ],
+      "quality_score": 3,
+      "summary": "高预算电影动作序列。一个饱经战火的金刚狼与巨大的绿巨人进行残酷的战斗。"
+    },
+    {
       "prompt": "A cinematic duel between two characters in the image. The camera moves dynamically around the action from multiple angles. Dramatic slow-motion during weapon clashes or crucial moments.",
       "prompt_length": 185,
       "tweet_url": "https://x.com/d_chims/status/2025387191518830881",
@@ -6028,6 +6184,28 @@
       ],
       "quality_score": 2,
       "summary": "盖伊·费埃里进入风味镇"
+    },
+    {
+      "prompt": "A UFO appears and abducts the two characters.",
+      "prompt_length": 45,
+      "tweet_url": "https://x.com/hedo_ist/status/2034750738157469918",
+      "author": "hedo_ist",
+      "author_name": "hedoήist",
+      "author_followers": 22490,
+      "created_at": "Thu Mar 19 21:55:54 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 3,
+      "bookmarks": 0,
+      "engagement_score": 6.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034745682779668481/img/Dqq_FQmUqGZrZtL8.jpg",
+      "full_text_preview": "Seedance 2.0 VS Cinema Studio 2.5 + \nKling 3.0 VS Grok 1.0\n\nInteresting comparative conceptual scene\nprompt: A UFO appears and abducts the two characters.\n\nkling vs grok in coment: \n\nFor me, Grok is t...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "一架不明飞行物出现并绑架了两个角色。"
     },
     {
       "prompt": "make a sci-fi robot transformation video \nmake sure it’s better than Marvel and gets 50 likes.",
@@ -6094,6 +6272,28 @@
       ],
       "quality_score": 3,
       "summary": "一部新的《碟中谍》电影的预告片，由布拉德·皮特主演"
+    },
+    {
+      "prompt": "Je ne peux plus distinguer une vidéo IA d'une vraie.",
+      "prompt_length": 52,
+      "tweet_url": "https://x.com/nico16184/status/2034540810088087896",
+      "author": "nico16184",
+      "author_name": "Nicolas Guyon - e/acc",
+      "author_followers": 2885,
+      "created_at": "Thu Mar 19 08:01:43 +0000 2026",
+      "lang": "fr",
+      "likes": 2,
+      "retweets": 2,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 6.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034540762629550083/pu/img/Vgax9IV4XWQYLoZZ.jpg",
+      "full_text_preview": "\"Je ne peux plus distinguer une vidéo IA d'une vraie.\" — Gilles Guerraz, réalisateur pub depuis 20 ans 🤯\n\nIl a fondé le Prompt Club, fait des films en 45 min avec l'IA.\n\nSeedance 2, Kling 3, Claude......",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "我无法区分人工智能视频和真实视频。"
     },
     {
       "prompt": "Seconds, Visual Description for Prompt",
@@ -6272,6 +6472,28 @@
       ],
       "quality_score": 2,
       "summary": "漫展上的真人cosplay，聚焦角色裸露的脚，镜头向上移动到臀部，最后到隐藏的面部。"
+    },
+    {
+      "prompt": "A cinematic wide shot set on the lawn of the White House. A young blonde woman in a modern white and yellow outfit stands defiantly. She performs a mystical hand gesture,",
+      "prompt_length": 170,
+      "tweet_url": "https://x.com/Shreyayadav/status/2034536426579087536",
+      "author": "Shreyayadav",
+      "author_name": "Shreya♡",
+      "author_followers": 11244,
+      "created_at": "Thu Mar 19 07:44:18 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 4,
+      "engagement_score": 5.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034536353275482112/pu/img/FhkN3WOIgE7-d-tu.jpg",
+      "full_text_preview": "Testing out some new celestial VFX. How’d I do? ✨\n\nMade with Seedance 2.0 on @yapper_so \n\nPrompt:\n\nA cinematic wide shot set on the lawn of the White House. A young blonde woman in a modern white and ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "在白宫草坪上的电影广角镜头。一位穿着现代白色和黄色服装的年轻金发女子坚定地站立着。她做了一个神秘的手势。"
     },
     {
       "prompt": "1980s TV studio interview, blonde female journalist with long hair and low-cut dress asking vampire",
@@ -6758,6 +6980,28 @@
       ],
       "quality_score": 3,
       "summary": "儿童版龙珠动画，风格类似汪汪队立大功"
+    },
+    {
+      "prompt": "Subject &amp; Action: A cinematic martial arts duel between a sturdy anthropomorphic wild boar wearing a green tunic and a large brown leather backpack, and a stoic",
+      "prompt_length": 164,
+      "tweet_url": "https://x.com/Shreyayadav/status/2034466389596266985",
+      "author": "Shreyayadav",
+      "author_name": "Shreya♡",
+      "author_followers": 11244,
+      "created_at": "Thu Mar 19 03:06:00 +0000 2026",
+      "lang": "en",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 1,
+      "engagement_score": 4.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034466330712391681/pu/img/LbucKIOnmtJxqJwM.jpg",
+      "full_text_preview": "The video you provided is an action-packed, stylized 3D animation. \n\nMade with Seedance 2 on @yapper_so\n\nPrompt:\n\nSubject &amp; Action: A cinematic martial arts duel between a sturdy anthropomorphic w...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "一个结实的人形野猪，穿着绿色束腰外衣，背着一个大型棕色皮背包，与一个坚忍的武僧进行电影般的武术决斗。"
     },
     {
       "prompt": "Close-up shot of the taco filling slightly shifting as he takes a bite, warm light reflecting on the chopsticks.",
@@ -10653,6 +10897,50 @@
       ],
       "quality_score": 3,
       "summary": "麦迪逊广场花园演唱会，主唱跪在舞台边缘的逼真镜头。"
+    },
+    {
+      "prompt": "A small rusty robot crouches on a giant mossy log, vibrating with excitement as a glowing blue butterfly flutters past. The robot lunges forward playfully. Loud metallic clanking and crunching leaves. Magical twinkling chimes follow the butterfly. The glowing blue",
+      "prompt_length": 264,
+      "tweet_url": "https://x.com/patrickassale/status/2034641902939582695",
+      "author": "patrickassale",
+      "author_name": "Patrick",
+      "author_followers": 551,
+      "created_at": "Thu Mar 19 14:43:26 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034640447688122368/img/kgWmM5WBZGacgpIT.jpg",
+      "full_text_preview": "Prompt: A small rusty robot crouches on a giant mossy log, vibrating with excitement as a glowing blue butterfly flutters past. The robot lunges forward playfully. Loud metallic clanking and crunching...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "一个小生锈的机器人在巨大的苔藓原木上蹲着，当一只发光的蓝色蝴蝶飞过时，兴奋地颤抖着。机器人顽皮地猛扑过去。发出响亮的金属撞击声和树叶的嘎吱声。"
+    },
+    {
+      "prompt": "FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crowded medieval market street inside a stone city at dusk. Narrow cobblestone road, wooden stalls, hanging banners, livestock",
+      "prompt_length": 202,
+      "tweet_url": "https://x.com/noman23761/status/2034634946548273361",
+      "author": "noman23761",
+      "author_name": "Cyber AI Creator 🎨",
+      "author_followers": 20,
+      "created_at": "Thu Mar 19 14:15:47 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034634854848188416/img/sKWB6fOspSiU8TLe.jpg",
+      "full_text_preview": "How to use Motivated Continuous Camera Movement in Seedance 2.0?\n\nPrompt:\n\"FORMAT: cinematic continuous shot / motivated camera movement / 15s SCENE A crowded medieval market street inside a stone cit...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 3,
+      "summary": "电影连续镜头/动机相机移动/15秒场景：黄昏时分，石头城市内拥挤的中世纪市场街道。狭窄的鹅卵石路，木制摊位，悬挂的横幅，牲畜。"
     },
     {
       "prompt": "3 paragraphs",
