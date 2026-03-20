@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 2964,
-    "prompts_extracted": 530,
+    "total_tweets": 3035,
+    "prompts_extracted": 540,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1854,6 +1854,28 @@
       "summary": "视觉风格"
     },
     {
+      "prompt": "Shot 1(8 seconds) a Powerful female character. Cinematic wide shot, soaring above a dramatic, swirling sea of golden hour clouds as warm orange sunlight catches the mist. Wind whips her hair and clothing with high physical realism.",
+      "prompt_length": 231,
+      "tweet_url": "https://x.com/ZaraIrahh/status/2034879399351222347",
+      "author": "ZaraIrahh",
+      "author_name": "Zara",
+      "author_followers": 12512,
+      "created_at": "Fri Mar 20 06:27:09 +0000 2026",
+      "lang": "en",
+      "likes": 146,
+      "retweets": 9,
+      "replies": 39,
+      "bookmarks": 19,
+      "engagement_score": 204.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2034879355038445568/pu/img/gwIAQknQVFU3niJE.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so\n\nPrompt:\n\nShot 1(8 seconds) a Powerful female character. Cinematic wide shot, soaring above a dramatic, swirling sea of golden hour clouds as warm orange sunlight ...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "强大的女性角色在金色阳光下的云海上飞翔，头发和衣物被风吹动"
+    },
+    {
       "prompt": "Live-action cinematic sequence. Static camera. The warrior kneels in the rain, head down, hands gripping his sword stuck in the mud. Rain pours heavily. Thunder rumbles. Slow zoom in. His shoulders shake—he's either crying or laughing. Cut to close-up of",
       "prompt_length": 254,
       "tweet_url": "https://x.com/Kiber_Alla/status/2024414230976270847",
@@ -2238,6 +2260,28 @@
       "summary": "极致第一人称女友视角的手持自拍VLOG。"
     },
     {
+      "prompt": "prompt.stars",
+      "prompt_length": 12,
+      "tweet_url": "https://x.com/im_shahid7/status/2034794876542623756",
+      "author": "im_shahid7",
+      "author_name": "Al-Shamus",
+      "author_followers": 3497,
+      "created_at": "Fri Mar 20 00:51:17 +0000 2026",
+      "lang": "en",
+      "likes": 137,
+      "retweets": 5,
+      "replies": 16,
+      "bookmarks": 1,
+      "engagement_score": 156.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034794772800708610/img/9xo0NSOo_HR55jks.jpg",
+      "full_text_preview": "The cheat🥺\n\nMade with seedance 2.0 on yapper ..\nPrompt: prompt.stars https://t.co/LksfN2CGwI",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 1,
+      "summary": "prompt.stars（信息不足，无法判断）"
+    },
+    {
       "prompt": "1. open with an establishing fly over shot of a misty jungle in the early morning, a soldier (the woman in the image) is in a chopper in army uniform, she says \"We're entering foh-fur country now.",
       "prompt_length": 196,
       "tweet_url": "https://x.com/fofrAI/status/2026762628605862190",
@@ -2436,6 +2480,28 @@
       ],
       "quality_score": 2,
       "summary": "Avalabs高管的普通一天，需要足够滑稽以获得点赞。"
+    },
+    {
+      "prompt": "Seedance 2.0 Prompt: FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECTS: A small round-faced figure with huge eyes, copper-red pigtails, a yellow polka-dot dress, and exaggerated cartoon proportions. A",
+      "prompt_length": 221,
+      "tweet_url": "https://x.com/im_shahid7/status/2034915671646388407",
+      "author": "im_shahid7",
+      "author_name": "Al-Shamus",
+      "author_followers": 3497,
+      "created_at": "Fri Mar 20 08:51:17 +0000 2026",
+      "lang": "en",
+      "likes": 110,
+      "retweets": 4,
+      "replies": 14,
+      "bookmarks": 3,
+      "engagement_score": 128.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034915510769655808/img/gpP11NZ0TtBrL2XR.jpg",
+      "full_text_preview": "Pixer style animation with Seedance 2.0 on Yapper\nPrompt:\n\nSeedance 2.0 Prompt: FORMAT: 15s / MULTI-CUT / 6 BEATS / HIGH-VIRAL COMEDIC PAYOFF SUBJECTS: A small round-faced figure with huge eyes, coppe...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 4,
+      "summary": "一个有着大眼睛、红色辫子、黄色波点裙的圆脸小人在搞笑场景中"
     },
     {
       "prompt": "ARGUMENT - WHIP PAN FOLLOWS SPEAKER\n15 Seconds / Continuous Shot / Dynamic Camera",
@@ -3372,6 +3438,28 @@
       ],
       "quality_score": 3,
       "summary": "一个13秒的POV恐怖场景，设置在一个荒凉、废弃的机构走廊里，墙壁肮脏、剥落。"
+    },
+    {
+      "prompt": "A colossal wall of water rises on the horizon behind a coastal",
+      "prompt_length": 62,
+      "tweet_url": "https://x.com/LudovicCreator/status/2035072654030315604",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36587,
+      "created_at": "Fri Mar 20 19:15:05 +0000 2026",
+      "lang": "en",
+      "likes": 26,
+      "retweets": 10,
+      "replies": 1,
+      "bookmarks": 12,
+      "engagement_score": 60.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035072633700544512/pu/img/0IjNJ4wSHz5BDp9r.jpg",
+      "full_text_preview": "Nature always has the last word. 🌊🏙️\n\nThis cinematic disaster sequence was generated entirely in Seedance 2. The level of detail in the water physics and the structural collapse is absolutely mind-blo...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "海岸边升起巨大的水墙"
     },
     {
       "prompt": "cinematic romantic epic film trailer, fast professional cuts. booming sci-fi romance love scene",
@@ -4655,6 +4743,28 @@
       "summary": "翼装飞行员身穿亮橙色服装，从太平洋沿岸的悬崖上跳下。"
     },
     {
+      "prompt": "Seamless infinity zoom hyperlapse through highly detailed paper-cut art capturing the journey of Ramadan to Eid celebration. The scene begins with a glowing crescent moon above a quiet neighborhood at",
+      "prompt_length": 200,
+      "tweet_url": "https://x.com/woleswoosh/status/2034883192596177248",
+      "author": "woleswoosh",
+      "author_name": "Feyber Klipin | AI & WEB3",
+      "author_followers": 16448,
+      "created_at": "Fri Mar 20 06:42:14 +0000 2026",
+      "lang": "en",
+      "likes": 13,
+      "retweets": 2,
+      "replies": 2,
+      "bookmarks": 2,
+      "engagement_score": 20.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034882245513945089/img/b2aH0wyKmQlg6yQv.jpg",
+      "full_text_preview": "Ramadhan Kareem guys! \n\nCreate with Seedance 2.0 on @get_artcraft \n\nPrompt:\nSeamless infinity zoom hyperlapse through highly detailed paper-cut art capturing the journey of Ramadan to Eid celebration....",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "斋月到开斋节的纸艺风格无限缩放延时摄影"
+    },
+    {
       "prompt": "make me a UGC-style ad for teeth whitening strips",
       "prompt_length": 49,
       "tweet_url": "https://x.com/instaclaws/status/2027361821863100424",
@@ -5876,6 +5986,28 @@
       "summary": "一个穿着全套盔甲的中世纪骑士看着现代智能手机，困惑的脸被屏幕的光芒照亮，烛光城堡内部，电影照明。"
     },
     {
+      "prompt": "[Film Style]: Hyper-realistic sports cinematography, extreme 12mm fish-eye lens, 4K digital sharpness, high-shutter speed, cinematic stadium floodlights with anamorphic lens flares.",
+      "prompt_length": 181,
+      "tweet_url": "https://x.com/CurieuxExplorer/status/2034990007895695422",
+      "author": "CurieuxExplorer",
+      "author_name": "Dev Khanna",
+      "author_followers": 44081,
+      "created_at": "Fri Mar 20 13:46:40 +0000 2026",
+      "lang": "en",
+      "likes": 1,
+      "retweets": 2,
+      "replies": 2,
+      "bookmarks": 2,
+      "engagement_score": 8.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034988558520340480/img/6pHlC-pULiA6Zpuj.jpg",
+      "full_text_preview": "When precision meets physics, reality bends ⚽️🔥\n\n583 ⤵️ Seedance 2.0 → @yapper_so  \n\nPrompt:\n\n[Film Style]: Hyper-realistic sports cinematography, extreme 12mm fish-eye lens, 4K digital sharpness, hig...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "超现实体育电影摄影，使用鱼眼镜头，高快门速度，电影院级泛光灯和变形镜头光晕"
+    },
+    {
       "prompt": "Subway train CQC fight flickering lights reflections blood smears claustrophobic tracking",
       "prompt_length": 89,
       "tweet_url": "https://x.com/pewdenai/status/2023815345493213319",
@@ -6781,6 +6913,28 @@
       ],
       "quality_score": 4,
       "summary": "人类橄榄球队与银背大猩猩进行橄榄球比赛的超现实直播画面"
+    },
+    {
+      "prompt": "-- don’t use negative promting, use positive promting\n3. provide more references for better result\n4. don't overuse poetic rhetoric, like",
+      "prompt_length": 137,
+      "tweet_url": "https://x.com/MargieFengLOL/status/2034767416862154792",
+      "author": "MargieFengLOL",
+      "author_name": "Margie Feng",
+      "author_followers": 2969,
+      "created_at": "Thu Mar 19 23:02:10 +0000 2026",
+      "lang": "en",
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 5.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034766480194379778/img/llgv_gcxKr-mll0e.jpg",
+      "full_text_preview": "prompt tips from a Bytedance Seedance solution architect:\n\n- be very very concise \n- don't use the word \"don't\" -- don’t use negative promting, use positive promting\n3. provide more references for bet...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "关于如何写prompt的提示，避免消极提示和过度修辞"
     },
     {
       "prompt": "Sum up the AI discourse in a meme -",
@@ -8912,6 +9066,28 @@
       "summary": "电影级老上海质感+快节奏商业大片剪辑，强节拍鼓点配乐，胶片颗粒，高对比光影，动作匹配剪辑，8K超清"
     },
     {
+      "prompt": "From the ocean emerges a furious giant (element)  red dragon, leaping and flying above the ship at great speed, splashing through the great ocean waves.",
+      "prompt_length": 152,
+      "tweet_url": "https://x.com/hedo_ist/status/2035094507813822814",
+      "author": "hedo_ist",
+      "author_name": "hedoήist",
+      "author_followers": 22471,
+      "created_at": "Fri Mar 20 20:41:55 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035093627458699264/img/xA6hkP2FrkFKDj-_.jpg",
+      "full_text_preview": "The scene on the left is from Kling 3.0 from @higgsfield , and the one on the right is from Seedance 2.0\n\nprompt:\n\nFrom the ocean emerges a furious giant (element)  red dragon, leaping and flying abov...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "一条愤怒的红色巨龙从海中出现，飞跃船只，在海浪中飞溅"
+    },
+    {
       "prompt": "show me why united states dosen't have free healthcare, make it a banger",
       "prompt_length": 72,
       "tweet_url": "https://x.com/mukutwts/status/2032341361735975115",
@@ -9380,6 +9556,28 @@
       ],
       "quality_score": 3,
       "summary": "彩虹猫和哥斯拉香蕉PJB时间的冲突"
+    },
+    {
+      "prompt": "主提示词\n全局意图: 史诗、紧张且写实的奇幻空中突袭。男骑手驾驭黑鳞巨龙巡逻，发现地面威胁并喷吐致命烈焰，展现压倒性力量与高对比度暗黑电影质感。",
+      "prompt_length": 72,
+      "tweet_url": "https://x.com/vladimircherner/status/2034801739749019935",
+      "author": "vladimircherner",
+      "author_name": "Volodymyr Cherner",
+      "author_followers": 489,
+      "created_at": "Fri Mar 20 01:18:34 +0000 2026",
+      "lang": "zh",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 1.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034801359799590913/img/HKLA4iwlN1H4NyQm.jpg",
+      "full_text_preview": "Photo: MJ 8 + enhance in Nano Banana\nVideo 1: Seedance 2.0 in @dreamina_ai \n\nprompt:\n主提示词\n全局意图: 史诗、紧张且写实的奇幻空中突袭。男骑手驾驭黑鳞巨龙巡逻，发现地面威胁并喷吐致命烈焰，展现压倒性力量与高对比度暗黑电影质感。\n\n镜头序列:\n镜头 1 (0-2秒) 广角镜头\n• 相机运动: https://t....",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "史诗般的奇幻空中突袭，男骑手驾驭黑龙巡逻，发现威胁并喷火"
     },
     {
       "prompt": "An average shift at Waffle House - make sure it",
@@ -11518,6 +11716,28 @@
       ],
       "quality_score": 3,
       "summary": "红色月光下，一个动漫女孩坐在外面静止不动，雪花在她周围飘落"
+    },
+    {
+      "prompt": "quick cuts of a photorealistic \"office dragon\" hyper-flying through multiple office rooms, between people, over desks, around people, in a busy cubicle office. it lands on one persons desk and blows fiery flames at the man. the dragon",
+      "prompt_length": 234,
+      "tweet_url": "https://x.com/CatabolicState/status/2034964323592745425",
+      "author": "CatabolicState",
+      "author_name": "mike",
+      "author_followers": 51,
+      "created_at": "Fri Mar 20 12:04:37 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2034964065659883521/img/oMRz9VAsupKBFxjO.jpg",
+      "full_text_preview": "The Office Dragon 🔥\n\nseedance 2.0\n\nprompt: quick cuts of a photorealistic \"office dragon\" hyper-flying through multiple office rooms, between people, over desks, around people, in a busy cubicle offic...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 4,
+      "summary": "办公室龙快速穿梭于办公室，最后降落在办公桌上并喷火"
     },
     {
       "prompt": "Skincare Product Ad (Scene 1)",
