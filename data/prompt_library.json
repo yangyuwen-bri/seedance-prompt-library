@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 3035,
-    "prompts_extracted": 540,
+    "total_tweets": 3110,
+    "prompts_extracted": 552,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -1410,6 +1410,29 @@
       "summary": "第一人称视角拍摄戴着乳胶手套的手在浴室水槽按压洗手液的日常场景。"
     },
     {
+      "prompt": "A giant prehistoric beast wakes up in the desert. Opens its mouth. And roars.",
+      "prompt_length": 77,
+      "tweet_url": "https://x.com/itsPolloAI/status/2035279275725664507",
+      "author": "itsPolloAI",
+      "author_name": "Pollo AI",
+      "author_followers": 67843,
+      "created_at": "Sat Mar 21 08:56:07 +0000 2026",
+      "lang": "en",
+      "likes": 201,
+      "retweets": 31,
+      "replies": 35,
+      "bookmarks": 13,
+      "engagement_score": 295.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035276638263607296/img/oUnGsWNnvpgF73Qe.jpg",
+      "full_text_preview": "\"A giant prehistoric beast wakes up in the desert. Opens its mouth. And roars.\"\n\nWe ran the same prompt across different models inside Pollo —\nSeedance 1.5 Pro, Kling 3.0, Pollo 2.5, Sora 2, Veo 3.1\nS...",
+      "tags": [
+        "🎬 电影/影视",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一只巨大的史前野兽在沙漠中醒来并咆哮的场景"
+    },
+    {
       "prompt": "Live-action cinematic sequence. The woman finishes pumping gas. The pump clicks off. Silence. She looks around at the empty desert. A car appears on the horizon. She squints. The car speeds past without stopping. Dust cloud. She walks to her trunk and",
       "prompt_length": 251,
       "tweet_url": "https://x.com/Kiber_Alla/status/2024411387535962433",
@@ -1453,6 +1476,28 @@
       ],
       "quality_score": 4,
       "summary": "豪门恩怨题材的短剧，讲述真假千金的故事。"
+    },
+    {
+      "prompt": "A cinematic video of honeybees actively collecting nectar on a bright yellow sunflower in a lush, colorful garden filled with blooming flowers and green plants. A small, beautiful waterfall flows gently nearby, with water droplets",
+      "prompt_length": 230,
+      "tweet_url": "https://x.com/MrOnsase/status/2035207649990447192",
+      "author": "MrOnsase",
+      "author_name": "Onsase",
+      "author_followers": 62522,
+      "created_at": "Sat Mar 21 04:11:30 +0000 2026",
+      "lang": "en",
+      "likes": 89,
+      "retweets": 75,
+      "replies": 35,
+      "bookmarks": 10,
+      "engagement_score": 268.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035207581501988868/pu/img/R8g8kbjnDD0Zat9j.jpg",
+      "full_text_preview": "Seedance 2.0 on Yapper made this🔥🔥. \n\nPrompt:\n\"A cinematic video of honeybees actively collecting nectar on a bright yellow sunflower in a lush, colorful garden filled with blooming flowers and green ...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 4,
+      "summary": "蜜蜂在花园里采集花蜜的电影感视频，背景有瀑布"
     },
     {
       "prompt": "Tom Cruise as a talent super-agent with huge hands dancing to a Ludacris song.",
@@ -3528,6 +3573,51 @@
       "summary": "关于“以柔克刚”的视频"
     },
     {
+      "prompt": "A vast frozen valley under pale",
+      "prompt_length": 31,
+      "tweet_url": "https://x.com/LudovicCreator/status/2035435045784080689",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36600,
+      "created_at": "Sat Mar 21 19:15:06 +0000 2026",
+      "lang": "en",
+      "likes": 38,
+      "retweets": 5,
+      "replies": 4,
+      "bookmarks": 7,
+      "engagement_score": 57.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035435022115606528/pu/img/ndjSw5BoO7OG0RF9.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nA hunter in its element. 🐯❄️\n\nThe sheer power of the White Tiger captured in a freezing glacial canyon. That leap over the ice is pure adrenaline.\n\nWatch until the end—the silence befo...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "苍白天空下的广阔冰冻山谷"
+    },
+    {
+      "prompt": "Use the provided images as exact references for the woman, her transformed crimson relic-war form, and the radiant angelic war-saint. 15-second ultra-cinematic live-action sequence in an abandoned financial district boulevard by day,",
+      "prompt_length": 233,
+      "tweet_url": "https://x.com/Bubioai/status/2035368512966029629",
+      "author": "Bubioai",
+      "author_name": "Bubio",
+      "author_followers": 1675,
+      "created_at": "Sat Mar 21 14:50:43 +0000 2026",
+      "lang": "en",
+      "likes": 22,
+      "retweets": 13,
+      "replies": 5,
+      "bookmarks": 5,
+      "engagement_score": 55.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035368242496331777/img/F8vchc1LMQCzofde.jpg",
+      "full_text_preview": "Seedance 2.0 is cooking.. 🔥\n\nPrompt : \nUse the provided images as exact references for the woman, her transformed crimson relic-war form, and the radiant angelic war-saint. 15-second ultra-cinematic l...",
+      "tags": [
+        "🎬 电影/影视",
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "根据提供的图像，在废弃的场景中拍摄一个女人变身成天使战士的电影片段"
+    },
+    {
       "prompt": "Mad Men episode where Don pitches \"The Permanent Underclass\" - make no mistakes.",
       "prompt_length": 80,
       "tweet_url": "https://x.com/charliebcurran/status/2025694946855104627",
@@ -4056,6 +4146,28 @@
       "summary": "科技亿万富翁CEO直播和朋友在后院烤肉。"
     },
     {
+      "prompt": "Theme: Humorous parrot salon haircut transformation\nVisuals: Professional",
+      "prompt_length": 73,
+      "tweet_url": "https://x.com/doctorwasif/status/2035409387125371170",
+      "author": "doctorwasif",
+      "author_name": "WasifAI",
+      "author_followers": 6372,
+      "created_at": "Sat Mar 21 17:33:08 +0000 2026",
+      "lang": "en",
+      "likes": 23,
+      "retweets": 3,
+      "replies": 9,
+      "bookmarks": 3,
+      "engagement_score": 36.5,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035409290148880384/pu/img/AVL8dP3iuALMWMO-.jpg",
+      "full_text_preview": "Someone made 1M followers with these Cute bird hair cutting Videos. No one tells the prompt. but here it is. Make your channel and start growing from today.\n\nSeedance 2 / Kling 3 on @yapper_so \n\nPromp...",
+      "tags": [
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "鹦鹉在沙龙里进行幽默发型改造的视频"
+    },
+    {
       "prompt": "First-person POV from inside a starfighter cockpit flying through an asteroid field.",
       "prompt_length": 84,
       "tweet_url": "https://x.com/LudovicCreator/status/2031811162891866456",
@@ -4320,6 +4432,28 @@
       ],
       "quality_score": 1,
       "summary": "一个男人在雨中奔跑"
+    },
+    {
+      "prompt": "ancient ruined city with fire and ash everywhere",
+      "prompt_length": 48,
+      "tweet_url": "https://x.com/FutureVibesAi/status/2035251854045847947",
+      "author": "FutureVibesAi",
+      "author_name": "Future AI 🧩",
+      "author_followers": 1736,
+      "created_at": "Sat Mar 21 07:07:09 +0000 2026",
+      "lang": "en",
+      "likes": 16,
+      "retweets": 2,
+      "replies": 10,
+      "bookmarks": 3,
+      "engagement_score": 28.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035251801558327298/pu/img/w2arSjlPqzMjHCpS.jpg",
+      "full_text_preview": "This is NOT a game cutscene.\nNot a movie.\nA girl transforms into a dark warrior\nand takes down a lava dragon in a burning city.\nThis is Seedance 2.0.\nCreated in @yapper_so \nPrompt - \n{ \"scene\": \"ancie...",
+      "tags": [
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 2,
+      "summary": "被火焰和灰烬覆盖的古代废墟城市"
     },
     {
       "prompt": "A group of wild horses gallops across an open plain at golden hour, their manes streaming in the wind. Hooves pound the earth in unison, kicking up clouds of dust that catch the sun like fire. One stallion breaks ahead, silhouetted against the wide",
@@ -4608,6 +4742,29 @@
       ],
       "quality_score": 3,
       "summary": "一辆红色牧马人停在繁忙的十字路口，开始复杂的机械运动。"
+    },
+    {
+      "prompt": "Uma fera pré-histórica gigante acorda no deserto. Abre a boca. E ruge.",
+      "prompt_length": 70,
+      "tweet_url": "https://x.com/PolloAIBR/status/2035282050459296245",
+      "author": "PolloAIBR",
+      "author_name": "Pollo AI Brasil",
+      "author_followers": 708,
+      "created_at": "Sat Mar 21 09:07:09 +0000 2026",
+      "lang": "pt",
+      "likes": 11,
+      "retweets": 4,
+      "replies": 3,
+      "bookmarks": 1,
+      "engagement_score": 21.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035281792744464384/img/1gfxhN0bfBkJFc_5.jpg",
+      "full_text_preview": "\"Uma fera pré-histórica gigante acorda no deserto. Abre a boca. E ruge.\"\n\nTestamos o mesmo prompt com diferentes modelos na plataforma do Pollo AI:\nSeedance 1.5 Pro, Kling 3.0, Pollo 2.5, Sora 2, Veo ...",
+      "tags": [
+        "🎬 电影/影视",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一只巨大的史前野兽在沙漠中醒来并咆哮的场景 (葡萄牙语)"
     },
     {
       "prompt": "Sum up the Bollywood Dance in the meme \"Distracted Boyfriend\" - make sure it's retarded and gets 50 likes.",
@@ -9066,6 +9223,28 @@
       "summary": "电影级老上海质感+快节奏商业大片剪辑，强节拍鼓点配乐，胶片颗粒，高对比光影，动作匹配剪辑，8K超清"
     },
     {
+      "prompt": "Use a image1 como storyboard do video",
+      "prompt_length": 37,
+      "tweet_url": "https://x.com/victorpfreitas/status/2035141026248032536",
+      "author": "victorpfreitas",
+      "author_name": "Victor.",
+      "author_followers": 922,
+      "created_at": "Fri Mar 20 23:46:46 +0000 2026",
+      "lang": "pt",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 2.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035140993641562112/pu/img/jZAmM-ap8WUFWMfy.jpg",
+      "full_text_preview": "Seedance 2.0 funciona muito bem usando grids. Você gera o grid com todas as cenas e usa um prompt simples como: \"Use a image1 como storyboard do video\"\n\n#capcutseedance2 #capcut @capcutapp https://t.c...",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 2,
+      "summary": "使用 image1 作为视频的故事板 (葡萄牙语)"
+    },
+    {
       "prompt": "From the ocean emerges a furious giant (element)  red dragon, leaping and flying above the ship at great speed, splashing through the great ocean waves.",
       "prompt_length": 152,
       "tweet_url": "https://x.com/hedo_ist/status/2035094507813822814",
@@ -10210,6 +10389,28 @@
       "summary": "用一个 meme 总结 AI 领域的讨论，要求低智商且能获得点赞，内容是 AI 需要更多数据中心来治疗癌症。"
     },
     {
+      "prompt": "Layer 1 — Atmosphere\nAdd \"volumetric fog\" or \"mist\" →",
+      "prompt_length": 53,
+      "tweet_url": "https://x.com/framefutura/status/2035411720353583249",
+      "author": "framefutura",
+      "author_name": "Frame | AI Cinematic Lab",
+      "author_followers": 1,
+      "created_at": "Sat Mar 21 17:42:24 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 1,
+      "engagement_score": 1.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035411655283118080/img/l44i_oB3uEA-L1xn.jpg",
+      "full_text_preview": "🧵 How to write cinematic lighting in Seedance 2.0 — in 30 seconds\n\nThe difference between a flat AI look and a real film look?\nIt's always the lighting.\n\nHere's the 3-layer lighting formula I use in e...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 2,
+      "summary": "添加体积雾或薄雾效果"
+    },
+    {
       "prompt": "Create a fight scene between two people, aiming for a Shaw Brothers movie feel. The action should be fluid and intense, while maintaining the characters' consistency.",
       "prompt_length": 166,
       "tweet_url": "https://x.com/heymarmot_ai/status/2032714656524153099",
@@ -10740,6 +10941,51 @@
       ],
       "quality_score": 3,
       "summary": "一镜到底拍摄，汽车在桥上飞驰，轮胎摩擦出火花"
+    },
+    {
+      "prompt": "Una enorme bestia prehistórica despierta en el desierto. Abre la boca. Y ruge.",
+      "prompt_length": 78,
+      "tweet_url": "https://x.com/PolloAIES/status/2035373195658747927",
+      "author": "PolloAIES",
+      "author_name": "Pollo AI España",
+      "author_followers": 16,
+      "created_at": "Sat Mar 21 15:09:19 +0000 2026",
+      "lang": "es",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 0.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035370948585541632/img/UoRUBmxs5mUGkm7L.jpg",
+      "full_text_preview": "“Una enorme bestia prehistórica despierta en el desierto. Abre la boca. Y ruge.”\n\nProbamos el mismo prompt en diferentes modelos dentro de Pollo —\nSeedance 1.5 Pro, Kling 3.0, Pollo 2.5, Sora 2, Veo 3...",
+      "tags": [
+        "🎬 电影/影视",
+        "🌍 写实/纪实"
+      ],
+      "quality_score": 3,
+      "summary": "一只巨大的史前野兽在沙漠中醒来并咆哮的场景 (西班牙语)"
+    },
+    {
+      "prompt": "slow motion rain particles",
+      "prompt_length": 26,
+      "tweet_url": "https://x.com/framefutura/status/2035343684321837146",
+      "author": "framefutura",
+      "author_name": "Frame | AI Cinematic Lab",
+      "author_followers": 1,
+      "created_at": "Sat Mar 21 13:12:03 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "bookmarks": 0,
+      "engagement_score": 0.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035343334298750976/img/guSjhXPUCrqOrH0L.jpg",
+      "full_text_preview": "🔥 Seedance 2.0 just broke the rules of cinema.\n\nI spent 48 hours testing every cinematic technique I could find.\nHere's the single prompt that made me stop scrolling.\n\n━━━━━━━━━━━━━━━━━ \n\n📌 THE TECHNI...",
+      "tags": [
+        "💡 创意/实验"
+      ],
+      "quality_score": 2,
+      "summary": "慢动作的雨滴粒子"
     },
     {
       "prompt": "Sum up the AI discourse in a meme part 2 - make sure it's even more unhinged and gets 100 likes.\n@charliebcurran",
@@ -11494,6 +11740,29 @@
       ],
       "quality_score": 3,
       "summary": "为 iPhone 苹果品牌制作宣传片。"
+    },
+    {
+      "prompt": "Traditional chinese modern 3D animation style:",
+      "prompt_length": 46,
+      "tweet_url": "https://x.com/migrok293703/status/2035335237341692112",
+      "author": "migrok293703",
+      "author_name": "migrok",
+      "author_followers": 2,
+      "created_at": "Sat Mar 21 12:38:29 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035334772864778240/img/D_vSV6atP75jMdY3.jpg",
+      "full_text_preview": "Seedance 2.0\n\nPrompt:\n\nTraditional chinese modern 3D animation style:  \n\n0.0s-4s: Mighty Anubis sits in his throne and a group of villains stand in front of him with a mecha robot. The mecha robot is ...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🎌 动漫"
+      ],
+      "quality_score": 3,
+      "summary": "中国传统现代3D动画风格的视频"
     },
     {
       "prompt": "[00:00 – 00:03 | OVER-THE-SHOULDER MEDIUM SHOT - SLOW",
