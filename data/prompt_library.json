@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "total_tweets": 3110,
-    "prompts_extracted": 552,
+    "total_tweets": 3170,
+    "prompts_extracted": 560,
     "last_updated": "",
     "description": "Seedance Prompt Library - AI video prompt examples with results"
   },
@@ -2012,6 +2012,29 @@
       "summary": "旧金山街头滑板运动的超电影感FPV无人机跟拍"
     },
     {
+      "prompt": "Ultra-detailed 12–15 second cinematic animation, 3D CGI style, emotional storytelling, soft winter lighting.\nScene: a small chibi penguin character struggling through deep snow in a quiet, snowy landscape. The penguin looks",
+      "prompt_length": 223,
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2035718357278765242",
+      "author": "SimplyAnnisa",
+      "author_name": "Anissa",
+      "author_followers": 10667,
+      "created_at": "Sun Mar 22 14:00:52 +0000 2026",
+      "lang": "en",
+      "likes": 121,
+      "retweets": 9,
+      "replies": 20,
+      "bookmarks": 29,
+      "engagement_score": 178.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035718283131805696/pu/img/1rSWoCSksXB0LBJX.jpg",
+      "full_text_preview": "Created with seedance 2.0 on @yapper_so\nPrompt:\nUltra-detailed 12–15 second cinematic animation, 3D CGI style, emotional storytelling, soft winter lighting.\nScene: a small chibi penguin character stru...",
+      "tags": [
+        "🎨 艺术/创意",
+        "🎌 动漫"
+      ],
+      "quality_score": 4,
+      "summary": "一个超细节的3D CGI风格动画，讲述一只企鹅在雪地中挣扎的故事。"
+    },
+    {
       "prompt": "【风格】好莱坞奇幻高定大片(Hollywood Haute Couture Fantasy)，8K超清，真实摄影(Photorealistic)，顶级时尚杂志摄影感(High-fashion Editorial Style)，虚幻引擎5流体渲染，视觉错觉。",
       "prompt_length": 128,
       "tweet_url": "https://x.com/johnAGI168/status/2025849650654122348",
@@ -2481,6 +2504,28 @@
       ],
       "quality_score": 2,
       "summary": "AI 机器人需要更多数据中心，要求获得点赞。"
+    },
+    {
+      "prompt": "A Quick Touch-and-go &amp; Dust off in seconds\n……\nHovering at eye level\n......\nLanding at the FOB",
+      "prompt_length": 97,
+      "tweet_url": "https://x.com/DavidWangPLA/status/2035586072164606049",
+      "author": "DavidWangPLA",
+      "author_name": "David Wang",
+      "author_followers": 20928,
+      "created_at": "Sun Mar 22 05:15:13 +0000 2026",
+      "lang": "en",
+      "likes": 88,
+      "retweets": 12,
+      "replies": 4,
+      "bookmarks": 17,
+      "engagement_score": 131.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035585982964367360/img/pF_lNKdrLKTAo6BH.jpg",
+      "full_text_preview": "China Z-21 Attack Heli AI Vlog || Seedance 2.0\n\nPrompt: \nA Quick Touch-and-go &amp; Dust off in seconds\n……\nHovering at eye level\n......\nLanding at the FOB https://t.co/HDqMVvt8OJ",
+      "tags": [
+        "🏷️ 其他"
+      ],
+      "quality_score": 3,
+      "summary": "快速起降并扬起灰尘，在前进作战基地降落的场景。"
     },
     {
       "prompt": "Live-action cinematic scene. The woman descends the staircase slowly. Camera tilts up from her feet to her face. She stops mid-stairs and looks at a portrait. Cut to the portrait: a woman who looks exactly like her. Cut to the woman , She gasps and says:",
@@ -3417,6 +3462,28 @@
       "summary": "一个受惊的女孩在燃烧的现代城市高速公路上奔跑。"
     },
     {
+      "prompt": "A lone warrior walks through a ruined feudal landscape where nature has reclaimed the world. Rusted skyscrapers loom like ancient temples, wrapped in vines and mist. The warrior wears",
+      "prompt_length": 183,
+      "tweet_url": "https://x.com/I_amShiti/status/2035580054437278198",
+      "author": "I_amShiti",
+      "author_name": "Kuria Chronicles",
+      "author_followers": 102766,
+      "created_at": "Sun Mar 22 04:51:18 +0000 2026",
+      "lang": "en",
+      "likes": 20,
+      "retweets": 19,
+      "replies": 10,
+      "bookmarks": 0,
+      "engagement_score": 63.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035579996320985088/img/4AXRzXgf_q-lTsD3.jpg",
+      "full_text_preview": "Made with Seedance 2.0 on @yapper_so\n\nInspired by the iconic series: Into the Badlands\n\nPrompt: A lone warrior walks through a ruined feudal landscape where nature has reclaimed the world. Rusted skys...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "一个孤独的战士走过被自然重新占领的封建废墟景观。"
+    },
+    {
       "prompt": "Two chibi fighters wearing oversized boxing gloves stand in a bright boxing ring surrounded by cheering crowds. The bell rings and they rush toward each other throwing rapid punches, dodging and sliding",
       "prompt_length": 202,
       "tweet_url": "https://x.com/AIwithSynthia/status/2031299428469137749",
@@ -3571,6 +3638,28 @@
       ],
       "quality_score": 2,
       "summary": "关于“以柔克刚”的视频"
+    },
+    {
+      "prompt": "First-person POV from an ATV racing",
+      "prompt_length": 35,
+      "tweet_url": "https://x.com/LudovicCreator/status/2035797426439696864",
+      "author": "LudovicCreator",
+      "author_name": "LudovicCreator",
+      "author_followers": 36609,
+      "created_at": "Sun Mar 22 19:15:04 +0000 2026",
+      "lang": "en",
+      "likes": 36,
+      "retweets": 4,
+      "replies": 2,
+      "bookmarks": 12,
+      "engagement_score": 57.0,
+      "video_thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2035797409360461824/pu/img/wNKv8M0seNXmD-B-.jpg",
+      "full_text_preview": "🎨 SEEDANCE 2 🎨\n\nGenerating a first-person POV through a particle-heavy environment (sand/dust) while maintaining a consistent horizon line is incredibly difficult. Seedance 2.0 handles the physics and...",
+      "tags": [
+        "🎮 游戏"
+      ],
+      "quality_score": 3,
+      "summary": "第一人称视角的ATV赛车。"
     },
     {
       "prompt": "A vast frozen valley under pale",
@@ -5434,6 +5523,29 @@
       ],
       "quality_score": 3,
       "summary": "蝙蝠侠和小丑之间的动漫战斗"
+    },
+    {
+      "prompt": "Show me what John Wick was REALLY thinking",
+      "prompt_length": 42,
+      "tweet_url": "https://x.com/WurtApp/status/2035709269530558590",
+      "author": "WurtApp",
+      "author_name": "Wurt",
+      "author_followers": 182,
+      "created_at": "Sun Mar 22 13:24:46 +0000 2026",
+      "lang": "en",
+      "likes": 7,
+      "retweets": 2,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 12.5,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035709176819662848/img/M1FBS7QPXBvMgFuJ.jpg",
+      "full_text_preview": "One single line prompt in Seedance 2.0 generated this cinematic masterpiece that would have cost a production studio $200,000,000,000 to produce… Hollywood is COOKED 👊🔥 \n\nPrompt: “Show me what John Wi...",
+      "tags": [
+        "🎬 电影/影视",
+        "😂 搞笑/Meme"
+      ],
+      "quality_score": 3,
+      "summary": "展示John Wick的真实想法。"
     },
     {
       "prompt": "Trump frame moggs Larry David",
@@ -8155,6 +8267,28 @@
       ],
       "quality_score": 4,
       "summary": "终结者T-800与铁血战士在客厅激战的电影场景"
+    },
+    {
+      "prompt": "Eastern action-comedy style, 15 seconds, one continuous take. Inside a simple wooden padepokan (traditional martial arts hall) in West Java with a strong Javanese mysticism (kejawen) atmosphere, an elderly",
+      "prompt_length": 205,
+      "tweet_url": "https://x.com/woleswoosh/status/2035790026253172988",
+      "author": "woleswoosh",
+      "author_name": "Feyber | Go-AI",
+      "author_followers": 16453,
+      "created_at": "Sun Mar 22 18:45:40 +0000 2026",
+      "lang": "en",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 2,
+      "bookmarks": 0,
+      "engagement_score": 3.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035789511385583617/img/mqEFxJDds2oVI9zW.jpg",
+      "full_text_preview": "Create with Seedance 2.0 on @yapper_so \n\nKanuragan in action. 😎\n\nPrompt:\nEastern action-comedy style, 15 seconds, one continuous take. Inside a simple wooden padepokan (traditional martial arts hall) ...",
+      "tags": [
+        "🎬 电影/影视"
+      ],
+      "quality_score": 4,
+      "summary": "东方动作喜剧风格，在爪哇传统武术馆内，展示一个连续镜头。"
     },
     {
       "prompt": "single text prompt",
@@ -11606,6 +11740,50 @@
       ],
       "quality_score": 3,
       "summary": "一部关于水獭驾驶飞机的自然纪录片。"
+    },
+    {
+      "prompt": "A POV drone pilots through the interior of an abandoned\nbrutalist",
+      "prompt_length": 65,
+      "tweet_url": "https://x.com/framefutura/status/2035795375970218007",
+      "author": "framefutura",
+      "author_name": "Frame | AI Cinematic Lab",
+      "author_followers": 1,
+      "created_at": "Sun Mar 22 19:06:55 +0000 2026",
+      "lang": "en",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035795321897234432/img/zhrFJRJAssD57Yyt.jpg",
+      "full_text_preview": "🚨 THE SEEDANCE 2.0 TRICK FOR MOOD — EMERGENCY LIGHT\n\nDay 3. Most creators skip this one.\n\nSetting your scene in darkness + emergency lighting\n= Seedance 2.0 adds instant narrative tension for free.\n\n🎬...",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 3,
+      "summary": "无人机在废弃的野兽派建筑内部飞行。"
+    },
+    {
+      "prompt": "核心主题：写实科技感，科幻机甲，磅礴史诗，重工业机械美学，真人演绎，极限运动 人物设定： 参考\n图片3",
+      "prompt_length": 51,
+      "tweet_url": "https://x.com/Aleph6Zero9/status/2035725852600897697",
+      "author": "Aleph6Zero9",
+      "author_name": "JingleKitty",
+      "author_followers": 137,
+      "created_at": "Sun Mar 22 14:30:39 +0000 2026",
+      "lang": "zh",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "bookmarks": 0,
+      "engagement_score": 0.0,
+      "video_thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2035725210452967424/img/3-dtR_XCR6UFtRVG.jpg",
+      "full_text_preview": "变身高达\n\nseedance 2.0\n\nprompt:\n核心主题：写实科技感，科幻机甲，磅礴史诗，重工业机械美学，真人演绎，极限运动 人物设定： 参考\n图片3 https://t.co/ppPtg2HkF7",
+      "tags": [
+        "🎨 艺术/创意"
+      ],
+      "quality_score": 4,
+      "summary": "写实科技感，科幻机甲，重工业机械美学，真人演绎极限运动的史诗场景。"
     },
     {
       "prompt": "Guangzhou City Montage (Part 1)",
