@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-779-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-04-01-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-793-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-04-02-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,9 +12,9 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **779** |
-| Languages | en: 656, zh: 91, es: 7, ja: 7, tr: 6 |
-| Last Updated | 2026-04-01 |
+| Total Prompts | **793** |
+| Languages | en: 670, zh: 91, es: 7, ja: 7, tr: 6 |
+| Last Updated | 2026-04-02 |
 
 ## 🏷️ Categories
 
