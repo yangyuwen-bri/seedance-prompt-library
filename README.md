@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-1375-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-04-25-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-1396-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-04-26-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,9 +12,9 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **1375** |
-| Languages | en: 1181, zh: 118, ja: 33, es: 14, tr: 10 |
-| Last Updated | 2026-04-25 |
+| Total Prompts | **1396** |
+| Languages | en: 1202, zh: 118, ja: 33, es: 14, tr: 10 |
+| Last Updated | 2026-04-26 |
 
 ## 🏷️ Categories
 
@@ -111,7 +111,17 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 
 ---
 
-### #8 ❤️ 2801 | 😂 搞笑/Meme
+### #8 ❤️ 1795 | 
+```
+[STYLE]
+Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout,
+```
+
+[![Video](https://pbs.twimg.com/ext_tw_video_thumb/2048243642536730624/pu/img/2Q44TMVLn7meGX-Y.jpg)](https://x.com/oggii_0/status/2048243683057897890)
+
+---
+
+### #9 ❤️ 2801 | 😂 搞笑/Meme
 > 拉里·大卫因为使用 Seedance 2 惹麻烦，要求制作低智商且能获得点赞的视频。
 
 ```
@@ -122,7 +132,7 @@ Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and
 
 ---
 
-### #9 ❤️ 3275 | 🌍 写实/纪实
+### #10 ❤️ 3275 | 🌍 写实/纪实
 > Kimi对GenAI视频模型市场进行全面分析，重点关注领先的参与者。
 
 ```
@@ -130,17 +140,6 @@ I asked Kimi to conduct a comprehensive analysis of the GenAI video model market
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2021128264513937408/img/rIMAQ6byxiZW9yS6.jpg)](https://x.com/crystalsssup/status/2021128641917354475)
-
----
-
-### #10 ❤️ 3198 | 🎬 电影/影视
-> 快节奏的电影场景，手持摄像机，女人发现飞行员消失了，赶紧控制飞机，切换到外部镜头显示她在驾驶舱内控制。
-
-```
-fast action movie scene, hand-held camera, the woman notices the pilots have disappeared and races to take control of the plane, cut to outside shot showing her inside the cockpit at the controls
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2020888550791659520/img/QfKNmFjSe_YEwtla.jpg)](https://x.com/janekm/status/2020888750285332526)
 
 ---
 
