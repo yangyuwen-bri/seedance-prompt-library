@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-1969-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-05-11-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-2024-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-05-12-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,9 +12,9 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **1969** |
-| Languages | en: 1756, zh: 126, ja: 39, es: 15, tr: 12 |
-| Last Updated | 2026-05-11 |
+| Total Prompts | **2024** |
+| Languages | en: 1810, zh: 126, ja: 39, es: 15, tr: 13 |
+| Last Updated | 2026-05-12 |
 
 ## 🏷️ Categories
 
@@ -67,7 +67,16 @@ Punch the Monkey punches back. Make the girls proud.
 
 ---
 
-### #4 ❤️ 11815 | 🎨 艺术/创意
+### #4 ❤️ 9417 | 
+```
+Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a dark brown sleeveless high-neck satin top and black square earrings, shoulder-length light
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2054056286145396737/img/Esfl0NWCACLJo5CD.jpg)](https://x.com/Ciri_ai/status/2054056372321587555)
+
+---
+
+### #5 ❤️ 11815 | 🎨 艺术/创意
 > 将整个场景的每一帧都转换为奥术动画的艺术风格。
 
 ```
@@ -78,7 +87,7 @@ change every frame in the entire scene to match the art style of the arcane anim
 
 ---
 
-### #5 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
+### #6 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
 > 在屏幕上随意堆砌内容，包括一艘大船，所有东西都爆炸，要求疯狂并获得至少50个赞。
 
 ```
@@ -89,7 +98,7 @@ just toss a bunch of bullshit on screen, show me like a big ship too, everything
 
 ---
 
-### #6 ❤️ 5437 | 📺 广告/商业
+### #7 ❤️ 5437 | 📺 广告/商业
 > 高质量的女性洗发水广告。
 
 ```
@@ -100,7 +109,16 @@ a high quality shampoo ad for women
 
 ---
 
-### #7 ❤️ 4051 | 🎬 电影/影视
+### #8 ❤️ 2420 | 
+```
+A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2054177676366405632/img/bFzEsovkqfQ3CgC0.jpg)](https://x.com/Sairah_0/status/2054177744419000812)
+
+---
+
+### #9 ❤️ 4051 | 🎬 电影/影视
 > 实景电影片段，一位年轻女子穿着奢华的黑色两件式泳衣从左边进入场景（在房子里），并拉上窗帘。
 
 ```
@@ -111,35 +129,13 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 
 ---
 
-### #8 ❤️ 1795 | 
+### #10 ❤️ 1795 | 
 ```
 [STYLE]
 Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout,
 ```
 
 [![Video](https://pbs.twimg.com/ext_tw_video_thumb/2048243642536730624/pu/img/2Q44TMVLn7meGX-Y.jpg)](https://x.com/oggii_0/status/2048243683057897890)
-
----
-
-### #9 ❤️ 2801 | 😂 搞笑/Meme
-> 拉里·大卫因为使用 Seedance 2 惹麻烦，要求制作低智商且能获得点赞的视频。
-
-```
-Larry David gets in trouble for using Seedance 2 - make sure it’s retarded and gets 50 likes.
-```
-
-[![Video](https://pbs.twimg.com/media/HBOZWxZaMAADMBP.jpg)](https://x.com/charliebcurran/status/2023129113549328497)
-
----
-
-### #10 ❤️ 3275 | 🌍 写实/纪实
-> Kimi对GenAI视频模型市场进行全面分析，重点关注领先的参与者。
-
-```
-I asked Kimi to conduct a comprehensive analysis of the GenAI video model market, focusing on leading players (e.g., Seedance 2.0, Sora, Kling, Veo, Luma).
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2021128264513937408/img/rIMAQ6byxiZW9yS6.jpg)](https://x.com/crystalsssup/status/2021128641917354475)
 
 ---
 
