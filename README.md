@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-3003-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-06-20-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-3037-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-06-21-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,9 +12,9 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **3003** |
-| Languages | en: 2714, zh: 173, ja: 46, es: 24, tr: 18 |
-| Last Updated | 2026-06-20 |
+| Total Prompts | **3037** |
+| Languages | en: 2745, zh: 175, ja: 47, es: 24, tr: 18 |
+| Last Updated | 2026-06-21 |
 
 ## 🏷️ Categories
 
@@ -34,7 +34,16 @@
 
 ## 🔥 Top 10 Prompts
 
-### #1 ❤️ 19197 | 🎌 动漫 😂 搞笑/Meme
+### #1 ❤️ 29214 | 
+```
+The kittens with mittens start dancing and singing “we’re kittens with mittens” with joyful, energetic movements and playful expressions.
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2068748005579108352/img/7_sXRpv2d-A3dfkq.jpg)](https://x.com/elonmusk/status/2068748080623604004)
+
+---
+
+### #2 ❤️ 19197 | 🎌 动漫 😂 搞笑/Meme
 > 路飞在千阳号上用Macbook编程，暴怒后将其扔下船。
 
 ```
@@ -45,7 +54,7 @@ Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overbo
 
 ---
 
-### #2 ❤️ 17641 | 😂 搞笑/Meme 📺 广告/商业
+### #3 ❤️ 17641 | 😂 搞笑/Meme 📺 广告/商业
 > Waffle House的普通轮班，要求内容滑稽并获得50个赞。
 
 ```
@@ -56,7 +65,7 @@ An average shift at Waffle House - make sure it's retarded and gets 50 likes.
 
 ---
 
-### #3 ❤️ 12979 | 😂 搞笑/Meme
+### #4 ❤️ 12979 | 😂 搞笑/Meme
 > 猴子反击，让女孩们骄傲（内容模糊）
 
 ```
@@ -67,7 +76,7 @@ Punch the Monkey punches back. Make the girls proud.
 
 ---
 
-### #4 ❤️ 9417 | 
+### #5 ❤️ 9417 | 
 ```
 Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed football stadium crowd during a night match, wearing a dark brown sleeveless high-neck satin top and black square earrings, shoulder-length light
 ```
@@ -76,7 +85,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 ---
 
-### #5 ❤️ 11815 | 🎨 艺术/创意
+### #6 ❤️ 11815 | 🎨 艺术/创意
 > 将整个场景的每一帧都转换为奥术动画的艺术风格。
 
 ```
@@ -87,7 +96,7 @@ change every frame in the entire scene to match the art style of the arcane anim
 
 ---
 
-### #6 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
+### #7 ❤️ 9457 | 😂 搞笑/Meme 💡 创意/实验
 > 在屏幕上随意堆砌内容，包括一艘大船，所有东西都爆炸，要求疯狂并获得至少50个赞。
 
 ```
@@ -98,7 +107,7 @@ just toss a bunch of bullshit on screen, show me like a big ship too, everything
 
 ---
 
-### #7 ❤️ 5437 | 📺 广告/商业
+### #8 ❤️ 5437 | 📺 广告/商业
 > 高质量的女性洗发水广告。
 
 ```
@@ -109,7 +118,7 @@ a high quality shampoo ad for women
 
 ---
 
-### #8 ❤️ 2420 | 
+### #9 ❤️ 2420 | 
 ```
 A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with
 ```
@@ -118,7 +127,7 @@ A high-definition, realistic broadcast shot of a young woman sitting in a crowde
 
 ---
 
-### #9 ❤️ 4051 | 🎬 电影/影视
+### #10 ❤️ 4051 | 🎬 电影/影视
 > 实景电影片段，一位年轻女子穿着奢华的黑色两件式泳衣从左边进入场景（在房子里），并拉上窗帘。
 
 ```
@@ -126,16 +135,6 @@ Live-action cinematic sequence. Another young woman, wearing a luxurious black t
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2021498687604539392/img/73mG7XV3d1SikVVF.jpg)](https://x.com/maxescu/status/2021499209749233943)
-
----
-
-### #10 ❤️ 1795 | 
-```
-[STYLE]
-Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout,
-```
-
-[![Video](https://pbs.twimg.com/ext_tw_video_thumb/2048243642536730624/pu/img/2Q44TMVLn7meGX-Y.jpg)](https://x.com/oggii_0/status/2048243683057897890)
 
 ---
 
