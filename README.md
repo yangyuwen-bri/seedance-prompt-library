@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-3037-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-06-21-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-3075-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-06-22-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,9 +12,9 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **3037** |
-| Languages | en: 2745, zh: 175, ja: 47, es: 24, tr: 18 |
-| Last Updated | 2026-06-21 |
+| Total Prompts | **3075** |
+| Languages | en: 2780, zh: 177, ja: 48, es: 24, tr: 18 |
+| Last Updated | 2026-06-22 |
 
 ## 🏷️ Categories
 
@@ -107,7 +107,16 @@ just toss a bunch of bullshit on screen, show me like a big ship too, everything
 
 ---
 
-### #8 ❤️ 5437 | 📺 广告/商业
+### #8 ❤️ 4268 | 
+```
+build a really high quality single html file crossy road game with three.js
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2068961820782514176/img/3EUKgKaRn4klXzFN.jpg)](https://x.com/markksantos/status/2068962823007285628)
+
+---
+
+### #9 ❤️ 5437 | 📺 广告/商业
 > 高质量的女性洗发水广告。
 
 ```
@@ -118,23 +127,12 @@ a high quality shampoo ad for women
 
 ---
 
-### #9 ❤️ 2420 | 
+### #10 ❤️ 2420 | 
 ```
 A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2054177676366405632/img/bFzEsovkqfQ3CgC0.jpg)](https://x.com/Sairah_0/status/2054177744419000812)
-
----
-
-### #10 ❤️ 4051 | 🎬 电影/影视
-> 实景电影片段，一位年轻女子穿着奢华的黑色两件式泳衣从左边进入场景（在房子里），并拉上窗帘。
-
-```
-Live-action cinematic sequence. Another young woman, wearing a luxurious black two-piece bathing suit, enters the scene from the left (inside the house) and closes the drapes as they float in the gentle
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2021498687604539392/img/73mG7XV3d1SikVVF.jpg)](https://x.com/maxescu/status/2021499209749233943)
 
 ---
 
