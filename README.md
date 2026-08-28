@@ -3,8 +3,8 @@
 > A curated collection of high-quality **Seedance AI video prompts** with real video results, scraped from Twitter/X.
 
 [![Daily Update](https://github.com/yangyuwen-bri/seedance-prompt-library/actions/workflows/daily.yml/badge.svg)](https://github.com/yangyuwen-bri/seedance-prompt-library/actions)
-[![Prompts](https://img.shields.io/badge/prompts-5376-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026-08-27-green)]()
+[![Prompts](https://img.shields.io/badge/prompts-5439-blue)]()
+[![Last Updated](https://img.shields.io/badge/updated-2026-08-28-green)]()
 
 ### 👉 [Browse the Interactive Gallery](https://promptlib.miemieweaver.com)
 
@@ -12,9 +12,9 @@
 
 | Metric | Value |
 |---|---|
-| Total Prompts | **5376** |
-| Languages | en: 4817, zh: 376, ja: 85, es: 32, tr: 24 |
-| Last Updated | 2026-08-27 |
+| Total Prompts | **5439** |
+| Languages | en: 4875, zh: 380, ja: 85, es: 32, tr: 24 |
+| Last Updated | 2026-08-28 |
 
 ## 🏷️ Categories
 
@@ -116,7 +116,16 @@ build a really high quality single html file crossy road game with three.js
 
 ---
 
-### #9 ❤️ 5437 | 📺 广告/商业
+### #9 ❤️ 4188 | 
+```
+Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image.
+```
+
+[![Video](https://pbs.twimg.com/amplify_video_thumb/2092971132026753024/img/DunzG19QkOpkVOtv.jpg)](https://x.com/AIwithkhan/status/2092971211169100048)
+
+---
+
+### #10 ❤️ 5437 | 📺 广告/商业
 > 高质量的女性洗发水广告。
 
 ```
@@ -124,15 +133,6 @@ a high quality shampoo ad for women
 ```
 
 [![Video](https://pbs.twimg.com/amplify_video_thumb/2021631102159659008/img/b-l3slMkx1jkPONh.jpg)](https://x.com/markgadala/status/2021631203473084655)
-
----
-
-### #10 ❤️ 2420 | 
-```
-A high-definition, realistic broadcast shot of a young woman sitting in a crowded football stadium during a Real Madrid vs. Barcelona match. She has long, straight black hair, pale skin with light freckles, and striking blue eyes with
-```
-
-[![Video](https://pbs.twimg.com/amplify_video_thumb/2054177676366405632/img/bFzEsovkqfQ3CgC0.jpg)](https://x.com/Sairah_0/status/2054177744419000812)
 
 ---
 
