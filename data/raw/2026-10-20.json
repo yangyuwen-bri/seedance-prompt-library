@@ -1,0 +1,46 @@
+[
+  {
+    "id": "",
+    "url": "",
+    "text": "",
+    "createdAt": "",
+    "lang": "",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "",
+      "name": "",
+      "followers": 0,
+      "isBlueVerified": false
+    },
+    "media": []
+  },
+  {
+    "id": "",
+    "url": "",
+    "text": "",
+    "createdAt": "",
+    "lang": "",
+    "likeCount": 0,
+    "retweetCount": 0,
+    "replyCount": 0,
+    "quoteCount": 0,
+    "bookmarkCount": 0,
+    "isQuote": false,
+    "isReply": false,
+    "isRetweet": false,
+    "author": {
+      "userName": "",
+      "name": "",
+      "followers": 0,
+      "isBlueVerified": false
+    },
+    "media": []
+  }
+]
